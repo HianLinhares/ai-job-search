@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "count": 10,
+    "page": 1
+  },
+  "results": [
+    {
+      "id": "4458936767",
+      "title": "Middle Software Engineer (Java)",
+      "company": "Exadel",
+      "companyUrl": "https://www.linkedin.com/company/exadel",
+      "location": "São Paulo, São Paulo, Brazil",
+      "date": "2026-08-28",
+      "url": "https://br.linkedin.com/jobs/view/middle-software-engineer-java-at-exadel-4458936767"
+    },
+    {
+      "id": "4446122466",
+      "title": "Desenvolvedor(a) Sênior - Back end Plataforma (Full Stack) - São Paulo SP",
+      "company": "MBRF",
+      "companyUrl": "https://br.linkedin.com/company/mbrf-global-foods-company",
+      "location": "São Paulo, São Paulo, Brazil",
+      "date": "2026-08-21",
+      "url": "https://br.linkedin.com/jobs/view/desenvolvedor-a-s%C3%AAnior-back-end-plataforma-full-stack-s%C3%A3o-paulo-sp-at-mbrf-4446122466"
+    },
+    {
+      "id": "4452514181",
+      "title": "Software Developer IV - Java/Spring (ERP) - 11601",
+      "company": "Senior Sistemas",
+      "companyUrl": "https://br.linkedin.com/company/senior-sistemas",
+      "location": "Blumenau, Santa Catarina, Brazil",
+      "date": "2026-08-17",
+      "url": "https://br.linkedin.com/jobs/view/software-developer-iv-java-spring-erp-11601-at-senior-sistemas-4452514181"
+    },
+    {
+      "id": "4456716294",
+      "title": "Pessoa Desenvolvedora Backend Pleno | C# .NET",
+      "company": "Webmotors",
+      "companyUrl": "https://www.linkedin.com/company/webmotors",
+      "location": "São Paulo, São Paulo, Brazil",
+      "date": "2026-08-20",
+      "url": "https://br.linkedin.com/jobs/view/pessoa-desenvolvedora-backend-pleno-c%23-net-at-webmotors-4456716294"
+    },
+    {
+      "id": "4455015571",
+      "title": "Desenvolvedor (a) .NET C#",
+      "company": "Infosys",
+      "companyUrl": "https://in.linkedin.com/company/infosys",
+      "location": "Cotia, São Paulo, Brazil",
+      "date": "2026-08-22",
+      "url": "https://br.linkedin.com/jobs/view/desenvolvedor-a-net-c%23-at-infosys-4455015571"
+    },
+    {
+      "id": "4458937753",
+      "title": "Senior Software Engineer (Java, AWS)",
+      "company": "Exadel",
+      "companyUrl": "https://www.linkedin.com/company/exadel",
+      "location": "São Paulo, São Paulo, Brazil",
+      "date": "2026-08-28",
+      "url": "https://br.linkedin.com/jobs/view/senior-software-engineer-java-aws-at-exadel-4458937753"
+    },
+    {
+      "id": "4435347096",
+      "title": "Desenvolvedor Django Sênior - Trabalho Remoto | REF#296618",
+      "company": "BairesDev",
+      "companyUrl": "https://www.linkedin.com/company/bairesdev",
+      "location": "Greater Rio de Janeiro",
+      "date": "2026-08-18",
+      "url": "https://br.linkedin.com/jobs/view/desenvolvedor-django-s%C3%AAnior-trabalho-remoto-ref%23296618-at-bairesdev-4435347096"
+    },
+    {
+      "id": "4454100194",
+      "title": "Senior Software Engineer Backend - Search Platform",
+      "company": "Mercado Livre Brasil",
+      "companyUrl": "https://br.linkedin.com/company/mercadolivre-com",
+      "location": "São Paulo, São Paulo, Brazil",
+      "date": "2026-08-20",
+      "url": "https://br.linkedin.com/jobs/view/senior-software-engineer-backend-search-platform-at-mercado-livre-brasil-4454100194"
+    },
+    {
+      "id": "4459047731",
+      "title": "Full Stack Developer (Go) - Remote Work | REF#295845",
+      "company": "BairesDev",
+      "companyUrl": "https://www.linkedin.com/company/bairesdev",
+      "location": "Greater Rio de Janeiro",
+      "date": "2026-08-25",
+      "url": "https://br.linkedin.com/jobs/view/full-stack-developer-go-remote-work-ref%23295845-at-bairesdev-4459047731"
+    },
+    {
+      "id": "4456944996",
+      "title": "Engenheiro de software",
+      "company": "Mercado Livre Brasil",
+      "companyUrl": "https://br.linkedin.com/company/mercadolivre-com",
+      "location": "Osasco, São Paulo, Brazil",
+      "date": "2026-08-25",
+      "url": "https://br.linkedin.com/jobs/view/engenheiro-de-software-at-mercado-livre-brasil-4456944996"
+    }
+  ]
+}

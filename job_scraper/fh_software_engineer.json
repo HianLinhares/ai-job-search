@@ -1,0 +1,730 @@
+{
+  "meta": {
+    "count": 20,
+    "page": 1,
+    "total": 303
+  },
+  "results": [
+    {
+      "id": "software-engineer-nimble-gravity-l3hw6gwe",
+      "title": "Software Engineer",
+      "company": "Nimble Gravity",
+      "company_slug": "nimble-gravity",
+      "location": "LATAM (Remote)",
+      "date": "2026-08-28T18:27:06Z",
+      "url": "https://job-boards.greenhouse.io/nimblegravity/jobs/4721959005?utm_source=freehire.me",
+      "work_mode": "remote",
+      "regions": [
+        "latam"
+      ],
+      "countries": [
+        "ar",
+        "bo",
+        "br",
+        "cl",
+        "co",
+        "cr",
+        "do",
+        "ec",
+        "gt",
+        "hn",
+        "mx",
+        "ni",
+        "pa",
+        "pe",
+        "py",
+        "sv",
+        "uy",
+        "ve"
+      ],
+      "skills": [
+        "agentic-ai",
+        "ai",
+        "anthropic",
+        "api",
+        "aws",
+        "azure",
+        "ci-cd",
+        "cloud",
+        "langchain",
+        "nextjs",
+        "postgresql",
+        "python",
+        "redis",
+        "saas",
+        "semantic-kernel",
+        "sql",
+        "sql-server",
+        "typescript",
+        "workflow-orchestration"
+      ],
+      "description": null
+    },
+    {
+      "id": "software-engineer-shippo-lfld42qn",
+      "title": "Software Engineer",
+      "company": "Shippo",
+      "company_slug": "shippo",
+      "location": "Brazil, BR",
+      "date": "2026-08-18T01:00:55Z",
+      "url": "https://echojobs.io/job/shippo-software-engineer-iii-labels-xturh?utm_source=freehire.me",
+      "work_mode": "remote",
+      "regions": [
+        "latam"
+      ],
+      "countries": [
+        "br"
+      ],
+      "skills": [
+        "ai",
+        "analytics",
+        "api",
+        "automation",
+        "aws",
+        "backbone",
+        "ci-cd",
+        "circleci",
+        "claude-code",
+        "cloud",
+        "data-analytics",
+        "devops",
+        "django",
+        "docker",
+        "dotnet",
+        "ec2",
+        "ecommerce",
+        "go",
+        "grpc",
+        "iam",
+        "java",
+        "lambda",
+        "microservices",
+        "mvc",
+        "oop",
+        "pagerduty",
+        "python",
+        "rails",
+        "ruby",
+        "sdlc",
+        "spring",
+        "sql",
+        "terraform",
+        "test-automation"
+      ],
+      "description": null
+    },
+    {
+      "id": "software-engineer-backend-java-softdesign-zmup272x",
+      "title": "Software Engineer Backend (Java)",
+      "company": "SoftDesign",
+      "company_slug": "softdesign",
+      "location": "Brasil",
+      "date": "2026-08-28T14:09:06Z",
+      "url": "https://softdesign.gupy.io/job/eyJqb2JJZCI6MTIzMjA4NjYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal&utm_source=freehire.me",
+      "work_mode": "remote",
+      "regions": [
+        "latam"
+      ],
+      "countries": [
+        "br"
+      ],
+      "skills": [
+        "angular",
+        "api",
+        "aws",
+        "ci-cd",
+        "cloud",
+        "design-patterns",
+        "dynatrace",
+        "ecs",
+        "git",
+        "grafana",
+        "java",
+        "jenkins",
+        "junit",
+        "kafka",
+        "kanban",
+        "kubernetes",
+        "mockito",
+        "nosql",
+        "opentelemetry",
+        "prometheus",
+        "react",
+        "scrum",
+        "spring",
+        "sqs"
+      ],
+      "description": null
+    },
+    {
+      "id": "software-engineer-java-softdesign-yhia6esl",
+      "title": "Software Engineer (Java)",
+      "company": "SoftDesign",
+      "company_slug": "softdesign",
+      "location": "Brasil",
+      "date": "2026-08-28T13:50:50Z",
+      "url": "https://softdesign.gupy.io/job/eyJqb2JJZCI6MTIzMjE1NDgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal&utm_source=freehire.me",
+      "work_mode": "remote",
+      "regions": [
+        "latam"
+      ],
+      "countries": [
+        "br"
+      ],
+      "skills": [
+        "active-directory",
+        "api",
+        "aws",
+        "ci-cd",
+        "cloud",
+        "iam",
+        "java",
+        "jwt",
+        "kafka",
+        "ldap",
+        "mongodb",
+        "oauth",
+        "sonarqube",
+        "spring",
+        "sql",
+        "xml"
+      ],
+      "description": null
+    },
+    {
+      "id": "software-engineer-java-jobgether-5ascxdx4",
+      "title": "Software Engineer (Java)",
+      "company": "jobgether",
+      "company_slug": "jobgether",
+      "location": "Brazil",
+      "date": "2026-08-28T03:53:42Z",
+      "url": "https://jobs.lever.co/jobgether/ea1e157d-e671-45fd-888d-746f01dc5148?utm_source=freehire.me",
+      "work_mode": "remote",
+      "regions": [
+        "latam"
+      ],
+      "countries": [
+        "br"
+      ],
+      "skills": [
+        "agile",
+        "ai",
+        "api",
+        "ci-cd",
+        "devops",
+        "git",
+        "java",
+        "jpa",
+        "junit",
+        "microservices",
+        "mockito",
+        "mongodb",
+        "observability",
+        "rest",
+        "spring",
+        "sql",
+        "test-automation"
+      ],
+      "description": null
+    },
+    {
+      "id": "software-engineer-nextjs-talents-bench-metaltoad-woevfx5a",
+      "title": "Software Engineer - NextJS [Talents Bench]",
+      "company": "metaltoad",
+      "company_slug": "metal-toad",
+      "location": null,
+      "date": "2026-08-28T00:00:00Z",
+      "url": "https://MetalToad.bamboohr.com/careers/574?utm_source=freehire.me",
+      "work_mode": "remote",
+      "regions": [],
+      "countries": [
+        "br"
+      ],
+      "skills": [
+        "ai",
+        "anthropic",
+        "api",
+        "aws",
+        "bdd",
+        "devops",
+        "generative-ai",
+        "git",
+        "javascript",
+        "json",
+        "nextjs",
+        "openai",
+        "react",
+        "rest",
+        "tdd",
+        "wireframing"
+      ],
+      "description": null
+    },
+    {
+      "id": "software-engineer-java-softdesign-yrjgdg7l",
+      "title": "Software Engineer (Java)",
+      "company": "SoftDesign",
+      "company_slug": "softdesign",
+      "location": "Brasil",
+      "date": "2026-08-27T16:42:34Z",
+      "url": "https://softdesign.gupy.io/job/eyJqb2JJZCI6MTIzMDI3MDcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal&utm_source=freehire.me",
+      "work_mode": "remote",
+      "regions": [
+        "latam"
+      ],
+      "countries": [
+        "br"
+      ],
+      "skills": [
+        "api",
+        "ci-cd",
+        "devops",
+        "git",
+        "java",
+        "jpa",
+        "junit",
+        "mockito",
+        "mongodb",
+        "spring",
+        "sql"
+      ],
+      "description": null
+    },
+    {
+      "id": "software-engineer-code-repository-licensing-gramian-mwyjzezb",
+      "title": "Software Engineer (Code Repository Licensing)",
+      "company": "Gramian",
+      "company_slug": "gramian",
+      "location": "Brazil",
+      "date": "2026-08-27T00:00:00Z",
+      "url": "https://apply.workable.com/j/9BD80BF385?utm_source=freehire.me",
+      "work_mode": "remote",
+      "regions": [
+        "eu",
+        "latam"
+      ],
+      "countries": [
+        "br",
+        "gr"
+      ],
+      "skills": [
+        "ai",
+        "git"
+      ],
+      "description": null
+    },
+    {
+      "id": "software-engineer-backend-jobgether-pdhagdpr",
+      "title": "Software Engineer (Backend)",
+      "company": "jobgether",
+      "company_slug": "jobgether",
+      "location": "Brazil",
+      "date": "2026-08-26T17:33:09Z",
+      "url": "https://jobs.lever.co/jobgether/498a0354-08ee-43c1-a0c8-903e51662e45?utm_source=freehire.me",
+      "work_mode": "remote",
+      "regions": [
+        "latam"
+      ],
+      "countries": [
+        "br"
+      ],
+      "skills": [
+        "ai",
+        "analytics",
+        "api",
+        "api-design",
+        "authentication",
+        "ci-cd",
+        "cloud",
+        "containerization",
+        "csharp",
+        "data-lineage",
+        "data-warehousing",
+        "distributed-systems",
+        "dotnet",
+        "gcp",
+        "java",
+        "kotlin",
+        "nodejs",
+        "observability",
+        "python",
+        "rest",
+        "spring"
+      ],
+      "description": null
+    },
+    {
+      "id": "software-engineer-backend-all-teams-brazil-vaga-exclusiva-para-pcd-doordash-brazil-zsvw7ob3",
+      "title": "Software Engineer, Backend (All teams) – Brazil – Vaga exclusiva para PCD",
+      "company": "DoorDash Brazil",
+      "company_slug": "doordash-brazil",
+      "location": "São Paulo, Brazil; São Paulo, Brasil",
+      "date": "2026-08-26T15:23:38Z",
+      "url": "https://job-boards.greenhouse.io/doordashinternational/jobs/7641133?utm_source=freehire.me",
+      "work_mode": "remote",
+      "regions": [
+        "latam"
+      ],
+      "countries": [
+        "br"
+      ],
+      "skills": [
+        "ai",
+        "api",
+        "claude-code",
+        "distributed-systems",
+        "event-driven-architecture",
+        "grpc",
+        "java",
+        "jvm",
+        "kotlin",
+        "microservices",
+        "rest"
+      ],
+      "description": null
+    },
+    {
+      "id": "software-engineer-backend-all-teams-brazil-vaga-para-mulheres-doordash-brazil-sj6iyilp",
+      "title": "Software Engineer, Backend (All teams) – Brazil – Vaga para mulheres",
+      "company": "DoorDash Brazil",
+      "company_slug": "doordash-brazil",
+      "location": "São Paulo, Brazil; São Paulo, Brasil",
+      "date": "2026-08-26T15:23:38Z",
+      "url": "https://job-boards.greenhouse.io/doordashinternational/jobs/7641129?utm_source=freehire.me",
+      "work_mode": "remote",
+      "regions": [
+        "latam"
+      ],
+      "countries": [
+        "br"
+      ],
+      "skills": [
+        "ai",
+        "api",
+        "claude-code",
+        "distributed-systems",
+        "event-driven-architecture",
+        "grpc",
+        "java",
+        "jvm",
+        "kotlin",
+        "microservices",
+        "rest"
+      ],
+      "description": null
+    },
+    {
+      "id": "software-engineer-java-pleno-dock-bhl4bkzm",
+      "title": "Software Engineer Java - Pleno",
+      "company": "Dock",
+      "company_slug": "dock",
+      "location": "Brazil",
+      "date": "2026-08-25T17:17:33Z",
+      "url": "https://br.whatjobs.com/pub_api__cpl__453384675__7076?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "work_mode": "remote",
+      "regions": [
+        "latam"
+      ],
+      "countries": [
+        "br"
+      ],
+      "skills": [
+        "aws",
+        "design-patterns",
+        "docker",
+        "java",
+        "jpa",
+        "linux",
+        "maven",
+        "mysql",
+        "nodejs",
+        "spring",
+        "ubuntu",
+        "vite",
+        "vue"
+      ],
+      "description": null
+    },
+    {
+      "id": "software-engineer-eaa-coinbase-jr5l75x6",
+      "title": "Software Engineer, EAA ",
+      "company": "Coinbase",
+      "company_slug": "coinbase",
+      "location": "Remote - Brazil",
+      "date": "2026-08-25T16:33:42Z",
+      "url": "https://www.coinbase.com/careers/positions/8100066?gh_jid=8100066&utm_source=freehire.me",
+      "work_mode": "remote",
+      "regions": [
+        "latam"
+      ],
+      "countries": [
+        "br"
+      ],
+      "skills": [
+        "ai",
+        "api",
+        "automation",
+        "aws",
+        "cloud",
+        "distributed-systems",
+        "etl",
+        "event-driven-architecture",
+        "generative-ai",
+        "go",
+        "graphql",
+        "grpc",
+        "kafka",
+        "kubernetes",
+        "nosql",
+        "observability",
+        "react",
+        "saas",
+        "sql",
+        "terraform"
+      ],
+      "description": null
+    },
+    {
+      "id": "software-engineer-enterprise-apps-coinbase-j4xfcdwo",
+      "title": "Software Engineer, Enterprise Apps",
+      "company": "Coinbase",
+      "company_slug": "coinbase",
+      "location": "Remote - Brazil",
+      "date": "2026-08-25T16:33:23Z",
+      "url": "https://www.coinbase.com/careers/positions/8024814?gh_jid=8024814&utm_source=freehire.me",
+      "work_mode": "remote",
+      "regions": [
+        "latam"
+      ],
+      "countries": [
+        "br"
+      ],
+      "skills": [
+        "ai",
+        "api",
+        "aws",
+        "ci-cd",
+        "event-driven-architecture",
+        "generative-ai",
+        "go",
+        "grpc",
+        "kafka",
+        "kubernetes",
+        "nosql",
+        "observability",
+        "saas",
+        "salesforce",
+        "sql",
+        "terraform"
+      ],
+      "description": null
+    },
+    {
+      "id": "software-engineer-data-analytics-tractian-pdge33aw",
+      "title": "Software Engineer - Data & Analytics",
+      "company": "Tractian",
+      "company_slug": "tractian",
+      "location": "São Paulo, BRA",
+      "date": "2026-08-24T18:28:41Z",
+      "url": "https://jobs.gem.com/tractian-technologies-inc-/am9icG9zdDowr0Q6LEWyLv_gDAnHulih?utm_source=freehire.me",
+      "work_mode": "remote",
+      "regions": [
+        "latam"
+      ],
+      "countries": [
+        "br"
+      ],
+      "skills": [
+        "agentic-ai",
+        "airflow",
+        "analytics",
+        "api",
+        "aws",
+        "bigquery",
+        "clickhouse",
+        "cloud",
+        "data-governance",
+        "data-modeling",
+        "data-pipelines",
+        "data-quality",
+        "data-science",
+        "data-warehousing",
+        "dbt",
+        "etl",
+        "llm",
+        "looker",
+        "mongodb",
+        "mysql",
+        "postgresql",
+        "powerbi",
+        "python",
+        "redshift",
+        "sql",
+        "statistics",
+        "tableau"
+      ],
+      "description": null
+    },
+    {
+      "id": "software-engineer-jr-celcoin-plyrm4w4",
+      "title": "Software Engineer Jr",
+      "company": "Celcoin",
+      "company_slug": "celcoin",
+      "location": "BR",
+      "date": "2026-08-24T13:45:10Z",
+      "url": "https://celcoin.inhire.app/vagas/bcf079a0-acf5-4aed-b940-8c4fc25c55b0/software-engineer-jr?utm_source=freehire.me",
+      "work_mode": "remote",
+      "regions": [
+        "latam"
+      ],
+      "countries": [
+        "br"
+      ],
+      "skills": [
+        "api",
+        "csharp",
+        "dotnet",
+        "json",
+        "mongodb",
+        "mvc",
+        "sql",
+        "sql-server"
+      ],
+      "description": null
+    },
+    {
+      "id": "software-engineer-wikidata-platform-wikimedia-pxydixar",
+      "title": "Software Engineer, Wikidata Platform",
+      "company": "wikimedia",
+      "company_slug": "wikimedia",
+      "location": "Remote",
+      "date": "2026-08-24T13:42:02Z",
+      "url": "https://job-boards.greenhouse.io/wikimedia/jobs/8060261?utm_source=freehire.me",
+      "work_mode": "remote",
+      "regions": [
+        "africa",
+        "apac",
+        "eu",
+        "latam",
+        "north_america",
+        "uk"
+      ],
+      "countries": [
+        "br",
+        "ca",
+        "ch",
+        "co",
+        "de",
+        "es",
+        "gb",
+        "gh",
+        "id",
+        "in",
+        "it",
+        "ke",
+        "ma",
+        "mx",
+        "nl",
+        "pl",
+        "sg",
+        "us",
+        "za"
+      ],
+      "skills": [
+        "api",
+        "automation",
+        "backbone",
+        "ci-cd",
+        "containerization",
+        "cpp",
+        "data-pipelines",
+        "distributed-systems",
+        "docker",
+        "flink",
+        "java",
+        "kafka",
+        "kubernetes",
+        "observability"
+      ],
+      "description": null
+    },
+    {
+      "id": "software-engineer-frontend-react-jobgether-blcxju4g",
+      "title": "Software Engineer FrontEnd React",
+      "company": "jobgether",
+      "company_slug": "jobgether",
+      "location": "Brazil",
+      "date": "2026-08-21T02:23:50Z",
+      "url": "https://jobs.lever.co/jobgether/52040678-85d0-44b3-8895-6a9366d5295d?utm_source=freehire.me",
+      "work_mode": "remote",
+      "regions": [
+        "latam"
+      ],
+      "countries": [
+        "br"
+      ],
+      "skills": [
+        "agile",
+        "ai",
+        "git",
+        "javascript",
+        "kanban",
+        "react",
+        "scrum",
+        "test-automation",
+        "version-control"
+      ],
+      "description": null
+    },
+    {
+      "id": "software-engineer-frontend-react-softdesign-xrnkrpux",
+      "title": "Software Engineer FrontEnd (React)",
+      "company": "SoftDesign",
+      "company_slug": "softdesign",
+      "location": "Brasil",
+      "date": "2026-08-20T18:36:50Z",
+      "url": "https://softdesign.gupy.io/job/eyJqb2JJZCI6MTIxOTkxMzgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal&utm_source=freehire.me",
+      "work_mode": "remote",
+      "regions": [
+        "latam"
+      ],
+      "countries": [
+        "br"
+      ],
+      "skills": [
+        "git",
+        "javascript",
+        "kanban",
+        "react",
+        "scrum"
+      ],
+      "description": null
+    },
+    {
+      "id": "pessoa-engenheira-de-software-senior-softdesign-iue4xygf",
+      "title": "Software Engineer Backend (Java)",
+      "company": "SoftDesign",
+      "company_slug": "softdesign",
+      "location": "Brasil",
+      "date": "2026-08-20T17:22:15Z",
+      "url": "https://softdesign.gupy.io/job/eyJqb2JJZCI6MTIxOTk5MzYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal&utm_source=freehire.me",
+      "work_mode": "remote",
+      "regions": [
+        "latam"
+      ],
+      "countries": [
+        "br"
+      ],
+      "skills": [
+        "api",
+        "git",
+        "java",
+        "kanban",
+        "oracle",
+        "scrum",
+        "sql"
+      ],
+      "description": null
+    }
+  ]
+}

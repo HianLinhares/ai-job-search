@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "count": 10,
+    "page": 1
+  },
+  "results": [
+    {
+      "id": "4455724967",
+      "title": "Desenvolvedor Júnior",
+      "company": "Jobbol",
+      "companyUrl": "https://br.linkedin.com/company/jobbol-empregos",
+      "location": "São Paulo, São Paulo, Brazil",
+      "date": "2026-08-18",
+      "url": "https://br.linkedin.com/jobs/view/desenvolvedor-j%C3%BAnior-at-jobbol-4455724967"
+    },
+    {
+      "id": "4459360990",
+      "title": "Desenvolvedor Júnior",
+      "company": "Jobbol",
+      "companyUrl": "https://br.linkedin.com/company/jobbol-empregos",
+      "location": "Belo Horizonte, Minas Gerais, Brazil",
+      "date": "2026-08-26",
+      "url": "https://br.linkedin.com/jobs/view/desenvolvedor-j%C3%BAnior-at-jobbol-4459360990"
+    },
+    {
+      "id": "4192502474",
+      "title": "Python Junior Developer - Remote Work | REF#283517",
+      "company": "BairesDev",
+      "companyUrl": "https://www.linkedin.com/company/bairesdev",
+      "location": "Joinville, Santa Catarina, Brazil",
+      "date": "2026-08-25",
+      "url": "https://br.linkedin.com/jobs/view/python-junior-developer-remote-work-ref%23283517-at-bairesdev-4192502474"
+    },
+    {
+      "id": "4457109654",
+      "title": "Desenvolvedor Python (Júnior) - Trabalho Remoto",
+      "company": "BairesDev",
+      "companyUrl": "https://www.linkedin.com/company/bairesdev",
+      "location": "Rio de Janeiro, Brazil",
+      "date": "2026-08-24",
+      "url": "https://br.linkedin.com/jobs/view/desenvolvedor-python-j%C3%BAnior-trabalho-remoto-at-bairesdev-4457109654"
+    },
+    {
+      "id": "4459362215",
+      "title": "Analista de desenvolvimento",
+      "company": "The Coffee",
+      "companyUrl": "https://br.linkedin.com/company/the-coffee-jp",
+      "location": "Curitiba, Paraná, Brazil",
+      "date": "2026-08-26",
+      "url": "https://br.linkedin.com/jobs/view/analista-de-desenvolvimento-at-the-coffee-4459362215"
+    },
+    {
+      "id": "4453810397",
+      "title": "DESENVOLVEDOR(A) DE SOFTWARE JUNIOR",
+      "company": "Global",
+      "companyUrl": "https://br.linkedin.com/company/global-hub-de-solucoes",
+      "location": "Joinville, Santa Catarina, Brazil",
+      "date": "2026-08-19",
+      "url": "https://br.linkedin.com/jobs/view/desenvolvedor-a-de-software-junior-at-global-4453810397"
+    },
+    {
+      "id": "4457797464",
+      "title": "Desenvolvedor(a) Júnior",
+      "company": "Qaracter Brasil",
+      "companyUrl": "https://br.linkedin.com/company/qaracterbrasil",
+      "location": "São Paulo, Brazil",
+      "date": "2026-08-27",
+      "url": "https://br.linkedin.com/jobs/view/desenvolvedor-a-j%C3%BAnior-at-qaracter-brasil-4457797464"
+    },
+    {
+      "id": "4459019797",
+      "title": "Desenvolvedor júnior",
+      "company": "Grupo Ultra Franquias",
+      "companyUrl": "https://br.linkedin.com/company/grupo-ultra-academias",
+      "location": "São Paulo, São Paulo, Brazil",
+      "date": "2026-08-25",
+      "url": "https://br.linkedin.com/jobs/view/desenvolvedor-j%C3%BAnior-at-grupo-ultra-franquias-4459019797"
+    },
+    {
+      "id": "4457649661",
+      "title": "Desenvolvedor Junior - São José do Rio Preto",
+      "company": "Sifra Group",
+      "companyUrl": "https://br.linkedin.com/company/gruposifra",
+      "location": "São José do Rio Preto, São Paulo, Brazil",
+      "date": "2026-08-25",
+      "url": "https://br.linkedin.com/jobs/view/desenvolvedor-junior-s%C3%A3o-jos%C3%A9-do-rio-preto-at-sifra-group-4457649661"
+    },
+    {
+      "id": "4458429241",
+      "title": "Desenvolvedor(a) Fullstack Java Júnior",
+      "company": "Nava | Tech for Business",
+      "companyUrl": "https://br.linkedin.com/company/nava-technology",
+      "location": "São Paulo, Brazil",
+      "date": "2026-08-28",
+      "url": "https://br.linkedin.com/jobs/view/desenvolvedor-a-fullstack-java-j%C3%BAnior-at-nava-tech-for-business-4458429241"
+    }
+  ]
+}

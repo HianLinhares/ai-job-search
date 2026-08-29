@@ -17,17 +17,18 @@ This repo is a job application workspace. Claude acts as a career advisor and ap
 
 ### Identity
 - **Name:** [YOUR_NAME]
-- **Location:** [YOUR_CITY], [YOUR_COUNTRY] ([YOUR_COMMUTE_CONSTRAINTS])
+- **Location:** Brasil (somente vagas **remotas**; presencial/híbrido fora do escopo)
 - **Languages:**
   | Language | Level |
   |----------|-------|
-  | [LANGUAGE] | [LEVEL] |
+  | Português | Nativo |
+  | Inglês | [LEVEL] |
   <!-- Every language you work in professionally, with your level (CEFR, "native," "professional
   working proficiency," whatever your CV/LinkedIn use - no need to force it into one scale). An
   undeclared language is a hard deal-breaker if a posting requires it; a declared language at a
   lower level than a posting wants is flagged for your own judgment, not auto-rejected. See
   04-job-evaluation.md's Language Gate. -->
-- **CV language:** [YOUR_CV_LANGUAGE] <!-- English unless your market expects otherwise; /setup asks -->
+- **CV language:** Português <!-- Ajuste com /setup se preferir inglês -->
 
 - **Status:** [YOUR_EMPLOYMENT_STATUS]
 - **LinkedIn headline:** "[YOUR_LINKEDIN_HEADLINE]"
@@ -84,6 +85,8 @@ This repo is a job application workspace. Claude acts as a career advisor and ap
 ### Deal-breakers
 <!-- Hard constraints on job search. Language requirements are handled separately and
 automatically from your Languages table above - don't duplicate them here. -->
+- Vagas presenciais ou híbridas (busca limitada a remoto no Brasil)
+- Realocação internacional obrigatória
 - [DEALBREAKER_1]
 - [DEALBREAKER_2]
 

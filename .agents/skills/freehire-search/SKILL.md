@@ -135,6 +135,12 @@ just returned only re-reads a description you already have.
 ## Usage examples
 
 ```bash
+# Vagas tech remotas no Brasil (padrão deste fork)
+bun run .agents/skills/freehire-search/cli/src/cli.ts search -q "desenvolvedor" --country BR --remote remote --jobage 14 --format table
+
+# Vagas tech no Brasil (LATAM), últimos 14 dias
+bun run .agents/skills/freehire-search/cli/src/cli.ts search -q "desenvolvedor" --country BR --region latam,none --jobage 14 --format table
+
 # Senior backend roles, table view
 bun run .agents/skills/freehire-search/cli/src/cli.ts search -q "backend engineer" --seniority senior --limit 10 --format table
 

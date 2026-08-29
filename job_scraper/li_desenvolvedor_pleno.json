@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "count": 10,
+    "page": 1
+  },
+  "results": [
+    {
+      "id": "4457371556",
+      "title": "Desenvolvimento Fullstack",
+      "company": "Capgemini",
+      "companyUrl": "https://fr.linkedin.com/company/capgemini",
+      "location": "Barueri, São Paulo, Brazil",
+      "date": "2026-08-21",
+      "url": "https://br.linkedin.com/jobs/view/desenvolvimento-fullstack-at-capgemini-4457371556"
+    },
+    {
+      "id": "4449310779",
+      "title": "Analista Desenvolvedor Pl",
+      "company": "Lenovo",
+      "companyUrl": "https://www.linkedin.com/company/lenovo",
+      "location": "Greater São Paulo Area",
+      "date": "2026-08-21",
+      "url": "https://br.linkedin.com/jobs/view/analista-desenvolvedor-pl-at-lenovo-4449310779"
+    },
+    {
+      "id": "4459086850",
+      "title": "Desenvolvedor Web Pleno",
+      "company": "Kalfe Calçados",
+      "companyUrl": "https://br.linkedin.com/company/kalfecalcados",
+      "location": "Sorocaba, São Paulo, Brazil",
+      "date": "2026-08-26",
+      "url": "https://br.linkedin.com/jobs/view/desenvolvedor-web-pleno-at-kalfe-cal%C3%A7ados-4459086850"
+    },
+    {
+      "id": "4456537402",
+      "title": "PROFISSIONAL DE DESENVOLVIMENTO DE SISTEMAS",
+      "company": "Tauste Supermercados",
+      "companyUrl": "https://br.linkedin.com/company/tauste-supermercados",
+      "location": "Sorocaba, São Paulo, Brazil",
+      "date": "2026-08-24",
+      "url": "https://br.linkedin.com/jobs/view/profissional-de-desenvolvimento-de-sistemas-at-tauste-supermercados-4456537402"
+    },
+    {
+      "id": "4455543884",
+      "title": "Desenvolvedor Fullstack",
+      "company": "Maxtrack",
+      "companyUrl": "https://br.linkedin.com/company/maxtrack",
+      "location": "Nova Lima, Minas Gerais, Brazil",
+      "date": "2026-08-18",
+      "url": "https://br.linkedin.com/jobs/view/desenvolvedor-fullstack-at-maxtrack-4455543884"
+    },
+    {
+      "id": "4457658734",
+      "title": "Desenvolvedor(a) Full Stack | Pleno",
+      "company": "Prolog App | Gestão de Frotas",
+      "companyUrl": "https://br.linkedin.com/company/prologapp",
+      "location": "Palhoça, Santa Catarina, Brazil",
+      "date": "2026-08-26",
+      "url": "https://br.linkedin.com/jobs/view/desenvolvedor-a-full-stack-pleno-at-prolog-app-gest%C3%A3o-de-frotas-4457658734"
+    },
+    {
+      "id": "4459605021",
+      "title": "Desenvolvedor de back end",
+      "company": "MBRAS",
+      "companyUrl": "https://br.linkedin.com/company/mbras-solu%C3%A7%C3%B5es-imobili%C3%A1rias",
+      "location": "São Paulo, São Paulo, Brazil",
+      "date": "2026-08-26",
+      "url": "https://br.linkedin.com/jobs/view/desenvolvedor-de-back-end-at-mbras-4459605021"
+    },
+    {
+      "id": "4455090554",
+      "title": "Desenvolvedor - Posições Abertas",
+      "company": "DTEL TELECOM",
+      "companyUrl": "https://br.linkedin.com/company/dtel-telecom",
+      "location": "Carpina, Pernambuco, Brazil",
+      "date": "2026-08-23",
+      "url": "https://br.linkedin.com/jobs/view/desenvolvedor-posi%C3%A7%C3%B5es-abertas-at-dtel-telecom-4455090554"
+    },
+    {
+      "id": "4458026632",
+      "title": "Desenvolvedor(a) Fullstack",
+      "company": "Capgemini",
+      "companyUrl": "https://fr.linkedin.com/company/capgemini",
+      "location": "São Paulo, Brazil",
+      "date": "2026-08-27",
+      "url": "https://br.linkedin.com/jobs/view/desenvolvedor-a-fullstack-at-capgemini-4458026632"
+    },
+    {
+      "id": "4458798139",
+      "title": "Desenvolvedor",
+      "company": "Termotubos Importação e Exportação",
+      "companyUrl": "https://br.linkedin.com/company/termotubos",
+      "location": "Itajaí, Santa Catarina, Brazil",
+      "date": "2026-08-16",
+      "url": "https://br.linkedin.com/jobs/view/desenvolvedor-at-termotubos-importa%C3%A7%C3%A3o-e-exporta%C3%A7%C3%A3o-4458798139"
+    }
+  ]
+}

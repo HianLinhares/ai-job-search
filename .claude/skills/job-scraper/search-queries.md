@@ -1,90 +1,138 @@
-# Search Queries for Job Scraper
+# Search Queries for Job Scraper — Brasil remoto
 
-<!-- SETUP: Customize these queries based on your skills, target roles, and location -->
+<!-- Escopo fixo: somente vagas REMOTAS no Brasil. -->
+
+## Configuração de mercado
+
+| Parâmetro | Valor |
+|-----------|-------|
+| **País** | Brasil |
+| **Modalidade** | **Somente remoto** (híbrido/presencial fora do escopo) |
+| **LinkedIn CLI** | `--location "Brazil" --remote remote` |
+| **Freehire CLI** | `--country BR --remote remote` |
+| **Idioma das queries** | Português (BR) |
+
+**Regra obrigatória em todo `/scrape`:**
+1. LinkedIn: sempre `-l "Brazil" --remote remote`
+2. Freehire: sempre `--country BR --remote remote`
+3. Após a busca, **descartar** resultados que não sejam remotos ou que exijam presencial fora do Brasil / realocação internacional
+4. Portais dinamarqueses permanecem `enabled: false`
 
 ## Installed portal CLIs (primary for `/scrape`)
 
-`/scrape` discovers every portal skill under `.agents/skills/*/SKILL.md` and runs its CLI first. Shipped country-agnostic CLIs include `linkedin-search` and `freehire-search`; Danish demos and any skill you add with `/add-portal` are included the same way. You do **not** need a matching `site:` line below for those CLIs to run.
+**linkedin-search** — padrão deste fork:
 
-The `site:` query templates in this file are the **WebSearch fallback** — for portals without a CLI, company career pages, or when a CLI fails.
+```bash
+bun run .agents/skills/linkedin-search/cli/src/cli.ts search \
+  --location "Brazil" \
+  --remote remote \
+  --query "<termo>" --jobage 14 --limit 20 --format json
+```
 
-**Language scope:** write every query category in every language listed in your CLAUDE.md Languages table (typically 1-2, sometimes more). A posting requiring a language you have *not* declared, as a job condition, is excluded before scoring; a posting requiring a *higher level* than you declared in a language you *do* work in is flagged for your own judgment, not excluded — see `04-job-evaluation.md`'s Language Gate, the single source of truth for this rule. Translate each category's keywords rather than machine-translating word-for-word (e.g. "Frontend Developer" -> "Desarrollador Frontend", not a literal word-for-word translation) if you work in more than one language.
+Não use cidade específica (São Paulo, Rio, etc.) como localização principal — isso mistura presencial. O filtro `--remote remote` + `"Brazil"` é a combinação correta.
+
+**freehire-search** — padrão deste fork:
+
+```bash
+bun run .agents/skills/freehire-search/cli/src/cli.ts search \
+  -q "<termo>" \
+  --country BR \
+  --remote remote \
+  --jobage 14 --limit 20 --format json
+```
+
+Não use `--region latam` sem `--country BR`: isso puxa México, Argentina, etc. Se precisar de vagas remotas sem país resolvido, prefira uma segunda chamada explícita e revise manualmente — o padrão é só `BR`.
+
+As linhas `site:` abaixo são o **fallback WebSearch** (sempre com “remoto” / “remote” + Brasil).
 
 ## Search Sites
 
-Primary (your market's job boards - scaffold one with `/add-portal`):
-- **[YOUR_JOB_BOARD]** - your market's largest general job board
-- **linkedin.com/jobs** - LinkedIn job listings (filter: [YOUR_COUNTRY] / [YOUR_CITY]); also covered by `linkedin-search` CLI
-- **[YOUR_INDUSTRY_JOB_BOARD]** - a niche/industry board for your field (optional)
-- **[YOUR_ADDITIONAL_JOB_BOARD]** - another major board for your market (optional)
-
-Secondary (company career pages via Google):
-- Direct Google searches with `site:` filters for known target companies
+Primários (fallback WebSearch):
+- **gupy.io** — ATS Brasil
+- **vagas.com.br** / **catho.com.br** / **infojobs.com.br** / **br.indeed.com**
+- **linkedin.com/jobs** — coberto pela CLI `linkedin-search`
 
 ## Query Categories
 
-Queries are grouped by priority. Write **each category in every language from your Languages table** (see Language scope above). Combine each query with your location terms (e.g. your city, region, or metro area) where the site supports it.
+Toda query WebSearch deve incluir **remoto** (ou remote) e **Brasil**.
 
-**Organize by function, not job title.** The same underlying work carries different titles across companies and markets (a "Data Scientist" role at one employer may be posted as "Insights Analyst" or "Data Consultant" at another). Name each priority category after the function it covers, and list several plausible job titles as query variants within that category rather than betting an entire priority tier on one exact title string.
-
-### Priority 1: [YOUR_PRIMARY_ROLE_TYPE]
-
-These match your strongest and most desired career direction.
+### Priority 1: Desenvolvimento de software
 
 ```
-site:[YOUR_JOB_BOARD] "[YOUR_PRIMARY_JOB_TITLE_1]" [YOUR_CITY]
-site:[YOUR_JOB_BOARD] "[YOUR_PRIMARY_JOB_TITLE_2]" [YOUR_CITY]
-site:[YOUR_JOB_BOARD] "[YOUR_KEY_SKILL]" [YOUR_CITY]
-site:linkedin.com/jobs "[YOUR_PRIMARY_JOB_TITLE_1]" [YOUR_COUNTRY]
+site:gupy.io "desenvolvedor" remoto Brasil
+site:gupy.io "engenheiro de software" remoto
+site:vagas.com.br "desenvolvedor backend" remoto
+site:catho.com.br "desenvolvedor full stack" remoto Brasil
+site:infojobs.com.br "engenheiro de software" remoto
+site:br.indeed.com "software engineer" remote Brazil
+site:linkedin.com/jobs "desenvolvedor" remoto Brasil
 ```
 
-### Priority 2: [YOUR_DOMAIN_EXPERTISE]
+CLI:
+- LinkedIn: `-q "desenvolvedor"` / `"engenheiro de software"` / `"software engineer"` / `"backend"` / `"frontend"` / `"fullstack"` com `-l "Brazil" --remote remote`
+- Freehire: mesmas keywords ou `--category backend,frontend,fullstack` com `--country BR --remote remote`
 
-These match your domain expertise.
-
-```
-site:[YOUR_JOB_BOARD] [YOUR_DOMAIN_KEYWORD_1] [YOUR_CITY] OR [YOUR_REGION]
-site:[YOUR_JOB_BOARD] [YOUR_DOMAIN_KEYWORD_2] [YOUR_COUNTRY]
-site:linkedin.com/jobs [YOUR_DOMAIN_KEYWORD_1] [YOUR_CITY] [YOUR_COUNTRY]
-```
-
-### Priority 3: [YOUR_ADJACENT_ROLE_TYPE]
-
-Adjacent roles you could pivot into.
+### Priority 2: Dados e inteligência artificial
 
 ```
-site:[YOUR_JOB_BOARD] "[YOUR_ADJACENT_TITLE_1]" [YOUR_KEY_SKILL] [YOUR_CITY]
-site:[YOUR_JOB_BOARD] "[YOUR_ADJACENT_TITLE_2]" [YOUR_KEY_SKILL] [YOUR_CITY]
+site:gupy.io "cientista de dados" remoto
+site:gupy.io "engenheiro de dados" remoto Brasil
+site:vagas.com.br "analista de dados" remoto
+site:br.indeed.com "data engineer" remote Brazil
+site:linkedin.com/jobs "cientista de dados" remoto Brasil
 ```
 
-### Priority 4: Broader Technical / Consulting
+CLI:
+- LinkedIn: `-q "cientista de dados"` / `"engenheiro de dados"` / `"machine learning"` + remoto BR
+- Freehire: `-q "data"` / `--category ml_ai` + `--country BR --remote remote`
 
-Wider net for general technical roles.
+### Priority 3: DevOps, plataforma e infraestrutura
 
 ```
-site:[YOUR_JOB_BOARD] [YOUR_KEY_SKILL] developer [YOUR_CITY]
-site:linkedin.com/jobs "[YOUR_KEY_SKILL] developer" [YOUR_CITY]
-site:[YOUR_JOB_BOARD] "technical consultant" [YOUR_DOMAIN] [YOUR_CITY]
+site:gupy.io "devops" remoto Brasil
+site:gupy.io "SRE" remoto
+site:linkedin.com/jobs "devops" remoto Brasil
+```
+
+CLI:
+- LinkedIn: `-q "devops"` / `"SRE"` + remoto BR
+- Freehire: `--category devops` + `--country BR --remote remote`
+
+### Priority 4: Rede mais ampla (tech)
+
+```
+site:gupy.io "desenvolvedor python" remoto
+site:gupy.io "desenvolvedor react" remoto Brasil
+site:br.indeed.com "desenvolvedor" remoto Brasil
+site:linkedin.com/jobs "tech lead" remoto Brasil
 ```
 
 ## Location Filter
 
-When evaluating results, verify the job location is within reasonable commute distance from your home. Define acceptable areas:
-- [YOUR_CITY] and surrounding areas
-- [ACCEPTABLE_AREA_1]
-- [ACCEPTABLE_AREA_2]
-- [BORDERLINE_AREA] (borderline - ~X min by transit)
-- [TOO_FAR_AREA] (too far)
+Escopo **somente remoto no Brasil**.
+
+**PASS:**
+- Remoto / home office / 100% remoto com sede ou elegibilidade no Brasil
+- Remoto Brasil (qualquer cidade listada como sede, desde que o anúncio seja remoto)
+
+**FAIL (não apresentar):**
+- Presencial ou híbrido obrigatório
+- Remoto só para outros países (EUA, Europa, LATAM fora do Brasil) sem elegibilidade BR
+- Exige realocação internacional
+
+**FLAG (mostrar com aviso):**
+- Título diz remoto, mas a descrição exige presença frequente no escritório — citar o trecho
 
 ## Language Filter
 
-Your working languages and levels are in CLAUDE.md's Languages table. When filtering scraped results, apply `04-job-evaluation.md`'s Language Gate: a posting requiring a language you haven't declared at all is excluded; a posting requiring a higher level than you declared in a language you do work in is not excluded, flag it clearly instead (see `job-scraper/SKILL.md`'s Step 3 "Quick Fit Assessment" for how the flag surfaces in `/scrape` output). Postings simply *written* in a language you don't work in, that don't require it on the job, are fine.
+Idiomas em `CLAUDE.md`. Language Gate de `04-job-evaluation.md`: idioma não declarado → excluir; nível abaixo do pedido → sinalizar.
 
 ## Date Filter
 
-Only include jobs posted within the last 14 days, or with an application deadline that has not yet passed. If a posting date cannot be determined, include it but flag as "date unknown".
+Últimos 14 dias, ou prazo ainda aberto. Sem data → incluir com flag "data desconhecida".
 
 ## Adapting Queries
 
-If the user specifies a focus area, select queries from the matching category and also generate 2-3 custom queries for that focus. For example:
-- "/scrape [focus_area]" -> relevant category queries + custom focus-specific queries
+- `/scrape backend` → Priority 1 + termos backend (sempre com remoto BR)
+- `/scrape junior` → adicionar júnior/junior às queries (sempre remoto BR)
+- Nunca remover `--remote remote` / `--country BR` sem o usuário pedir explicitamente ampliar o escopo

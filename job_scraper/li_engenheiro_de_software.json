@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "count": 10,
+    "page": 1
+  },
+  "results": [
+    {
+      "id": "4447817256",
+      "title": "Senior Software Engineer - Full Stack",
+      "company": "Serasa Experian",
+      "companyUrl": "https://br.linkedin.com/company/serasaexperian",
+      "location": "São Carlos, São Paulo, Brazil",
+      "date": "2026-08-23",
+      "url": "https://br.linkedin.com/jobs/view/senior-software-engineer-full-stack-at-serasa-experian-4447817256"
+    },
+    {
+      "id": "4459450043",
+      "title": "Senior Software Engineer",
+      "company": "REPS & Co.",
+      "companyUrl": "https://www.linkedin.com/company/repsandcompany",
+      "location": "Curitiba, Paraná, Brazil",
+      "date": "2026-08-28",
+      "url": "https://br.linkedin.com/jobs/view/senior-software-engineer-at-reps-co-4459450043"
+    },
+    {
+      "id": "4432490754",
+      "title": "Grupo QuintoAndar | Senior Software Engineer - Enterprise Engineering",
+      "company": "QuintoAndar",
+      "companyUrl": "https://br.linkedin.com/company/quintoandar-com-br",
+      "location": "São Paulo, São Paulo, Brazil",
+      "date": "2026-08-28",
+      "url": "https://br.linkedin.com/jobs/view/grupo-quintoandar-senior-software-engineer-enterprise-engineering-at-quintoandar-4432490754"
+    },
+    {
+      "id": "4458937753",
+      "title": "Senior Software Engineer (Java, AWS)",
+      "company": "Exadel",
+      "companyUrl": "https://www.linkedin.com/company/exadel",
+      "location": "São Paulo, São Paulo, Brazil",
+      "date": "2026-08-28",
+      "url": "https://br.linkedin.com/jobs/view/senior-software-engineer-java-aws-at-exadel-4458937753"
+    },
+    {
+      "id": "4432469586",
+      "title": "Software Engineer, Enterprise Apps",
+      "company": "Coinbase",
+      "companyUrl": "https://www.linkedin.com/company/coinbase",
+      "location": "São Paulo, São Paulo, Brazil",
+      "date": "2026-08-27",
+      "url": "https://br.linkedin.com/jobs/view/software-engineer-enterprise-apps-at-coinbase-4432469586"
+    },
+    {
+      "id": "4457607336",
+      "title": "Senior Software Engineer",
+      "company": "Vista",
+      "companyUrl": "https://ae.linkedin.com/company/vista-global",
+      "location": "Brasília, Federal District, Brazil",
+      "date": "2026-08-25",
+      "url": "https://br.linkedin.com/jobs/view/senior-software-engineer-at-vista-4457607336"
+    },
+    {
+      "id": "4457606857",
+      "title": "Engenheiro de Software Golang - Trabalho Remoto",
+      "company": "BairesDev",
+      "companyUrl": "https://www.linkedin.com/company/bairesdev",
+      "location": "Greater Salvador",
+      "date": "2026-08-25",
+      "url": "https://br.linkedin.com/jobs/view/engenheiro-de-software-golang-trabalho-remoto-at-bairesdev-4457606857"
+    },
+    {
+      "id": "4440286584",
+      "title": "Senior Software Engineer – Full Stack (React/Node.js)",
+      "company": "IQVIA",
+      "companyUrl": "https://www.linkedin.com/company/iqvia",
+      "location": "São Paulo, São Paulo, Brazil",
+      "date": "2026-08-28",
+      "url": "https://br.linkedin.com/jobs/view/senior-software-engineer-%E2%80%93-full-stack-react-node-js-at-iqvia-4440286584"
+    },
+    {
+      "id": "4454299717",
+      "title": "Senior Full Stack Developer ID71007",
+      "company": "AgileEngine",
+      "companyUrl": "https://www.linkedin.com/company/agileengine",
+      "location": "Brasília, Federal District, Brazil",
+      "date": "2026-08-17",
+      "url": "https://br.linkedin.com/jobs/view/senior-full-stack-developer-id71007-at-agileengine-4454299717"
+    },
+    {
+      "id": "4457144652",
+      "title": "Engenheiro de Software .NET Core - Trabalho Remoto",
+      "company": "BairesDev",
+      "companyUrl": "https://www.linkedin.com/company/bairesdev",
+      "location": "Guarulhos, São Paulo, Brazil",
+      "date": "2026-08-24",
+      "url": "https://br.linkedin.com/jobs/view/engenheiro-de-software-net-core-trabalho-remoto-at-bairesdev-4457144652"
+    }
+  ]
+}

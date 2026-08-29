@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "count": 10,
+    "page": 1
+  },
+  "results": [
+    {
+      "id": "4458763699",
+      "title": "Desenvolvedor sênior",
+      "company": "RD Saúde",
+      "companyUrl": "https://br.linkedin.com/company/rdsaudeoficial",
+      "location": "São Paulo, São Paulo, Brazil",
+      "date": "2026-08-25",
+      "url": "https://br.linkedin.com/jobs/view/desenvolvedor-s%C3%AAnior-at-rd-sa%C3%BAde-4458763699"
+    },
+    {
+      "id": "4456518111",
+      "title": "Desenvolvedor(a) de Software",
+      "company": "CUB",
+      "companyUrl": "https://br.linkedin.com/company/somoscub",
+      "location": "São Paulo, Brazil",
+      "date": "2026-08-24",
+      "url": "https://br.linkedin.com/jobs/view/desenvolvedor-a-de-software-at-cub-4456518111"
+    },
+    {
+      "id": "4459806846",
+      "title": "Desenvolvedor III",
+      "company": "Ludfor Energia",
+      "companyUrl": "https://br.linkedin.com/company/ludforenergia",
+      "location": "Bento Gonçalves, Rio Grande do Sul, Brazil",
+      "date": "2026-08-27",
+      "url": "https://br.linkedin.com/jobs/view/desenvolvedor-iii-at-ludfor-energia-4459806846"
+    },
+    {
+      "id": "4446804863",
+      "title": "Full Stack Developer",
+      "company": "Edelman Intelligence",
+      "companyUrl": "https://www.linkedin.com/company/edelman-intel",
+      "location": "Brasília, Federal District, Brazil",
+      "date": "2026-08-20",
+      "url": "https://br.linkedin.com/jobs/view/full-stack-developer-at-edelman-intelligence-4446804863"
+    },
+    {
+      "id": "4458014040",
+      "title": "Analista de Desenvolvimento Sênior",
+      "company": "Arqia",
+      "companyUrl": "https://br.linkedin.com/company/arqiaoficial",
+      "location": "Campinas, São Paulo, Brazil",
+      "date": "2026-08-27",
+      "url": "https://br.linkedin.com/jobs/view/analista-de-desenvolvimento-s%C3%AAnior-at-arqia-4458014040"
+    },
+    {
+      "id": "4458216292",
+      "title": "Desenvolvedor SR",
+      "company": "CAST",
+      "companyUrl": "https://br.linkedin.com/company/cast4it",
+      "location": "Brasília, Federal District, Brazil",
+      "date": "2026-08-24",
+      "url": "https://br.linkedin.com/jobs/view/desenvolvedor-sr-at-cast-4458216292"
+    },
+    {
+      "id": "4456935438",
+      "title": "Desenvolvedor",
+      "company": "Sigma Software",
+      "companyUrl": "https://uk.linkedin.com/company/sigma-software-page",
+      "location": "Agudos, São Paulo, Brazil",
+      "date": "2026-08-18",
+      "url": "https://br.linkedin.com/jobs/view/desenvolvedor-at-sigma-software-4456935438"
+    },
+    {
+      "id": "4459069443",
+      "title": "Pessoa Desenvolvedora Fullstack SR.",
+      "company": "Banco Bradesco",
+      "companyUrl": "https://br.linkedin.com/company/bradesco",
+      "location": "Osasco, São Paulo, Brazil",
+      "date": "2026-08-25",
+      "url": "https://br.linkedin.com/jobs/view/pessoa-desenvolvedora-fullstack-sr-at-banco-bradesco-4459069443"
+    },
+    {
+      "id": "4458786998",
+      "title": "Desenvolvedor",
+      "company": "Sigma Software",
+      "companyUrl": "https://uk.linkedin.com/company/sigma-software-page",
+      "location": "Greater São Paulo Area",
+      "date": "2026-08-17",
+      "url": "https://br.linkedin.com/jobs/view/desenvolvedor-at-sigma-software-4458786998"
+    },
+    {
+      "id": "4458505079",
+      "title": "02403/2026 - Desenvolvedor de Inovação - Sênior",
+      "company": "FIESC - Federação das Indústrias de Santa Catarina",
+      "companyUrl": "https://br.linkedin.com/company/sistema-fiesc",
+      "location": "Florianópolis, Santa Catarina, Brazil",
+      "date": "2026-08-24",
+      "url": "https://br.linkedin.com/jobs/view/02403-2026-desenvolvedor-de-inova%C3%A7%C3%A3o-s%C3%AAnior-at-fiesc-federa%C3%A7%C3%A3o-das-ind%C3%BAstrias-de-santa-catarina-4458505079"
+    }
+  ]
+}

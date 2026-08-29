@@ -69,6 +69,18 @@ seniority, employment type, job function, and industries.
 ## Usage examples
 
 ```bash
+# Desenvolvedor remoto no Brasil, últimos 14 dias (padrão deste fork)
+bun run .agents/skills/linkedin-search/cli/src/cli.ts search -q "desenvolvedor" -l "Brazil" --remote remote --jobage 14 --format table
+
+# Engenheiro de software remoto no Brasil
+bun run .agents/skills/linkedin-search/cli/src/cli.ts search -q "engenheiro de software" -l "Brazil" --remote remote --jobage 14 --format table
+
+# Desenvolvedor em São Paulo, últimos 14 dias (Brasil — padrão deste fork)
+bun run .agents/skills/linkedin-search/cli/src/cli.ts search -q "desenvolvedor" -l "São Paulo, São Paulo, Brazil" --jobage 14 --format table
+
+# Vagas remotas no Brasil
+bun run .agents/skills/linkedin-search/cli/src/cli.ts search -q "engenheiro de software" -l "Brazil" --remote remote --jobage 14 --format table
+
 # Data engineer roles in Bengaluru, last 30 days
 bun run .agents/skills/linkedin-search/cli/src/cli.ts search -q "data engineer" -l "Bengaluru, Karnataka, India" --jobage 30 --format table
 

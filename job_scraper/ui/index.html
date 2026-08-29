@@ -1,0 +1,471 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Vagas remotas — AI Job Search</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,700&family=Manrope:wght@400;500;600;700&display=swap" rel="stylesheet" />
+  <style>
+    :root {
+      --ink: #1a2421;
+      --muted: #5c6b66;
+      --paper: #f3f0e8;
+      --panel: rgba(255, 252, 246, 0.78);
+      --line: rgba(26, 36, 33, 0.1);
+      --accent: #0f7a5f;
+      --accent-soft: #d7efe6;
+    }
+
+    * { box-sizing: border-box; }
+    html, body { margin: 0; min-height: 100%; }
+    body {
+      font-family: Manrope, system-ui, sans-serif;
+      color: var(--ink);
+      background:
+        radial-gradient(900px 420px at 8% -10%, #c8e8db 0%, transparent 55%),
+        radial-gradient(700px 380px at 100% 0%, #f0d9b8 0%, transparent 50%),
+        linear-gradient(180deg, #ece7db 0%, var(--paper) 40%, #e7efe9 100%);
+    }
+
+    .wrap {
+      width: min(1080px, calc(100% - 2rem));
+      margin: 0 auto;
+      padding: 2.5rem 0 4rem;
+    }
+
+    header {
+      display: grid;
+      gap: 1rem;
+      margin-bottom: 2rem;
+      animation: rise 0.6s ease both;
+    }
+
+    .brand {
+      font-family: Fraunces, Georgia, serif;
+      font-size: clamp(2rem, 5vw, 3.2rem);
+      line-height: 1.05;
+      letter-spacing: -0.03em;
+      margin: 0;
+    }
+
+    .brand span { color: var(--accent); }
+
+    .lede {
+      margin: 0;
+      max-width: 42rem;
+      color: var(--muted);
+      font-size: 1.05rem;
+      line-height: 1.55;
+    }
+
+    .toolbar {
+      display: flex;
+      flex-direction: column;
+      gap: 0.85rem;
+      margin: 1.5rem 0 1rem;
+      animation: rise 0.7s ease both;
+    }
+
+    .search {
+      width: 100%;
+      display: flex;
+      align-items: center;
+      gap: 0.6rem;
+      background: var(--panel);
+      border: 1px solid var(--line);
+      border-radius: 999px;
+      padding: 0.7rem 1rem;
+      backdrop-filter: blur(8px);
+    }
+
+    .search input {
+      width: 100%;
+      border: 0;
+      outline: 0;
+      background: transparent;
+      font: inherit;
+      color: var(--ink);
+    }
+
+    .chips {
+      display: flex;
+      flex-direction: column;
+      gap: 0.85rem;
+      align-items: stretch;
+    }
+    .chips > .chip {
+      width: fit-content;
+      text-align: center;
+    }
+    .chip-group {
+      display: flex;
+      flex-direction: column;
+      gap: 0.45rem;
+      align-items: flex-start;
+      padding: 0.75rem 0 0;
+      border-top: 1px solid var(--line);
+    }
+    .chip-options {
+      display: flex;
+      flex-direction: row;
+      flex-wrap: wrap;
+      gap: 0.4rem;
+      align-items: center;
+    }
+    .chip-label {
+      font-size: 0.72rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.04em;
+      color: var(--muted);
+      white-space: nowrap;
+    }
+    .chip {
+      border: 1px solid var(--line);
+      background: var(--panel);
+      color: var(--ink);
+      border-radius: 999px;
+      padding: 0.45rem 0.85rem;
+      font: inherit;
+      font-size: 0.85rem;
+      font-weight: 600;
+      cursor: pointer;
+      white-space: nowrap;
+      flex-shrink: 0;
+      transition: background 0.2s, border-color 0.2s, transform 0.15s;
+    }
+    .chip:hover { transform: translateY(-1px); }
+    .chip.active {
+      background: var(--accent);
+      border-color: var(--accent);
+      color: #fff;
+    }
+
+    .meta {
+      color: var(--muted);
+      font-size: 0.9rem;
+      margin: 0 0 1rem;
+      animation: rise 0.75s ease both;
+    }
+
+    .list {
+      display: grid;
+      gap: 0.65rem;
+      list-style: none;
+      padding: 0;
+      margin: 0;
+    }
+
+    .job {
+      display: grid;
+      grid-template-columns: 1fr auto;
+      gap: 0.75rem 1rem;
+      align-items: start;
+      padding: 1rem 1.1rem;
+      background: var(--panel);
+      border: 1px solid var(--line);
+      border-radius: 18px;
+      backdrop-filter: blur(8px);
+      text-decoration: none;
+      color: inherit;
+      transition: transform 0.18s ease, border-color 0.18s ease, box-shadow 0.18s ease;
+      animation: rise 0.5s ease both;
+    }
+
+    .job:hover {
+      transform: translateY(-2px);
+      border-color: rgba(15, 122, 95, 0.35);
+      box-shadow: 0 12px 30px rgba(26, 36, 33, 0.08);
+    }
+
+    .job h2 {
+      margin: 0 0 0.35rem;
+      font-size: 1.05rem;
+      line-height: 1.35;
+      font-weight: 700;
+    }
+
+    .job .company {
+      margin: 0;
+      color: var(--muted);
+      font-size: 0.92rem;
+    }
+
+    .tags {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.35rem;
+      margin-top: 0.7rem;
+    }
+
+    .tag {
+      font-size: 0.75rem;
+      font-weight: 600;
+      padding: 0.25rem 0.55rem;
+      border-radius: 999px;
+      background: var(--accent-soft);
+      color: var(--accent);
+    }
+
+    .tag.portal-li { background: #e8eef8; color: #2f4f8f; }
+
+    .side {
+      text-align: right;
+      display: grid;
+      gap: 0.35rem;
+      justify-items: end;
+    }
+
+    .date {
+      font-size: 0.8rem;
+      color: var(--muted);
+      white-space: nowrap;
+    }
+
+    .cta {
+      font-size: 0.82rem;
+      font-weight: 700;
+      color: var(--accent);
+    }
+
+    .empty {
+      padding: 2rem;
+      text-align: center;
+      color: var(--muted);
+      border: 1px dashed var(--line);
+      border-radius: 18px;
+      background: var(--panel);
+    }
+
+    @keyframes rise {
+      from { opacity: 0; transform: translateY(10px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+
+    @media (max-width: 640px) {
+      .job { grid-template-columns: 1fr; }
+      .side { justify-items: start; text-align: left; }
+    }
+  </style>
+</head>
+<body>
+  <main class="wrap">
+    <header>
+      <p class="brand">AI Job <span>Search</span></p>
+      <p class="lede">Somente vagas <strong>remotas no Brasil</strong> (LinkedIn + Freehire). Combine filtros de nível e stack; clique no card para abrir o anúncio.</p>
+    </header>
+
+    <div class="toolbar">
+      <label class="search" aria-label="Buscar vagas">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+          <circle cx="11" cy="11" r="7" stroke="currentColor" stroke-width="2"/>
+          <path d="M20 20l-3.5-3.5" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+        </svg>
+        <input id="q" type="search" placeholder="Filtrar por título, empresa ou local…" autocomplete="off" />
+      </label>
+      <div class="chips" id="chips" role="group" aria-label="Filtros rápidos">
+        <button type="button" class="chip active" data-filter="all">Todas</button>
+        <div class="chip-group" aria-label="Senioridade">
+          <span class="chip-label">Nível</span>
+          <div class="chip-options">
+            <button type="button" class="chip" data-filter="junior">Júnior</button>
+            <button type="button" class="chip" data-filter="pleno">Pleno</button>
+            <button type="button" class="chip" data-filter="senior">Sênior</button>
+          </div>
+        </div>
+        <div class="chip-group" aria-label="Stack">
+          <span class="chip-label">Stack</span>
+          <div class="chip-options">
+            <button type="button" class="chip" data-filter="frontend">Frontend</button>
+            <button type="button" class="chip" data-filter="backend">Backend</button>
+            <button type="button" class="chip" data-filter="fullstack">Fullstack</button>
+          </div>
+        </div>
+        <div class="chip-group" aria-label="Outros">
+          <span class="chip-label">Outros</span>
+          <div class="chip-options">
+            <button type="button" class="chip" data-filter="linkedin">LinkedIn</button>
+            <button type="button" class="chip" data-filter="freehire">Freehire</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <p class="meta" id="meta">Carregando vagas…</p>
+    <ul class="list" id="list"></ul>
+  </main>
+
+  <script>
+    const listEl = document.getElementById('list');
+    const metaEl = document.getElementById('meta');
+    const qEl = document.getElementById('q');
+    const chipsEl = document.getElementById('chips');
+
+    let jobs = [];
+    const activeFilters = new Set();
+    let query = '';
+
+    const FILTER_GROUPS = {
+      seniority: ['junior', 'pleno', 'senior'],
+      stack: ['frontend', 'backend', 'fullstack'],
+      portal: ['linkedin', 'freehire'],
+    };
+
+    const FILTER_LABELS = {
+      junior: 'Júnior',
+      pleno: 'Pleno',
+      senior: 'Sênior',
+      frontend: 'Frontend',
+      backend: 'Backend',
+      fullstack: 'Fullstack',
+      remoto: 'Remoto',
+      linkedin: 'LinkedIn',
+      freehire: 'Freehire',
+    };
+
+    const rules = {
+      remoto: (j) => /remoto|remote|home.?office/i.test(j.title + ' ' + j.location),
+      junior: (j) => /j[uú]nior|junior|jr\b/i.test(j.title),
+      pleno: (j) => /pleno|middle|mid[- ]?level|intermediate/i.test(j.title),
+      senior: (j) => /s[eê]nior|senior|sr\.?\b|staff/i.test(j.title),
+      frontend: (j) => /front[- ]?end|frontend|react|angular|vue/i.test(j.title),
+      backend: (j) => /back[- ]?end|backend|api|golang|node|java|python|\.net/i.test(j.title),
+      fullstack: (j) => /full[- ]?stack|fullstack/i.test(j.title),
+      linkedin: (j) => j.portal === 'LinkedIn',
+      freehire: (j) => j.portal === 'Freehire',
+    };
+
+    function formatDate(d) {
+      if (!d) return 'data n/d';
+      const [y, m, day] = d.split('-');
+      if (!y || !m || !day) return d;
+      return `${day}/${m}/${y}`;
+    }
+
+    function matchesFilters(j) {
+      if (activeFilters.size === 0) return true;
+
+      for (const keys of Object.values(FILTER_GROUPS)) {
+        const activeInGroup = [...activeFilters].filter((f) => keys.includes(f));
+        if (activeInGroup.length > 0 && !activeInGroup.some((f) => rules[f](j))) {
+          return false;
+        }
+      }
+
+      if (activeFilters.has('remoto') && !rules.remoto(j)) return false;
+      return true;
+    }
+
+    function syncChips() {
+      chipsEl.querySelectorAll('.chip').forEach((chip) => {
+        const f = chip.dataset.filter;
+        if (f === 'all') {
+          chip.classList.toggle('active', activeFilters.size === 0);
+        } else {
+          chip.classList.toggle('active', activeFilters.has(f));
+        }
+      });
+    }
+
+    function activeFilterSummary() {
+      if (activeFilters.size === 0) return '';
+      return [...activeFilters].map((f) => FILTER_LABELS[f] || f).join(' + ');
+    }
+
+    function visibleJobs() {
+      const q = query.trim().toLowerCase();
+      return jobs.filter((j) => {
+        if (!matchesFilters(j)) return false;
+        if (!q) return true;
+        return [j.title, j.company, j.location, j.portal].join(' ').toLowerCase().includes(q);
+      });
+    }
+
+    function render() {
+      const visible = visibleJobs();
+      const filterNote = activeFilterSummary();
+      metaEl.textContent = filterNote
+        ? `${visible.length} de ${jobs.length} vagas · filtros: ${filterNote}`
+        : `${visible.length} de ${jobs.length} vagas`;
+
+      if (!visible.length) {
+        listEl.innerHTML = '<li class="empty">Nenhuma vaga com esses filtros.</li>';
+        return;
+      }
+
+      listEl.innerHTML = visible.map((j, i) => {
+        const remoteTag = /remoto|remote/i.test(j.title) ? '<span class="tag">Remoto</span>' : '';
+        const portalClass = j.portal === 'LinkedIn' ? 'portal-li' : '';
+        return `
+          <li style="animation-delay:${Math.min(i, 12) * 0.03}s">
+            <a class="job" href="${escapeAttr(j.url)}" target="_blank" rel="noopener noreferrer">
+              <div>
+                <h2>${escapeHtml(j.title)}</h2>
+                <p class="company">${escapeHtml(j.company)} · ${escapeHtml(j.location)}</p>
+                <div class="tags">
+                  <span class="tag ${portalClass}">${escapeHtml(j.portal)}</span>
+                  ${remoteTag}
+                </div>
+              </div>
+              <div class="side">
+                <span class="date">${formatDate(j.date)}</span>
+                <span class="cta">Abrir vaga →</span>
+              </div>
+            </a>
+          </li>
+        `;
+      }).join('');
+    }
+
+    function escapeHtml(s) {
+      return String(s)
+        .replaceAll('&', '&amp;')
+        .replaceAll('<', '&lt;')
+        .replaceAll('>', '&gt;')
+        .replaceAll('"', '&quot;');
+    }
+
+    function escapeAttr(s) {
+      return escapeHtml(s).replaceAll("'", '&#39;');
+    }
+
+    qEl.addEventListener('input', () => {
+      query = qEl.value;
+      render();
+    });
+
+    chipsEl.addEventListener('click', (e) => {
+      const btn = e.target.closest('.chip');
+      if (!btn) return;
+
+      const f = btn.dataset.filter;
+      if (f === 'all') {
+        activeFilters.clear();
+      } else if (activeFilters.has(f)) {
+        activeFilters.delete(f);
+      } else {
+        activeFilters.add(f);
+      }
+
+      syncChips();
+      render();
+    });
+
+    fetch('./jobs.json')
+      .then((r) => {
+        if (!r.ok) throw new Error('Falha ao carregar jobs.json');
+        return r.json();
+      })
+      .then((data) => {
+        jobs = data.jobs || [];
+        render();
+      })
+      .catch((err) => {
+        metaEl.textContent = 'Erro ao carregar vagas';
+        listEl.innerHTML = `<li class="empty">${escapeHtml(err.message)}</li>`;
+      });
+  </script>
+</body>
+</html>
