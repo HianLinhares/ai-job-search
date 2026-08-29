@@ -8,49 +8,71 @@
 |-----------|-------|
 | **País** | Brasil |
 | **Modalidade** | **Somente remoto** (híbrido/presencial fora do escopo) |
-| **LinkedIn CLI** | `--location "Brazil" --remote remote` |
-| **Freehire CLI** | `--country BR --remote remote` |
 | **Idioma das queries** | Português (BR) |
 
 **Regra obrigatória em todo `/scrape`:**
-1. LinkedIn: sempre `-l "Brazil" --remote remote`
-2. Freehire: sempre `--country BR --remote remote`
-3. Após a busca, **descartar** resultados que não sejam remotos ou que exijam presencial fora do Brasil / realocação internacional
-4. Portais dinamarqueses permanecem `enabled: false`
+1. Usar apenas CLIs abaixo com os flags de remoto/BR documentados
+2. Após a busca, **descartar** resultados presenciais ou sem elegibilidade Brasil
+3. Portais dinamarqueses permanecem `enabled: false`
 
 ## Installed portal CLIs (primary for `/scrape`)
 
-**linkedin-search** — padrão deste fork:
+| Skill | Flags padrão (remoto BR) |
+|-------|--------------------------|
+| `linkedin-search` | `-l "Brazil" --remote remote` |
+| `freehire-search` | `--country BR --remote remote` |
+| `gupy-search` | `-q "<termo>" --remote remote` |
+| `remoteok-search` | `-q "<termo>" --country BR` |
+| `himalayas-search` | `-q "<termo>" --country BR` |
+| `weworkremotely-search` | `-q "<termo>"` (+ filtro BR client-side quando possível) |
+
+### Exemplos CLI
 
 ```bash
 bun run .agents/skills/linkedin-search/cli/src/cli.ts search \
-  --location "Brazil" \
-  --remote remote \
-  --query "<termo>" --jobage 14 --limit 20 --format json
-```
+  -l "Brazil" --remote remote -q "desenvolvedor" --jobage 14 --limit 20 --format json
 
-Não use cidade específica (São Paulo, Rio, etc.) como localização principal — isso mistura presencial. O filtro `--remote remote` + `"Brazil"` é a combinação correta.
-
-**freehire-search** — padrão deste fork:
-
-```bash
 bun run .agents/skills/freehire-search/cli/src/cli.ts search \
-  -q "<termo>" \
-  --country BR \
-  --remote remote \
-  --jobage 14 --limit 20 --format json
+  -q "desenvolvedor" --country BR --remote remote --jobage 14 --limit 20 --format json
+
+bun run .agents/skills/gupy-search/cli/src/cli.ts search \
+  -q "desenvolvedor" --remote remote --jobage 14 --limit 20 --format json
+
+bun run .agents/skills/remoteok-search/cli/src/cli.ts search \
+  -q "developer" --country BR --jobage 14 --limit 20 --format json
+
+bun run .agents/skills/himalayas-search/cli/src/cli.ts search \
+  -q "developer" --country BR --jobage 14 --limit 20 --format json
+
+bun run .agents/skills/weworkremotely-search/cli/src/cli.ts search \
+  -q "developer" --jobage 14 --limit 20 --format json
 ```
 
-Não use `--region latam` sem `--country BR`: isso puxa México, Argentina, etc. Se precisar de vagas remotas sem país resolvido, prefira uma segunda chamada explícita e revise manualmente — o padrão é só `BR`.
+Não use `--region latam` no Freehire sem `--country BR`. Não use cidade LinkedIn (São Paulo) como `-l` principal — use `"Brazil"` + `--remote remote`.
 
-As linhas `site:` abaixo são o **fallback WebSearch** (sempre com “remoto” / “remote” + Brasil).
+## Portais NÃO suportados como CLI (não implementar)
 
-## Search Sites
+Estas fontes **não** devem ganhar skill CLI neste fork (ToS, login, API inexistente ou board encerrado). O `/scrape` **não** deve inventar scrapers para elas:
 
-Primários (fallback WebSearch):
-- **gupy.io** — ATS Brasil
-- **vagas.com.br** / **catho.com.br** / **infojobs.com.br** / **br.indeed.com**
-- **linkedin.com/jobs** — coberto pela CLI `linkedin-search`
+| Plataforma | Motivo |
+|------------|--------|
+| **Indeed** | Sem API pública de busca; ToS proíbe bots |
+| **Glassdoor** | ToS + robots bloqueiam job/search |
+| **Google for Jobs** | Sem API oficial; agregador dinâmico |
+| **Wellfound (AngelList)** | Sem API pública; login + anti-bot |
+| **Toptal / Turing / Revelo** | Marketplace/matching, não board de busca pública |
+| **Stack Overflow Jobs** | Encerrado |
+
+**Fallback fraco (opcional):** WebSearch com `site:br.indeed.com` ou queries genéricas — resultados menos estruturados e possivelmente defasados. Preferir as CLIs instaladas.
+
+## Search Sites (WebSearch fallback only)
+
+Para portais **sem** CLI ou se a CLI falhar — sempre com “remoto” + Brasil:
+
+- **gupy.io** — preferir CLI `gupy-search`; WebSearch só se a CLI falhar
+- **vagas.com.br** / **catho.com.br** / **infojobs.com.br** — sem CLI ainda (HTML frágil)
+- **programathor.com.br** / **geekhunter.com.br** / **trampos.co** — fase HTML (se skill existir e `enabled: true`)
+- **br.indeed.com** — apenas WebSearch fraco; sem CLI
 
 ## Query Categories
 
@@ -64,75 +86,53 @@ site:gupy.io "engenheiro de software" remoto
 site:vagas.com.br "desenvolvedor backend" remoto
 site:catho.com.br "desenvolvedor full stack" remoto Brasil
 site:infojobs.com.br "engenheiro de software" remoto
-site:br.indeed.com "software engineer" remote Brazil
 site:linkedin.com/jobs "desenvolvedor" remoto Brasil
 ```
 
-CLI:
-- LinkedIn: `-q "desenvolvedor"` / `"engenheiro de software"` / `"software engineer"` / `"backend"` / `"frontend"` / `"fullstack"` com `-l "Brazil" --remote remote`
-- Freehire: mesmas keywords ou `--category backend,frontend,fullstack` com `--country BR --remote remote`
+CLI (rodar em paralelo):
+- LinkedIn / Freehire / Gupy / Himalayas / RemoteOK / WWR com os termos: desenvolvedor, engenheiro de software, backend, frontend, fullstack
 
 ### Priority 2: Dados e inteligência artificial
 
 ```
 site:gupy.io "cientista de dados" remoto
-site:gupy.io "engenheiro de dados" remoto Brasil
-site:vagas.com.br "analista de dados" remoto
-site:br.indeed.com "data engineer" remote Brazil
 site:linkedin.com/jobs "cientista de dados" remoto Brasil
 ```
 
-CLI:
-- LinkedIn: `-q "cientista de dados"` / `"engenheiro de dados"` / `"machine learning"` + remoto BR
-- Freehire: `-q "data"` / `--category ml_ai` + `--country BR --remote remote`
+CLI: `-q "cientista de dados"` / `"engenheiro de dados"` / `"machine learning"` (+ flags remoto BR)
 
 ### Priority 3: DevOps, plataforma e infraestrutura
 
 ```
 site:gupy.io "devops" remoto Brasil
-site:gupy.io "SRE" remoto
 site:linkedin.com/jobs "devops" remoto Brasil
 ```
 
-CLI:
-- LinkedIn: `-q "devops"` / `"SRE"` + remoto BR
-- Freehire: `--category devops` + `--country BR --remote remote`
+CLI: `-q "devops"` / `"SRE"`
 
 ### Priority 4: Rede mais ampla (tech)
 
 ```
 site:gupy.io "desenvolvedor python" remoto
-site:gupy.io "desenvolvedor react" remoto Brasil
-site:br.indeed.com "desenvolvedor" remoto Brasil
 site:linkedin.com/jobs "tech lead" remoto Brasil
 ```
 
 ## Location Filter
 
-Escopo **somente remoto no Brasil**.
-
-**PASS:**
-- Remoto / home office / 100% remoto com sede ou elegibilidade no Brasil
-- Remoto Brasil (qualquer cidade listada como sede, desde que o anúncio seja remoto)
-
-**FAIL (não apresentar):**
-- Presencial ou híbrido obrigatório
-- Remoto só para outros países (EUA, Europa, LATAM fora do Brasil) sem elegibilidade BR
-- Exige realocação internacional
-
-**FLAG (mostrar com aviso):**
-- Título diz remoto, mas a descrição exige presença frequente no escritório — citar o trecho
+**PASS:** remoto / home office com elegibilidade Brasil  
+**FAIL:** presencial/híbrido; remoto só outros países; realocação internacional  
+**FLAG:** título remoto mas descrição exige presença frequente
 
 ## Language Filter
 
-Idiomas em `CLAUDE.md`. Language Gate de `04-job-evaluation.md`: idioma não declarado → excluir; nível abaixo do pedido → sinalizar.
+Language Gate de `04-job-evaluation.md` + tabela Languages em `CLAUDE.md`.
 
 ## Date Filter
 
-Últimos 14 dias, ou prazo ainda aberto. Sem data → incluir com flag "data desconhecida".
+Últimos 14 dias, ou prazo aberto. Sem data → flag "data desconhecida".
 
 ## Adapting Queries
 
-- `/scrape backend` → Priority 1 + termos backend (sempre com remoto BR)
-- `/scrape junior` → adicionar júnior/junior às queries (sempre remoto BR)
-- Nunca remover `--remote remote` / `--country BR` sem o usuário pedir explicitamente ampliar o escopo
+- `/scrape backend` → Priority 1 + termos backend (sempre remoto BR)
+- `/scrape junior` → júnior/junior (sempre remoto BR)
+- Nunca remover filtros remoto/BR sem o usuário pedir explicitamente

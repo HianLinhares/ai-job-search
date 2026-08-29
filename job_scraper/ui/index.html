@@ -254,7 +254,7 @@
   <main class="wrap">
     <header>
       <p class="brand">AI Job <span>Search</span></p>
-      <p class="lede">Somente vagas <strong>remotas no Brasil</strong> (LinkedIn + Freehire). Combine filtros de nível e stack; clique no card para abrir o anúncio.</p>
+      <p class="lede">Somente vagas <strong>remotas no Brasil</strong> — LinkedIn, Freehire, Gupy, RemoteOK, Himalayas e We Work Remotely. Combine filtros; clique no card para abrir o anúncio.</p>
     </header>
 
     <div class="toolbar">
@@ -288,6 +288,10 @@
           <div class="chip-options">
             <button type="button" class="chip" data-filter="linkedin">LinkedIn</button>
             <button type="button" class="chip" data-filter="freehire">Freehire</button>
+            <button type="button" class="chip" data-filter="gupy">Gupy</button>
+            <button type="button" class="chip" data-filter="remoteok">RemoteOK</button>
+            <button type="button" class="chip" data-filter="himalayas">Himalayas</button>
+            <button type="button" class="chip" data-filter="weworkremotely">WWR</button>
           </div>
         </div>
       </div>
@@ -310,7 +314,7 @@
     const FILTER_GROUPS = {
       seniority: ['junior', 'pleno', 'senior'],
       stack: ['frontend', 'backend', 'fullstack'],
-      portal: ['linkedin', 'freehire'],
+      portal: ['linkedin', 'freehire', 'gupy', 'remoteok', 'himalayas', 'weworkremotely'],
     };
 
     const FILTER_LABELS = {
@@ -323,18 +327,27 @@
       remoto: 'Remoto',
       linkedin: 'LinkedIn',
       freehire: 'Freehire',
+      gupy: 'Gupy',
+      remoteok: 'RemoteOK',
+      himalayas: 'Himalayas',
+      weworkremotely: 'WWR',
     };
 
     const rules = {
-      remoto: (j) => /remoto|remote|home.?office/i.test(j.title + ' ' + j.location),
-      junior: (j) => /j[uú]nior|junior|jr\b/i.test(j.title),
+      remoto: (j) => j.remote === true || /remoto|remote|home.?office/i.test(j.title + ' ' + j.location),
+      junior: (j) => /j[uú]nior|\bjr\b/i.test(j.title),
       pleno: (j) => /pleno|middle|mid[- ]?level|intermediate/i.test(j.title),
-      senior: (j) => /s[eê]nior|senior|sr\.?\b|staff/i.test(j.title),
-      frontend: (j) => /front[- ]?end|frontend|react|angular|vue/i.test(j.title),
-      backend: (j) => /back[- ]?end|backend|api|golang|node|java|python|\.net/i.test(j.title),
+      senior: (j) => /s[eê]nior|senior|\bsr\.?\b|staff/i.test(j.title),
+      frontend: (j) => /front[- ]?end|frontend|\breact\b|\bangular\b|\bvue\b/i.test(j.title),
+      // \bjava\b avoids matching "JavaScript"; prefer node.js / explicit backend terms
+      backend: (j) => /back[- ]?end|backend|\bapi\b|golang|\bnode(?:\.?js)?\b|\bjava\b|\bpython\b|\.net/i.test(j.title),
       fullstack: (j) => /full[- ]?stack|fullstack/i.test(j.title),
       linkedin: (j) => j.portal === 'LinkedIn',
       freehire: (j) => j.portal === 'Freehire',
+      gupy: (j) => j.portal === 'Gupy',
+      remoteok: (j) => j.portal === 'RemoteOK',
+      himalayas: (j) => j.portal === 'Himalayas',
+      weworkremotely: (j) => j.portal === 'WeWorkRemotely',
     };
 
     function formatDate(d) {
@@ -396,7 +409,9 @@
       }
 
       listEl.innerHTML = visible.map((j, i) => {
-        const remoteTag = /remoto|remote/i.test(j.title) ? '<span class="tag">Remoto</span>' : '';
+        const remoteTag = (j.remote || /remoto|remote|home.?office/i.test(j.title + ' ' + j.location))
+          ? '<span class="tag">Remoto</span>'
+          : '';
         const portalClass = j.portal === 'LinkedIn' ? 'portal-li' : '';
         return `
           <li style="animation-delay:${Math.min(i, 12) * 0.03}s">

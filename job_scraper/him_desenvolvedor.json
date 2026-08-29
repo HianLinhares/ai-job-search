@@ -1,0 +1,238 @@
+{
+  "meta": {
+    "count": 8,
+    "page": 1,
+    "total": 8
+  },
+  "results": [
+    {
+      "id": "desenvolvedor-java-python-ia-sustentacao",
+      "title": "Desenvolvedor Java/Python | IA & Sustentação",
+      "company": "Confitec",
+      "company_slug": "confitec",
+      "location": "Brazil",
+      "date": "2026-08-22T12:21:54.000Z",
+      "url": "https://himalayas.app/companies/confitec/jobs/desenvolvedor-java-python-ia-sustentacao",
+      "description": "Você fará parte de um time de desenvolvedores extremamente qualificado fortemente orientado a resultados e que não tem medo de inovar.\nVocê será parte vital no desenvolvimento da nova plataforma de um de nossos principais clientes, trabalhando com boas práticas de desenvolvimento em um ambiente dinâmico que incentiva a autonomia e o aprendizado constante.\nSomos especialistas em softwares voltados ao mercado segurador. Estamos ajudando a impulsionar a transformação no setor de seguros no Brasil. Estamos presentes em São Paulo e Rio de Janeiro, duas das principais capitais do país.\nEstamos crescendo e precisamos de pessoas que amem tecnologia e que sejam fascinadas por aprender!\nBuscamos profissional de desenvolvimento que já use IA de forma produtiva no ciclo de software — não só “já testou o ChatGPT”. O diferencial é operar bem Cursor, ChatGPT e outras ferramentas de IA para análise, código, investigação de incidentes, documentação e aceleração de entregas, com julgamento técnico para validar o que a IA , Python, AWS, Git e Grafana são o chão técnico. A ênfase é fluência em IA no fluxo de trabalho.\n\nObrigatório\n\nUso avançado e constante de Cursor (Agent, regras, contexto de repositório, revisão de diff).\n\nUso avançado de ChatGPT (e equivalentes) para decompor problema, gerar hipóteses e validar solução.\n\nCapacidade de desconfiar da IA: checar no código, no banco e nos logs antes de concluir.\n\nComunicação clara: explicar o que a IA sugeriu, o que foi aceito e o que foi descartado.\n\nAplicar o que foi sugerido de correções de forma clara e objetiva no meio produtivo apos os testes no ambiente de homologação e garantir que não afete de forma alguma o fluxo do negocio.\n\nDiferencial forte\n\nExperiência montando playbooks de IA para squad (prompts de incidente, de PR, de análise de proposta/legado).\n\nConhecimento de MCP, skills, automações e integração de IA no fluxo (CI, docs, investigação).\n\nTer usado IA em sistemas reais (legado, SQL Server, AWS, jobs batch) — não só tutorial.\n\nStack (base — importante, mas secundária à IA)\n\nJava (Spring) — APIs, serviços, manutenção de legado.\n\nPython — scripts, ETL, automações, jobs.\n\nAWS — S3, Lambda, SQS, CloudWatch, Step Functions/EMR (desejável).\n\nGit — branches, PRs, resolução de conflito.\n\nGrafana — métricas, logs, dashboards.\n\nPerfil\n\nAutonomia para investigar ponta a ponta (código + dado + observabilidade).\n\nOrganização: documenta o raciocínio, não só o resultado.\n\nÉtica com dado: não cola senha/PII em ferramenta de IA sem critério da empresa\n\nInformações adicionais\n\nVale Refeição creditado no Ifood Benefícios\n\nHorário Flexível\n\nPrograma de custeio e incentivo a cursos e certificações\n\nDesconto com faculdades parceiras\n\nPlano de Saúde\n\nPlano Odontológico\n\nPLR\n\nDay Off\n\nAuxílio Home Office\n\nHome Office\n\nGuapeco\n\nOriginally posted on Himalayas",
+      "excerpt": "Você fará parte de um time de desenvolvedores extremamente qualificado fortemente orientado a resultados e que não tem medo de inovar.",
+      "seniority": [
+        "Mid-level"
+      ],
+      "categories": [
+        "Backend-Development",
+        "Software-Development",
+        "Java-Development",
+        "Python-Development",
+        "Java-Developer",
+        "Desenvolvedor-De-IA",
+        "Analista-De-Sustentação",
+        "Desenvolvedor-Java-Mid-Level",
+        "Desenvolvedor-De-Software",
+        "AI-ML-Engineer"
+      ],
+      "application_link": "https://himalayas.app/companies/confitec/jobs/desenvolvedor-java-python-ia-sustentacao",
+      "expiry_date": "2026-10-21T12:21:54.000Z"
+    },
+    {
+      "id": "desenvolvedor-de-sistemas-fullstack-java-e-react-sistemas-4-contabil-cr",
+      "title": "Desenvolvedor de Sistemas | Fullstack | Java e React | Sistemas 4 |Contábil | Cr",
+      "company": "Cresol",
+      "company_slug": "cresol",
+      "location": "Brazil",
+      "date": "2026-08-17T23:40:21.000Z",
+      "url": "https://himalayas.app/companies/cresol/jobs/desenvolvedor-de-sistemas-fullstack-java-e-react-sistemas-4-contabil-cr",
+      "description": "Venha fazer a diferença com a gente! 🧡\nEstamos em busca de um(a) Desenvolvedor de Sistemas talentoso e experiente para se juntar à nossa equipe de tecnologia!\nSe você acredita no poder do trabalho em equipe, na construção de um ambiente colaborativo e no impacto positivo que pode gerar na comunidade, essa oportunidade é para você!\nAqui na Cresol , crescimento é sobre desenvolver talentos, fortalecer conexões e criar um ambiente onde cada pessoa se sinta valorizada. Se você está pronto(a) para esse desafio e quer fazer parte de algo grandioso, vem para a Cresol e embarque na onda laranja! 🧡\n✨ Juntos, vamos mais longe! 🚀\nRealizar atividades inerentes ao desenvolvimento, implantação e monitoramento de sistemas, avaliando os requisitos funcionais e não funcionais recebidos, para desenvolver ou manter funcionalidades dos sistemas, acompanhando e monitorando a implantação e desempenho e utilizando as boas práticas de desenvolvimento.\n\nDesenvolver e manter aplicações web utilizando Java e frameworks modernos.\n\nCriar e integrar APIs para comunicação entre sistemas.\n\nGarantir a segurança e o desempenho das aplicações.\n\nColaborar com designers e analistas para definir requisitos técnicos.\n\nSeguir as boas praticas de desenvolvimento de software adotadas pelas empresa.\n\nParticipar de revisões de código e garantir a qualidade do software.\n\nImplementar testes automatizados para garantir a estabilidade do sistema.\n\nAcompanhar tendências tecnológicas e sugerir melhorias.\n\nTrabalhar em equipe utilizando metodologias ágeis como Scrum ou Kanban .\n\nEnsino superior em Engenharia da Computação, Ciências da Computação ou áreas afins;\n\nPós-Graduação na área de Análise e Desenvolvimento de Sistemas;\n\nExperiência comprovada em desenvolvimento com Java 8 - 21 .\n\nExperiência com Cloud Azure .\n\nExperiência com serviços de fila ( Service Bus ).\n\nExperiência com Containers.\n\nConhecimento em frameworks como Quarkus , Spring Boot .\n\nExperiência com tecnologias front-end como React ou Next.js .\n\nFamiliaridade com bancos de dados relacionais e não relacionais .\n\nExperiência com desenvolvimento de APIs RESTful .\n\nConhecimento em práticas de segurança para aplicações web.\n\nCapacidade de trabalhar em equipe e resolver problemas complexos.\n\nExperiência com metodologias ágeis como Scrum ou Kanban .\n\nInformações adicionais\nConfira nossos benefícios:\nPara o seu crescimento e futuro 🚀\nAdicional por Tempo de Serviço –Reconhecemos sua dedicação e carreira conosco\nAuxílio Pós-Graduação – Investimos no seu conhecimento com um incentivo especial para sua Pós-Graduação.\nDescontos Educacionais – Possuímos parcerias exclusivas com universidades para Graduação, Pós-Graduação e MBA.\nUniversidade Corporativa Cresol – Aprendizado contínuo para impulsionar sua carreira.\nPara celebrar os momentos especiais 🎉🥂\nDay Off de Aniversário – No mês do seu aniversário, além de um presente especial, você tem direito a um dia de folga para você comemorar como quiser!\nBônus Papai e Mamãe – A chegada de um filho é um momento único. Por isso, você recebe um incentivo especial para celebrar essa nova fase da sua vida.\nKit do Bebê – O cuidado da Cresol já começa desde o nascimento, com um presente especial para acolher quem está chegando na sua famí seu bebê.\nAuxílio Casamento – Um apoio financeiro para você celebrar esse novo capítulo da sua história de vida.\nAuxílio Natal – Um presente para tornar sua ceia ainda mais especial ao lado de quem ama.\nPara o seu bem-estar e qualidade de vida 🧘🏋️🧠\nPlano de Saúde – Sua saúde em primeiro lugar, a mensalidade é 100% custeada pela Cresol .\nPlano Odontológico - Sua saúde também começa pelo sorriso: E o melhor, a mensalidade é 100% custeada pela Cresol , sem custo para realizar os procedimentos contidos no plano.\nIncentivo à Atividade Física –Acesso a iniciativas como a academias, yoga, meditação e outras práticas voltadas para seu bem-estar.\nGinástica Laboral –Momentos de alongamentos e exercícios durante a rotina no trabalho, promovendo mais disposição e cuidado com o seu Bem Estar.\nIncentivo à Doação de Sangue – Valorizamos atitudes que salvam vidas, reforçamos a cooperação com um benefício financeiro para quem doa sangue.\nCresol Acolhe – Cuidado com a sua saúde emocional por meio de sessões de terapia onlines gratuitas para você e até dois dependentes (Cônjuge, filhos e pais).\nPara sua segurança e estabilidade 🌱💲\nSeguro de Vida – Proteção extra, incluindo cobertura para doenças graves.\nCresol Longevidade – Incentivo à construção de reserva financeira, pensando em um futuro mais seguro.\nPrevidência Privada – Incentivo à construção de reserva financeira, pensando em um futuro mais seguro.\nReconhecimentos ao longo da jornada 🏆\nPrêmio de Reconhecimento – Valorizamos quem faz a diferença e contribui para nossa história.\nPPR (Programa de Participação nos Resultados) – Com planejamento, o seu desempenho se transforma em Aqui, temos um planejamento e o seu esforço gera reconhecimento e recompensa.\nPara você e sua família 👨‍👩‍👧 👶🐶\nVale Alimentação e/ou Refeição – Para tornar seu dia a dia mais prático.\nAuxílio Creche – Apoio para a educação e cuidado dos seus filhos até 7 anos.\nAuxílio Material Escolar – Um incentivo para a educação dos seus filhos de até 11 anos e 11 meses.\nVale Transporte – Facilitamos sua locomoção com transporte público coletivo.\nFérias Flexíveis – Possibilidade de dividir as férias em até três períodos, para melhor organização pessoal.\nLicença Pet – Adotou um pet? Você ganha 2 dias de folga para curtir esse novo membro da família.\nLicença Maternidade Estendida – Além dos 120 dias previstos em lei, você pode escolher entre mais 30 dias integrais ou 60 dias por meio período.\nLicença Paternidade Estendida – Mais tempo para viver esse momento especial, com 5 dias adicionais além dos previstos em lei.\nAuxílio acolhimento especial: Benefício destinado a colaboradores que são pais de pessoas com deficiência que necessitam de cuidado integral.\nAusência Justificada : Pais que tenham filhos com deficiência terão até 5 dias de faltas justificadas por ano para acompanhamento em consultas ou internações.\nPara os momentos delicados 🖤\nAuxílio Falecimento – Um suporte financeiro mensal, por um ano, aos dependentes legais do colaborador que faleceu.\nAuxílio Funeral – Apoio financeiro para auxiliar nas despesas neste momento difícil.\nLicença Luto – Mais 3 dias úteis de licença, além dos previstos em lei, para momentos de despedida de pais, filhos, irmãos ou cônjuge.\nPara fortalecer nosso orgulho de pertencer 🧡\nUniforme – Conforto, identidade e orgulho de vestir a nossa marca no dia a dia.\nOriginally posted on Himalayas",
+      "excerpt": "Venha fazer a diferença com a gente!  🧡Estamos em busca de um(a) Desenvolvedor de Sistemas talentoso e experiente para se juntar à nossa equipe de tecnologia!",
+      "seniority": [
+        "Senior"
+      ],
+      "categories": [
+        "Fullstack-Development",
+        "Java-Development",
+        "React",
+        "Systems-Development",
+        "Backend-Development",
+        "Desenvolvedor-De-Sistemas",
+        "Desenvolvedor-Full-Stack",
+        "Desenvolvedor-ReactJS",
+        "Engenheiro-De-Software-Full-Stack",
+        "Desenvolvedor-Senior-Full-Stack",
+        "Desenvolvedor-De-Software",
+        "Desenvolvedor-React",
+        "Senior-Full-Stack-Developer-React-And-Java",
+        "Desenvolvedor-Java-Senior",
+        "Java-Developer"
+      ],
+      "application_link": "https://himalayas.app/companies/cresol/jobs/desenvolvedor-de-sistemas-fullstack-java-e-react-sistemas-4-contabil-cr",
+      "expiry_date": "2026-10-16T23:40:21.000Z"
+    },
+    {
+      "id": "desenvolvedor-ios-pleno",
+      "title": "Desenvolvedor iOS Pleno",
+      "company": "Deliver IT",
+      "company_slug": "deliver-it",
+      "location": "Brazil",
+      "date": "2026-08-28T03:01:13.000Z",
+      "url": "https://himalayas.app/companies/deliver-it/jobs/desenvolvedor-ios-pleno",
+      "description": "Você se considera uma pessoa que tem sede por aprendizado, gosta de trabalhar em equipe e curte compartilhar conhecimento? Então essa oportunidade é para você!\nEstamos em busca de um(a) Desenvolvedor IOS Sênior, para atuar em um cliente global de comércio eletrônico. Presente em 45 países, publicando anúncios classificados na Internet.\nNa sua rotina de trabalho, você vai se deparar com as seguintes atividades:\n\nAtuar com desenvolvimento de soluções ponta a ponta;\n\nTrabalhar em conjunto com os demais times de engenharia para construir e manter produtos, com foco em nossos clientes;\n\nPrezar pela excelência do software, aliando o seu conhecimento técnico e experiência, com uma postura proativa;\n\nTer autonomia, com a responsabilidade de entregar um software que atenda um volume massivo de requisições, com alta disponibilidade e que gere um impacto para o negócio.\n\nConfere abaixo o que você vai precisar saber pra se dar bem nessa oportunidade!\nCONHECIMENTOS EXIGIDOS\n\nExperiência como engenheiro de software mobile, tendo aprendido e trabalhado com Swift e Objective C;\n\nExperiência com Design Patterns (Ex: Adapters, Singletons, Dependency Injection e etc);\n\nExperiência com versionamento de código (Ex: Git, gitflow);\n\nExperiência com metodologias ágeis e práticas ágeis (Ex: Scrum, Kanban, Pair Programming);\n\nExperiência em desenvolvimento orientado a testes (Ex: TDD, BDD);\n\nExperiência com testes unitários (Ex: XCTest, XCTestCase);\n\nExperiência com testes instrumentados (Ex: teste de integração, end to end e testes de interface);\n\nConhecimento em integração contínua e distribuição contínua (Ex: CI, CD, fastlane, github actions);\n\nConhecimento sobre observabilidade e monitoramento.\n\nCONHECIMENTOS DESEJÁVEIS\nAtuação em projetos de alta escalabilidade;\n\nInformações adicionais\nA Deliver IT vai deixar a digital nesse projeto e quer convidar você para fazer parte dessa construção! 🙆‍♀️\nTemos uma cultura leve, descontraída, colaborativa e diversa, além de um ambiente enriquecedor, com muitos colegas feras em diversos segmentos e muitos desafios. Aqui você vai encontrar projetos inovadores, conexão e muita troca de conhecimento! 😊\n⭐Fomos eleitos pela GPTW a 5° Melhor empresa para se trabalhar no RS e 24º a nível BRASIL. 🤩\nTodas as nossas posições seguem o modelo de contrato CLT em 44h/semanais.\nCONFIRA NOSSOS BENEFÍCIOS\n\nModalidade: 100% Remoto\n\nVA e/ou VR\n\nPrograma Bem-Estar: apoio psicológico, apoio jurídico, apoio social, apoio financeiro.\n\nPlano de Saúde e Plano Odontológico\n\nWellhub (Gympass)\n\nSeguro de Vida\n\nWorkshops mensais\n\nParcerias que te dão desconto: Sucesu, Target Trust, Sesc e Seprorgs\n\nPremiação por aniversário de empresa\n\nPremiação por indicação contratada\n\nAuxílio Creche\n\nOriginally posted on Himalayas",
+      "excerpt": "Você se considera uma pessoa que tem sede por aprendizado, gosta de trabalhar em equipe e curte compartilhar conhecimento?",
+      "seniority": [
+        "Mid-level"
+      ],
+      "categories": [
+        "iOS-Development",
+        "Mobile-Development",
+        "Swift-Development",
+        "Software-Engineer",
+        "Mobile-Engineering",
+        "Desenvolvedor-Mobile",
+        "iOS-Developer",
+        "Desenvolvedor-De-Software"
+      ],
+      "application_link": "https://himalayas.app/companies/deliver-it/jobs/desenvolvedor-ios-pleno",
+      "expiry_date": "2026-10-27T03:01:12.000Z"
+    },
+    {
+      "id": "desenvolvedor-de-sistemas-fullstack-java-e-react-sistemas-4-riscos-de-cr",
+      "title": "Desenvolvedor de Sistemas | Fullstack | Java e React | Sistemas 4 | Riscos de Cr",
+      "company": "Cresol",
+      "company_slug": "cresol",
+      "location": "Brazil",
+      "date": "2026-08-17T20:27:02.000Z",
+      "url": "https://himalayas.app/companies/cresol/jobs/desenvolvedor-de-sistemas-fullstack-java-e-react-sistemas-4-riscos-de-cr",
+      "description": "Venha fazer a diferença com a gente! 🧡\nEstamos em busca de um(a) Desenvolvedor de Sistemas talentoso e experiente para se juntar à nossa equipe de tecnologia!\nSe você acredita no poder do trabalho em equipe, na construção de um ambiente colaborativo e no impacto positivo que pode gerar na comunidade, essa oportunidade é para você!\nAqui na Cresol , crescimento é sobre desenvolver talentos, fortalecer conexões e criar um ambiente onde cada pessoa se sinta valorizada. Se você está pronto(a) para esse desafio e quer fazer parte de algo grandioso, vem para a Cresol e embarque na onda laranja! 🧡\n✨ Juntos, vamos mais longe! 🚀\nRealizar atividades inerentes ao desenvolvimento, implantação e monitoramento de sistemas, avaliando os requisitos funcionais e não funcionais recebidos, para desenvolver ou manter funcionalidades dos sistemas, acompanhando e monitorando a implantação e desempenho e utilizando as boas práticas de desenvolvimento.\n\nDesenvolver e manter aplicações web utilizando Java e frameworks modernos.\n\nCriar e integrar APIs para comunicação entre sistemas.\n\nGarantir a segurança e o desempenho das aplicações.\n\nColaborar com designers e analistas para definir requisitos técnicos.\n\nSeguir as boas praticas de desenvolvimento de software adotadas pelas empresa.\n\nParticipar de revisões de código e garantir a qualidade do software.\n\nImplementar testes automatizados para garantir a estabilidade do sistema.\n\nAcompanhar tendências tecnológicas e sugerir melhorias.\n\nTrabalhar em equipe utilizando metodologias ágeis como Scrum ou Kanban .\n\nEnsino superior em Engenharia da Computação, Ciências da Computação ou áreas afins;\n\nPós-Graduação na área de Análise e Desenvolvimento de Sistemas;\n\nExperiência comprovada em desenvolvimento com Java 8 - 21 .\n\nExperiência com Cloud Azure .\n\nExperiência com serviços de fila ( Service Bus ).\n\nExperiência com Containers.\n\nConhecimento em frameworks como Quarkus , Spring Boot .\n\nExperiência com tecnologias front-end como React ou Next.js .\n\nFamiliaridade com bancos de dados relacionais e não relacionais .\n\nExperiência com desenvolvimento de APIs RESTful .\n\nConhecimento em práticas de segurança para aplicações web.\n\nCapacidade de trabalhar em equipe e resolver problemas complexos.\n\nExperiência com metodologias ágeis como Scrum ou Kanban .\n\nInformações adicionais\nConfira nossos benefícios:\nPara o seu crescimento e futuro 🚀\nAdicional por Tempo de Serviço –Reconhecemos sua dedicação e carreira conosco\nAuxílio Pós-Graduação – Investimos no seu conhecimento com um incentivo especial para sua Pós-Graduação.\nDescontos Educacionais – Possuímos parcerias exclusivas com universidades para Graduação, Pós-Graduação e MBA.\nUniversidade Corporativa Cresol – Aprendizado contínuo para impulsionar sua carreira.\nPara celebrar os momentos especiais 🎉🥂\nDay Off de Aniversário – No mês do seu aniversário, além de um presente especial, você tem direito a um dia de folga para você comemorar como quiser!\nBônus Papai e Mamãe – A chegada de um filho é um momento único. Por isso, você recebe um incentivo especial para celebrar essa nova fase da sua vida.\nKit do Bebê – O cuidado da Cresol já começa desde o nascimento, com um presente especial para acolher quem está chegando na sua famí seu bebê.\nAuxílio Casamento – Um apoio financeiro para você celebrar esse novo capítulo da sua história de vida.\nAuxílio Natal – Um presente para tornar sua ceia ainda mais especial ao lado de quem ama.\nPara o seu bem-estar e qualidade de vida 🧘🏋️🧠\nPlano de Saúde – Sua saúde em primeiro lugar, a mensalidade é 100% custeada pela Cresol .\nPlano Odontológico - Sua saúde também começa pelo sorriso: E o melhor, a mensalidade é 100% custeada pela Cresol , sem custo para realizar os procedimentos contidos no plano.\nIncentivo à Atividade Física –Acesso a iniciativas como a academias, yoga, meditação e outras práticas voltadas para seu bem-estar.\nGinástica Laboral –Momentos de alongamentos e exercícios durante a rotina no trabalho, promovendo mais disposição e cuidado com o seu Bem Estar.\nIncentivo à Doação de Sangue – Valorizamos atitudes que salvam vidas, reforçamos a cooperação com um benefício financeiro para quem doa sangue.\nCresol Acolhe – Cuidado com a sua saúde emocional por meio de sessões de terapia onlines gratuitas para você e até dois dependentes (Cônjuge, filhos e pais).\nPara sua segurança e estabilidade 🌱💲\nSeguro de Vida – Proteção extra, incluindo cobertura para doenças graves.\nCresol Longevidade – Incentivo à construção de reserva financeira, pensando em um futuro mais seguro.\nPrevidência Privada – Incentivo à construção de reserva financeira, pensando em um futuro mais seguro.\nReconhecimentos ao longo da jornada 🏆\nPrêmio de Reconhecimento – Valorizamos quem faz a diferença e contribui para nossa história.\nPPR (Programa de Participação nos Resultados) – Com planejamento, o seu desempenho se transforma em Aqui, temos um planejamento e o seu esforço gera reconhecimento e recompensa.\nPara você e sua família 👨‍👩‍👧 👶🐶\nVale Alimentação e/ou Refeição – Para tornar seu dia a dia mais prático.\nAuxílio Creche – Apoio para a educação e cuidado dos seus filhos até 7 anos.\nAuxílio Material Escolar – Um incentivo para a educação dos seus filhos de até 11 anos e 11 meses.\nVale Transporte – Facilitamos sua locomoção com transporte público coletivo.\nFérias Flexíveis – Possibilidade de dividir as férias em até três períodos, para melhor organização pessoal.\nLicença Pet – Adotou um pet? Você ganha 2 dias de folga para curtir esse novo membro da família.\nLicença Maternidade Estendida – Além dos 120 dias previstos em lei, você pode escolher entre mais 30 dias integrais ou 60 dias por meio período.\nLicença Paternidade Estendida – Mais tempo para viver esse momento especial, com 5 dias adicionais além dos previstos em lei.\nAuxílio acolhimento especial: Benefício destinado a colaboradores que são pais de pessoas com deficiência que necessitam de cuidado integral.\nAusência Justificada : Pais que tenham filhos com deficiência terão até 5 dias de faltas justificadas por ano para acompanhamento em consultas ou internações.\nPara os momentos delicados 🖤\nAuxílio Falecimento – Um suporte financeiro mensal, por um ano, aos dependentes legais do colaborador que faleceu.\nAuxílio Funeral – Apoio financeiro para auxiliar nas despesas neste momento difícil.\nLicença Luto – Mais 3 dias úteis de licença, além dos previstos em lei, para momentos de despedida de pais, filhos, irmãos ou cônjuge.\nPara fortalecer nosso orgulho de pertencer 🧡\nUniforme – Conforto, identidade e orgulho de vestir a nossa marca no dia a dia.\nOriginally posted on Himalayas",
+      "excerpt": "Venha fazer a diferença com a gente!  🧡Estamos em busca de um(a) Desenvolvedor de Sistemas talentoso e experiente para se juntar à nossa equipe de tecnologia!",
+      "seniority": [
+        "Mid-level"
+      ],
+      "categories": [
+        "Fullstack-Development",
+        "Java-Development",
+        "React",
+        "Backend-Development",
+        "Software-Development",
+        "Desenvolvedor-De-Sistemas",
+        "Desenvolvedor-Full-Stack",
+        "Desenvolvedor-ReactJS",
+        "Desenvolvedor-De-Software",
+        "Desenvolvedor-React",
+        "Programador-Java",
+        "Java-Developer"
+      ],
+      "application_link": "https://himalayas.app/companies/cresol/jobs/desenvolvedor-de-sistemas-fullstack-java-e-react-sistemas-4-riscos-de-cr",
+      "expiry_date": "2026-10-16T20:27:02.000Z"
+    },
+    {
+      "id": "desenvolvedor-full-stack",
+      "title": "Desenvolvedor Full Stack",
+      "company": "InEvent",
+      "company_slug": "inevent",
+      "location": "Brazil",
+      "date": "2026-08-23T20:32:36.000Z",
+      "url": "https://himalayas.app/companies/inevent/jobs/desenvolvedor-full-stack",
+      "description": "SOBRE A INEVENT\nA InEvent é uma startup B2B inovadora e ágil que desenvolve soluções inteligentes para eventos e marketing em grandes empresas, criando gerenciamento de alto nível para executivos e ferramentas operacionais robustas para analistas e gerentes.\n\nQUEM SOMOS\nA InEvent é uma empresa de tecnologia de eventos remotos com InEvent ers em mais de 13 países diferentes, falando mais de 27 idiomas diferentes. Somos uma equipe global.\nOs InEvent ers são uma equipe única, com Visão de crescimento e Valores compartilhados. Nós permitimos que você seja você mesmo e encorajamos a comunicação aberta. O mais importante aqui não é a sua experiência, mas sim a sua curiosidade e paixão por aprender e crescer connosco!\n\nFULL STACK DEVELOPER\nA InEvent está procurando um Desenvolvedor Full Stack que deseja se juntar ao nosso Time de Produto responsável por impressionar os clientes desenvolvendo uma tecnologia transformadora. Suas responsabilidades incluem projetar as interações do usuário em nosso site, trabalhar com servidores e bancos de dados para a funcionalidade do site e desenvolvimento de plataformas móveis.\nRESPONSABILIDADES\n\nConhecer os modelos de desenvolvimento usados em nossas plataformas;\n\nDesenvolver parte da nossa comunicação;\n\nCorrigir problemas e resolver questões de design de programação tanto no backend quanto no frontend;\n\nParticipar de eventos de empreendedorismo e tecnologia;\n\nColaborar ativamente com a criação de valor do InEvent , tendo coragem de ser desafiado e disposição para propor as melhorias necessárias.\n\nPERFIL IDEAL\n\nExperiência de pelo menos 1 ano em desenvolvimento web, principalmente com foco em implementação modular e interfaces minimalistas e funcionais;\n\nExperiência em REST API e ambiente LINUX e / ou DOCKER;\n\nHabilidades de aprendizado rápido e resolução de problemas;\n\nConhecimento e experiência em desenvolvimento com PHP + nginx + mySQL para nosso backend e HTML5, Vue.js, Javascript e CSS para nosso frontend é desejável;\n\nCriatividade e curiosidade para aprender e propor novos conceitos em nossa plataforma;\n\nTer um espírito hacker quando necessário;\n\nEsteja pronto para trabalhar remotamente em um ambiente UNIX e plataformas de versionamento de código (GIT);\n\nMuito (muito) resiliente para aprender continuamente em uma startup!\n\nBENEFÍCIOS\n\nPlano de saúde;\n\nPaid Time Off (PTO);\n\nDia de aniversário off;\n\nPresentes de aniversário e aniversário de trabalho.\n\nCONTRATO\n\nInEvent é uma startup americana e o contrato é feito via PJ.\n\nOriginally posted on Himalayas",
+      "excerpt": "SOBRE A INEVENT A InEvent é uma startup B2B inovadora e ágil que desenvolve soluções inteligentes para eventos e marketing em grandes empresas, criando gerenciamento de alto nível para executivos e ferramentas operacionais robustas para analistas e gerentes.",
+      "seniority": [
+        "Senior"
+      ],
+      "categories": [
+        "Web-Development",
+        "Backend-Development",
+        "Frontend-Development",
+        "Software-Development",
+        "Desenvolvedor-Full-Stack",
+        "Mid-Level-Desenvolvedor-Full-Stack",
+        "Full-Stack-Developer",
+        "Full-Stack-Software-Developer",
+        "Full-Stack-Engineer",
+        "Fullstack-Development"
+      ],
+      "application_link": "https://himalayas.app/companies/inevent/jobs/desenvolvedor-full-stack",
+      "expiry_date": "2026-09-22T05:24:45.000Z"
+    },
+    {
+      "id": "desenvolvedor-java-integracao-de-sistemas-de-saude-hl7-fhir",
+      "title": "Desenvolvedor Java  - Integração de Sistemas de Saúde (HL7 / FHIR)",
+      "company": "Grupo Data",
+      "company_slug": "grupo-data",
+      "location": "Brazil",
+      "date": "2026-08-23T08:18:59.000Z",
+      "url": "https://himalayas.app/companies/grupo-data/jobs/desenvolvedor-java-integracao-de-sistemas-de-saude-hl7-fhir",
+      "description": "🩺 Desenvolvedor Java Integração de Sistemas de Saúde (HL7 / FHIR)\n\nRemoto Fuso Horário de Portugal\nSetor Público / Saúde Digital\nResumo da Oportunidade\nEstamos em busca de um Desenvolvedor Java com experiência em integração de sistemas de saúde e conhecimento dos padrões HL7 (V2 ou FHIR) .\nO profissional atuará no desenvolvimento e manutenção de soluções de interoperabilidade , garantindo a comunicação eficiente entre diferentes sistemas clínicos e plataformas de saúde.\nTrata-se de uma posição 100% remota , com colaboração internacional em ambiente de alta responsabilidade técnica e impacto direto no setor público de saúde.\nResponsabilidades Principais\n\nManter e evoluir sistemas de integração entre diferentes aplicações de saúde.\n\nDesenvolver aplicações em Java para troca de dados clínicos usando HL7 v2.x ou FHIR .\n\nCriar e configurar interfaces HL7 (envio, recebimento e transformação de mensagens).\n\nImplementar soluções de roteamento e transformação de mensagens (por exemplo, entre ADT, ORM, ORU).\n\nIntegrar aplicações Java com sistemas de Registro Eletrônico de Saúde (EHR) , plataformas de interoperabilidade e serviços clínicos.\n\nColaborar com stakeholders técnicos e de negócio para entender requisitos e necessidades de integração.\n\nGarantir conformidade com regulamentações de dados de saúde (LGPD, GDPR, HIPAA, quando aplicável).\n\nExecutar testes unitários e de integração em todas as soluções desenvolvidas.\n\nDiagnosticar e resolver incidentes relacionados à troca de dados e interfaces HL7 .\n\nProduzir documentação técnica de interfaces, fluxos de mensagens e APIs desenvolvidas.\n\nRequisitos Obrigatórios\n\nFormação: Ensino superior completo em Engenharia da Computação, Sistemas de Informação, Ciência de Dados, Estatística, Matemática ou áreas correlatas.\n\nExperiência profissional: mínimo de 3 anos com desenvolvimento de software em ambiente corporativo.\n\nJava (8+): mínimo de 3 anos de experiência sólida em backend.\n\nMensageria: mínimo de 2 anos com Kafka e/ou RabbitMQ .\n\nFormatos de Dados: domínio de JSON , XML e Protocol Buffers .\n\nAPIs REST: mínimo de 2 anos desenvolvendo e consumindo serviços RESTful.\n\nPadrões HL7: mínimo de 2 anos com HL7 v2.x ou FHIR (criação, parsing, validação e transformação de mensagens).\n\nDesejável\n\nFluência em inglês (falado e escrito) para comunicação com equipes internacionais.\n\nExperiência com módulos clínicos , EHR/EMR , IHE , ou integrações HIS/LIS/RIS .\n\nConhecimento de ferramentas de interoperabilidade como Mirth Connect , HAPI FHIR , ou InterSystems Ensemble .\n\nFamiliaridade com Docker , Spring Boot e microserviços .\n\nInformações Adicionais\n\nLocal de trabalho: 100% remoto (obrigatório atuar no fuso horário de Portugal ).\n\nSetor do cliente: Público / Saúde.\n\nIdioma de trabalho: Português (Inglês é diferencial).\n\nNível: Pleno a Sênior.\n\nPerfil Ideal\nProfissional com base sólida em Java e experiência real em integrações de saúde , que compreenda os desafios da interoperabilidade clínica .\nCapaz de trabalhar de forma autônoma, comunicando-se bem com times distribuídos e garantindo qualidade, segurança e conformidade regulatória na troca de dados clínicos.\n\nOriginally posted on Himalayas",
+      "excerpt": "🩺 Desenvolvedor Java Integração de Sistemas de Saúde (HL7 / FHIR)Remoto Fuso Horário de Portugal Setor Público / Saúde Digital Resumo da OportunidadeEstamos em busca de um Desenvolvedor Java com experiência em integração de sistemas de saúde e conhecimento dos padrões HL7 (V2 ou FHIR).",
+      "seniority": [
+        "Senior"
+      ],
+      "categories": [
+        "Java-Developer",
+        "Healthcare-Software-Integration-Developer",
+        "HL7-Developer",
+        "FHIR-Developer",
+        "Backend-Engineer",
+        "Desenvolvedor-De-Integração",
+        "Desenvolvedor-Java-Senior",
+        "Engenharia-De-Integração-Healthcare",
+        "HL7-Integration-Engineer"
+      ],
+      "application_link": "https://himalayas.app/companies/grupo-data/jobs/desenvolvedor-java-integracao-de-sistemas-de-saude-hl7-fhir",
+      "expiry_date": "2026-10-22T08:18:58.000Z"
+    },
+    {
+      "id": "hitss-desenvolvedor-front-end-angular",
+      "title": "Hitss | Desenvolvedor Front-End (Angular)",
+      "company": "Hitss Brasil",
+      "company_slug": "hitss-brasil",
+      "location": "Brazil",
+      "date": "2026-08-18T07:01:00.000Z",
+      "url": "https://himalayas.app/companies/hitss-brasil/jobs/hitss-desenvolvedor-front-end-angular",
+      "description": "Na Hitss, a inovação é o nosso combustível, a curiosidade é o nosso motor e o respeito pelo cliente é o nosso guia. Se você é movido pela paixão em criar soluções tecnológicas disruptivas, se busca constantemente desafios que ampliem os limites do possível e se acredita que colocar o cliente em primeiro lugar é a chave para o sucesso, então você está no lugar certo.\nQueremos pessoas que se destaquem, que pensem fora da caixa e estejam dispostas a desbravar novos horizontes. Aqui, cada ideia é valorizada, cada pergunta é incentivada e cada desafio é encarado como uma oportunidade de aprendizado e crescimento.\nJunte-se a nós e faça parte de uma cultura vibrante, onde a inovação é alimentada pela curiosidade incessante e onde o respeito pelo cliente permeia todas as nossas ações. Aqui, você terá a liberdade de explorar suas habilidades, colaborar com mentes brilhantes e transformar o futuro da tecnologia.\nSe você está pronto para fazer parte de uma empresa que acredita que o talento é a chave para o sucesso, envie seu currículo e junte-se à nossa equipe.\nEstamos ansiosos para conhecer você e impulsionar juntos a próxima geração de soluções tecnológicas.\nVenha ser um Hit!\n\nDesenvolver e manter interfaces de aplicações web com foco em performance, escalabilidade e usabilidade;\n\nTraduzir layouts e protótipos de alta fidelidade em código funcional e otimizado;\n\nTrabalhar em colaboração com designers, desenvolvedores back-end e demais membros do time;\n\nGarantir a compatibilidade cross-browser e a responsividade das aplicações;\n\nParticipar de code reviews, propondo melhorias e mantendo a qualidade do código;\n\nApoiar a evolução técnica do front-end por meio da adoção de boas práticas e novas tecnologias.\n\nRequisitos Necessários\n\nEnsino superior completo em Ciência da Computação, Engenharia de Software, Sistemas de Informação ou áreas correlatas (necessário estar em posse do diploma no processo);\n\nDomínio de frameworks/bibliotecas como Angular;\n\nExperiência com HTML5, CSS3 e JavaScript (ES6+);\n\nExperiência com consumo de APIs REST;\n\nConhecimento em controle de versão com Git;\n\nAtenção a boas práticas de desenvolvimento, responsividade e acessibilidade.\n\nRequisitos desejáveis\n\nConhecimento em ferramentas de testes de interface (Jest, Testing Library, Cypress);\n\nFamiliaridade com design systems e ferramentas de prototipação (Figma, Adobe XD);\n\nConhecimento em Webpack, Vite, Babel ou outras ferramentas de build;\n\nExperiência com metodologias ágeis (Scrum/Kanban);\n\nNoções de UX/UI e mobile first.\n\nInformações adicionais\nQuer conhecer todas as nossas vagas? Acesse a nossa página:\nHitss - Trabalhe Conosco\n\nImportante: Todas as nossas vagas são elegíveis para profissionais com deficiência, equidade de gênero e raça/ etnia.\nOriginally posted on Himalayas",
+      "excerpt": "Na Hitss, a inovação é o nosso combustível, a curiosidade é o nosso motor e o respeito pelo cliente é o nosso guia.",
+      "seniority": [
+        "Mid-level"
+      ],
+      "categories": [
+        "Frontend-Development",
+        "Angular-Development",
+        "Web-Development",
+        "Frontend-Engineer",
+        "UI-Development",
+        "Desenvolvedor-Angular",
+        "Desenvolvimento-Frontend",
+        "Angular-Frontend-Developer",
+        "Desenvolvedor-Front-End",
+        "Angular-Developer",
+        "Angular-Frontend-Development"
+      ],
+      "application_link": "https://himalayas.app/companies/hitss-brasil/jobs/hitss-desenvolvedor-front-end-angular",
+      "expiry_date": "2026-10-17T07:00:59.000Z"
+    },
+    {
+      "id": "desenvolvedor-de-software-senior",
+      "title": "Desenvolvedor de Software Sênior",
+      "company": "Montreal | Tecnologia e Inovação",
+      "company_slug": "montreal-tecnologia-e-inovacao",
+      "location": "Brazil",
+      "date": "2026-08-20T12:19:14.000Z",
+      "url": "https://himalayas.app/companies/montreal-tecnologia-e-inovacao/jobs/desenvolvedor-de-software-senior",
+      "description": "Como Desenvolvedor de Software Sênior na Montreal , você fará parte de uma das melhores empresas de tecnologia do Brasil. Nossa trajetória iniciou há mais de trinta anos com uma pequena equipe de engenharia apaixonada por inovação. Em 1986, pessoas visionárias fizeram um compromisso com a tecnologia e sua capacidade de transformar o mundo. Aquele, seria apenas o começo de uma trajetória que nos tornou referência sólida no mercado e uma das melhores empresas para se trabalhar.\nProfissional da CONTRATADA responsável pela produção dos artefatos de software que o Squad deve entregar.\nStack do projeto\n\nBackend: , Fastify, Sequelize, JWT, Joi e Jest.\n\nFrontend web: React, Material UI, React Router, Formik, Yup, Axios, , Leaflet e FullCalendar.\n\nMobile: React Native, TypeScript, React Navigation, React Query, Realm, MMKV, Vision Camera, OCR, geolocalização e armazenamento seguro.\n\nBanco de dados: Azure SQL, SQLite, Oracle e migrations com Flyway.\n\nDevOps: Docker, Azure Pipelines e Azure Storage Blob.\n\nTestes: Jest, Testing Library e Playwright.\n\nIntegrações: APIs REST, geração e exportação de arquivos, upload de documentos e imagens, autenticação e controle de acesso.\n\nResponsabilidades\n\nAtuar no desenvolvimento e manutenção de APIs, interfaces web e aplicativo mobile.\n\nPropor soluções técnicas escaláveis, seguras e alinhadas às necessidades do negócio.\n\nParticipar de cerimônias SCRUM, refinamentos, planejamentos, dailies, reviews e retrospectivas.\n\nApoiar o time na quebra técnica de demandas, estimativas e tomada de decisão arquitetural.\n\nGarantir a qualidade do código com boas práticas de Clean Code, testes e revisão de código.\n\nInvestigar problemas em produção, propor correções e melhorar a observabilidade dos fluxos críticos.\n\nUtilizar ferramentas de AI no operacional para acelerar a análise de código, documentação, testes, troubleshooting, automação de tarefas e apoio à produtividade do time.\n\nColaborar com DevOps/infra em pipelines, ambientes, deploys e integrações com serviços Azure.\n\nRequisitos\n\nEnsino superior concluído na área de Tecnologia da Informação, podendo ser tecnólogo, graduação ou pós-graduação em TI.\n\nExperiência sênior com JavaScript/TypeScript, e React.\n\nExperiência prática com construção e manutenção de APIs REST.\n\nConhecimento sólido em React Native ou disposição para atuar no app mobile do projeto.\n\nExperiência com Oracle, modelagem relacional, queries e migrations.\n\nFamiliaridade com Docker, pipelines de CI/CD e ambientes de homologação/produção.\n\nVivência com SCRUM e trabalho colaborativo em times multidisciplinares.\n\nCapacidade de escrever código limpo, testável e de fácil manutenção.\n\nBoa comunicação técnica, autonomia e senso de responsabilidade sobre as entregas.\n\nDiferenciais\n\nConhecimentos em Azure: Azure DevOps, Azure SQL, Blob Storage, Key Vault e Managed Identity.\n\nExperiência com Playwright e testes E2E.\n\nExperiência com apps mobile que utilizam câmera, OCR, geolocalização e funcionamento offline.\n\nConhecimento em segurança de APIs, gestão de secrets e boas práticas de deploy.\n\nUso maduro de ferramentas de AI no dia a dia de desenvolvimento e operação.\n\nOriginally posted on Himalayas",
+      "excerpt": "ComoDesenvolvedor de Software Sênior na Montreal, você fará parte de uma das melhores empresas de tecnologia do Brasil.",
+      "seniority": [
+        "Senior"
+      ],
+      "categories": [
+        "Senior-Software-Developer",
+        "Full-Stack-Developer",
+        "Backend-Engineer",
+        "Front-End-Developer",
+        "Mobile-Application-Developer",
+        "Desarrollador-De-Software-Senior",
+        "Desenvolvedor-Senior",
+        "Desenvolvedor-Java-Senior",
+        "Ingeniero-De-Software-Senior",
+        "Desenvolvedor-Senior-Full-Stack"
+      ],
+      "application_link": "https://himalayas.app/companies/montreal-tecnologia-e-inovacao/jobs/desenvolvedor-de-software-senior",
+      "expiry_date": "2026-10-19T12:19:14.000Z"
+    }
+  ]
+}

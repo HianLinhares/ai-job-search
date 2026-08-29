@@ -1,0 +1,235 @@
+{
+  "meta": {
+    "count": 8,
+    "page": 1,
+    "total": 8
+  },
+  "results": [
+    {
+      "id": "mcp-expert",
+      "title": "MCP Expert",
+      "company": "micro1",
+      "company_slug": "micro1",
+      "location": "Remote",
+      "date": "2026-08-28T15:50:11.000Z",
+      "url": "https://himalayas.app/companies/micro1/jobs/mcp-expert",
+      "description": "Job Title: MCP Expert\nJob Type: Contractor (~15 hrs a week)\nLocation: Remote\nSchedule: Flexible, you pick the hours and days (including weekends if desired)\nJob Summary: In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters.\nAs an expert you will be creating Reinforcement Learning Environments which test an AI model’s ability to solve complex software engineering problems using Model Context Protocol (MCP) tools. Tasks may involve fixing bugs, implementing features, refactoring code, or optimizing performance while requiring agents to discover and reason over information from real MCP servers. You will design reproducible environments, deterministic verification, and golden reference solutions that accurately measure both MCP tool use and software engineering ability.\nRequired Skills and Qualifications:\n\nProficiency in C++, Python, JAVA, GoLang, Typescript, or Rust.\n\nDeep understanding of algorithms, data structures, and performance tuning.\n\nDemonstrated experience in debugging complex software issues and delivering maintainable solutions.\n\nStrong background in feature development and codebase refactoring.\n\nProven ability to optimize software for performance and scalability.\n\nExceptional written and verbal communication skills, with a keen attention to detail.\n\nTrack record of success in collaborative, cross-functional teams, ideally in remote settings.\n\nPreferred Qualifications:\n\nPrevious experience working on large-scale, distributed codebases.\n\nFamiliarity with modern AI or machine learning systems is a plus, though not required.\n\nBackground in participating in rigorous code reviews and contributing to the development of software best practices.\n\nProcess:\n\nApply to the role, filling out the screening questions\n\nComplete AI Interview (approx. 30 minutes)\n\nTechnical Assessment (Tentative)\n\nHiring Manager review\n\nCompensation Structure\nCompensation is output-based; experts are paid per task that meets the project specifications. The time required to complete work may vary depending on the expert’s experience and workflow. Minimum submission requirements apply. Experts must submit a minimum of tasks per week.\nStart Timeline & Availability\nWe typically fill roles within 48 hours and are looking for experts ready to jump in right away. If selected, we expect you to start your first tasks within 24–48 hours of completing onboarding.\nOriginally posted on Himalayas",
+      "excerpt": "Job Title: MCP Expert Job Type: Contractor (~15 hrs a week) Location: Remote Schedule: Flexible, you pick the hours and days (including weekends if desired) Job Summary: In this role, you'll apply your expertise to help train next-generation AI systems.",
+      "seniority": [
+        "Mid-level"
+      ],
+      "categories": [
+        "MCP-Developer",
+        "MCP-Solutions-Architect",
+        "MCP-Agent-Development",
+        "MCP-Server-Development"
+      ],
+      "application_link": "https://himalayas.app/companies/micro1/jobs/mcp-expert",
+      "expiry_date": "2026-10-24T00:22:27.000Z"
+    },
+    {
+      "id": "wordpress-website-developer-4016445121",
+      "title": "WordPress Website Developer",
+      "company": "Wisevu",
+      "company_slug": "wisevu",
+      "location": "Brazil",
+      "date": "2026-08-22T08:02:48.000Z",
+      "url": "https://himalayas.app/companies/wisevu/jobs/wordpress-website-developer-4016445121",
+      "description": "Who We Are\nAt Wisevu ™ and our sister brands Homevu™ and CharityMarketing.com, we’ve been driving digital marketing success for over 17 years, specializing in SEO, digital PR, AI, content marketing, and web development for healthcare, home services, and charity clients in Canada, USA, and Europe.\nWisevu ™ is a fully remote team of 20+ specialists. You'll work on exciting client accounts in major markets like NYC, Toronto, and Spain—implementing cutting-edge strategies that drive real impact.\nLearn more at wisevu.com.\nWe are looking for:\nAs a Full-Stack WordPress Website Developer at Wisevu , you will play a key role in building and maintaining high-performance, secure, and user-friendly WordPress websites for our clients. You will work closely with other developers, designers, project managers, and clients to understand their needs and translate them into innovative and effective solutions.\nResponsibilities:\n\nDesign, develop, and maintain WordPress websites and plugins using best practices.\n\nOptimize website performance and ensure responsiveness across all devices.\n\nWrite efficient, maintainable, and reusable front-end and back-end code (HTML, CSS, JavaScript, PHP, MySQL).\n\nCollaborate with designers to convert designs into responsive web pages.\n\nOptimize website performance and ensure adherence to SEO best practices.\n\nImplement APIs and integrate third-party solutions.\n\nTroubleshoot and debug both front-end and back-end issues that arise with client websites.\n\nStay up-to-date on the latest WordPress core updates, full-stack technologies, and security best practices.\n\nRequirements\n\nMust-haves:\n\n3+ years of experience in WordPress development, including work on both front-end and back-end functionality.\n\nEnglish at an intermediate level, both written and verbal.\n\nBachelor's degree in Computer Science, Web Development, or a related field.\n\nStrong full-stack WordPress expertise, including custom theme and plugin development, front-end UI implementation, and back-end logic using WordPress APIs and PHP.\n\nIn-depth knowledge of PHP, JavaScript, HTML, CSS, and SQL.\n\nExperience with version control systems like Git.\n\nNice-to-haves:\n\nSolid understanding of SEO best practices in web development.\n\nDetail-oriented with a focus on quality.\n\nWork Timings:\n9 AM-5 PM EST workday (Monday - Friday). Fully remote.\n\nBenefits\n\nFully remote work.\n\nCompetitive salary, which will be negotiated during the interview based on competencies, skills, and experience.\n\nAnnual salary review.\n\nPremium training programs and access to an internal knowledge base built across 17 years of hands-on experience.\n\nProfessional equipment budget.\n\nAccess to cutting-edge tools (SEO platforms, Analytics tools, and more).\n\nLong-term and stable working relationship.\n\nWe kindly ask that you provide us with your resume in English.\nApply now and help us achieve exceptional digital marketing results—together!\nWisevu Inc.\n2026 © All the content in this job ad is the sole private property of Wisevu Inc. and shall not be used without written consent from Wisevu Inc. The content therein is protected by the Copyright Act of Canada and the Copyright Act of United States of America. All Rights Reserved.\nOriginally posted on Himalayas",
+      "excerpt": "Who We AreAt Wisevu™ and our sister brands Homevu™ and CharityMarketing.",
+      "seniority": [
+        "Mid-level"
+      ],
+      "categories": [
+        "WordPress-Development",
+        "Web-Development",
+        "Fullstack-Development",
+        "Frontend-Development",
+        "Backend-Development",
+        "WordPress-Developer",
+        "WordPress-Web-Designer",
+        "Freelance-WordPress-Developer",
+        "WordPress-Designer",
+        "WordPress-Specialist",
+        "Remote-WordPress-Developer",
+        "Full-Stack-WordPress-Developer",
+        "WordPress-Freelancer",
+        "Web-Developer"
+      ],
+      "application_link": "https://himalayas.app/companies/wisevu/jobs/wordpress-website-developer-4016445121",
+      "expiry_date": "2026-10-21T08:02:47.000Z"
+    },
+    {
+      "id": "software-developer-freelance",
+      "title": "Software Developer (Freelance)",
+      "company": "Sortitt",
+      "company_slug": "sortitt",
+      "location": "Australia, Austria, Brazil, Canada, Denmark, France, Germany, India, Ireland, Italy, Netherlands, New Zealand, Norway, Pakistan, Philippines, Spain, Sweden, Switzerland, United Kingdom, United States",
+      "date": "2026-08-22T20:33:41.000Z",
+      "url": "https://himalayas.app/companies/sortitt/jobs/software-developer-freelance",
+      "description": "Position Title: Software Developer (Freelance)\nLocation: Remote\nAbout Us: Welcome to Sortitt , the revolutionary marketplace that is reshaping the future of resource acquisition. As a dynamic platform, Sortitt connects business with top-tier resources across the globe, transcending traditional constraints. Our cutting edge approach delivers tailored solutions that precisely match client demands, creating opportunities for professionals seeking remote engagements. At Sortitt , resources are available on demand and clients are empowered with diverse choices to ensure the best talent with matching skills. Join us in revolutionizing talent sourcing where innovation, flexibility and growth converge to redefine success in the modern workforce.\nJob Summary: We are seeking a talented and experienced Software Developer to join our platform as a freelancer. The ideal candidate will be responsible for designing, developing, testing, and maintaining high-performance software applications. The Software Developer will work closely with cross-functional teams to deliver innovative solutions that meet the needs of our clients and contribute to the overall success of the company.\nOriginally posted on Himalayas",
+      "excerpt": "Position Title: Software Developer (Freelance) Location: Remote About Us: Welcome to Sortitt, the revolutionary marketplace that is reshaping the future of resource acquisition.",
+      "seniority": [
+        "Mid-level"
+      ],
+      "categories": [
+        "Software-Development",
+        "Development-and-Technology",
+        "Freelance-Development",
+        "Application-Development",
+        "Contract-Development",
+        "Freelance-Software-Developer",
+        "Software-Development-Freelancer",
+        "Freelance-Software-Development",
+        "Freelance-Software-Engineer",
+        "Freelance-Developer",
+        "Software-Developer",
+        "Python-Developer-(Freelance)",
+        "Contract-Software-Developer",
+        "Freelance-Developer-Jobs",
+        "Developer"
+      ],
+      "application_link": "https://himalayas.app/companies/sortitt/jobs/software-developer-freelance",
+      "expiry_date": "2026-10-28T01:24:56.000Z"
+    },
+    {
+      "id": "web-developer",
+      "title": "Web Developer",
+      "company": "SIL International",
+      "company_slug": "sil-international",
+      "location": "Remote",
+      "date": "2026-08-22T09:36:24.000Z",
+      "url": "https://himalayas.app/companies/sil-international/jobs/web-developer",
+      "description": "Job Title\nWeb Developer Location\nGlobal Position Type\nVolunteer Job Description\nVolunteer Position\nWe are seeking full time and volunteer professional Web Developers. Use your web skills to improve key websites supporting language development and Bible translation work worldwide. Make an impact by getting important information to language workers to improve their work quality and avoid delays.\n\nSIL International is a faith-based nonprofit organization committed to serving translation teams worldwide. If you believe, as we do, that all languages are of value, form an integral part of people’s identity, and have the potential to serve them in a rapidly changing world, then you can be part of a software team serving translation teams worldwide.\nSummary:\nA Web Developer has extensive technical expertise and can work independently or with a team to create, maintain, and update client websites in a variety of formats. Proficiency with JavaScript, HTML, CSS, and web applications and services is essential for succeeding in this role. The web developer will have an immediate impact on our brand and those of our clients, and will help solidify SIL's reputation for quality products and academic excellence. They will work together with the Director to plan upgrades to existing sites, and to map out design and functionality improvements, including selecting the best community plugins and built-in features to build the proposed functionality into the site.\nMajor Responsibilities:\n\nBuilds, designs, and maintains websites and software applications.\n\nDesigns, writes, and edits website content.\n\nExecutes assignments with the use of web applications, scripts, and programming languages such as HTML, CSS, JavaScript, and APIs.\n\nParticipate as an integral and enthusiastic part of the team, exhibiting ownership, follow-through, initiative, awareness, and effective communication with peers and management.\n\nWork with the team around a cohesive product roadmap\n\nMinor Responsibilities:\n\nAnalyze software requirements by consulting with the user community\n\nSupport user community with developer-level support\n\nWrite technical reference documentation for managing websites.\n\nParticipate in regular project status, planning, partnership, and strategic meetings\n\nBe available to travel to meet with the larger development team at least once per year\n\nBe available to travel biannually to the Language Technology Conference\n\nParticipate in professional conferences and meetings\n\nKnowledge, Skills, and Abilities:\n\nA servant heart attitude\n\nDemonstrated skills in website development\n\nDemonstrated skills in SEO\n\nDemonstrated skills in WordPress, HTML, and CSS\n\nPHP coding ability - helpful but not required. Our preference is to use popular community modules that will guarantee an easier upgrade path for future versions of the platform. A PHP coder would be welcome to contribute code to existing WordPress modules.\n\nGood interpersonal skills of communication\n\nGood organizational skills\n\nThe ability to make decisions in a timely manner\n\nThe ability to generate multiple solutions to the problem\n\nThe ability to quickly pick up technical concepts\n\nThe ability to work both with a team and independently, and to multitask effectively\n\nEducation and Experience:\nWeb Developers should have experience in website development and SEO. Bachelor’s degree in computer science or equivalent work experience is preferred, but we care more for a heart and mind that are always learning.\nTraining and Orientation:\nWill complete the initial IT Software Department training program and relevant portions of IT Orientation.\nWeekly Hours\n40 Originally posted on Himalayas",
+      "excerpt": "Job TitleWeb DeveloperLocationGlobalPosition TypeVolunteerJob DescriptionVolunteer Position We are seeking full time and volunteer professional Web Developers.",
+      "seniority": [
+        "Mid-level"
+      ],
+      "categories": [
+        "Web-Development",
+        "Frontend-Development",
+        "WordPress-Development",
+        "Website-Development",
+        "Web-Developer",
+        "JavaScript-Web-Developer",
+        "Web-Application-Developer",
+        "IT-Web-Developer",
+        "Web-Development-Engineer",
+        "HTML-Developer",
+        "Desenvolvedor-Web",
+        "Developer"
+      ],
+      "application_link": "https://himalayas.app/companies/sil-international/jobs/web-developer",
+      "expiry_date": "2026-10-21T09:36:23.000Z"
+    },
+    {
+      "id": "servicenow-developer",
+      "title": "ServiceNow Developer",
+      "company": "Rimini Street, Inc",
+      "company_slug": "rimini-street-inc",
+      "location": "Brazil",
+      "date": "2026-08-15T08:38:45.000Z",
+      "url": "https://himalayas.app/companies/rimini-street-inc/jobs/servicenow-developer",
+      "description": "About Rimini Street, Inc .\nRimini Street, Inc . (Nasdaq: RMNI), a Russell 2000® Company, is a global provider of end-to-end enterprise software support, products and services, the leading third-party support provider for Oracle and SAP software and a Salesforce and AWS partner. The Company has operations globally and offers a comprehensive family of unified solutions to run, manage, support, customize, configure, connect, protect, monitor, and optimize enterprise application, database, and technology software, and enables clients to achieve better business outcomes, significantly reduce costs and reallocate resources for innovation. To date, over 5,300 Fortune 500, Fortune Global 100, midmarket, public sector, and other organizations from a broad range of industries have relied on Rimini Street as their trusted enterprise software solutions provider. To learn more, please visit riministreet.com, and connect with Rimini Street on Twitter, Instagram, Facebook, and LinkedIn. (IR-RMNI).\nWe are actively seeking a ServiceNow Developer. This is a remote work and can based anywhere in Brazil.\nRole Summary\nThe ServiceNow Developer designs, develops, implements, and supports Rimini Street’s ServiceNow platform, including ITSM, CSM, ITOM, SPM, integrations, and core platform services. The role partners with stakeholders to analyze business processes, translate requirements into technical solutions, and configure and enhance the platform in alignment with established standards and best practices.\nKey Responsibilities\n\nDesign, develop, and configure workflows, business rules, forms, and scripts to meet requirements.\n\nSupport analysis and definition of functional and technical requirements.\n\nPartner with stakeholders to define solutions and translate business needs into platform designs.\n\nDevelop test scripts; support UAT and production deployments.\n\nConfigure and administer ServiceNow modules, automation, and integrations.\n\nConduct code reviews and collaborate on enhancements and projects.\n\nDevelop and support ITSM/CSM capabilities (portal, incident, problem, change, CMDB, assets, catalog).\n\nMaintain platform health, including upgrades and performance tuning.\n\nPromote data integrity and security through sound design and governance.\n\nProvide end-user support and training.\n\nRequired Qualifications\n\n5–7 years of ServiceNow experience (configuration, design, development, implementation, administration, and support).\n\nWorking knowledge of ServiceNow applications (CSM, ITSM, ITOM, SPM) and ITIL/ITSM processes.\n\nStrong communication, documentation, and training skills.\n\nAbility to manage multiple priorities effectively; strong problem-solving skills.\n\nEducation and Certification\n\nBachelor’s degree in Computer Science or related field, or equivalent experience.\n\nServiceNow Developer and/or Implementation Specialist certification preferred.\n\nLanguage\nFluent Portuguese and English. Spanish is a plus.\n\nLocation\nBrazil, remote work\n\nWhy Rimini Street?\nWe are looking for talented, passionate people to help us build our future at Rimini Street. We hire only the best, the most extraordinary professionals and provide compensation, bonuses, and benefits to match the skills of our top-performing team members. Do you thrive in a fast-paced environment, enjoy growing together, and get excited about learning new skills? Are you looking for an opportunity to make a true impact as part of a team of extraordinary professionals? This is the place for you.\nOur work is challenging and meaningful. We start and end each day with a sense of achievement and purpose guided by our core values, the Four Cs:\n\nCompany\n\nWe dream big and innovate boldly.\n\nColleagues\n\nWe work with extraordinary people who create a culture of mutual respect and collaboration.\n\nClients\n\nWe relentlessly pursue solutions that help clients achieve their goals. Our unmatched client care is rooted in our passion for exceptional service.\n\nCommunity\n\nWe believe in leaving the world a better place than we found it. With the Rimini Street Foundation, we’ve made positive impacts in six continents for over 425 charities.\n\nAccelerating Company Growth\n\nNasdaq-listed under ticker symbol RMNI since October 2017\n\nOver 6,000 signed clients, including over 200 of the Fortune 500 and Global 100 companies.\n\nOver 2,000 team members, 30 offices in 21 countries, supporting clients in over 160 countries.\n\nUS and international recognition for industry leadership and philanthropic efforts. See all of our awards and recognitions here:\n\nRimini Street is committed to creating a diverse and inclusive environment and is proud to be an Equal Employment Opportunity Employer. All qualified applicants will receive consideration for employment without regard to age, race, color, religion, national origin, sexual orientation, gender or gender identity, disability, protected veteran status, or any other characteristic protected by law.\nTo learn more about how Rimini Street is redefining the enterprise software support industry, visit\nPlease Note: Rimini Street does not accept resumes submitted by recruiting/staffing firms unless specifically requested by Human Resources. Unsolicited resumes will be ineligible for referral fees.\nOriginally posted on Himalayas",
+      "excerpt": "About Rimini Street, Inc. Rimini Street, Inc.  (Nasdaq: RMNI), a Russell 2000® Company, is a global provider of end-to-end enterprise software support, products and services, the leading third-party support provider for Oracle and SAP software and a Salesforce and AWS partner.",
+      "seniority": [
+        "Senior"
+      ],
+      "categories": [
+        "ServiceNow-Developer",
+        "ServiceNow-Administrator",
+        "ITSM-Developer",
+        "ServiceNow-Engineer",
+        "IT-Service-Management",
+        "Senior-ServiceNow-Developer"
+      ],
+      "application_link": "https://himalayas.app/companies/rimini-street-inc/jobs/servicenow-developer",
+      "expiry_date": "2026-10-14T08:38:44.000Z"
+    },
+    {
+      "id": "senior-full-stack-developer-875870167",
+      "title": "Senior Full Stack Developer",
+      "company": "M3 USA",
+      "company_slug": "m3-com",
+      "location": "Brazil",
+      "date": "2026-08-18T17:32:12.000Z",
+      "url": "https://himalayas.app/companies/m3-com/jobs/senior-full-stack-developer-875870167",
+      "description": "Plan, lead and actively contribute to the development of web/mobile applications in an agile environment\n\nTake ownership of understanding of the whole system and take responsibility for teaching this to others\n\nAlongside other senior members of the team, contribute to the strategy and architectural decisions that support the growth of the services we offer to our members and clients\n\nProvide technical support and mentoring to junior team members\n\nFind ways to improve system robustness, resilience, and stability\n\nExperience in full stack JavaScript .NET stack development utilizing either Node.JS or .NET Core and Web API\n\nCommercial experience working with web applications in a containerized environment, in particular Docker\n\nCommercial experience working with content management (CMS) systems.\n\nDemonstratable experience architecting web based solutions and introducing new technologies and tooling into existing systems and processes\n\nExperience designing and developing applications utilising databases such as Postgres, MongoDB, MSSQL\n\nExperience with front-end web development technologies such as ReactJS, VueJS, AngularJS, MVC\n\nExperience supporting and mentoring junior developers with technical queries and best practice\n\nExcellent communication skills\n\nSelf-motivated and delivery focused\n\nGood understanding of Agile process\n\nDesirable\n\nExperience utilizing/configuring/maintaining microservice container orchestrations platforms such as Mesos/Marathon, Kubernetes\n\nExperience working with ReactJS component libraries\n\nExperience building out CI/CD frameworks and build pipelines\n\nExperience of mobile app development frameworks\n\nExperience of serverless services such as AWS Lambda or Jamstack\n\nExperience working with PHP (WordPress)\n\nExperience of using services provided by AWS/Azure\n\nAbout M3 EU:\nM3 EU is at the forefront of healthcare innovation, offering digital solutions across healthcare, life sciences, pharmaceuticals, and more. Since our inception in 2000, we’ve seen remarkable growth, fuelled by our mission to utilize the internet for a healthier world and more efficient healthcare systems.\nOur success is anchored in our trusted digital platforms that engage physician communities globally, facilitating impactful medical education, precise job placement, and insightful market research. M3 EU prides itself on a dynamic and innovative work environment where every team member contributes to global health advancements.\nJoining M3 EU means being part of a dedicated team striving to make a significant difference in healthcare. We provide a unique opportunity for you to be at the cutting edge of healthcare innovation, shaping the future in a meaningful career. Embrace the chance to drive change with M3 EU.\nAbout the Business Division:\nThis role sits within Doctors.net.uk, a subsidiary of M3 Inc. Doctors.net.uk is the UK's largest professional network of doctors; a closed community used by over 50,000 doctors daily and with a total membership of over 245,000. Products range from a trusted email communications platform to robust news and educational web pages along with our world-class sponsored pharmaceutical content and doctors’ own user-generated content. Our mission is to continually improve these offerings as well as identifying new ways to support our community of doctors throughout their careers.\nOriginally posted on Himalayas",
+      "excerpt": "• Plan, lead and actively contribute to the development of web/mobile applications in an agile environment • Take ownership of understanding of the whole system and take responsibility for teaching this to others • Alongside other senior members of the team, contribute to the strategy and architectural decisions that support the growth of the services we offer to our members and clients • Provide technical support and mentoring to junior team members • Find ways to improve system robustness, resilience, and stability • Experience in full stack JavaScript .",
+      "seniority": [
+        "Senior"
+      ],
+      "categories": [
+        "Fullstack-Development",
+        "Software-Engineer",
+        ".NET-Development",
+        "Web-Development",
+        "JavaScript-Development",
+        "Senior-Full-Stack-Development",
+        "Senior-Fullstack-Developer",
+        "Full-Stack-Engineer",
+        "Senior-Full-Stack-Engineering",
+        "Senior-Fullstack-Web-Application-Developer",
+        "Senior-Full-Stack-Developer-(React-Node.Js)",
+        "Senior-Full-Stack-Developer-(JavaScript-Python)",
+        "Senior-Full-Stack-Developer-(React-Native)"
+      ],
+      "application_link": "https://himalayas.app/companies/m3-com/jobs/senior-full-stack-developer-875870167",
+      "expiry_date": "2026-10-17T17:32:12.000Z"
+    },
+    {
+      "id": "brazil-remote-mid-level-developer-rio-de-janeiro-rj-br-291941-973913040",
+      "title": "Brazil - Remote: Mid-Level Developer (Rio de Janeiro, RJ, BR, 291941)",
+      "company": "Halliburton",
+      "company_slug": "halliburton",
+      "location": "Brazil",
+      "date": "2026-08-18T10:53:30.000Z",
+      "url": "https://himalayas.app/companies/halliburton/jobs/brazil-remote-mid-level-developer-rio-de-janeiro-rj-br-291941-973913040",
+      "description": "We are looking for the right people — people who want to innovate, achieve, grow and lead. We attract and retain the best talent by investing in our employees and empowering them to develop themselves and their careers. Experience the challenges, rewards and opportunity of working for one of the world’s largest providers of products and services to the global energy industry.\n\nAbout Landmark\n\nLandmark, a Halliburton company, builds the software and data platforms that help the global energy industry make better decisions. Our products span subsurface interpretation, well construction planning, reservoir simulation, production optimization, and digital operations. These are tools used daily by engineers and scientists at the world’s largest energy companies and run as cloud-native SaaS platforms and as enterprise on-premises solutions.\n\nAbout the Role\n\nYou own the full development cycle for the features and systems your team assigns you. At Landmark, that means working on software that oil and gas operators depend on for high-stakes decisions. You take a feature from specification through design, implementation, testing, and delivery with minimal supervision and enough judgment to make good technical decisions along the way. You contribute to code reviews, improve the codebase and processes around you without waiting to be asked, and help junior engineers grow. The quality of what you build shows up in production software used by operators worldwide.\n\nStrong software engineering fundamentals are the primary requirement. Domain knowledge is valuable but can develop on the job.\n\nPositions are available across a range of teams. Team assignment determines both the product domain you work in and the major technologies you use.\n\nTeams build software for domains such as:\n\nGeoscience — geology, geophysics, or petrophysics\n\nDrilling engineering and well planning\n\nReservoir engineering and modeling\n\nProduction engineering and optimization\n\nE&P data management and integration\n\nCloud and platform infrastructure, data services, and developer tooling\n\nAI-assisted analytics, search, and generative AI\n\nTechnologies used vary by team and include:\n\nLanguages such as Java, C#, F#, C++, Python, and TypeScript\n\nFrameworks, platforms, and runtimes such as .NET, Eclipse RCP/SWT, JUnit,Angular, React, and Node.js\n\nCloud platforms including Azure and AWS\n\nContainerization and orchestration tooling such as Docker and Kubernetes\n\nInfrastructure automation tools such as Terraform, Ansible, Helm, and Argo CD/Flux\n\nRelational and NoSQL databases such as PostgreSQL, SQL Server, Oracle, and MongoDB\n\nJob Duties\n\nOwn features end to end: analyze requirements, design solutions, write the code, test it, and ship it\n\nBreak complex specifications into concrete tasks with realistic schedules and flag risks early\n\nProactively identify and fix weaknesses in the codebase, the test coverage, and the development process\n\nInvestigate and resolve production defects, and trace root cause when symptom and source are not in the same place\n\nApply secure coding practices, surface vulnerabilities in code reviews, and fix security issues as they arise\n\nReview code from other engineers with the same rigor you expect on your own work\n\nEvaluate and integrate open-source tools and libraries where they improve the systems you work on\n\nMentor junior engineers through code reviews, pairing, and direct technical guidance\n\nCommunicate clearly across a distributed, cross-timezone team\n\nQualifications\n\nRequired\n\nBachelor’s degree in Computer Science, Software Engineering, or a related discipline, or equivalent experience\n\n5–10 years of software development experience\n\nStrong proficiency in at least one of: Java, C#/F# (.NET), C++, Python, or TypeScript (React/Angular/Node.js)\n\nExperience owning the full development cycle: requirements analysis, design, implementation, testing, and delivery\n\nExperience debugging production software and tracing root causes that span multiple components or layers\n\nClear written and verbal communication, including the ability to explain technical decisions and trade-offs to teammates and stakeholders\n\nPreferred\n\nExperience with cloud-native development, full-stack or web application development, or data platform technologies\n\nExperience with CI/CD pipelines, containerization, and infrastructure automation\n\nBackground in enterprise software, SaaS platforms, or technically demanding application domains (scientific computing, real-time systems, large-scale data)\n\nExposure to integrating machine learning, generative AI, or LLM-based components into application features\n\nExperience mentoring less experienced engineers\n\nEnergy industry experience is not required but is a strong plus. We welcome candidates from all backgrounds and encourage you to apply even if your experience does not match every item in the preferred list.\n\nHow You Work\n\nThe engineer who succeeds in this role brings independent judgment to their work and applies it consistently. You own your assignments end to end, communicate clearly when something is off track, and treat code reviews as a genuine quality tool rather than a formality. You are comfortable working across time zones, adaptable when requirements shift, and focused on delivery outcomes rather than task completion. You pick up new tools and techniques on your own, evaluate them critically, and bring the ones that work to your team. You help the engineers around you improve because you understand that team quality compounds over time.\n\nWhy Landmark\n\nWe build small, high-ownership teams and invest in the quality of every person on them. You will work in a business where software is the product, the work you do matters, and the standards are high. You will own real work that ships, learn from engineers who push you, and grow into the kind of engineer the team relies on. We offer competitive compensation, a strong career path, and a role where you own what you build, and your impact is visible.\n\nHalliburton is an Equal Opportunity Employer. Employment decisions are made without regard to race, color, religion, disability, genetic information, pregnancy, citizenship, marital status, sex/gender, sexual preference/ orientation, gender identity, age, veteran status, national origin, or any other status protected by law or regulation .\n\nLocation\n\nRua Paulo Emidio Barbosa 485 Q, Rio de Janeiro, Rio de Janeiro, 291941, Brazil\n\nJob Details\n\nRequisition Number: 209289\nExperience Level: Experienced Hire\nJob Family: Engineering/Science/Technology\nProduct Service Line: Landmark Software & Services\nFull Time / Part Time: Full Time\n\nAdditional Locations for this position:\n\nCompensation Information\nCompensation is competitive and commensurate with experience.\n\nOriginally posted on Himalayas",
+      "excerpt": "We are looking for the right people — people who want to innovate, achieve, grow and lead.",
+      "seniority": [
+        "Mid-level"
+      ],
+      "categories": [
+        "Software-Engineer",
+        "Software-Development",
+        "Fullstack-Development",
+        "Cloud-Engineer",
+        "Backend-Development",
+        "Remote-Mid-Level-Developer",
+        "Remote-Mid-Level-Software-Engineer",
+        "Developer"
+      ],
+      "application_link": "https://himalayas.app/companies/halliburton/jobs/brazil-remote-mid-level-developer-rio-de-janeiro-rj-br-291941-973913040",
+      "expiry_date": "2026-10-17T10:53:29.000Z"
+    },
+    {
+      "id": "oracle-infrastructure-maintenance-developer-senior",
+      "title": "Oracle Infrastructure Maintenance Developer Senior",
+      "company": "General Dynamics Information Technology",
+      "company_slug": "general-dynamics-information-technology",
+      "location": "Remote",
+      "date": "2026-08-20T23:25:48.000Z",
+      "url": "https://himalayas.app/companies/general-dynamics-information-technology/jobs/oracle-infrastructure-maintenance-developer-senior",
+      "description": "Type of Requisition:\nRegular Clearance Level Must Currently Possess:\nNone Clearance Level Must Be Able to Obtain:\nNone Public Trust/Other Required:\nBI Full 6C (T4) Job Family:\nSoftware Engineering Job Qualifications:\nSkills:\nJava Software Development, Oracle, Software Application Development, Software Applications Certifications:\nNone Experience:\n8 + years of related experience US Citizenship Required:\nNo Job Description:\nOracle Infrastructure Maintenance Developer Senior\nTransform technology into opportunity as an Application Developer Principal . Here, you’ll see the bigger picture on mission initiatives and where your program management career can go at GDIT.\nMEANINGFUL WORK AND PERSONAL IMPACT\nAs an Application Developer Principal, the work you’ll do at GDIT will be impactful to the mission of AmeriCorps. You will play a crucial role in helping AmeriCorps use ServiceNow to improve lives, strengthen communities, and foster civic engagement through service and volunteering, while working with motivated and enthusiastic teammates and customers.\n\nDevelop and maintain AmeriCorps' grants management system with a focus on modernization, enhancements, interoperability, reusability, security, privacy, and any system interface requirements.\n● Collaborate with other GDIT and AmeriCorps personnel to ensure requirements are captured and achieved.\n● Drive excellence in software application development and maintenance.\n● Utilize Java and Oracle skills and technologies.\n\nWHAT YOU’LL NEED TO SUCCEED\nBring your engineering expertise along with a drive for innovation to GDIT. The Application Developer Principal must have:\n\nEducation: Technical Training, Certification(s) or Degree\n\nExperience: 8+ years of related experience\n\nTechnical skills: Java, Oracle, WebLogic, SQL, PL/SQL, PowerShell/Shell scripting/automation\nTechnical skills (cont.): Upgrading Java and Java-based web/application frameworks (Java 8->21, TopLink->EclipseLink, Struts 1->2 etc.)\nGDIT IS YOUR PLACE:\nAt GDIT, the mission is our purpose, and our people are at the center of everything we do.\n● Growth: AI-powered career tool that identifies career steps and learning opportunities\n● Support: An internal mobility team focused on helping you achieve your career goals\n● Rewards: Comprehensive benefits and wellness packages, 401K with company match, and competitive pay and paid time off\n● Flexibility: Full-flex work week to own your priorities at work and at home\n● Community: Award-winning culture of innovation and a military-friendly workplace\nOWN YOUR OPPORTUNITY\nExplore a career in software development at GDIT and you’ll find endless opportunities to grow alongside colleagues who share your dedication to advancing innovation.\nThe likely salary range for this position is $136,000 - $184,000. This is not, however, a guarantee of compensation or salary. Rather, salary will be set based on experience, geographic location and possibly contractual requirements and could fall outside of this range. Scheduled Weekly Hours:\n40 Travel Required:\nNone Telecommuting Options:\nRemote Work Location:\nAny Location / Remote Additional Work Locations:\nTotal Rewards at GDIT:\nOur benefits package for all US-based employees includes a variety of medical plan options, some with Health Savings Accounts, dental plan options, a vision plan, and a 401(k) plan offering the ability to contribute both pre and post-tax dollars up to the IRS annual limits and receive a company match. To encourage work/life balance, GDIT offers employees full flex work weeks where possible and a variety of paid time off plans, including vacation, sick and personal time, holidays, paid parental, military, bereavement and jury duty leave. GDIT typically provides new employees with 15 days of paid leave per calendar year to be used for vacations, personal business, and illness and an additional 10 paid holidays per year. Paid leave and paid holidays are prorated based on the employee’s date of hire. The GDIT Paid Family Leave program provides a total of up to 160 hours of paid leave in a rolling 12 month period for eligible employees. To ensure our employees are able to protect their income, other offerings such as short and long-term disability benefits, life, accidental death and dismemberment, personal accident, critical illness and business travel and accident insurance are provided or available. We regularly review our Total Rewards package to ensure our offerings are competitive and reflect what our employees have told us they value most.\nOur Identity Verification Process:\nAs part of the hiring process, we will ask you to complete an identity verification process that leverages advanced biometrics and artificial intelligence to ensure authenticity and protect against identity fraud. You are expected to be on camera during virtual interviews. We reserve the right to take your picture to verify your identity and prevent fraud. By proceeding, you authorize the collection, processing, and use of your biometric data for identity verification and security purposes. About Our Work:\nWe are GDIT. A global technology and professional services company that delivers technology solutions and mission services to every major agency across the U.S. government, defense and intelligence community. Our 26,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation. We operate across 50+ countries worldwide, offering leading mission-ready capabilities in AI, cloud, cyber and software development.Join our Talent Community to stay up to date on our career opportunities and events at gdit.com/tc.\nEqual Opportunity Employer / Individuals with Disabilities / Protected Veterans Originally posted on Himalayas",
+      "excerpt": "Type of Requisition:RegularClearance Level Must Currently Possess: NoneClearance Level Must Be Able to Obtain: NonePublic Trust/Other Required:BI Full 6C (T4)Job Family: Software EngineeringJob Qualifications:Skills:Java Software Development, Oracle, Software Application Development, Software ApplicationsCertifications:NoneExperience:8 + years of related experienceUS Citizenship Required:NoJob Description: Oracle Infrastructure Maintenance Developer SeniorTransform technology into opportunity as an Application Developer Principal .",
+      "seniority": [
+        "Senior"
+      ],
+      "categories": [
+        "Software-Engineer",
+        "Application-Developer",
+        "Java-Developer",
+        "Oracle-Developer",
+        "Senior-Software-Developer",
+        "Senior-Oracle-Developer",
+        "Senior-Oracle-Engineer",
+        "Oracle-Cloud-Infrastructure-Engineer",
+        "Senior-Oracle-DBA",
+        "Oracle-Database-Developer"
+      ],
+      "application_link": "https://himalayas.app/companies/general-dynamics-information-technology/jobs/oracle-infrastructure-maintenance-developer-senior",
+      "expiry_date": "2026-10-19T23:25:48.000Z"
+    }
+  ]
+}
