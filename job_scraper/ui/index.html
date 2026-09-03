@@ -30,7 +30,7 @@
     }
 
     .wrap {
-      width: min(1080px, calc(100% - 2rem));
+      width: min(1280px, calc(100% - 2rem));
       margin: 0 auto;
       padding: 2.5rem 0 4rem;
     }
@@ -150,12 +150,54 @@
       animation: rise 0.75s ease both;
     }
 
+    .boards {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 1rem;
+      align-items: start;
+      animation: rise 0.8s ease both;
+    }
+
+    .column {
+      min-width: 0;
+      background: rgba(255, 252, 246, 0.45);
+      border: 1px solid var(--line);
+      border-radius: 22px;
+      padding: 0.9rem;
+      backdrop-filter: blur(6px);
+    }
+
+    .column-head {
+      display: flex;
+      align-items: baseline;
+      justify-content: space-between;
+      gap: 0.75rem;
+      margin: 0 0 0.85rem;
+      padding: 0.15rem 0.35rem;
+    }
+
+    .column-title {
+      margin: 0;
+      font-family: Fraunces, Georgia, serif;
+      font-size: 1.35rem;
+      letter-spacing: -0.02em;
+    }
+
+    .column-count {
+      font-size: 0.85rem;
+      font-weight: 700;
+      color: var(--muted);
+    }
+
     .list {
       display: grid;
       gap: 0.65rem;
       list-style: none;
       padding: 0;
       margin: 0;
+      max-height: min(72vh, 900px);
+      overflow: auto;
+      padding-right: 0.15rem;
     }
 
     .job {
@@ -170,6 +212,7 @@
       backdrop-filter: blur(8px);
       text-decoration: none;
       color: inherit;
+      cursor: pointer;
       transition: transform 0.18s ease, border-color 0.18s ease, box-shadow 0.18s ease;
       animation: rise 0.5s ease both;
     }
@@ -178,6 +221,11 @@
       transform: translateY(-2px);
       border-color: rgba(15, 122, 95, 0.35);
       box-shadow: 0 12px 30px rgba(26, 36, 33, 0.08);
+    }
+
+    .job.clicked {
+      border-color: rgba(15, 122, 95, 0.28);
+      background: rgba(215, 239, 230, 0.45);
     }
 
     .job h2 {
@@ -231,17 +279,23 @@
     }
 
     .empty {
-      padding: 2rem;
+      padding: 2rem 1rem;
       text-align: center;
       color: var(--muted);
       border: 1px dashed var(--line);
       border-radius: 18px;
       background: var(--panel);
+      font-size: 0.92rem;
     }
 
     @keyframes rise {
       from { opacity: 0; transform: translateY(10px); }
       to { opacity: 1; transform: translateY(0); }
+    }
+
+    @media (max-width: 900px) {
+      .boards { grid-template-columns: 1fr; }
+      .list { max-height: none; }
     }
 
     @media (max-width: 640px) {
@@ -254,7 +308,7 @@
   <main class="wrap">
     <header>
       <p class="brand">AI Job <span>Search</span></p>
-      <p class="lede">Somente vagas <strong>remotas no Brasil</strong> — LinkedIn, Freehire, Gupy, RemoteOK, Himalayas e We Work Remotely. Combine filtros; clique no card para abrir o anúncio.</p>
+      <p class="lede">Somente vagas <strong>remotas no Brasil</strong> — LinkedIn, Freehire, Gupy, RemoteOK, Himalayas e We Work Remotely. Clique em uma vaga para abrir o anúncio e movê-la para <strong>Clicadas</strong>.</p>
     </header>
 
     <div class="toolbar">
@@ -298,18 +352,41 @@
     </div>
 
     <p class="meta" id="meta">Carregando vagas…</p>
-    <ul class="list" id="list"></ul>
+
+    <div class="boards">
+      <section class="column" aria-labelledby="total-title">
+        <div class="column-head">
+          <h2 class="column-title" id="total-title">Total</h2>
+          <span class="column-count" id="total-count">0</span>
+        </div>
+        <ul class="list" id="list-total"></ul>
+      </section>
+
+      <section class="column" aria-labelledby="clicked-title">
+        <div class="column-head">
+          <h2 class="column-title" id="clicked-title">Clicadas</h2>
+          <span class="column-count" id="clicked-count">0</span>
+        </div>
+        <ul class="list" id="list-clicked"></ul>
+      </section>
+    </div>
   </main>
 
   <script>
-    const listEl = document.getElementById('list');
+    const listTotalEl = document.getElementById('list-total');
+    const listClickedEl = document.getElementById('list-clicked');
+    const totalCountEl = document.getElementById('total-count');
+    const clickedCountEl = document.getElementById('clicked-count');
     const metaEl = document.getElementById('meta');
     const qEl = document.getElementById('q');
     const chipsEl = document.getElementById('chips');
 
+    const STORAGE_KEY = 'ai-job-search-clicked-ids';
+
     let jobs = [];
     const activeFilters = new Set();
     let query = '';
+    let clickedIds = loadClickedIds();
 
     const FILTER_GROUPS = {
       seniority: ['junior', 'pleno', 'senior'],
@@ -339,7 +416,6 @@
       pleno: (j) => /pleno|middle|mid[- ]?level|intermediate/i.test(j.title),
       senior: (j) => /s[eê]nior|senior|\bsr\.?\b|staff/i.test(j.title),
       frontend: (j) => /front[- ]?end|frontend|\breact\b|\bangular\b|\bvue\b/i.test(j.title),
-      // \bjava\b avoids matching "JavaScript"; prefer node.js / explicit backend terms
       backend: (j) => /back[- ]?end|backend|\bapi\b|golang|\bnode(?:\.?js)?\b|\bjava\b|\bpython\b|\.net/i.test(j.title),
       fullstack: (j) => /full[- ]?stack|fullstack/i.test(j.title),
       linkedin: (j) => j.portal === 'LinkedIn',
@@ -349,6 +425,24 @@
       himalayas: (j) => j.portal === 'Himalayas',
       weworkremotely: (j) => j.portal === 'WeWorkRemotely',
     };
+
+    function jobKey(j) {
+      return String(j.id || j.url || `${j.company}|${j.title}`);
+    }
+
+    function loadClickedIds() {
+      try {
+        const raw = localStorage.getItem(STORAGE_KEY);
+        const parsed = raw ? JSON.parse(raw) : [];
+        return new Set(Array.isArray(parsed) ? parsed.map(String) : []);
+      } catch {
+        return new Set();
+      }
+    }
+
+    function saveClickedIds() {
+      localStorage.setItem(STORAGE_KEY, JSON.stringify([...clickedIds]));
+    }
 
     function formatDate(d) {
       if (!d) return 'data n/d';
@@ -396,42 +490,83 @@
       });
     }
 
+    function renderJobCard(j, i, { clicked }) {
+      const remoteTag = (j.remote || /remoto|remote|home.?office/i.test(j.title + ' ' + j.location))
+        ? '<span class="tag">Remoto</span>'
+        : '';
+      const portalClass = j.portal === 'LinkedIn' ? 'portal-li' : '';
+      const key = jobKey(j);
+      return `
+        <li style="animation-delay:${Math.min(i, 12) * 0.03}s">
+          <a
+            class="job${clicked ? ' clicked' : ''}"
+            href="${escapeAttr(j.url)}"
+            target="_blank"
+            rel="noopener noreferrer"
+            data-job-id="${escapeAttr(key)}"
+          >
+            <div>
+              <h2>${escapeHtml(j.title)}</h2>
+              <p class="company">${escapeHtml(j.company)} · ${escapeHtml(j.location)}</p>
+              <div class="tags">
+                <span class="tag ${portalClass}">${escapeHtml(j.portal)}</span>
+                ${remoteTag}
+              </div>
+            </div>
+            <div class="side">
+              <span class="date">${formatDate(j.date)}</span>
+              <span class="cta">${clicked ? 'Reabrir →' : 'Abrir vaga →'}</span>
+            </div>
+          </a>
+        </li>
+      `;
+    }
+
+    function fillList(el, items, { clicked, emptyText }) {
+      if (!items.length) {
+        el.innerHTML = `<li class="empty">${escapeHtml(emptyText)}</li>`;
+        return;
+      }
+      el.innerHTML = items.map((j, i) => renderJobCard(j, i, { clicked })).join('');
+    }
+
     function render() {
       const visible = visibleJobs();
+      const totalJobs = visible.filter((j) => !clickedIds.has(jobKey(j)));
+      const clickedJobs = visible.filter((j) => clickedIds.has(jobKey(j)));
       const filterNote = activeFilterSummary();
+
       metaEl.textContent = filterNote
         ? `${visible.length} de ${jobs.length} vagas · filtros: ${filterNote}`
         : `${visible.length} de ${jobs.length} vagas`;
 
-      if (!visible.length) {
-        listEl.innerHTML = '<li class="empty">Nenhuma vaga com esses filtros.</li>';
-        return;
-      }
+      totalCountEl.textContent = String(totalJobs.length);
+      clickedCountEl.textContent = String(clickedJobs.length);
 
-      listEl.innerHTML = visible.map((j, i) => {
-        const remoteTag = (j.remote || /remoto|remote|home.?office/i.test(j.title + ' ' + j.location))
-          ? '<span class="tag">Remoto</span>'
-          : '';
-        const portalClass = j.portal === 'LinkedIn' ? 'portal-li' : '';
-        return `
-          <li style="animation-delay:${Math.min(i, 12) * 0.03}s">
-            <a class="job" href="${escapeAttr(j.url)}" target="_blank" rel="noopener noreferrer">
-              <div>
-                <h2>${escapeHtml(j.title)}</h2>
-                <p class="company">${escapeHtml(j.company)} · ${escapeHtml(j.location)}</p>
-                <div class="tags">
-                  <span class="tag ${portalClass}">${escapeHtml(j.portal)}</span>
-                  ${remoteTag}
-                </div>
-              </div>
-              <div class="side">
-                <span class="date">${formatDate(j.date)}</span>
-                <span class="cta">Abrir vaga →</span>
-              </div>
-            </a>
-          </li>
-        `;
-      }).join('');
+      fillList(listTotalEl, totalJobs, {
+        clicked: false,
+        emptyText: clickedJobs.length
+          ? 'Todas as vagas filtradas já foram clicadas.'
+          : 'Nenhuma vaga com esses filtros.',
+      });
+
+      fillList(listClickedEl, clickedJobs, {
+        clicked: true,
+        emptyText: 'Clique em uma vaga na coluna Total para movê-la para cá.',
+      });
+    }
+
+    function markClicked(id) {
+      if (!id || clickedIds.has(id)) return;
+      clickedIds.add(id);
+      saveClickedIds();
+      render();
+    }
+
+    function onBoardClick(e) {
+      const link = e.target.closest('a.job');
+      if (!link) return;
+      markClicked(link.dataset.jobId);
     }
 
     function escapeHtml(s) {
@@ -468,6 +603,9 @@
       render();
     });
 
+    listTotalEl.addEventListener('click', onBoardClick);
+    listClickedEl.addEventListener('click', onBoardClick);
+
     fetch('./jobs.json')
       .then((r) => {
         if (!r.ok) throw new Error('Falha ao carregar jobs.json');
@@ -479,7 +617,8 @@
       })
       .catch((err) => {
         metaEl.textContent = 'Erro ao carregar vagas';
-        listEl.innerHTML = `<li class="empty">${escapeHtml(err.message)}</li>`;
+        listTotalEl.innerHTML = `<li class="empty">${escapeHtml(err.message)}</li>`;
+        listClickedEl.innerHTML = '<li class="empty">—</li>';
       });
   </script>
 </body>
