@@ -52,6 +52,61 @@
 
     .brand span { color: var(--accent); }
 
+    .header-top {
+      display: flex;
+      align-items: flex-start;
+      justify-content: space-between;
+      gap: 1rem;
+      flex-wrap: wrap;
+    }
+
+    .refresh-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.45rem;
+      border: 1px solid var(--line);
+      background: var(--panel);
+      color: var(--ink);
+      border-radius: 999px;
+      padding: 0.55rem 0.95rem;
+      font: inherit;
+      font-size: 0.88rem;
+      font-weight: 700;
+      cursor: pointer;
+      white-space: nowrap;
+      backdrop-filter: blur(8px);
+      transition: background 0.2s, border-color 0.2s, transform 0.15s, color 0.2s;
+    }
+
+    .refresh-btn:hover:not(:disabled) {
+      transform: translateY(-1px);
+      border-color: rgba(15, 122, 95, 0.35);
+      color: var(--accent);
+    }
+
+    .refresh-btn:disabled {
+      opacity: 0.72;
+      cursor: wait;
+    }
+
+    .refresh-btn.busy {
+      background: var(--accent-soft);
+      border-color: rgba(15, 122, 95, 0.28);
+      color: var(--accent);
+    }
+
+    .refresh-btn svg {
+      flex-shrink: 0;
+    }
+
+    .refresh-btn.busy svg {
+      animation: spin 0.9s linear infinite;
+    }
+
+    @keyframes spin {
+      to { transform: rotate(360deg); }
+    }
+
     .lede {
       margin: 0;
       max-width: 42rem;
@@ -65,6 +120,8 @@
       flex-direction: column;
       gap: 0.85rem;
       margin: 1.5rem 0 1rem;
+      position: relative;
+      z-index: 40;
       animation: rise 0.7s ease both;
     }
 
@@ -143,19 +200,203 @@
       color: #fff;
     }
 
+    .date-filter {
+      position: relative;
+      width: 100%;
+    }
+
+    .date-trigger {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.45rem;
+      max-width: 100%;
+    }
+
+    .date-trigger svg {
+      flex-shrink: 0;
+    }
+
+    .date-trigger-label {
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    .date-trigger.has-value {
+      background: var(--accent);
+      border-color: var(--accent);
+      color: #fff;
+    }
+
+    .date-trigger[aria-expanded="true"] {
+      border-color: rgba(15, 122, 95, 0.45);
+      box-shadow: 0 0 0 3px rgba(15, 122, 95, 0.12);
+    }
+
+    .calendar {
+      display: none;
+      position: absolute;
+      top: calc(100% + 0.55rem);
+      left: 0;
+      z-index: 50;
+      width: min(19.5rem, calc(100vw - 2.5rem));
+      padding: 0.9rem;
+      border: 1px solid var(--line);
+      border-radius: 18px;
+      background: rgba(255, 252, 246, 0.98);
+      box-shadow: 0 18px 40px rgba(26, 36, 33, 0.16);
+      backdrop-filter: blur(10px);
+    }
+
+    .calendar.open { display: grid; gap: 0.75rem; }
+
+    .cal-head {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 0.5rem;
+    }
+
+    .cal-title {
+      margin: 0;
+      font-family: Fraunces, Georgia, serif;
+      font-size: 1.05rem;
+      letter-spacing: -0.02em;
+    }
+
+    .cal-nav {
+      display: flex;
+      gap: 0.35rem;
+    }
+
+    .cal-nav button {
+      width: 2rem;
+      height: 2rem;
+      border: 1px solid var(--line);
+      border-radius: 999px;
+      background: var(--panel);
+      color: var(--ink);
+      cursor: pointer;
+      font: inherit;
+      line-height: 1;
+    }
+
+    .cal-nav button:hover {
+      border-color: rgba(15, 122, 95, 0.35);
+      color: var(--accent);
+    }
+
+    .cal-hint {
+      margin: 0;
+      color: var(--muted);
+      font-size: 0.78rem;
+    }
+
+    .cal-weekdays,
+    .cal-grid {
+      display: grid;
+      grid-template-columns: repeat(7, 1fr);
+      gap: 0.2rem;
+    }
+
+    .cal-weekdays span {
+      text-align: center;
+      font-size: 0.68rem;
+      font-weight: 700;
+      letter-spacing: 0.04em;
+      text-transform: uppercase;
+      color: var(--muted);
+      padding: 0.2rem 0;
+    }
+
+    .cal-day {
+      aspect-ratio: 1;
+      border: 0;
+      border-radius: 999px;
+      background: transparent;
+      color: var(--ink);
+      font: inherit;
+      font-size: 0.85rem;
+      font-weight: 600;
+      cursor: pointer;
+      padding: 0;
+    }
+
+    .cal-day:hover:not(:disabled) {
+      background: var(--accent-soft);
+      color: var(--accent);
+    }
+
+    .cal-day:disabled {
+      color: rgba(92, 107, 102, 0.35);
+      cursor: default;
+    }
+
+    .cal-day.outside { color: rgba(92, 107, 102, 0.45); }
+    .cal-day.today { box-shadow: inset 0 0 0 1.5px rgba(15, 122, 95, 0.45); }
+    .cal-day.in-range { background: rgba(215, 239, 230, 0.85); border-radius: 0; }
+    .cal-day.range-start,
+    .cal-day.range-end,
+    .cal-day.selected {
+      background: var(--accent);
+      color: #fff;
+      border-radius: 999px;
+    }
+    .cal-day.range-start.in-range { border-radius: 999px 0 0 999px; }
+    .cal-day.range-end.in-range { border-radius: 0 999px 999px 0; }
+    .cal-day.range-start.range-end { border-radius: 999px; }
+
+    .cal-actions {
+      display: flex;
+      justify-content: space-between;
+      gap: 0.5rem;
+      padding-top: 0.15rem;
+      border-top: 1px solid var(--line);
+    }
+
+    .cal-actions button {
+      border: 1px solid var(--line);
+      border-radius: 999px;
+      background: var(--panel);
+      color: var(--ink);
+      font: inherit;
+      font-size: 0.82rem;
+      font-weight: 600;
+      padding: 0.4rem 0.8rem;
+      cursor: pointer;
+    }
+
+    .cal-actions .cal-apply {
+      background: var(--accent);
+      border-color: var(--accent);
+      color: #fff;
+    }
+
+    .cal-actions button:hover { transform: translateY(-1px); }
+
     .meta {
       color: var(--muted);
       font-size: 0.9rem;
       margin: 0 0 1rem;
+      position: relative;
+      z-index: 1;
       animation: rise 0.75s ease both;
     }
 
     .boards {
       display: grid;
-      grid-template-columns: 1fr 1fr;
+      grid-template-columns: 1.75fr 1fr;
       gap: 1rem;
       align-items: start;
+      position: relative;
+      z-index: 1;
       animation: rise 0.8s ease both;
+    }
+
+    .boards-side {
+      display: flex;
+      flex-direction: column;
+      gap: 1rem;
+      min-width: 0;
     }
 
     .column {
@@ -165,6 +406,10 @@
       border-radius: 22px;
       padding: 0.9rem;
       backdrop-filter: blur(6px);
+    }
+
+    .column.discarded {
+      background: rgba(246, 236, 236, 0.5);
     }
 
     .column-head {
@@ -200,12 +445,21 @@
       padding-right: 0.15rem;
     }
 
+    .boards-side .list {
+      max-height: min(36vh, 450px);
+    }
+
+    .job-card {
+      position: relative;
+      animation: rise 0.5s ease both;
+    }
+
     .job {
       display: grid;
       grid-template-columns: 1fr auto;
       gap: 0.75rem 1rem;
       align-items: start;
-      padding: 1rem 1.1rem;
+      padding: 1rem 2.4rem 1rem 1.1rem;
       background: var(--panel);
       border: 1px solid var(--line);
       border-radius: 18px;
@@ -214,10 +468,9 @@
       color: inherit;
       cursor: pointer;
       transition: transform 0.18s ease, border-color 0.18s ease, box-shadow 0.18s ease;
-      animation: rise 0.5s ease both;
     }
 
-    .job:hover {
+    .job-card:hover .job {
       transform: translateY(-2px);
       border-color: rgba(15, 122, 95, 0.35);
       box-shadow: 0 12px 30px rgba(26, 36, 33, 0.08);
@@ -226,6 +479,46 @@
     .job.clicked {
       border-color: rgba(15, 122, 95, 0.28);
       background: rgba(215, 239, 230, 0.45);
+    }
+
+    .job.discarded {
+      border-color: rgba(140, 70, 70, 0.22);
+      background: rgba(246, 228, 228, 0.55);
+      opacity: 0.88;
+    }
+
+    .dismiss {
+      position: absolute;
+      top: 0.55rem;
+      right: 0.55rem;
+      z-index: 2;
+      width: 1.7rem;
+      height: 1.7rem;
+      display: grid;
+      place-items: center;
+      border: 1px solid var(--line);
+      border-radius: 999px;
+      background: rgba(255, 252, 246, 0.92);
+      color: var(--muted);
+      font: inherit;
+      font-size: 0.95rem;
+      line-height: 1;
+      cursor: pointer;
+      padding: 0;
+      transition: background 0.15s, color 0.15s, border-color 0.15s, transform 0.15s;
+    }
+
+    .dismiss:hover {
+      background: #f2d6d6;
+      border-color: rgba(140, 70, 70, 0.35);
+      color: #8c4646;
+      transform: scale(1.06);
+    }
+
+    .dismiss.restore:hover {
+      background: var(--accent-soft);
+      border-color: rgba(15, 122, 95, 0.35);
+      color: var(--accent);
     }
 
     .job h2 {
@@ -295,11 +588,12 @@
 
     @media (max-width: 900px) {
       .boards { grid-template-columns: 1fr; }
-      .list { max-height: none; }
+      .list,
+      .boards-side .list { max-height: none; }
     }
 
     @media (max-width: 640px) {
-      .job { grid-template-columns: 1fr; }
+      .job { grid-template-columns: 1fr; padding-right: 2.4rem; }
       .side { justify-items: start; text-align: left; }
     }
   </style>
@@ -307,8 +601,17 @@
 <body>
   <main class="wrap">
     <header>
-      <p class="brand">AI Job <span>Search</span></p>
-      <p class="lede">Somente vagas <strong>remotas no Brasil</strong> — LinkedIn, Freehire, Gupy, RemoteOK, Himalayas e We Work Remotely. Clique em uma vaga para abrir o anúncio e movê-la para <strong>Clicadas</strong>.</p>
+      <div class="header-top">
+        <p class="brand">AI Job <span>Search - 05/09/2026 </span></p>
+        <button type="button" class="refresh-btn" id="refresh-btn" title="Buscar vagas novas nos portais">
+          <svg width="15" height="15" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+            <path d="M20 12a8 8 0 1 1-2.2-5.5" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+            <path d="M20 4v5h-5" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+          </svg>
+          <span id="refresh-label">Atualizar vagas</span>
+        </button>
+      </div>
+      <p class="lede">Somente vagas <strong>remotas no Brasil</strong> — LinkedIn, Freehire, Gupy, RemoteOK, Himalayas e We Work Remotely. Clique em uma vaga para abrir o anúncio e movê-la para <strong>Clicadas</strong>. Use o <strong>×</strong> para enviar para <strong>Descartadas</strong>.</p>
     </header>
 
     <div class="toolbar">
@@ -348,6 +651,36 @@
             <button type="button" class="chip" data-filter="weworkremotely">WWR</button>
           </div>
         </div>
+        <div class="chip-group" aria-label="Data de publicação">
+          <span class="chip-label">Data</span>
+          <div class="date-filter" id="date-filter">
+            <button type="button" class="chip date-trigger" id="date-trigger" aria-expanded="false" aria-controls="calendar" aria-haspopup="dialog">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+                <rect x="3" y="5" width="18" height="16" rx="2" stroke="currentColor" stroke-width="2"/>
+                <path d="M8 3v4M16 3v4M3 10h18" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+              </svg>
+              <span class="date-trigger-label" id="date-trigger-label">Escolher datas</span>
+            </button>
+            <div class="calendar" id="calendar" role="dialog" aria-label="Calendário de filtro por data" hidden>
+              <div class="cal-head">
+                <p class="cal-title" id="cal-title">Março 2026</p>
+                <div class="cal-nav">
+                  <button type="button" id="cal-prev" aria-label="Mês anterior">‹</button>
+                  <button type="button" id="cal-next" aria-label="Próximo mês">›</button>
+                </div>
+              </div>
+              <p class="cal-hint" id="cal-hint">Selecione o início e o fim do período</p>
+              <div class="cal-weekdays" aria-hidden="true">
+                <span>D</span><span>S</span><span>T</span><span>Q</span><span>Q</span><span>S</span><span>S</span>
+              </div>
+              <div class="cal-grid" id="cal-grid"></div>
+              <div class="cal-actions">
+                <button type="button" id="cal-clear">Limpar</button>
+                <button type="button" class="cal-apply" id="cal-apply">Aplicar</button>
+              </div>
+            </div>
+          </div>
+        </div>
       </div>
     </div>
 
@@ -362,31 +695,67 @@
         <ul class="list" id="list-total"></ul>
       </section>
 
-      <section class="column" aria-labelledby="clicked-title">
-        <div class="column-head">
-          <h2 class="column-title" id="clicked-title">Clicadas</h2>
-          <span class="column-count" id="clicked-count">0</span>
-        </div>
-        <ul class="list" id="list-clicked"></ul>
-      </section>
+      <div class="boards-side">
+        <section class="column" aria-labelledby="clicked-title">
+          <div class="column-head">
+            <h2 class="column-title" id="clicked-title">Clicadas</h2>
+            <span class="column-count" id="clicked-count">0</span>
+          </div>
+          <ul class="list" id="list-clicked"></ul>
+        </section>
+
+        <section class="column discarded" aria-labelledby="discarded-title">
+          <div class="column-head">
+            <h2 class="column-title" id="discarded-title">Descartadas</h2>
+            <span class="column-count" id="discarded-count">0</span>
+          </div>
+          <ul class="list" id="list-discarded"></ul>
+        </section>
+      </div>
     </div>
   </main>
 
   <script>
     const listTotalEl = document.getElementById('list-total');
     const listClickedEl = document.getElementById('list-clicked');
+    const listDiscardedEl = document.getElementById('list-discarded');
     const totalCountEl = document.getElementById('total-count');
     const clickedCountEl = document.getElementById('clicked-count');
+    const discardedCountEl = document.getElementById('discarded-count');
     const metaEl = document.getElementById('meta');
     const qEl = document.getElementById('q');
     const chipsEl = document.getElementById('chips');
+    const dateFilterEl = document.getElementById('date-filter');
+    const dateTriggerEl = document.getElementById('date-trigger');
+    const dateTriggerLabelEl = document.getElementById('date-trigger-label');
+    const calendarEl = document.getElementById('calendar');
+    const calTitleEl = document.getElementById('cal-title');
+    const calHintEl = document.getElementById('cal-hint');
+    const calGridEl = document.getElementById('cal-grid');
+    const calPrevEl = document.getElementById('cal-prev');
+    const calNextEl = document.getElementById('cal-next');
+    const calClearEl = document.getElementById('cal-clear');
+    const calApplyEl = document.getElementById('cal-apply');
+    const refreshBtnEl = document.getElementById('refresh-btn');
+    const refreshLabelEl = document.getElementById('refresh-label');
 
     const STORAGE_KEY = 'ai-job-search-clicked-ids';
+    const DISCARDED_STORAGE_KEY = 'ai-job-search-discarded-ids';
+    const MONTHS_PT = [
+      'Janeiro', 'Fevereiro', 'Março', 'Abril', 'Maio', 'Junho',
+      'Julho', 'Agosto', 'Setembro', 'Outubro', 'Novembro', 'Dezembro',
+    ];
 
     let jobs = [];
     const activeFilters = new Set();
     let query = '';
-    let clickedIds = loadClickedIds();
+    let clickedIds = loadIdSet(STORAGE_KEY);
+    let discardedIds = loadIdSet(DISCARDED_STORAGE_KEY);
+    let dateFrom = null;
+    let dateTo = null;
+    let draftFrom = null;
+    let draftTo = null;
+    let calView = startOfMonth(new Date());
 
     const FILTER_GROUPS = {
       seniority: ['junior', 'pleno', 'senior'],
@@ -430,9 +799,9 @@
       return String(j.id || j.url || `${j.company}|${j.title}`);
     }
 
-    function loadClickedIds() {
+    function loadIdSet(key) {
       try {
-        const raw = localStorage.getItem(STORAGE_KEY);
+        const raw = localStorage.getItem(key);
         const parsed = raw ? JSON.parse(raw) : [];
         return new Set(Array.isArray(parsed) ? parsed.map(String) : []);
       } catch {
@@ -444,14 +813,63 @@
       localStorage.setItem(STORAGE_KEY, JSON.stringify([...clickedIds]));
     }
 
+    function saveDiscardedIds() {
+      localStorage.setItem(DISCARDED_STORAGE_KEY, JSON.stringify([...discardedIds]));
+    }
+
+    function pad2(n) {
+      return String(n).padStart(2, '0');
+    }
+
+    function toISODate(d) {
+      return `${d.getFullYear()}-${pad2(d.getMonth() + 1)}-${pad2(d.getDate())}`;
+    }
+
+    function parseISODate(s) {
+      if (!s || !/^\d{4}-\d{2}-\d{2}$/.test(s)) return null;
+      const [y, m, day] = s.split('-').map(Number);
+      const d = new Date(y, m - 1, day);
+      if (d.getFullYear() !== y || d.getMonth() !== m - 1 || d.getDate() !== day) return null;
+      return d;
+    }
+
+    function startOfMonth(d) {
+      return new Date(d.getFullYear(), d.getMonth(), 1);
+    }
+
+    function sameDay(a, b) {
+      return a && b && a.getFullYear() === b.getFullYear()
+        && a.getMonth() === b.getMonth()
+        && a.getDate() === b.getDate();
+    }
+
     function formatDate(d) {
       if (!d) return 'data n/d';
-      const [y, m, day] = d.split('-');
+      if (d instanceof Date) return `${pad2(d.getDate())}/${pad2(d.getMonth() + 1)}/${d.getFullYear()}`;
+      const [y, m, day] = String(d).split('-');
       if (!y || !m || !day) return d;
       return `${day}/${m}/${y}`;
     }
 
+    function formatRangeLabel(from, to) {
+      if (!from && !to) return 'Escolher datas';
+      if (from && to && sameDay(from, to)) return formatDate(from);
+      if (from && to) return `${formatDate(from)} – ${formatDate(to)}`;
+      if (from) return `A partir de ${formatDate(from)}`;
+      return `Até ${formatDate(to)}`;
+    }
+
+    function matchesDateFilter(j) {
+      if (!dateFrom && !dateTo) return true;
+      const jobDate = parseISODate(String(j.date || '').slice(0, 10));
+      if (!jobDate) return false;
+      if (dateFrom && jobDate < dateFrom) return false;
+      if (dateTo && jobDate > dateTo) return false;
+      return true;
+    }
+
     function matchesFilters(j) {
+      if (!matchesDateFilter(j)) return false;
       if (activeFilters.size === 0) return true;
 
       for (const keys of Object.values(FILTER_GROUPS)) {
@@ -466,19 +884,26 @@
     }
 
     function syncChips() {
-      chipsEl.querySelectorAll('.chip').forEach((chip) => {
+      chipsEl.querySelectorAll('.chip[data-filter]').forEach((chip) => {
         const f = chip.dataset.filter;
         if (f === 'all') {
-          chip.classList.toggle('active', activeFilters.size === 0);
+          chip.classList.toggle('active', activeFilters.size === 0 && !dateFrom && !dateTo);
         } else {
           chip.classList.toggle('active', activeFilters.has(f));
         }
       });
+      syncDateTrigger();
+    }
+
+    function syncDateTrigger() {
+      dateTriggerLabelEl.textContent = formatRangeLabel(dateFrom, dateTo);
+      dateTriggerEl.classList.toggle('has-value', Boolean(dateFrom || dateTo));
     }
 
     function activeFilterSummary() {
-      if (activeFilters.size === 0) return '';
-      return [...activeFilters].map((f) => FILTER_LABELS[f] || f).join(' + ');
+      const parts = [...activeFilters].map((f) => FILTER_LABELS[f] || f);
+      if (dateFrom || dateTo) parts.push(formatRangeLabel(dateFrom, dateTo));
+      return parts.join(' + ');
     }
 
     function visibleJobs() {
@@ -490,16 +915,150 @@
       });
     }
 
-    function renderJobCard(j, i, { clicked }) {
+    function openCalendar() {
+      draftFrom = dateFrom ? new Date(dateFrom) : null;
+      draftTo = dateTo ? new Date(dateTo) : null;
+      const anchor = draftTo || draftFrom || new Date();
+      calView = startOfMonth(anchor);
+      calendarEl.hidden = false;
+      calendarEl.classList.add('open');
+      dateTriggerEl.setAttribute('aria-expanded', 'true');
+      renderCalendar();
+    }
+
+    function closeCalendar() {
+      calendarEl.hidden = true;
+      calendarEl.classList.remove('open');
+      dateTriggerEl.setAttribute('aria-expanded', 'false');
+    }
+
+    function toggleCalendar() {
+      if (calendarEl.classList.contains('open')) closeCalendar();
+      else openCalendar();
+    }
+
+    function updateCalHint() {
+      if (draftFrom && draftTo) {
+        calHintEl.textContent = sameDay(draftFrom, draftTo)
+          ? `Dia selecionado: ${formatDate(draftFrom)}`
+          : `Período: ${formatDate(draftFrom)} – ${formatDate(draftTo)}`;
+      } else if (draftFrom) {
+        calHintEl.textContent = `Início: ${formatDate(draftFrom)} · escolha a data final`;
+      } else {
+        calHintEl.textContent = 'Selecione o início e o fim do período';
+      }
+    }
+
+    function renderCalendar() {
+      const year = calView.getFullYear();
+      const month = calView.getMonth();
+      calTitleEl.textContent = `${MONTHS_PT[month]} ${year}`;
+      updateCalHint();
+
+      const firstDow = new Date(year, month, 1).getDay();
+      const daysInMonth = new Date(year, month + 1, 0).getDate();
+      const prevDays = new Date(year, month, 0).getDate();
+      const today = new Date();
+      const cells = [];
+
+      for (let i = 0; i < 42; i++) {
+        let d;
+        let outside = false;
+        if (i < firstDow) {
+          d = new Date(year, month - 1, prevDays - firstDow + i + 1);
+          outside = true;
+        } else if (i >= firstDow + daysInMonth) {
+          d = new Date(year, month + 1, i - firstDow - daysInMonth + 1);
+          outside = true;
+        } else {
+          d = new Date(year, month, i - firstDow + 1);
+        }
+
+        const iso = toISODate(d);
+        const isStart = draftFrom && sameDay(d, draftFrom);
+        const isEnd = draftTo && sameDay(d, draftTo);
+        const inRange = draftFrom && draftTo && d >= draftFrom && d <= draftTo && !isStart && !isEnd;
+        const classes = ['cal-day'];
+        if (outside) classes.push('outside');
+        if (sameDay(d, today)) classes.push('today');
+        if (isStart) classes.push('range-start', 'selected');
+        if (isEnd) classes.push('range-end', 'selected');
+        if (inRange) classes.push('in-range');
+
+        cells.push(`
+          <button
+            type="button"
+            class="${classes.join(' ')}"
+            data-date="${iso}"
+            aria-label="${formatDate(d)}"
+            aria-pressed="${isStart || isEnd || inRange}"
+          >${d.getDate()}</button>
+        `);
+      }
+
+      calGridEl.innerHTML = cells.join('');
+    }
+
+    function pickDraftDate(iso) {
+      const d = parseISODate(iso);
+      if (!d) return;
+
+      if (!draftFrom || (draftFrom && draftTo)) {
+        draftFrom = d;
+        draftTo = null;
+      } else if (d < draftFrom) {
+        draftTo = draftFrom;
+        draftFrom = d;
+      } else {
+        draftTo = d;
+      }
+      renderCalendar();
+    }
+
+    function applyDateFilter() {
+      dateFrom = draftFrom ? new Date(draftFrom) : null;
+      dateTo = draftTo ? new Date(draftTo) : (draftFrom ? new Date(draftFrom) : null);
+      if (dateFrom) dateFrom.setHours(0, 0, 0, 0);
+      if (dateTo) dateTo.setHours(0, 0, 0, 0);
+      closeCalendar();
+      syncChips();
+      render();
+    }
+
+    function clearDateFilter({ close = true } = {}) {
+      draftFrom = null;
+      draftTo = null;
+      dateFrom = null;
+      dateTo = null;
+      if (close) closeCalendar();
+      else renderCalendar();
+      syncChips();
+      render();
+    }
+
+    function renderJobCard(j, i, { clicked, discarded }) {
       const remoteTag = (j.remote || /remoto|remote|home.?office/i.test(j.title + ' ' + j.location))
         ? '<span class="tag">Remoto</span>'
         : '';
       const portalClass = j.portal === 'LinkedIn' ? 'portal-li' : '';
       const key = jobKey(j);
+      const stateClass = discarded ? ' discarded' : clicked ? ' clicked' : '';
+      const cta = discarded ? 'Abrir vaga →' : clicked ? 'Reabrir →' : 'Abrir vaga →';
+      const dismissLabel = discarded ? 'Restaurar vaga' : 'Descartar vaga';
+      const dismissClass = discarded ? 'dismiss restore' : 'dismiss';
+      const dismissIcon = discarded ? '↶' : '×';
       return `
-        <li style="animation-delay:${Math.min(i, 12) * 0.03}s">
+        <li class="job-card" style="animation-delay:${Math.min(i, 12) * 0.03}s">
+          <button
+            type="button"
+            class="${dismissClass}"
+            data-job-id="${escapeAttr(key)}"
+            data-action="${discarded ? 'restore' : 'discard'}"
+            aria-label="${dismissLabel}"
+            title="${dismissLabel}"
+          >${dismissIcon}</button>
           <a
-            class="job${clicked ? ' clicked' : ''}"
+            class="job${stateClass}"
             href="${escapeAttr(j.url)}"
             target="_blank"
             rel="noopener noreferrer"
@@ -515,25 +1074,32 @@
             </div>
             <div class="side">
               <span class="date">${formatDate(j.date)}</span>
-              <span class="cta">${clicked ? 'Reabrir →' : 'Abrir vaga →'}</span>
+              <span class="cta">${cta}</span>
             </div>
           </a>
         </li>
       `;
     }
 
-    function fillList(el, items, { clicked, emptyText }) {
+    function fillList(el, items, { clicked, discarded, emptyText }) {
       if (!items.length) {
         el.innerHTML = `<li class="empty">${escapeHtml(emptyText)}</li>`;
         return;
       }
-      el.innerHTML = items.map((j, i) => renderJobCard(j, i, { clicked })).join('');
+      el.innerHTML = items.map((j, i) => renderJobCard(j, i, { clicked, discarded })).join('');
     }
 
     function render() {
       const visible = visibleJobs();
-      const totalJobs = visible.filter((j) => !clickedIds.has(jobKey(j)));
-      const clickedJobs = visible.filter((j) => clickedIds.has(jobKey(j)));
+      const totalJobs = visible.filter((j) => {
+        const key = jobKey(j);
+        return !discardedIds.has(key) && !clickedIds.has(key);
+      });
+      const clickedJobs = visible.filter((j) => {
+        const key = jobKey(j);
+        return clickedIds.has(key) && !discardedIds.has(key);
+      });
+      const discardedJobs = visible.filter((j) => discardedIds.has(jobKey(j)));
       const filterNote = activeFilterSummary();
 
       metaEl.textContent = filterNote
@@ -542,30 +1108,69 @@
 
       totalCountEl.textContent = String(totalJobs.length);
       clickedCountEl.textContent = String(clickedJobs.length);
+      discardedCountEl.textContent = String(discardedJobs.length);
 
+      const movedAway = clickedJobs.length + discardedJobs.length;
       fillList(listTotalEl, totalJobs, {
         clicked: false,
-        emptyText: clickedJobs.length
-          ? 'Todas as vagas filtradas já foram clicadas.'
+        discarded: false,
+        emptyText: movedAway
+          ? 'Todas as vagas filtradas já foram clicadas ou descartadas.'
           : 'Nenhuma vaga com esses filtros.',
       });
 
       fillList(listClickedEl, clickedJobs, {
         clicked: true,
+        discarded: false,
         emptyText: 'Clique em uma vaga na coluna Total para movê-la para cá.',
+      });
+
+      fillList(listDiscardedEl, discardedJobs, {
+        clicked: false,
+        discarded: true,
+        emptyText: 'Use × em um card para descartá-lo aqui.',
       });
     }
 
     function markClicked(id) {
-      if (!id || clickedIds.has(id)) return;
+      if (!id || discardedIds.has(id) || clickedIds.has(id)) return;
       clickedIds.add(id);
       saveClickedIds();
       render();
     }
 
+    function discardJob(id) {
+      if (!id || discardedIds.has(id)) return;
+      discardedIds.add(id);
+      if (clickedIds.has(id)) {
+        clickedIds.delete(id);
+        saveClickedIds();
+      }
+      saveDiscardedIds();
+      render();
+    }
+
+    function restoreJob(id) {
+      if (!id || !discardedIds.has(id)) return;
+      discardedIds.delete(id);
+      saveDiscardedIds();
+      render();
+    }
+
     function onBoardClick(e) {
+      const dismissBtn = e.target.closest('.dismiss');
+      if (dismissBtn) {
+        e.preventDefault();
+        e.stopPropagation();
+        const id = dismissBtn.dataset.jobId;
+        if (dismissBtn.dataset.action === 'restore') restoreJob(id);
+        else discardJob(id);
+        return;
+      }
+
       const link = e.target.closest('a.job');
       if (!link) return;
+      if (link.classList.contains('discarded')) return;
       markClicked(link.dataset.jobId);
     }
 
@@ -587,39 +1192,118 @@
     });
 
     chipsEl.addEventListener('click', (e) => {
-      const btn = e.target.closest('.chip');
+      if (e.target.closest('.date-filter')) return;
+
+      const btn = e.target.closest('.chip[data-filter]');
       if (!btn) return;
 
       const f = btn.dataset.filter;
       if (f === 'all') {
         activeFilters.clear();
-      } else if (activeFilters.has(f)) {
-        activeFilters.delete(f);
-      } else {
-        activeFilters.add(f);
+        clearDateFilter({ close: true });
+        return;
       }
+      if (activeFilters.has(f)) activeFilters.delete(f);
+      else activeFilters.add(f);
 
       syncChips();
       render();
     });
 
+    dateTriggerEl.addEventListener('click', (e) => {
+      e.stopPropagation();
+      toggleCalendar();
+    });
+
+    calPrevEl.addEventListener('click', () => {
+      calView = new Date(calView.getFullYear(), calView.getMonth() - 1, 1);
+      renderCalendar();
+    });
+
+    calNextEl.addEventListener('click', () => {
+      calView = new Date(calView.getFullYear(), calView.getMonth() + 1, 1);
+      renderCalendar();
+    });
+
+    calGridEl.addEventListener('click', (e) => {
+      const day = e.target.closest('.cal-day');
+      if (!day) return;
+      pickDraftDate(day.dataset.date);
+    });
+
+    calClearEl.addEventListener('click', () => clearDateFilter({ close: true }));
+    calApplyEl.addEventListener('click', applyDateFilter);
+
+    document.addEventListener('click', (e) => {
+      const path = typeof e.composedPath === 'function' ? e.composedPath() : [];
+      const inside = path.includes(dateFilterEl) || dateFilterEl.contains(e.target);
+      if (!inside) closeCalendar();
+    });
+
+    document.addEventListener('keydown', (e) => {
+      if (e.key === 'Escape') closeCalendar();
+    });
+
     listTotalEl.addEventListener('click', onBoardClick);
     listClickedEl.addEventListener('click', onBoardClick);
+    listDiscardedEl.addEventListener('click', onBoardClick);
 
-    fetch('./jobs.json')
-      .then((r) => {
-        if (!r.ok) throw new Error('Falha ao carregar jobs.json');
-        return r.json();
-      })
-      .then((data) => {
-        jobs = data.jobs || [];
-        render();
-      })
-      .catch((err) => {
-        metaEl.textContent = 'Erro ao carregar vagas';
-        listTotalEl.innerHTML = `<li class="empty">${escapeHtml(err.message)}</li>`;
-        listClickedEl.innerHTML = '<li class="empty">—</li>';
-      });
+    function setRefreshBusy(busy, label) {
+      refreshBtnEl.disabled = busy;
+      refreshBtnEl.classList.toggle('busy', busy);
+      refreshLabelEl.textContent = label;
+    }
+
+    async function loadJobs() {
+      const r = await fetch(`./jobs.json?t=${Date.now()}`, { cache: 'no-store' });
+      if (!r.ok) throw new Error('Falha ao carregar jobs.json');
+      const data = await r.json();
+      jobs = data.jobs || [];
+      syncChips();
+      render();
+      return data;
+    }
+
+    async function refreshJobsDatabase() {
+      if (refreshBtnEl.disabled) return;
+      setRefreshBusy(true, 'Atualizando…');
+      metaEl.textContent = 'Atualizando base de vagas nos portais… isso pode levar alguns minutos.';
+
+      try {
+        const r = await fetch('/api/refresh', { method: 'POST' });
+        const data = await r.json().catch(() => ({}));
+
+        if (!r.ok || !data.ok) {
+          const msg = data.error || `Falha no refresh (HTTP ${r.status})`;
+          throw new Error(msg);
+        }
+
+        await loadJobs();
+        const count = data.count ?? jobs.length;
+        metaEl.textContent = `Base atualizada · ${count} vagas`;
+        setRefreshBusy(false, 'Atualizar vagas');
+        window.setTimeout(() => {
+          if (!refreshBtnEl.disabled) render();
+        }, 2500);
+      } catch (err) {
+        const msg = String(err?.message || err);
+        metaEl.textContent = `Erro ao atualizar: ${msg}`;
+        setRefreshBusy(false, 'Atualizar vagas');
+        if (/Failed to fetch|NetworkError|fetch/i.test(msg)) {
+          metaEl.textContent =
+            'Erro ao atualizar: suba a UI com o server Bun (bun run job_scraper/ui/server.js) para habilitar o refresh.';
+        }
+      }
+    }
+
+    refreshBtnEl.addEventListener('click', refreshJobsDatabase);
+
+    loadJobs().catch((err) => {
+      metaEl.textContent = 'Erro ao carregar vagas';
+      listTotalEl.innerHTML = `<li class="empty">${escapeHtml(err.message)}</li>`;
+      listClickedEl.innerHTML = '<li class="empty">—</li>';
+      listDiscardedEl.innerHTML = '<li class="empty">—</li>';
+    });
   </script>
 </body>
 </html>
