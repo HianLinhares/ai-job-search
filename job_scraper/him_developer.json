@@ -1,10 +1,34 @@
 {
   "meta": {
-    "count": 9,
+    "count": 10,
     "page": 1,
-    "total": 9
+    "total": 10
   },
   "results": [
+    {
+      "id": "github-contributor-106728860",
+      "title": "GitHub Contributor",
+      "company": "micro1",
+      "company_slug": "micro1",
+      "location": "Remote",
+      "date": "2026-09-09T15:50:14.000Z",
+      "url": "https://himalayas.app/companies/micro1/jobs/github-contributor-106728860",
+      "description": "Role Title: GitHub Contributor\nRole Type : Contractor (~15 hrs a week)\nLocation: Remote\nmicro1 is engaging expert Senior Software Engineers to support a customer’s innovative project. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters.\nAs an expert you will be creating Reinforcement Learning Environments which test and AI model's ability to solve complex software engineering problems related to fixing code, creating features, refactoring code and optimizing performance. You will be tasked with creating a reproducible environment and golden reference solution for the problem.\nApplicants must have clear open source contributions and profiles to showcase it like GitHub or GitLab. (Preferably with C++, Python, JAVA, GoLang, Typescript, or Rust)\nScope of Work\n\nContribute expert-level code samples, debugging strategies, and development insights in Python3, Java, Rust, Go, C++, or TypeScript.\n\nAnalyze, troubleshoot, and resolve complex software defects and performance bottlenecks in diverse codebases.\n\nImplement robust new features, ensuring scalability, maintainability, and adherence to software best practices.\n\nRefactor and optimize legacy code to improve clarity, efficiency, and long-term reliability.\n\nDocument technical reasoning, solution approaches, and code decisions to enhance AI training data quality.\n\nReview and validate peer-contributed code and technical submissions for accuracy and clarity.\n\nPreferred Qualifications\n\nSignificant hands-on expertise in at least one of the following: Python3, Java, Rust, Go, C++, or TypeScript.\n\nDeep understanding of algorithms, data structures, and software engineering principles.\n\nProven ability to debug complex systems, resolve bugs, and deliver effective optimizations.\n\nExperience with large codebase refactoring and legacy system modernization.\n\nTrack record of delivering high-impact features from conception through delivery within cross-functional projects.\n\nStrong documentation and communication skills to articulate technical concepts clearly.\n\nInterest in or curiosity about AI and its technical challenges (previous AI experience not required).\n\nProcess:\n\nApply to the role, filling out the screening questions\n\nComplete AI interview (aprox. 30 minutes)\n\nTechnical Assessment (Tentative)\n\nHiring Manager review\n\nCompensation Structure\nCompensation is output-based; experts are paid per task that meets the project specifications. The time required to complete work may vary depending on the expert’s experience and workflow. Minimum submission requirements apply. Experts must submit a minimum of tasks per week.\nStart Timeline & Availability\nWe typically fill roles within 48 hours and are looking for experts ready to jump in right away. If selected, we expect you to start your first tasks within 24–48 hours of completing onboarding.\nOriginally posted on Himalayas",
+      "excerpt": "Role Title: GitHub Contributor Role Type: Contractor (~15 hrs a week) Location: Remote micro1 is engaging expert Senior Software Engineers to support a customer’s innovative project.",
+      "seniority": [
+        "Entry-level"
+      ],
+      "categories": [
+        "Open-Source-Contributor",
+        "Open-Source-Developer",
+        "Community-Contributor",
+        "Open-Source-Software-Developer",
+        "Open-Source-Engineer",
+        "Developer"
+      ],
+      "application_link": "https://himalayas.app/companies/micro1/jobs/github-contributor-106728860",
+      "expiry_date": "2026-11-07T19:34:09.000Z"
+    },
     {
       "id": "fullstack-outsystems-developer",
       "title": "Fullstack Outsystems Developer",
@@ -62,6 +86,33 @@
       "expiry_date": "2026-09-29T09:07:38.000Z"
     },
     {
+      "id": "job-31300-senior-data-developer-brazil",
+      "title": "[Job 31300] Senior Data Developer, Brazil",
+      "company": "CI&T",
+      "company_slug": "ci-t",
+      "location": "Brazil",
+      "date": "2026-08-31T08:49:27.000Z",
+      "url": "https://himalayas.app/companies/ci-t/jobs/job-31300-senior-data-developer-brazil",
+      "description": "At CI&T, we help large enterprises transform the potential of AI into real business impact with AI Deployment, AI-native execution, and tech-integrated business solutions.\nWith 30 years of experience in technological transformation, we accelerate innovation with expertise in Agentic SDLC, Application modernization, Data & AI, Martech and Business strategy.\nWe are 8,000 CI&Ters across more than 25 countries, collaborating to build solutions with real impact. AI is already part of how we work, evolve, and innovate every day.\nOur client's Digital Supply Chain Analytics team is scaling how artificial intelligence and modern data platforms support day-to-day decisions across manufacturing, logistics, planning, procurement, and operations. The team is running multiple parallel initiatives — from data pipelines feeding AI agents, to a full SaaS replacement for forecasting and inventory management, to machine learning for vision and forecasting systems — and needs additional hands-on developers to keep pace.\nThe Senior Data Developer joins an existing team and contributes to established code repositories, with work scoped to the individual's strongest skills — whether that's database and pipeline development, application and UI development, or machine learning. Rather than owning a fixed set of responsibilities end to end, this person becomes part of a larger team accountable for the overall project, picking up the pieces of work best suited to their profile. What matters most is the ability to work confidently inside an existing codebase, follow solid Git practices, and communicate clearly and consistently with the rest of the team.\n\nResponsibilities:\n\nContributes to existing code repositories by extending and maintaining code according to established patterns and conventions.\n\nFollows Git best practices, including branching, commit hygiene, code review, and merge processes.\n\nCommunicates progress, blockers, and technical decisions clearly and consistently with the broader team.\n\nCollaborates within a larger cross-functional team accountable for the overall success of each project.\n\nData Pipelines & Integration\n\nBuilds data pipelines that feed downstream applications, including AI agents that manage purchase orders, by integrating and transforming data from sources such as Google BigQuery and SAP.\n\nDevelops and maintains ETL/ELT (Extract, Transform, Load / Extract, Load, Transform) processes to ensure reliable, accurate data flow between systems.\n\nDesigns and maintains database structures that support operational and analytical workloads.\n\nApplication & UI Development\n\nBuilds and extends front-end interfaces for internal applications, including a SaaS replacement for forecasting and inventory management.\n\nDevelops backend features and administrative functionality that support day-to-day application operations.\n\nBuilds and maintains scheduled jobs (cron jobs) that automate recurring application or data processes.\n\nMachine Learning\n\nSupports the development of machine learning models for use cases such as computer vision and forecasting.\n\nAssists in preparing data and features required to train and evaluate models.\n\nRequirements:\n\nDemonstrated experience contributing to and extending existing code repositories in a team environment\n\nStrong working knowledge of Git and collaborative version control practices\n\nClear, consistent communication skills, comfortable working closely with a distributed team\n\nDepth in at least one of the following areas, with working familiarity in others: database development and SQL, front-end/application development, ETL and data pipeline development, or machine learning\n\nComfort working across a range of tasks as scoped by the team, rather than a single fixed role\n\nExperience with Google BigQuery, SAP, or similar enterprise data platforms is a plus where relevant to assigned tasks\n\nNice to Have:\n\nExperience with SAP integrations\n\nExperience building or maintaining SaaS-style applications (forecasting, inventory management, or similar)\n\nExperience with machine learning for computer vision or time-series forecasting\n\nExperience with scheduled/automated jobs (cron) and lightweight administrative tooling\n\nExperience in supply chain, manufacturing, logistics, or procurement contexts\n\nOur benefits:\n-Health and dental insurance\n-Meal and food allowance\n-Childcare assistance\n-Extended paternity leave\n-Partnership with gyms and health and wellness professionals via Wellhub (Gympass) TotalPass;\n-Profit Sharing and Results Participation (PLR);\n-Life insurance\n-Continuous learning platform (CI&T University);\n-Discount club\n-Free online platform dedicated to physical, mental, and overall well-being\n-Pregnancy and responsible parenting course\n-Partnerships with online learning platforms\n-Language learning platform\nAnd many more!\nMore details about our benefits here:\nAt CI&T, inclusion starts at the first contact. If you are a person with a disability, it is important to present your assessment during the selection process. See which data needs to be included in the report by clicking here .This way, we can ensure the support and accommodations that you deserve. If you do not yet have the assessment, don't worry: we can support you in obtaining it.\n\nWe have a dedicated Health and Well-being team, inclusion specialists, and affinity groups who will be with you at every stage. Count on us to make this journey side by side.\nOriginally posted on Himalayas",
+      "excerpt": "At CI&T, we help large enterprises transform the potential of AI into real business impact with AI Deployment, AI-native execution, and tech-integrated business solutions.",
+      "seniority": [
+        "Senior"
+      ],
+      "categories": [
+        "Senior-Data-Developer",
+        "Data-Engineering",
+        "Machine-Learning",
+        "ETL-Development",
+        "Data-Pipeline-Development",
+        "Senior-Data-Integration-Developer",
+        "Senior-Data-Engineering",
+        "Data-Platform-Engineer",
+        "Data-Developer"
+      ],
+      "application_link": "https://himalayas.app/companies/ci-t/jobs/job-31300-senior-data-developer-brazil",
+      "expiry_date": "2026-10-30T08:49:26.000Z"
+    },
+    {
       "id": "laravel-developer-9515901776",
       "title": "Laravel Developer",
       "company": "Learntastic",
@@ -92,39 +143,12 @@
       "expiry_date": "2026-10-30T21:26:41.000Z"
     },
     {
-      "id": "job-31300-senior-data-developer-brazil",
-      "title": "[Job 31300] Senior Data Developer, Brazil",
-      "company": "CI&T",
-      "company_slug": "ci-t",
-      "location": "Brazil",
-      "date": "2026-08-31T08:49:27.000Z",
-      "url": "https://himalayas.app/companies/ci-t/jobs/job-31300-senior-data-developer-brazil",
-      "description": "At CI&T, we help large enterprises transform the potential of AI into real business impact with AI Deployment, AI-native execution, and tech-integrated business solutions.\nWith 30 years of experience in technological transformation, we accelerate innovation with expertise in Agentic SDLC, Application modernization, Data & AI, Martech and Business strategy.\nWe are 8,000 CI&Ters across more than 25 countries, collaborating to build solutions with real impact. AI is already part of how we work, evolve, and innovate every day.\nOur client's Digital Supply Chain Analytics team is scaling how artificial intelligence and modern data platforms support day-to-day decisions across manufacturing, logistics, planning, procurement, and operations. The team is running multiple parallel initiatives — from data pipelines feeding AI agents, to a full SaaS replacement for forecasting and inventory management, to machine learning for vision and forecasting systems — and needs additional hands-on developers to keep pace.\nThe Senior Data Developer joins an existing team and contributes to established code repositories, with work scoped to the individual's strongest skills — whether that's database and pipeline development, application and UI development, or machine learning. Rather than owning a fixed set of responsibilities end to end, this person becomes part of a larger team accountable for the overall project, picking up the pieces of work best suited to their profile. What matters most is the ability to work confidently inside an existing codebase, follow solid Git practices, and communicate clearly and consistently with the rest of the team.\n\nResponsibilities:\n\nContributes to existing code repositories by extending and maintaining code according to established patterns and conventions.\n\nFollows Git best practices, including branching, commit hygiene, code review, and merge processes.\n\nCommunicates progress, blockers, and technical decisions clearly and consistently with the broader team.\n\nCollaborates within a larger cross-functional team accountable for the overall success of each project.\n\nData Pipelines & Integration\n\nBuilds data pipelines that feed downstream applications, including AI agents that manage purchase orders, by integrating and transforming data from sources such as Google BigQuery and SAP.\n\nDevelops and maintains ETL/ELT (Extract, Transform, Load / Extract, Load, Transform) processes to ensure reliable, accurate data flow between systems.\n\nDesigns and maintains database structures that support operational and analytical workloads.\n\nApplication & UI Development\n\nBuilds and extends front-end interfaces for internal applications, including a SaaS replacement for forecasting and inventory management.\n\nDevelops backend features and administrative functionality that support day-to-day application operations.\n\nBuilds and maintains scheduled jobs (cron jobs) that automate recurring application or data processes.\n\nMachine Learning\n\nSupports the development of machine learning models for use cases such as computer vision and forecasting.\n\nAssists in preparing data and features required to train and evaluate models.\n\nRequirements:\n\nDemonstrated experience contributing to and extending existing code repositories in a team environment\n\nStrong working knowledge of Git and collaborative version control practices\n\nClear, consistent communication skills, comfortable working closely with a distributed team\n\nDepth in at least one of the following areas, with working familiarity in others: database development and SQL, front-end/application development, ETL and data pipeline development, or machine learning\n\nComfort working across a range of tasks as scoped by the team, rather than a single fixed role\n\nExperience with Google BigQuery, SAP, or similar enterprise data platforms is a plus where relevant to assigned tasks\n\nNice to Have:\n\nExperience with SAP integrations\n\nExperience building or maintaining SaaS-style applications (forecasting, inventory management, or similar)\n\nExperience with machine learning for computer vision or time-series forecasting\n\nExperience with scheduled/automated jobs (cron) and lightweight administrative tooling\n\nExperience in supply chain, manufacturing, logistics, or procurement contexts\n\nOur benefits:\n-Health and dental insurance\n-Meal and food allowance\n-Childcare assistance\n-Extended paternity leave\n-Partnership with gyms and health and wellness professionals via Wellhub (Gympass) TotalPass;\n-Profit Sharing and Results Participation (PLR);\n-Life insurance\n-Continuous learning platform (CI&T University);\n-Discount club\n-Free online platform dedicated to physical, mental, and overall well-being\n-Pregnancy and responsible parenting course\n-Partnerships with online learning platforms\n-Language learning platform\nAnd many more!\nMore details about our benefits here:\nAt CI&T, inclusion starts at the first contact. If you are a person with a disability, it is important to present your assessment during the selection process. See which data needs to be included in the report by clicking here .This way, we can ensure the support and accommodations that you deserve. If you do not yet have the assessment, don't worry: we can support you in obtaining it.\n\nWe have a dedicated Health and Well-being team, inclusion specialists, and affinity groups who will be with you at every stage. Count on us to make this journey side by side.\nOriginally posted on Himalayas",
-      "excerpt": "At CI&T, we help large enterprises transform the potential of AI into real business impact with AI Deployment, AI-native execution, and tech-integrated business solutions.",
-      "seniority": [
-        "Senior"
-      ],
-      "categories": [
-        "Senior-Data-Developer",
-        "Data-Engineering",
-        "Machine-Learning",
-        "ETL-Development",
-        "Data-Pipeline-Development",
-        "Senior-Data-Integration-Developer",
-        "Senior-Data-Engineering",
-        "Data-Platform-Engineer",
-        "Data-Developer"
-      ],
-      "application_link": "https://himalayas.app/companies/ci-t/jobs/job-31300-senior-data-developer-brazil",
-      "expiry_date": "2026-10-30T08:49:26.000Z"
-    },
-    {
       "id": "software-developer-23980",
       "title": "Software Developer",
       "company": "micro1",
       "company_slug": "micro1",
       "location": "Remote",
-      "date": "2026-09-03T00:40:33.000Z",
+      "date": "2026-09-09T20:20:27.000Z",
       "url": "https://himalayas.app/companies/micro1/jobs/software-developer-23980",
       "description": "Role Title: Software Developer\nRole Type: Contractor\nLocation: Remote\nmicro1 is engaging Software Developers to contribute expertise to a dynamic customer project focused on digital innovation. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters.\nScope of Work\n\nDesign and implement scalable, maintainable, and robust software solutions leveraging Python, Java, JavaScript/Node.js, and full-stack technologies.\n\nConduct detailed code reviews, providing actionable feedback to ensure functionality, performance, and adherence to standards.\n\nDevelop and maintain comprehensive technical documentation to support architectural decisions and ongoing maintenance.\n\nCollaborate in shaping software architecture and recommending industry best practices for long-term stability and scalability.\n\nParticipate in the analysis of requirements to deliver efficient, high-quality deliverables meeting client and project needs.\n\nContribute real-world programming examples, explanations, and problem-solving approaches as foundational input for AI training datasets.\n\nCommunicate findings, challenges, and solutions effectively using clear written and verbal communication skills.\n\nPreferred Qualifications\n\n5+ years of proven experience as a professional, consultant, or specialist in one or more of: Python, Java, JavaScript/Node.js, or full-stack software development.\n\nDemonstrated expertise in designing and reviewing complex software architectures and codebases.\n\nStrong background in producing and maintaining high-quality, user-friendly technical documentation.\n\nSolid experience with code review processes, offering insightful, constructive feedback to peers or contributors.\n\nAbility to distill complex software concepts into clear, concise written and verbal communication pieces.\n\nExperience working remotely and collaborating across distributed teams using digital communication tools.\n\nNice to have: exposure to AI, machine learning concepts, or contributing to technology training datasets.\n\nOriginally posted on Himalayas",
       "excerpt": "Role Title: Software DeveloperRole Type: ContractorLocation: Remotemicro1 is engaging Software Developers to contribute expertise to a dynamic customer project focused on digital innovation.",
@@ -143,7 +167,7 @@
         "Developer"
       ],
       "application_link": "https://himalayas.app/companies/micro1/jobs/software-developer-23980",
-      "expiry_date": "2026-11-02T00:40:33.000Z"
+      "expiry_date": "2026-11-08T19:20:26.000Z"
     },
     {
       "id": "business-development-representative",
@@ -178,65 +202,37 @@
       "expiry_date": "2026-11-02T07:14:37.000Z"
     },
     {
-      "id": "business-development",
-      "title": "Business Development",
-      "company": "Valce Talent Solutions",
-      "company_slug": "valce-talent-solutions",
-      "location": "Argentina, Brazil, Chile, Colombia, Uruguay",
-      "date": "2026-09-05T22:26:24.000Z",
-      "url": "https://himalayas.app/companies/valce-talent-solutions/jobs/business-development",
-      "description": "Employment Type: Full-time / Independent Contractor\nLocation: 100% Remote\nSchedule: Monday – Friday, 8:00 AM – 5:00 PM EST\nCompensation: $1,200 – $1,500 USD / month + Commissions\nLanguage Requirement: Effective English + Strong Local Language Fluency\nAbout the Role\nWe are seeking an entrepreneurial International B2B Business Development Manager to drive regional expansion by opening industrial accounts, presenting specialized technical solutions, and converting opportunities into recurring regional revenue.\nIn this role, you will lead end-to-end commercial growth within your assigned territory—targeting HVAC, industrial equipment, facilities, and mechanical sectors. This position is tailored for a technical sales \"hunter\" capable of building a durable customer ecosystem from the ground up.\nKey Responsibilities\n\nNew Revenue Development: Prospect, cold-outreach, and open doors across industrial accounts to generate and convert coating-project opportunities into collected revenue.\n\nAccount Ownership & Recurring Sales: Maintain close contact post-sale, follow up on quotes, engage key decision-makers, and drive repeat orders and account expansion.\n\nEcosystem & Channel Building: Identify, qualify, and recruit regional distributors, resellers, certified-applicator candidates, and strategic partners.\n\nPipeline & Activity Discipline: Maintain consistent prospecting, meetings, opportunity reporting, forecasting, and routine communication with INFINIGUARD management.\n\nBrand & Channel Protection: Apply approved pricing, claims, commercial terms, and materials to ensure brand value and channel alignment.\n\nRequirements & Qualifications\n\nB2B Technical Sales Experience: Preferred background in industrial markets, HVAC, mechanical equipment, protective coatings, construction, facility management, energy, OEMs, or technical distribution.\n\nHunter Mentality: Proven ability to proactively prospect, open new doors, and create opportunities rather than relying on inbound leads.\n\nRelevant Industry Network (Strong Advantage): Established relationships with contractors, OEMs, distributors, engineering firms, facility owners/operators, or industrial buyers.\n\nTechnical Sales Aptitude: Ability to learn and credibly present a technical solution (INFINIGUARD provides technical support, training, documentation, and application expertise).\n\nLanguage Proficiency: Effective communication in English to coordinate with INFINIGUARD management, combined with strong local-language and cultural fluency.\n\nEquipment & Setup (Mandatory): Must possess your own reliable computer/laptop, high-speed internet, and headset for daily remote operations.\n\nTravel Readiness: Willingness and capability to travel within the assigned market to meet customers, partners, and prospects in person.\n\nHigh Integrity & Commercial Maturity: Strong ethics, pricing discipline, and a focus on long-term regional development over one-time sales.\n\nOriginally posted on Himalayas",
-      "excerpt": "Employment Type: Full-time / Independent Contractor Location: 100% Remote Schedule: Monday – Friday, 8:00 AM – 5:00 PM EST Compensation: $1,200 – $1,500 USD / month + Commissions Language Requirement: Effective English + Strong Local Language Fluency About the RoleWe are seeking an entrepreneurial International B2B Business Development Manager to drive regional expansion by opening industrial accounts, presenting specialized technical solutions, and converting opportunities into recurring regional revenue.",
-      "seniority": [
-        "Mid-level"
-      ],
-      "categories": [
-        "Business-Development",
-        "B2B-Sales",
-        "Technical-Sales",
-        "Sales-Management",
-        "International-Sales",
-        "Business-Development-And-Sales",
-        "New-Business-Development",
-        "Business-Developer",
-        "Business-Development-B2B",
-        "BUSINESS-DEVELOPMENT-AND-CLIENTS",
-        "Business-Development-And-Strategy",
-        "Business-Development-Support",
-        "Business-Development-And-Partnerships"
-      ],
-      "application_link": "https://himalayas.app/companies/valce-talent-solutions/jobs/business-development",
-      "expiry_date": "2026-11-04T22:26:23.000Z"
-    },
-    {
-      "id": "business-development-specialist",
-      "title": "Business Development Specialist",
-      "company": "Orderly Network",
-      "company_slug": "orderly-network",
+      "id": "head-of-business-development-logos",
+      "title": "Head of Business Development - Logos",
+      "company": "Logos",
+      "company_slug": "logos",
       "location": "Remote",
-      "date": "2026-09-04T04:44:38.000Z",
-      "url": "https://himalayas.app/companies/orderly-network/jobs/business-development-specialist",
-      "description": "Work with the Best\nOrderly Network is a combination of an orderbook-based trading infrastructure and a robust liquidity layer offering spot and perpetual futures orderbooks. Unlike traditional platforms, Orderly doesn’t have a front end; instead, it operates at the core of the ecosystem, providing essential services to projects built on top of it.\nOur DEX white-label solution is carefully crafted to save builders time and capital while granting access to our bootstrapped liquidity. Picture having the best features of CEXs while keeping settlements on-chain and maintaining full self-custody.\nWith Orderly, anyone can create a trading application thanks to our seamless plug-and-play experience leveraging our liquidity and composability.\nLooking ahead, our grand vision is to create an omnichain protocol, connecting traders from both EVM and non-EVM chains within the same orderbook.\nA Glimpse into Your Future at Orderly Network\n\nOrderly's Partnership team accelerates the growth of our ecosystem by identifying, engaging, and supporting builders and partners who build on top of Orderly's infrastructure. In this role, you will be the driving force behind expanding our partner ecosystem — building and managing a robust pipeline of prospective partners, tracking relationship progress through structured CRM workflows, and ensuring partners are activated and growing on Orderly.\n\nThis is a hands-on, high-ownership role for someone who thinks in systems — who can apply internet-era frameworks (funnel management, data-driven tracking, automated workflows) to relationship building and pipeline management at scale.\n\nWhat will you be working on?\nBuild and maintain a structured pipeline of prospective partners across multiple verticals (DeFi, gaming, NFT, infrastructure, and beyond), using CRM tools and data-driven tracking systems to manage the full lifecycle from prospect to activation\n\nApply internet-thinking frameworks to relationship management — treat partner outreach as a funnel: identify → qualify → engage → activate → grow, with clear metrics and tracking at each stage\n\nDevelop and execute new growth initiatives to expand the Orderly ecosystem\n\nCollaborate with BD, DevRel, Marketing, and Operations teams to implement ecosystem growth initiatives end-to-end\n\nEngage with builders, investors, exchanges, and infrastructure providers to drive ecosystem growth and partnership activation\n\nManage grants programs and hackathon participation to attract builders to build on Orderly and encourage composability\n\nResearch emerging protocols and verticals; collaborate with L1/L2 ecosystems to drive token utility and cross-chain adoption\n\nMaintain a clean, up-to-date partner database with clear status tracking, next-step actions, and follow-up cadences\n\nWho will you be working with? Maintain close collaboration with Marketing, Operations, Product & BD Teams.\n\nAbout you\n\nBilingual fluency in English and Mandarin Chinese — you can switch seamlessly between both languages in business settings (native-level English speaker, e.g., ABC or equivalent bilingual profile, strongly preferred)\n\nEnergetic and early-career — you're young, hungry, and eager to prove yourself; we value drive and adaptability over years of tenure\n\nInternet-native mindset — you naturally think in terms of funnels, pipelines, tracking systems, and data-driven relationship management; you're comfortable using CRM tools, spreadsheets, and automation to manage large volumes of relationships without losing personal touch\n\n2+ years of experience in ecosystem growth, BD, partnerships, or portfolio support at a blockchain (L1/L2), venture firm, or internet/tech company — with demonstrated experience onboarding and growing projects from the ground up\n\nYou are biased toward action while respecting team-oriented priorities\n\nYou are no-ego, adaptable, entrepreneurial, detail-oriented\n\nYou are an excellent speaker and writer\n\nYou are personable and able to manage expectations across many stakeholders and multiple on-going relationships\n\nInterested in Learning More?\n\nOur hiring process begins by meeting with our People Team, who help facilitate the process of placing you in your new role. You can expect to share your experience and ideas in online video interviews with our hiring team, made up of management and potential new colleagues.\n\nIf you have experience in developing trading systems or financial-related products is a plus.\n\nYou can prepare for this interview by mentally organizing your strategies and opinions on topics such as Web3, cryptocurrency trading platforms, and your vision of how to succeed.\n\nShare this! Don’t be afraid of friends or co-workers stealing this job! If you are amazing and smart we will find a place for you. Check out our External Referral Incentives Program as well.\n\nOriginally posted on Himalayas",
-      "excerpt": "Work with the BestOrderly Network is a combination of an orderbook-based trading infrastructure and a robust liquidity layer offering spot and perpetual futures orderbooks.",
+      "date": "2026-09-06T22:23:51.000Z",
+      "url": "https://himalayas.app/companies/logos/jobs/head-of-business-development-logos",
+      "description": "Logos is a movement supporting the development of the decentralised web. Logos technologies lay the foundations for a freer internet upon which communities can evolve into network states. Each protocol in the Logos stack seeks to empower its users while upholding civil liberties and fundamental freedoms.\n\nAbout Logos :\nLogos is building the technology and community required for a more sovereign, decentralised world.\nOur technology stack spans decentralised infrastructure, communications and storage, with a focus on privacy, censorship resistance and permissionless systems. We work at the intersection of protocol development, Web3 infrastructure and ecosystem building.\nWe’re looking for a Head of Business Development to own and drive business development across Logos , while leading a team of two.\nThis isn't a traditional sales role. We're looking for someone who is deeply embedded in the Web3 infrastructure ecosystem, with a strong understanding of how decentralised networks operate and experience working with/launching privacy-focused protocols. Crucially, you'll have been through a mainnet launch and understand what it takes to build the partnerships, ecosystem and infrastructure relationships required both in the lead-up to launch and as the network scales post-mainnet.\nThe role:\nAs Head of Business Development, you will lead the development and execution of strategies to grow the Logos ecosystem. You will be responsible for establishing strategic partnerships, designing and executing growth strategies and building any relevant commercial relationships.\nYou'll identify where Logos technology can solve real problems, build relationships with protocols and infrastructure providers, and work closely with our technical teams to turn opportunities into integrations and long-term partnerships.\nYou'll also manage and develop a team of two, providing direction and prioritisation while remaining highly hands-on yourself.\nA core part of the role is being able to operate credibly with technical stakeholders. You don't need to be an engineer, but you should understand the technology stack well enough to have substantive conversations with protocol teams, founders and engineering leaders without relying on someone else to translate the technology for you.\nResponsibilities:\n\nDevelop and execute Logos ’ BD and partnership strategy, building strategic relationships ahead of mainnet and driving ecosystem growth and adoption through expanded distribution channels post-launch.\n\nIdentify the ecosystems, protocols, infrastructure providers and applications where Logos technology can deliver the greatest value and bring users and volume to Logos network\n\nBuild a focused pipeline of high-value opportunities rather than pursuing partnerships for their own sake.\n\nEstablish clear priorities and success metrics for BD activity, owning the performance of BD goals against budget.\n\nOwn opportunities from initial identification through technical evaluation, negotiation, integration and ongoing relationship management.\n\nBuild technically meaningful partnerships:\n\nDevelop relationships across the Web3 infrastructure ecosystem, including wallets, centralised exchanges, on/off-ramps, oracles, indexers, DeFi protocols and aggregators, multisigs and other infrastructure providers, with a particular focus on those actively engaged in the privacy ecosystem.\n\nIdentify opportunities for integrations, deployments, ecosystem partnerships and adoption of Logos technology.\n\nUnderstand prospective partners’ technical architecture and identify how Logos can complement their technology stack through its privacy capabilities, while attracting privacy-focused applications and protocols to build on the Logos ecosystem.\n\nWork with technical teams on both sides to move opportunities from conversation to implementation.\n\nRepresent Logos credibly with founders, protocol leads, ecosystem teams and technical decision-makers.\n\nUnderstand the technology:\nYou should be comfortable discussing concepts such as:\n\nL1s, L2s and modular blockchain architectures\n\nP2P and decentralised networking\n\nNodes, validators and network operators\n\nConsensus and distributed systems\n\nDecentralised storage and messaging\n\nRPC and blockchain infrastructure\n\nWallet and application infrastructure\n\nToken and network incentive models\n\nTestnets, mainnets and network launches\n\nPrivacy-preserving and censorship-resistant technologies\n\nYou don't need to write production code, but you need genuine technical curiosity and enough depth to understand what we're building, why it matters, and how it can be used by others.\nLead the team:\n\nManage, mentor and develop an existing team of two BD contributors.\n\nSet priorities and ensure the team is focused on the opportunities most likely to create meaningful adoption.\n\nEstablish a disciplined approach to pipeline management, ownership and follow-through.\n\nSupport the team on complex partnerships and negotiations.\n\nCreate accountability without introducing unnecessary processes or bureaucracy.\n\nRemain hands-on with strategically important relationships and opportunities.\n\nWork across Logos :\n\nPartner closely with protocol, engineering, product, ecosystem and communications teams.\n\nBring market and partner feedback back into the organisation to help inform product and ecosystem priorities.\n\nTranslate technical capabilities into clear propositions for different partners and use cases.\n\nHelp technical teams understand the commercial and strategic context behind potential integrations.\n\nEnsure partnerships result in tangible outcomes rather than announcements alone.\n\nRequired skills:\n\nSignificant experience in Web3, blockchain or decentralised infrastructure.\n\nStrong understanding of the technical architecture of blockchain networks and Web3 infrastructure.\n\nExperience in business development, ecosystem development, strategic partnerships or a closely related role.\n\nEvidence of building partnerships that resulted in real integrations, adoption, users, network activity or revenue.\n\nExisting relationships across the Web3 infrastructure ecosystem.\n\nAbility to communicate effectively with highly technical stakeholders.\n\nStrong commercial judgement and the ability to distinguish strategically valuable opportunities from noise.\n\nExperience managing or mentoring a small team.\n\nComfortable operating autonomously in a remote, highly technical organisation.\n\nA builder mentality; you enjoy taking opportunities from an initial idea through to something that actually exists.\n\nWe'd be especially interested in people who have worked within privacy focused ecosystems in areas such as:\n\nPrivacy focused L1 or L2 ecosystems\n\nDecentralised networking projects relating to messaging, storage and or Privacy tools and applications\n\nWallets\n\nExperience in Open-source protocols is a must\n\nHiring process: Interview with our People Ops team\nInterview with Artem (IR Lead) & Rahul (BD)\nTask\nInterview with Kaushal (EcoDev Team Lead)\nInterview with Co-founders, Jarrad & Carl\nWe occasionally use cognitive tests and/or personality tests to gain insight into candidates' suitability with our org. The results provide an additional data point for us when making our hiring decisions. The steps may change along the way if we see it makes sense to adapt the interview stages, so please consider the above as a guideline.\nCompensation:\nThe expected compensation range for this role is negotiable, dependent on how we assess your skills and experience throughout our interview process. We are happy to pay in any mix of fiat/crypto\nOriginally posted on Himalayas",
+      "excerpt": "Logos is a movement supporting the development of the decentralised web.",
       "seniority": [
-        "Mid-level"
+        "Director"
       ],
       "categories": [
+        "Ecosystem-Development",
         "Business-Development",
-        "Partnerships-Manager",
-        "Ecosystem-Growth",
         "Web3-Business-Development",
-        "Partnership-Specialist",
-        "Business-Development-Specialist",
-        "Business-Development-Professional",
-        "Business-Developer",
-        "Business-Development-Representative",
-        "Business-Development-Coordinator",
-        "Business-Development-Associate",
-        "Business-Development-Advisor"
+        "Strategic-Partnerships",
+        "Blockchain-Partnerships",
+        "Head-of-Business-Development",
+        "Business-Development-Leader",
+        "Business-Development-Director",
+        "Business-Development-Lead",
+        "Managing-Director-Business-Development",
+        "Director-Business-Development",
+        "Head-of-Business",
+        "Director-of-Business-Development",
+        "Lead-Business-Developer",
+        "Business-Head"
       ],
-      "application_link": "https://himalayas.app/companies/orderly-network/jobs/business-development-specialist",
-      "expiry_date": "2026-11-03T04:44:37.000Z"
+      "application_link": "https://himalayas.app/companies/logos/jobs/head-of-business-development-logos",
+      "expiry_date": "2026-11-05T22:23:50.000Z"
     },
     {
       "id": "lead-fullstack-developer",
@@ -268,6 +264,37 @@
       ],
       "application_link": "https://himalayas.app/companies/teravision-technologies/jobs/lead-fullstack-developer",
       "expiry_date": "2026-10-02T05:07:14.000Z"
+    },
+    {
+      "id": "business-development",
+      "title": "Business Development",
+      "company": "Valce Talent Solutions",
+      "company_slug": "valce-talent-solutions",
+      "location": "Argentina, Brazil, Chile, Colombia, Uruguay",
+      "date": "2026-09-05T22:26:24.000Z",
+      "url": "https://himalayas.app/companies/valce-talent-solutions/jobs/business-development",
+      "description": "Employment Type: Full-time / Independent Contractor\nLocation: 100% Remote\nSchedule: Monday – Friday, 8:00 AM – 5:00 PM EST\nCompensation: $1,200 – $1,500 USD / month + Commissions\nLanguage Requirement: Effective English + Strong Local Language Fluency\nAbout the Role\nWe are seeking an entrepreneurial International B2B Business Development Manager to drive regional expansion by opening industrial accounts, presenting specialized technical solutions, and converting opportunities into recurring regional revenue.\nIn this role, you will lead end-to-end commercial growth within your assigned territory—targeting HVAC, industrial equipment, facilities, and mechanical sectors. This position is tailored for a technical sales \"hunter\" capable of building a durable customer ecosystem from the ground up.\nKey Responsibilities\n\nNew Revenue Development: Prospect, cold-outreach, and open doors across industrial accounts to generate and convert coating-project opportunities into collected revenue.\n\nAccount Ownership & Recurring Sales: Maintain close contact post-sale, follow up on quotes, engage key decision-makers, and drive repeat orders and account expansion.\n\nEcosystem & Channel Building: Identify, qualify, and recruit regional distributors, resellers, certified-applicator candidates, and strategic partners.\n\nPipeline & Activity Discipline: Maintain consistent prospecting, meetings, opportunity reporting, forecasting, and routine communication with INFINIGUARD management.\n\nBrand & Channel Protection: Apply approved pricing, claims, commercial terms, and materials to ensure brand value and channel alignment.\n\nRequirements & Qualifications\n\nB2B Technical Sales Experience: Preferred background in industrial markets, HVAC, mechanical equipment, protective coatings, construction, facility management, energy, OEMs, or technical distribution.\n\nHunter Mentality: Proven ability to proactively prospect, open new doors, and create opportunities rather than relying on inbound leads.\n\nRelevant Industry Network (Strong Advantage): Established relationships with contractors, OEMs, distributors, engineering firms, facility owners/operators, or industrial buyers.\n\nTechnical Sales Aptitude: Ability to learn and credibly present a technical solution (INFINIGUARD provides technical support, training, documentation, and application expertise).\n\nLanguage Proficiency: Effective communication in English to coordinate with INFINIGUARD management, combined with strong local-language and cultural fluency.\n\nEquipment & Setup (Mandatory): Must possess your own reliable computer/laptop, high-speed internet, and headset for daily remote operations.\n\nTravel Readiness: Willingness and capability to travel within the assigned market to meet customers, partners, and prospects in person.\n\nHigh Integrity & Commercial Maturity: Strong ethics, pricing discipline, and a focus on long-term regional development over one-time sales.\n\nOriginally posted on Himalayas",
+      "excerpt": "Employment Type: Full-time / Independent Contractor Location: 100% Remote Schedule: Monday – Friday, 8:00 AM – 5:00 PM EST Compensation: $1,200 – $1,500 USD / month + Commissions Language Requirement: Effective English + Strong Local Language Fluency About the RoleWe are seeking an entrepreneurial International B2B Business Development Manager to drive regional expansion by opening industrial accounts, presenting specialized technical solutions, and converting opportunities into recurring regional revenue.",
+      "seniority": [
+        "Mid-level"
+      ],
+      "categories": [
+        "Business-Development",
+        "B2B-Sales",
+        "Technical-Sales",
+        "Sales-Management",
+        "International-Sales",
+        "Business-Development-And-Sales",
+        "New-Business-Development",
+        "Business-Developer",
+        "Business-Development-B2B",
+        "BUSINESS-DEVELOPMENT-AND-CLIENTS",
+        "Business-Development-And-Strategy",
+        "Business-Development-Support",
+        "Business-Development-And-Partnerships"
+      ],
+      "application_link": "https://himalayas.app/companies/valce-talent-solutions/jobs/business-development",
+      "expiry_date": "2026-11-04T22:26:23.000Z"
     }
   ]
 }

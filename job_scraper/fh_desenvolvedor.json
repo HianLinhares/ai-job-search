@@ -2,17 +2,17 @@
   "meta": {
     "count": 20,
     "page": 1,
-    "total": 196
+    "total": 175
   },
   "results": [
     {
-      "id": "desenvolvedor-a-mobile-react-native-fiap-alura-pm3-ejsdjduf",
-      "title": "Desenvolvedor(a) Mobile - React Native",
-      "company": "FIAP/Alura/PM3",
-      "company_slug": "fiap-alura-pm3",
+      "id": "desenvolvedor-full-stack-net-core-e-angular-senior-framework-gwdu6cyb",
+      "title": "Desenvolvedor Full Stack .(NET Core e Angular) Sênior",
+      "company": "Framework",
+      "company_slug": "framework",
       "location": "BR",
-      "date": "2026-09-04T21:44:50Z",
-      "url": "https://alun.inhire.app/vagas/dcb67599-9471-4f51-81f9-36f442cfd685/desenvolvedor-a-mobile-react-native?utm_source=freehire.me",
+      "date": "2026-09-09T21:05:54Z",
+      "url": "https://frameworkdigital.inhire.app/vagas/3cd41a7a-eb3c-4891-9bca-330a2af6efca/desenvolvedor-full-stack-net-core-e-angular-senior?utm_source=freehire.me",
       "work_mode": "remote",
       "regions": [
         "latam"
@@ -21,53 +21,35 @@
         "br"
       ],
       "skills": [
-        "analytics",
-        "android",
+        "angular",
         "api",
+        "aws",
+        "azure",
         "ci-cd",
-        "firebase",
+        "cloud",
+        "csharp",
+        "design-patterns",
+        "docker",
+        "dotnet",
+        "gcp",
         "git",
-        "github",
-        "gitlab",
-        "ios",
-        "javascript",
-        "openai",
-        "react",
-        "react-native",
+        "kanban",
+        "kubernetes",
+        "oracle",
         "rest",
-        "typescript"
+        "scrum",
+        "svn"
       ],
       "description": null
     },
     {
-      "id": "desenvolvedor-full-stack-sr-minsait-an-indra-company-2a4th3dt",
-      "title": "Desenvolvedor  FULL STACK SR",
-      "company": "Minsait an Indra Company",
-      "company_slug": "minsait-an-indra-company",
-      "location": "Brazil",
-      "date": "2026-09-04T20:14:48Z",
-      "url": "https://himalayas.app/companies/minsait-an-indra-company/jobs/desenvolvedor-full-stack-sr?utm_source=freehire.me",
-      "work_mode": "remote",
-      "regions": [
-        "latam"
-      ],
-      "countries": [
-        "br"
-      ],
-      "skills": [
-        "devops",
-        "java"
-      ],
-      "description": null
-    },
-    {
-      "id": "desenvolvedor-full-stack-pleno-be-aliant-xkntkvf3",
-      "title": "Desenvolvedor Full Stack Pleno",
-      "company": "Be.Aliant",
-      "company_slug": "be-aliant",
-      "location": "Brasil",
-      "date": "2026-09-04T20:03:33Z",
-      "url": "https://2024conf.gupy.io/job/eyJqb2JJZCI6MTI0MjQxOTEsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal&utm_source=freehire.me",
+      "id": "desenvolvedor-a-java-backend-pl-100-remoto-cashme-pyasgmxt",
+      "title": "Desenvolvedor(a) Java Backend PL [100% remoto]",
+      "company": "CashMe",
+      "company_slug": "cashme",
+      "location": "BR",
+      "date": "2026-09-09T17:55:19Z",
+      "url": "https://cashme.inhire.app/vagas/f2546cbf-03c4-41d9-8ab6-5bd2ce6a3c27/desenvolvedor-a-java-backend-pl-100-remoto?utm_source=freehire.me",
       "work_mode": "remote",
       "regions": [
         "latam"
@@ -78,31 +60,147 @@
       "skills": [
         "api",
         "aws",
+        "cloudwatch",
+        "design-patterns",
+        "docker",
+        "git",
+        "java",
+        "jpa",
+        "junit",
+        "kubernetes",
+        "lambda",
+        "mockito",
+        "mvc",
+        "sns",
+        "spring",
+        "sqs"
+      ],
+      "description": null
+    },
+    {
+      "id": "desenvolvedor-react-frontend-senior-100-remoto-cashme-u7b7iryv",
+      "title": "Desenvolvedor React Frontend Sênior [100% remoto]",
+      "company": "CashMe",
+      "company_slug": "cashme",
+      "location": "BR",
+      "date": "2026-09-09T17:54:44Z",
+      "url": "https://cashme.inhire.app/vagas/691821f7-80b9-43ab-b608-5e06a6094930/desenvolvedor-react-frontend-senior-100-remoto?utm_source=freehire.me",
+      "work_mode": "remote",
+      "regions": [
+        "latam"
+      ],
+      "countries": [
+        "br"
+      ],
+      "skills": [
+        "api",
+        "aws",
+        "bootstrap",
+        "css",
+        "cypress",
+        "design-patterns",
         "docker",
         "git",
         "javascript",
-        "laravel",
-        "mongodb",
-        "mysql",
-        "nodejs",
-        "php",
+        "jest",
+        "jquery",
+        "kubernetes",
+        "mvc",
+        "playwright",
         "react",
-        "rest",
-        "serverless",
-        "sqs",
-        "swagger",
+        "redux",
+        "sass",
+        "typescript"
+      ],
+      "description": null
+    },
+    {
+      "id": "desenvolvedor-a-full-stack-sr-java-angular-remoto-objective-zoj5ft7r",
+      "title": "Desenvolvedor(a) Full-stack SR - Java & Angular | Remoto",
+      "company": "Objective",
+      "company_slug": "objective",
+      "location": "BR",
+      "date": "2026-09-09T17:50:59Z",
+      "url": "https://objective.inhire.app/vagas/bcdbb541-f6f5-43e9-82b2-20b4b2c6af2d/desenvolvedor-a-full-stack-sr-java-angular-remoto?utm_source=freehire.me",
+      "work_mode": "remote",
+      "regions": [
+        "latam"
+      ],
+      "countries": [
+        "br"
+      ],
+      "skills": [
+        "angular",
+        "api",
+        "bitbucket",
+        "bootstrap",
+        "ci-cd",
+        "css",
+        "git",
+        "html",
+        "java",
+        "javascript",
+        "jpa",
+        "jquery",
+        "kafka",
+        "maven",
+        "oracle",
+        "spring"
+      ],
+      "description": null
+    },
+    {
+      "id": "desenvolvedor-fullstack-java-pl-stefanini-group-gnzggvld",
+      "title": "DESENVOLVEDOR FULLSTACK JAVA PL",
+      "company": "Stefanini Group",
+      "company_slug": "stefanini-group",
+      "location": "Brasil",
+      "date": "2026-09-09T16:59:34Z",
+      "url": "https://stefanini.gupy.io/job/eyJqb2JJZCI6MTI0MTcyMjksInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal&utm_source=freehire.me",
+      "work_mode": "remote",
+      "regions": [
+        "latam"
+      ],
+      "countries": [
+        "br"
+      ],
+      "skills": [
+        "angular",
+        "api",
+        "ci-cd",
+        "css",
+        "design-patterns",
+        "docker",
+        "git",
+        "html",
+        "java",
+        "javascript",
+        "jpa",
+        "jwt",
+        "kanban",
+        "kubernetes",
+        "mysql",
+        "oauth",
+        "openshift",
+        "oracle",
+        "postgresql",
+        "react",
+        "scrum",
+        "sonarqube",
+        "spring",
+        "typescript",
         "vue"
       ],
       "description": null
     },
     {
-      "id": "desenvolvedor-full-stack-senior-be-aliant-2tgkqowo",
-      "title": "Desenvolvedor Full Stack Sênior",
-      "company": "Be.Aliant",
-      "company_slug": "be-aliant",
+      "id": "desenvolvedor-apex-fullstack-sr-stefanini-group-wo57obpk",
+      "title": "DESENVOLVEDOR APEX  FULLSTACK SR",
+      "company": "Stefanini Group",
+      "company_slug": "stefanini-group",
       "location": "Brasil",
-      "date": "2026-09-04T19:48:58Z",
-      "url": "https://bealiant.gupy.io/job/eyJqb2JJZCI6MTI0MjI1NjYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal&utm_source=freehire.me",
+      "date": "2026-09-09T13:55:57Z",
+      "url": "https://stefanini.gupy.io/job/eyJqb2JJZCI6MTI0MTcyMzYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal&utm_source=freehire.me",
       "work_mode": "remote",
       "regions": [
         "latam"
@@ -111,105 +209,29 @@
         "br"
       ],
       "skills": [
-        "agile",
+        "ajax",
+        "apex",
+        "api",
         "css",
-        "design-patterns",
-        "eclipse",
+        "git",
+        "gitlab",
         "html",
-        "java",
         "javascript",
-        "nextjs",
-        "nosql",
-        "oop",
-        "postgresql",
-        "react",
-        "scrum",
-        "soa",
-        "tdd",
-        "visual-studio",
-        "xml"
+        "oracle",
+        "plsql",
+        "rest",
+        "sql"
       ],
       "description": null
     },
     {
-      "id": "desenvolvedor-backend-remoto-aiko-zoqigz3v",
-      "title": "Desenvolvedor Backend - Remoto",
-      "company": "Aiko",
-      "company_slug": "aiko",
+      "id": "desenvolvedor-a-frontend-react-senior-frete-com-d6t2twjz",
+      "title": "Desenvolvedor (a) Frontend React Senior",
+      "company": "frete.com",
+      "company_slug": "frete-com",
       "location": "BR",
-      "date": "2026-09-04T18:50:49Z",
-      "url": "https://aiko.inhire.app/vagas/43576fd0-9962-4ae0-bf8f-0ad6c9d3f464/desenvolvedor-backend-remoto?utm_source=freehire.me",
-      "work_mode": "remote",
-      "regions": [
-        "latam"
-      ],
-      "countries": [
-        "br"
-      ],
-      "skills": [
-        "android",
-        "aws",
-        "bash",
-        "claude-code",
-        "clickhouse",
-        "csharp",
-        "design-patterns",
-        "dotnet",
-        "kotlin",
-        "kubernetes",
-        "linux",
-        "postgresql",
-        "rabbitmq",
-        "react",
-        "redis",
-        "sql",
-        "unix"
-      ],
-      "description": null
-    },
-    {
-      "id": "desenvolvedor-especialista-fullstack-java-react-jobgether-zb3t2can",
-      "title": "Desenvolvedor Especialista | FullStack (Java/React)",
-      "company": "jobgether",
-      "company_slug": "jobgether",
-      "location": "Brazil",
-      "date": "2026-09-04T01:23:21Z",
-      "url": "https://jobs.lever.co/jobgether/19a60742-d618-4ed8-a6ab-e9b153c56d7a?utm_source=freehire.me",
-      "work_mode": "remote",
-      "regions": [
-        "latam"
-      ],
-      "countries": [
-        "br"
-      ],
-      "skills": [
-        "ai",
-        "aws",
-        "ci-cd",
-        "cloud",
-        "css",
-        "devops",
-        "gdpr",
-        "html",
-        "java",
-        "javascript",
-        "jest",
-        "react",
-        "redux",
-        "tdd",
-        "test-automation",
-        "unit-testing"
-      ],
-      "description": null
-    },
-    {
-      "id": "desenvolvedor-a-fullstack-senior-growth-clicksign-vb4wbu7g",
-      "title": "Desenvolvedor(a) Fullstack Sênior (Growth)",
-      "company": "Clicksign",
-      "company_slug": "clicksign",
-      "location": "Brasil",
-      "date": "2026-09-03T22:53:16Z",
-      "url": "https://clicksign.gupy.io/job/eyJqb2JJZCI6MTI0MjExMjUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal&utm_source=freehire.me",
+      "date": "2026-09-09T12:22:51Z",
+      "url": "https://frete.inhire.app/vagas/d64aa04c-1b35-427b-98b9-93e0b8dac0b7/desenvolvedor-a-frontend-react-senior?utm_source=freehire.me",
       "work_mode": "remote",
       "regions": [
         "latam"
@@ -219,240 +241,114 @@
       ],
       "skills": [
         "api",
-        "aws",
+        "bootstrap",
+        "css",
+        "docker",
+        "html",
+        "javascript",
+        "jquery",
+        "nextjs",
+        "react",
+        "webpack"
+      ],
+      "description": null
+    },
+    {
+      "id": "desenvolvedor-fullstack-java-pl-stefanini-group-2swsaurc",
+      "title": "DESENVOLVEDOR FULLSTACK JAVA PL",
+      "company": "Stefanini Group",
+      "company_slug": "stefanini-group",
+      "location": "Brasil",
+      "date": "2026-09-09T11:23:29Z",
+      "url": "https://stefanini.gupy.io/job/eyJqb2JJZCI6MTI0MTcyMjgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal&utm_source=freehire.me",
+      "work_mode": "remote",
+      "regions": [
+        "latam"
+      ],
+      "countries": [
+        "br"
+      ],
+      "skills": [
+        "angular",
+        "api",
+        "ci-cd",
+        "css",
+        "design-patterns",
+        "docker",
+        "git",
+        "html",
+        "java",
+        "javascript",
+        "jpa",
+        "jwt",
+        "kanban",
+        "kubernetes",
+        "mysql",
+        "oauth",
+        "openshift",
+        "oracle",
+        "postgresql",
+        "react",
+        "scrum",
+        "sonarqube",
+        "spring",
+        "sql",
+        "typescript",
+        "vue"
+      ],
+      "description": null
+    },
+    {
+      "id": "desenvolvedor-front-end-angular-sr-jobgether-crgirtii",
+      "title": "Desenvolvedor Front-end Angular Sr",
+      "company": "jobgether",
+      "company_slug": "jobgether",
+      "location": "Brazil",
+      "date": "2026-09-09T03:40:04Z",
+      "url": "https://jobs.lever.co/jobgether/edd61929-c2d2-464f-8bd4-56aa27c8348b?utm_source=freehire.me",
+      "work_mode": "remote",
+      "regions": [
+        "latam"
+      ],
+      "countries": [
+        "br"
+      ],
+      "skills": [
+        "agile",
+        "ai",
+        "angular",
+        "api",
+        "automation",
         "css",
         "cypress",
-        "data-pipelines",
-        "devops",
-        "docker",
-        "dynamodb",
-        "etl",
-        "go",
-        "google-analytics",
-        "html",
-        "hubspot",
-        "jest",
-        "kafka",
-        "mixpanel",
-        "nuxt",
-        "postgresql",
-        "rails",
-        "rest",
-        "rspec",
-        "ruby",
-        "salesforce",
-        "seo",
-        "sqs",
-        "tailwind",
-        "typescript",
-        "vue",
-        "wcag"
-      ],
-      "description": null
-    },
-    {
-      "id": "desenvolvedor-full-stack-sr-ecglobal-b6s27s62",
-      "title": "Desenvolvedor Full Stack Sr.",
-      "company": "Ecglobal",
-      "company_slug": "ecglobal",
-      "location": "Brazil",
-      "date": "2026-09-03T22:24:05Z",
-      "url": "https://himalayas.app/companies/ecglobal/jobs/desenvolvedor-full-stack-sr?utm_source=freehire.me",
-      "work_mode": "remote",
-      "regions": [
-        "latam"
-      ],
-      "countries": [
-        "br"
-      ],
-      "skills": [
-        "api",
-        "aws",
-        "design-patterns",
-        "express",
-        "graphql",
-        "kanban",
-        "mongodb",
-        "nestjs",
-        "opensearch",
-        "pinecone",
-        "postgresql",
-        "python",
-        "react",
-        "react-native",
-        "redis",
-        "scrum",
-        "typescript"
-      ],
-      "description": null
-    },
-    {
-      "id": "desenvolvedor-java-senior-deal-group-jfjtyxfo",
-      "title": "Desenvolvedor Java Sênior",
-      "company": "Deal Group",
-      "company_slug": "deal-group",
-      "location": "BR",
-      "date": "2026-09-03T19:52:38Z",
-      "url": "https://deal.inhire.app/vagas/4f113041-97c1-4c45-a526-1c93fa8b9b70/desenvolvedor-java-senior?utm_source=freehire.me",
-      "work_mode": "remote",
-      "regions": [
-        "latam"
-      ],
-      "countries": [
-        "br"
-      ],
-      "skills": [
-        "api",
-        "aws",
-        "azure",
-        "azure-devops",
-        "ci-cd",
-        "cloud",
-        "cloudwatch",
-        "datadog",
-        "devops",
-        "docker",
-        "ec2",
-        "eks",
+        "gdpr",
         "git",
-        "java",
-        "kafka",
-        "kubernetes",
-        "lambda",
-        "openshift",
-        "rabbitmq",
-        "rds",
-        "spring",
-        "sql"
-      ],
-      "description": null
-    },
-    {
-      "id": "desenvolvedor-a-full-stack-pj-ativa-gr-uigquxkt",
-      "title": "Desenvolvedor(a) Full Stack - PJ",
-      "company": "Ativa GR",
-      "company_slug": "ativa-gr",
-      "location": "Brasil",
-      "date": "2026-09-03T19:47:30Z",
-      "url": "https://ativagr.gupy.io/job/eyJqb2JJZCI6MTI0MjAwNjEsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal&utm_source=freehire.me",
-      "work_mode": "remote",
-      "regions": [
-        "latam"
-      ],
-      "countries": [
-        "br"
-      ],
-      "skills": [
-        "angular",
-        "api",
-        "dotnet",
-        "git",
-        "react",
-        "saas",
-        "sql"
-      ],
-      "description": null
-    },
-    {
-      "id": "desenvolvedor-a-mobile-flutter-pleno-appmax-t2cyaf53",
-      "title": "Desenvolvedor(a) Mobile Flutter [Pleno]",
-      "company": "Appmax",
-      "company_slug": "appmax",
-      "location": "BR",
-      "date": "2026-09-03T17:40:41Z",
-      "url": "https://appmax.inhire.app/vagas/ba6da19b-6650-4f98-adfc-bb90466dcfb4/desenvolvedor-a-mobile-flutter-pleno?utm_source=freehire.me",
-      "work_mode": "remote",
-      "regions": [
-        "latam"
-      ],
-      "countries": [
-        "br"
-      ],
-      "skills": [
-        "analytics",
-        "android",
-        "api",
-        "ci-cd",
-        "cloud",
-        "dart",
-        "firebase",
-        "flutter",
-        "git",
-        "ios",
-        "kotlin",
-        "mvvm",
-        "opentelemetry",
-        "ssl",
-        "swift"
-      ],
-      "description": null
-    },
-    {
-      "id": "desenvolvedor-a-vb6-sql-server-pleno-confitec-3hxa7bun",
-      "title": "Desenvolvedor (a) VB6/SQL Server Pleno",
-      "company": "Confitec",
-      "company_slug": "confitec",
-      "location": "Brasil",
-      "date": "2026-09-03T15:38:47Z",
-      "url": "https://confitec.gupy.io/job/eyJqb2JJZCI6MTI0MTE4MzIsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal&utm_source=freehire.me",
-      "work_mode": "remote",
-      "regions": [
-        "latam"
-      ],
-      "countries": [
-        "br"
-      ],
-      "skills": [
-        "aws",
-        "sql",
-        "sql-server",
-        "vbnet"
-      ],
-      "description": null
-    },
-    {
-      "id": "desenvolvedor-web-fullstack-pleno-shift-pulsa-pela-vida-ktvbk6jw",
-      "title": "Desenvolvedor Web Fullstack Pleno",
-      "company": "Shift - Pulsa pela vida",
-      "company_slug": "shift-pulsa-pela-vida",
-      "location": "Brazil",
-      "date": "2026-09-03T15:33:55Z",
-      "url": "https://himalayas.app/companies/shift-pulsa-pela-vida/jobs/desenvolvedor-web-fullstack-pleno?utm_source=freehire.me",
-      "work_mode": "remote",
-      "regions": [
-        "latam"
-      ],
-      "countries": [
-        "br"
-      ],
-      "skills": [
-        "angular",
-        "api",
-        "ci-cd",
-        "claude-code",
-        "css",
-        "docker",
-        "git",
-        "github",
-        "github-copilot",
         "html",
         "java",
         "javascript",
-        "quarkus",
-        "sql",
+        "jest",
+        "kanban",
+        "react",
+        "rest",
+        "sass",
+        "scrum",
+        "seo",
+        "test-automation",
         "typescript",
-        "uml"
+        "version-control",
+        "vue",
+        "webpack"
       ],
       "description": null
     },
     {
-      "id": "desenvolvedor-front-end-senior-react-js-remoto-premiersoft-rfjji6jy",
-      "title": "Desenvolvedor Front-End Sênior (React.js) | Remoto",
-      "company": "Premiersoft",
-      "company_slug": "premiersoft",
-      "location": "BR",
-      "date": "2026-09-03T13:57:52Z",
-      "url": "https://premiersoft.inhire.app/vagas/04841009-3c62-4132-871e-a83b747afe1b/desenvolvedor-front-end-senior-react-js-remoto?utm_source=freehire.me",
+      "id": "desenvolvedor-fullstack-java-pleno-jobgether-6p3xaqw5",
+      "title": "Desenvolvedor Fullstack Java - Pleno",
+      "company": "jobgether",
+      "company_slug": "jobgether",
+      "location": "Brazil",
+      "date": "2026-09-09T03:34:36Z",
+      "url": "https://jobs.lever.co/jobgether/3eccdfba-7a8c-4d71-ab22-653eccade777?utm_source=freehire.me",
       "work_mode": "remote",
       "regions": [
         "latam"
@@ -461,29 +357,60 @@
         "br"
       ],
       "skills": [
-        "analytics",
+        "accessibility",
+        "agile",
+        "ai",
+        "angular",
         "api",
+        "automation",
+        "aws",
+        "azure",
+        "bootstrap",
+        "ci-cd",
+        "cloud",
+        "css",
+        "devops",
+        "distributed-computing",
         "docker",
+        "gcp",
+        "gdpr",
         "git",
-        "mongodb",
+        "gitlab",
+        "grafana",
+        "hive",
+        "html",
+        "java",
+        "javascript",
+        "jenkins",
+        "kanban",
+        "kubernetes",
+        "maven",
+        "microservices",
+        "mysql",
+        "nodejs",
+        "observability",
+        "openshift",
         "oracle",
-        "powerbi",
-        "react",
-        "redis",
-        "sonarqube",
-        "tableau",
-        "typescript"
+        "prometheus",
+        "quarkus",
+        "rancher",
+        "rest",
+        "scrum",
+        "solution-design",
+        "spring",
+        "version-control",
+        "weblogic"
       ],
       "description": null
     },
     {
-      "id": "desenvolvedor-fullstack-pl-squad-canais-jobgether-nr3zr6ow",
-      "title": "Desenvolvedor Fullstack PL (Squad Canais)",
+      "id": "desenvolvedor-a-android-pl-sr-jobgether-peekcm3y",
+      "title": "Desenvolvedor(a) Android PL/SR",
       "company": "jobgether",
       "company_slug": "jobgether",
       "location": "Brazil",
-      "date": "2026-09-03T01:28:27Z",
-      "url": "https://jobs.lever.co/jobgether/197f6275-d039-40f4-b6d7-b92a171e927c?utm_source=freehire.me",
+      "date": "2026-09-09T01:18:58Z",
+      "url": "https://jobs.lever.co/jobgether/99c3ab23-9e33-4c63-b363-5da14db5cfc9?utm_source=freehire.me",
       "work_mode": "remote",
       "regions": [
         "latam"
@@ -494,157 +421,68 @@
       "skills": [
         "agile",
         "ai",
+        "android",
         "api",
-        "api-design",
-        "ci-cd",
-        "design-patterns",
-        "distributed-systems",
-        "dotnet",
-        "express",
-        "gdpr",
-        "github",
-        "gitlab",
-        "jira",
-        "kanban",
-        "microservices",
-        "mongodb",
-        "nodejs",
-        "oop",
-        "oracle",
-        "rabbitmq",
-        "react",
-        "rest",
-        "scrum",
-        "sql",
-        "sql-server",
-        "version-control"
-      ],
-      "description": null
-    },
-    {
-      "id": "desenvolvedor-full-stack-angular-20-e-c-net-ia-brq-4toxkgtm",
-      "title": "Desenvolvedor Full Stack - Angular 20 e C#/.NET (IA)",
-      "company": "BRQ",
-      "company_slug": "brq",
-      "location": "BR",
-      "date": "2026-09-02T20:01:15Z",
-      "url": "https://brq.inhire.app/vagas/0aa453c4-ec1b-4ce9-a515-14f7ebb2f4fd/desenvolvedor-full-stack-angular-20-e-c-net-ia?utm_source=freehire.me",
-      "work_mode": "remote",
-      "regions": [
-        "latam"
-      ],
-      "countries": [
-        "br"
-      ],
-      "skills": [
-        "angular",
-        "api",
-        "csharp",
-        "dotnet",
-        "git"
-      ],
-      "description": null
-    },
-    {
-      "id": "desenvolvedor-back-end-pl-remoto-dataside-hjqxes4q",
-      "title": "Desenvolvedor Back-end PL (Remoto)",
-      "company": "Dataside",
-      "company_slug": "dataside",
-      "location": "BR",
-      "date": "2026-09-02T19:25:31Z",
-      "url": "https://dataside.inhire.app/vagas/4e272634-2f7c-4476-a480-d1b86b0fb3c3/desenvolvedor-back-end-pl-remoto?utm_source=freehire.me",
-      "work_mode": "remote",
-      "regions": [
-        "latam"
-      ],
-      "countries": [
-        "br"
-      ],
-      "skills": [
-        "api",
-        "ci-cd",
         "cloud",
-        "csharp",
-        "devops",
-        "docker",
-        "dotnet",
-        "git",
-        "graphql",
+        "flutter",
+        "gdpr",
         "java",
-        "kafka",
-        "mongodb",
-        "mysql",
-        "nestjs",
-        "nodejs",
-        "nosql",
-        "postgresql",
-        "python",
-        "rabbitmq",
-        "redis",
+        "javascript",
+        "kotlin",
+        "microservices",
+        "react",
+        "react-native",
+        "rest",
         "spring",
-        "sql",
+        "typescript"
+      ],
+      "description": null
+    },
+    {
+      "id": "desenvolvedor-a-fullstack-senior-foco-frontend-remoto-solutis-xkdhjyrb",
+      "title": "Desenvolvedor (a) Fullstack Sênior — Foco Frontend | Remoto",
+      "company": "Solutis",
+      "company_slug": "solutis",
+      "location": "BR",
+      "date": "2026-09-08T19:44:15Z",
+      "url": "https://solutis.inhire.app/vagas/2535cebf-65ed-44eb-8e51-8e80282d87e8/desenvolvedor-a-fullstack-senior-foco-frontend-remoto?utm_source=freehire.me",
+      "work_mode": "remote",
+      "regions": [
+        "latam"
+      ],
+      "countries": [
+        "br"
+      ],
+      "skills": [
+        "api",
+        "azure",
+        "azure-ad",
+        "devops",
+        "entra-id",
+        "git",
+        "javascript",
+        "jest",
+        "llm",
+        "nestjs",
+        "nextjs",
+        "nodejs",
+        "react",
+        "saml",
+        "sso",
+        "typescript",
+        "vitest",
         "websockets"
       ],
       "description": null
     },
     {
-      "id": "desenvolvedor-full-stack-sr-minsait-lacb5nt7",
-      "title": "Desenvolvedor  FULL STACK SR",
-      "company": "Minsait",
-      "company_slug": "minsait",
+      "id": "desenvolvedor-a-android-pl-sr-stefanini-group-sbn4hv2k",
+      "title": "Desenvolvedor(a) Android PL/SR",
+      "company": "Stefanini Group",
+      "company_slug": "stefanini-group",
       "location": "Brasil",
-      "date": "2026-09-02T18:24:56Z",
-      "url": "https://minsait.gupy.io/job/eyJqb2JJZCI6MTIxNDQ2NzMsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal&utm_source=freehire.me",
-      "work_mode": "remote",
-      "regions": [
-        "latam"
-      ],
-      "countries": [
-        "br"
-      ],
-      "skills": [
-        "devops",
-        "java"
-      ],
-      "description": null
-    },
-    {
-      "id": "desenvolvedor-especialista-fullstack-java-react-https-www-linkedin-com-company-avantiatecnologiaeseguranca-mycompany-q6kqlk5p",
-      "title": "Desenvolvedor Especialista | FullStack (Java/React)",
-      "company": "https://www.linkedin.com/company/avantiatecnologiaeseguranca/mycompany/",
-      "company_slug": "https-www-linkedin-com-company-avantiatecnologiaeseguranca-mycompany",
-      "location": "Brasil",
-      "date": "2026-09-02T15:07:37Z",
-      "url": "https://segware.gupy.io/job/eyJqb2JJZCI6MTIzMzcyNzgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal&utm_source=freehire.me",
-      "work_mode": "remote",
-      "regions": [
-        "latam"
-      ],
-      "countries": [
-        "br"
-      ],
-      "skills": [
-        "aws",
-        "ci-cd",
-        "css",
-        "devops",
-        "html",
-        "java",
-        "javascript",
-        "jest",
-        "redux",
-        "tdd"
-      ],
-      "description": null
-    },
-    {
-      "id": "desenvolvedor-web-full-stack-pantheon-diuqi5ky",
-      "title": "Desenvolvedor Web Full Stack",
-      "company": "Pantheon",
-      "company_slug": "pantheon",
-      "location": "BR",
-      "date": "2026-09-02T14:57:17Z",
-      "url": "https://pantheon.inhire.app/vagas/43ee4139-9e4d-42b3-b718-f8bae0f94f77/desenvolvedor-web-full-stack?utm_source=freehire.me",
+      "date": "2026-09-08T19:17:20Z",
+      "url": "https://stefanini.gupy.io/job/eyJqb2JJZCI6MTI0Mzc4MTUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal&utm_source=freehire.me",
       "work_mode": "remote",
       "regions": [
         "latam"
@@ -654,19 +492,283 @@
       ],
       "skills": [
         "agile",
+        "android",
+        "api",
+        "cloud",
+        "flutter",
+        "java",
+        "javascript",
+        "kotlin",
+        "react",
+        "react-native",
+        "rest",
+        "spring",
+        "typescript"
+      ],
+      "description": null
+    },
+    {
+      "id": "desenvolvedor-de-sistemas-fullstack-java-e-reack-credito-3-csc-remoto-cresol-oficial-c4h5rjip",
+      "title": "Desenvolvedor de Sistemas Fullstack | Java e React | Crédito 1 | CSC (remoto)",
+      "company": "Cresol Oficial",
+      "company_slug": "cresol-oficial",
+      "location": "Brasil",
+      "date": "2026-09-08T18:53:36Z",
+      "url": "https://cresolcarreiras.gupy.io/job/eyJqb2JJZCI6MTI0MjU0OTksInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal&utm_source=freehire.me",
+      "work_mode": "remote",
+      "regions": [
+        "latam"
+      ],
+      "countries": [
+        "br"
+      ],
+      "skills": [
+        "api",
+        "aws",
+        "azure",
+        "cloud",
+        "confluence",
+        "devops",
+        "docker",
+        "gcp",
+        "git",
+        "hibernate",
+        "java",
+        "jira",
+        "kafka",
+        "kanban",
+        "oracle",
+        "postgresql",
+        "rabbitmq",
+        "react",
+        "scrum",
+        "spring",
+        "sql",
+        "sql-server",
+        "uml"
+      ],
+      "description": null
+    },
+    {
+      "id": "desenvolvedor-front-end-angular-sr-stefanini-group-nvvrtyyu",
+      "title": "Desenvolvedor Front-end Angular Sr",
+      "company": "Stefanini Group",
+      "company_slug": "stefanini-group",
+      "location": "Brasil",
+      "date": "2026-09-08T18:43:40Z",
+      "url": "https://stefanini.gupy.io/job/eyJqb2JJZCI6MTI0MzcwNjQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal&utm_source=freehire.me",
+      "work_mode": "remote",
+      "regions": [
+        "latam"
+      ],
+      "countries": [
+        "br"
+      ],
+      "skills": [
+        "angular",
+        "api",
+        "css",
+        "cypress",
+        "git",
+        "html",
+        "java",
+        "javascript",
+        "jest",
+        "kanban",
+        "react",
+        "sass",
+        "scrum",
+        "seo",
+        "typescript",
+        "vue",
+        "webpack"
+      ],
+      "description": null
+    },
+    {
+      "id": "desenvolvedor-front-end-vtex-pl-pantheon-oqh2beyk",
+      "title": "Desenvolvedor Front End (Vtex) PL",
+      "company": "Pantheon",
+      "company_slug": "pantheon",
+      "location": "BR",
+      "date": "2026-09-08T18:17:48Z",
+      "url": "https://pantheon.inhire.app/vagas/4bce5008-8abf-4a52-9d20-5892c7d3714a/desenvolvedor-front-end-vtex-pl?utm_source=freehire.me",
+      "work_mode": "remote",
+      "regions": [
+        "latam"
+      ],
+      "countries": [
+        "br"
+      ],
+      "skills": [
+        "api",
+        "azure",
+        "azure-devops",
+        "cli",
+        "css",
+        "cypress",
+        "design-patterns",
+        "devops",
+        "git",
+        "graphql",
+        "html",
+        "javascript",
+        "jest",
+        "jira",
+        "kanban",
+        "react",
+        "redux",
+        "sass",
+        "scrum",
+        "webpack"
+      ],
+      "description": null
+    },
+    {
+      "id": "desenvolvedor-java-pleno-solucoes-internas-db1-group-uu5fltck",
+      "title": "Desenvolvedor Java Pleno - Soluções internas",
+      "company": "DB1 Group",
+      "company_slug": "db1-group",
+      "location": "BR",
+      "date": "2026-09-08T18:04:46Z",
+      "url": "https://db1.inhire.app/vagas/6fd43c35-4928-4210-bf5f-b5cd3d422a9e/desenvolvedor-java-pleno-solucoes-internas?utm_source=freehire.me",
+      "work_mode": "remote",
+      "regions": [
+        "latam"
+      ],
+      "countries": [
+        "br"
+      ],
+      "skills": [
+        "hibernate",
+        "java",
+        "jpa",
+        "nosql",
+        "spring"
+      ],
+      "description": null
+    },
+    {
+      "id": "desenvolvedor-fullstack-java-pleno-minsait-clk5lolr",
+      "title": "Desenvolvedor Fullstack Java -  Pleno",
+      "company": "Minsait",
+      "company_slug": "minsait",
+      "location": "Brasil",
+      "date": "2026-09-08T17:55:48Z",
+      "url": "https://minsait.gupy.io/job/eyJqb2JJZCI6MTI0MTk2NTUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal&utm_source=freehire.me",
+      "work_mode": "remote",
+      "regions": [
+        "latam"
+      ],
+      "countries": [
+        "br"
+      ],
+      "skills": [
         "angular",
         "api",
         "aws",
         "azure",
+        "bootstrap",
         "ci-cd",
-        "dotnet",
+        "cloud",
+        "css",
+        "devops",
+        "docker",
+        "gcp",
         "git",
-        "github",
-        "github-actions",
+        "gitlab",
+        "grafana",
+        "hive",
+        "html",
+        "java",
+        "javascript",
+        "jenkins",
+        "kanban",
+        "kubernetes",
+        "maven",
+        "mysql",
+        "nodejs",
+        "openshift",
+        "oracle",
+        "prometheus",
+        "quarkus",
+        "rancher",
         "scrum",
-        "sql",
-        "terraform",
-        "vue"
+        "spring",
+        "weblogic"
+      ],
+      "description": null
+    },
+    {
+      "id": "desenvolvedor-a-microsoft-dynamics-365-integracoes-ia-jobgether-cpbr6m7d",
+      "title": "Desenvolvedor(a) Microsoft Dynamics 365 (Integrações & IA)",
+      "company": "jobgether",
+      "company_slug": "jobgether",
+      "location": "Brazil",
+      "date": "2026-09-08T04:16:39Z",
+      "url": "https://jobs.lever.co/jobgether/86e0eee9-02b0-408e-891a-74fa1332f145?utm_source=freehire.me",
+      "work_mode": "remote",
+      "regions": [
+        "latam"
+      ],
+      "countries": [
+        "br"
+      ],
+      "skills": [
+        "ai",
+        "api",
+        "automation",
+        "azure",
+        "azure-functions",
+        "cloud",
+        "csharp",
+        "dataverse",
+        "dotnet",
+        "gdpr",
+        "generative-ai",
+        "javascript",
+        "jira",
+        "microsoft-copilot",
+        "microsoft-dynamics",
+        "openai",
+        "power-automate",
+        "power-platform",
+        "powerapps",
+        "powerbi",
+        "rest",
+        "servicenow"
+      ],
+      "description": null
+    },
+    {
+      "id": "desenvolvedor-a-full-stack-pj-jobgether-fxu3yp4d",
+      "title": "Desenvolvedor(a) Full Stack - PJ",
+      "company": "jobgether",
+      "company_slug": "jobgether",
+      "location": "Brazil",
+      "date": "2026-09-07T15:34:21Z",
+      "url": "https://jobs.lever.co/jobgether/ab2c3301-0560-4402-8dde-9261861f0ef1?utm_source=freehire.me",
+      "work_mode": "remote",
+      "regions": [
+        "latam"
+      ],
+      "countries": [
+        "br"
+      ],
+      "skills": [
+        "agile",
+        "ai",
+        "angular",
+        "api",
+        "dotnet",
+        "gdpr",
+        "git",
+        "microservices",
+        "react",
+        "rest",
+        "saas",
+        "solution-design",
+        "sql"
       ],
       "description": null
     }

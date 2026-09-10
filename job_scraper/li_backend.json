@@ -5,6 +5,24 @@
   },
   "results": [
     {
+      "id": "4464908382",
+      "title": "Java Backend Engineer (AWS) - Remote Work | REF#303952",
+      "company": "BairesDev",
+      "companyUrl": "https://www.linkedin.com/company/bairesdev",
+      "location": "Greater Rio de Janeiro",
+      "date": "2026-09-08",
+      "url": "https://br.linkedin.com/jobs/view/java-backend-engineer-aws-remote-work-ref%23303952-at-bairesdev-4464908382"
+    },
+    {
+      "id": "4464693756",
+      "title": "Backend Engineer (.NET) - Remote Work | REF#303379",
+      "company": "BairesDev",
+      "companyUrl": "https://www.linkedin.com/company/bairesdev",
+      "location": "São Paulo, São Paulo, Brazil",
+      "date": "2026-09-08",
+      "url": "https://br.linkedin.com/jobs/view/backend-engineer-net-remote-work-ref%23303379-at-bairesdev-4464693756"
+    },
+    {
       "id": "4463136094",
       "title": "Java Backend Software Engineer",
       "company": "Jitterbit",
@@ -12,24 +30,6 @@
       "location": "São Paulo, São Paulo, Brazil",
       "date": "2026-09-03",
       "url": "https://br.linkedin.com/jobs/view/java-backend-software-engineer-at-jitterbit-4463136094"
-    },
-    {
-      "id": "4459068327",
-      "title": "Senior Golang & RESTful API Engineer - Remote Work | REF#302207",
-      "company": "BairesDev",
-      "companyUrl": "https://www.linkedin.com/company/bairesdev",
-      "location": "Greater Rio de Janeiro",
-      "date": "2026-08-25",
-      "url": "https://br.linkedin.com/jobs/view/senior-golang-restful-api-engineer-remote-work-ref%23302207-at-bairesdev-4459068327"
-    },
-    {
-      "id": "4462082197",
-      "title": "Java Backend Engineer (AWS) - Remote Work | REF#302839",
-      "company": "BairesDev",
-      "companyUrl": "https://www.linkedin.com/company/bairesdev",
-      "location": "Minas Gerais, Brazil",
-      "date": "2026-09-01",
-      "url": "https://br.linkedin.com/jobs/view/java-backend-engineer-aws-remote-work-ref%23302839-at-bairesdev-4462082197"
     },
     {
       "id": "4453255702",
@@ -50,22 +50,13 @@
       "url": "https://br.linkedin.com/jobs/view/senior-software-developer-back-end-at-inter-4436321594"
     },
     {
-      "id": "4456508719",
-      "title": "Desenvolvedora Back-end Sênior | Vaga afirmativa para mulheres",
-      "company": "Remessa Online",
-      "companyUrl": "https://br.linkedin.com/company/remessaonline",
-      "location": "São Paulo, Brazil",
-      "date": "2026-08-24",
-      "url": "https://br.linkedin.com/jobs/view/desenvolvedora-back-end-s%C3%AAnior-vaga-afirmativa-para-mulheres-at-remessa-online-4456508719"
-    },
-    {
-      "id": "4460403353",
-      "title": "Desenvolvedor Back-end Sênior",
-      "company": "Hook Digital",
-      "companyUrl": "https://br.linkedin.com/company/hookdigital",
-      "location": "São Paulo, São Paulo, Brazil",
-      "date": "2026-09-02",
-      "url": "https://br.linkedin.com/jobs/view/desenvolvedor-back-end-s%C3%AAnior-at-hook-digital-4460403353"
+      "id": "4463378010",
+      "title": "Desenvolvedor Back-End",
+      "company": "Jobbol",
+      "companyUrl": "https://br.linkedin.com/company/jobbol-empregos",
+      "location": "Itajaí, Santa Catarina, Brazil",
+      "date": "2026-09-04",
+      "url": "https://br.linkedin.com/jobs/view/desenvolvedor-back-end-at-jobbol-4463378010"
     },
     {
       "id": "4461544273",
@@ -86,13 +77,22 @@
       "url": "https://br.linkedin.com/jobs/view/desenvolvedor-back-end-net-pleno-at-qibit-4458094550"
     },
     {
-      "id": "4461536444",
-      "title": "Engenheiro de Backend",
-      "company": "Jobbol",
-      "companyUrl": "https://br.linkedin.com/company/jobbol-empregos",
-      "location": "Manaus, Amazonas, Brazil",
-      "date": "2026-09-01",
-      "url": "https://br.linkedin.com/jobs/view/engenheiro-de-backend-at-jobbol-4461536444"
+      "id": "4463577518",
+      "title": "Desenvolvedor(a) Back-end Sênior – PHP / Laravel",
+      "company": "IEBT Innovation",
+      "companyUrl": "https://br.linkedin.com/company/iebt",
+      "location": "Greater Belo Horizonte",
+      "date": "2026-09-09",
+      "url": "https://br.linkedin.com/jobs/view/desenvolvedor-a-back-end-s%C3%AAnior-%E2%80%93-php-laravel-at-iebt-innovation-4463577518"
+    },
+    {
+      "id": "4460065273",
+      "title": "Desenvolvedor Senior",
+      "company": "Ambev Tech",
+      "companyUrl": "https://br.linkedin.com/company/ambevtech",
+      "location": "Blumenau, Santa Catarina, Brazil",
+      "date": "2026-08-31",
+      "url": "https://br.linkedin.com/jobs/view/desenvolvedor-senior-at-ambev-tech-4460065273"
     }
   ]
 }

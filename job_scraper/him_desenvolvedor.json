@@ -1,8 +1,8 @@
 {
   "meta": {
-    "count": 11,
+    "count": 12,
     "page": 1,
-    "total": 11
+    "total": 12
   },
   "results": [
     {
@@ -33,6 +33,36 @@
       "expiry_date": "2026-11-04T09:28:48.000Z"
     },
     {
+      "id": "desenvolvedor-net-5371120656",
+      "title": "Desenvolvedor .Net",
+      "company": "Certsys",
+      "company_slug": "certsys",
+      "location": "Brazil",
+      "date": "2026-09-06T20:14:11.000Z",
+      "url": "https://himalayas.app/companies/certsys/jobs/desenvolvedor-net-5371120656",
+      "description": "Desde 2007 trabalhando com inovação, a Certsys se consolidou como uma forte parceira de Transformação Digital, apoiando empresas disruptivas por meio de soluções digitais completas e escaláveis alinhadas às principais tendências e necessidades do mercado. Temos uma cultura poderosa, conectados de ponta a ponta, colaborativos, ágeis e flexíveis para encarar o novo, transparentes em nossas ações e unidos por um grande propósito: Revolucionar negócios e impactar pessoas, resolvendo desafios complexos através da nossa cultura e tecnologia. Além disso, somos certificados pela GPTW pelo segundo ano consecutivo, sendo uma das melhores empresas para se trabalhar no Brasil.\nSomos a Certsys 🚀🤖\nPróximos dos clientes, apaixonados por tecnologia e pessoas (sim, aqui pensamos na sua evolução e carreira, vamos te desenvolver e cuidar da sua trilha de capacitação). Acreditamos na diversidade, equidade e inclusão de profissionais independente da sua deficiência, raça/ etnia, religião, gênero, orientação sexual, origem e constituição de família.\nATRIBUIÇÃO\nCompor o time de desenvolvimento, assumindo itens de trabalho para desenvolvimento a cada Sprint. Realizar as atividades inerentes ao desenvolvimento, tais como análise e design, programação, testes, requisitos. Gerir seu próprio trabalho sinalizando prontamente para a equipe sobre eventuais atrasos ou outros impedimentos. Conhecer a linguagem de programação de sua especialidade: .NET ( ou C#).\nHABILIDADES\nProatividade, capacidade de trabalho em equipe, capacidade de autogerenciamento e tomada de decisão, capacidade de comunicação (capacidade de se expressar oralmente e por escrito com precisão e clareza e de compreender com facilidade mensagens escritas e faladas).\nDo que você precisa:\n\nConhecimento em desenvolvimento de Sistemas bancários;\n\nPrincípios e práticas de desenvolvimento de software ágil, incluindo o Manifesto Ágil, Scrum, Extreme Programming (XP) e Kanban;\n\nAnálise de requisitos funcionais, não-funcionais e requisitos ágeis;\n\nModelagem de dados relacional e NoSQL;\n\nUser Experience (UX) e conceitos de usabilidade;\n\nIntegração contínua (continuous integration), Gradle, Maven, Nexus, Jenkins, test-driven development (TDD), especificação por exemplo, refactoring, entrega contínua (continuous delivery);\n\nTestes de software: teste de unidade, integração, sistema/funcional, aceitação/estória, carga, desempenho, vulnerabilidade, usabilidade, acessibilidade. Automatização de testes funcionais, de unidade e de carga com ferramentas de software;\n\nConstrução de consultas a bancos de dados em linguagem SQL e NoSQL;\n\nConceitos de controle de versão de código-fonte e uso das ferramentas Clearcase, GIT e SVN; IDE Eclipse, Android Studio e XCode.\n\nInformações adicionais\n\nGraduação em curso de nível superior na área de Tecnologia da Informação.\n\nExperiência comprovada na área de tecnologia.\n\nOriginally posted on Himalayas",
+      "excerpt": "Desde 2007 trabalhando com inovação, a Certsys se consolidou como uma forte parceira de Transformação Digital, apoiando empresas disruptivas por meio de soluções digitais completas e escaláveis alinhadas às principais tendências e necessidades do mercado.",
+      "seniority": [
+        "Mid-level"
+      ],
+      "categories": [
+        ".NET-Development",
+        "Backend-Development",
+        "Software-Development",
+        "C#-Development",
+        "Agile-Software-Development",
+        "Desenvolvedor-.NET",
+        "Programador-.NET",
+        "Desenvolvedor-C#-.NET",
+        "Desenvolvedor-C#",
+        "Desenvolvedor-De-Software",
+        "Desenvolvedor-.NET-Go-AWS",
+        "Desenvolvedor-De-Sistemas"
+      ],
+      "application_link": "https://himalayas.app/companies/certsys/jobs/desenvolvedor-net-5371120656",
+      "expiry_date": "2026-11-05T20:14:10.000Z"
+    },
+    {
       "id": "desenvolvedor-a-c-pleno",
       "title": "Desenvolvedor(a) C# Pleno",
       "company": "Trade Technology",
@@ -61,6 +91,38 @@
       ],
       "application_link": "https://himalayas.app/companies/trade-technology/jobs/desenvolvedor-a-c-pleno",
       "expiry_date": "2026-10-27T13:52:42.000Z"
+    },
+    {
+      "id": "desenvolvedor-senior-tech-lead",
+      "title": "Desenvolvedor Senior / Tech Lead",
+      "company": "<Vem pra Ponta>",
+      "company_slug": "vem-pra-ponta",
+      "location": "Brazil",
+      "date": "2026-09-07T00:58:22.000Z",
+      "url": "https://himalayas.app/companies/vem-pra-ponta/jobs/desenvolvedor-senior-tech-lead",
+      "description": "<p>A pecuária de ponta é inteligente, tecnológica e lucrativa. E quem faz isso acontecer são as pessoas.</p><p>Aqui, usamos tecnologia e informação estratégica para transformar o agronegócio, conectando toda a cadeia produtiva com inovação e eficiência.</p><p>Se você quer fazer parte dessa evolução e crescer junto com a Ponta, essa oportunidade pode ser sua! 🚀</p><p><strong>Estamos com vaga para Tech Lead, confira logo abaixo as informações! 👇</strong></p><ul><li>Atuar como <strong>referência técnica</strong> para o time de desenvolvimento, apoiando nas decisões de arquitetura, padrões e ferramentas;</li><li>Participar ativamente de <strong>revisão de código</strong>e<strong>definição de boas práticas</strong>;</li><li>Ajudar no desenho e evolução de soluções juntamente com o arquiteto de soluções;</li><li>Garantir a <strong>qualidade técnica</strong> do software (testes, performance, segurança, observabilidade, manutenibilidade);</li><li>Apoiar o time na <strong>quebra de demandas</strong>em especificações técnicas, estimativas e planejamento das entregas;</li><li>Colaborar com <strong>Product Manager/Owner</strong> e demais áreas (Design, Negócios, Dados, Infra) para alinhar prioridades e viabilidade técnica;</li><li>Liderar iniciativas de <strong>melhoria contínua</strong> (refatorações, automações, redução de débito técnico);</li><li>Mentorar desenvolvedores de diferentes níveis, apoiando no <strong>desenvolvimento de carreira</strong> e disseminação de conhecimento;</li><li>Participar da <strong>investigação e resolução de incidentes</strong>, propondo ações preventivas (post-mortems, RCA, etc.);</li><li>Contribuir para a construção de uma <strong>cultura de engenharia forte</strong>, colaborativa e orientada a resultados.</li></ul><h4><strong>Requisitos Técnicos</strong></h4><ul><li>Experiência sólida como <strong>desenvolvedor(a) de software</strong> (nível sênior), com atuação prática no dia a dia de desenvolvimento;</li><li>Vivência prévia conduzindo tecnicamente times ou projetos (como <strong>Tech Lead, Líder Técnico, Arquiteto de Software</strong> ou papel equivalente);</li><li>Domínio de pelo menos uma linguagem de programação moderna, por exemplo:</li><li><strong>Back-end</strong>: Java, C#, <a target=\"_blank\" rel=\"noreferrer noopener\" key=\"link1\" href=>Node.js</a>, Go, Python, etc.</li><li><strong>Front-end</strong>: JavaScript/TypeScript com frameworks como React, Angular ou <a target=\"_blank\" rel=\"noreferrer noopener\" key=\"link3\" href=>Vue.js.</a></li><li>Conhecimentos sólidos em <strong>arquitetura de software</strong>, padrões de projeto (design patterns) e boas práticas (SOLID, Clean Code, etc.);</li><li>Experiência com <strong>APIs REST</strong> (e, se possível, GraphQL), bancos de dados relacionais e/ou NoSQL;</li><li>Vivência em ambientes <strong>ágeis</strong> (Scrum, Kanban) e uso de ferramentas de versionamento (Git);</li><li>Capacidade de <strong>comunicação clara</strong> e habilidade para traduzir termos técnicos para linguagem de negócio;</li><li>Perfil colaborativo, postura de <strong>dono(a)</strong> e foco em entrega de valor.</li></ul><h4><strong>Competências Comportamentais</strong></h4><ul><li>Experiência com <strong>cloud</strong> (AWS, Azure, GCP) e conceitos de arquitetura em nuvem;</li><li>Conhecimento em <strong>DevOps</strong> e práticas como CI/CD, containers (Docker), orquestração (Kubernetes);</li><li>Vivência com <strong>arquiteturas distribuídas</strong> (microsserviços, mensageria, eventos);</li><li>Participação em comunidades técnicas, contribuições open source, palestras, artigos, etc.</li></ul><h3><strong>O que esperamos desse(a) Tech Lead:</strong></h3><ul><li>Alguém que <strong>gosta de programar</strong>, mas que também se sente confortável em <strong>liderar, orientar e tomar decisões difíceis;</strong></li><li>Uma pessoa que questione o status quo, proponha melhorias e ajude a elevar o nível do time;</li><li>Um perfil que equilibre <strong>excelência técnica</strong> com <strong>visão de produto/negócio</strong>, ajudando a priorizar o que realmente gera valor.</li></ul><h3>Informações adicionais</h3><h3>Informações:</h3><p>👩‍💻 <strong>Local de trabalho:</strong>Home Office</p><p>👉 <strong>Modelo de</strong><strong>Contrato:</strong> CLT;</p><p>🕐 <strong>Horário de trabalho:</strong> Segunda à Quinta 08h às 18h e Sextas 08h às 17h.</p><h3>Nossos benefícios são incríveis, olha só! 👇</h3><p>🍕 Vale Alimentação/Refeição no cartão Flash: você escolhe se vai usar no mercado ou em restaurantes;</p><h3>🔒 Seguro de Vida;</h3><h3>🏥 Plano de Saúde;</h3><h3>🦷 Plano Odontológico;</h3><p>🥳 Dayoff no mês do aniversário + um crédito no cartão Flash de presente pra aproveitar da forma como quiser!</p><h3>💰 Ajuda de Custo Home Office;</h3><p>🧘 Totalpass: Pra você e seus dependentes cuidarem da saúde física e mental;</p><p>🎯 E a chance de você crescer aqui dentro é grande: <strong>temos plano de carreira</strong>!</p><p><strong>Deu match? Então se inscreve aí!</strong>💚</p><h3>#VemPraPonta</h3> Originally posted on Himalayas",
+      "excerpt": "<p>A pecuária de ponta é inteligente, tecnológica e lucrativa.",
+      "seniority": [
+        "Senior"
+      ],
+      "categories": [
+        "Technical-Lead",
+        "Software-Engineering-Leadership",
+        "Software-Architecture",
+        "Senior-Software-Developer",
+        "Engineering-Management",
+        "Desarrollador-De-Software-Senior",
+        "Ingeniero-De-Software-Senior",
+        "Desenvolvedor-Java-Senior",
+        "Desenvolvedor-Senior-Full-Stack",
+        "Desenvolvedor-Senior",
+        "Senior-Lead-Software-Developer",
+        "Senior-Software-Development-Lead",
+        "Senior-Technical-Lead",
+        "Senior-Technical-Developer"
+      ],
+      "application_link": "https://himalayas.app/companies/vem-pra-ponta/jobs/desenvolvedor-senior-tech-lead",
+      "expiry_date": "2026-11-06T00:58:20.000Z"
     },
     {
       "id": "desenvolvedor-a-fullstack-backend-pleno",
@@ -262,61 +324,31 @@
       "expiry_date": "2026-11-04T21:52:27.000Z"
     },
     {
-      "id": "desenvolvedor-pleno-full-stack",
-      "title": "DESENVOLVEDOR PLENO (FULL-STACK)",
-      "company": "Quality Digital",
-      "company_slug": "quality-digital",
-      "location": "Brazil",
-      "date": "2026-08-31T21:25:23.000Z",
-      "url": "https://himalayas.app/companies/quality-digital/jobs/desenvolvedor-pleno-full-stack",
-      "description": "Atuação como Desenvolvedor Pleno no App do Vendedor do cliente , participando da evolução, sustentação e melhoria contínua da aplicação. O profissional será responsável pelo desenvolvimento de novas funcionalidades, correção de incidentes, integrações com sistemas do ecossistema Fast Shop e garantia da qualidade das entregas, trabalhando em conjunto com PO, QA e demais profissionais técnicos. Buscamos alguém com autonomia, capacidade analítica, boa comunicação e visão de negócio , além de sólida experiência em desenvolvimento de software.\nNós somos a Quality Digital ! Saiba mais sobre a gente:\n\nUma frase que nos define - Somos especialistas em soluções de TI e apaixonados por inovação! 🚀\n\nAo infinito e além - Somos #semfronteiras . Nosso time está espalhado pelo Brasil e pelo mundo 🌎\n\nNossa cultura - Mesmo distantes, estamos juntos 🧡 Temos cerimônias para estarmos mais próximos, compartilhar conhecimento e ficar por dentro das novidades da nossa empresa!\n\nSomos diversos - Um dos nossos compromissos é fazer da companhia um ambiente cada vez mais diverso, inclusivo e respeitoso, valorizando e promovendo a pluralidade. Por isso, aqui temos espaço para todas as pessoas, independente de raça, gênero, idade, orientação sexual, crença religiosa ou deficiência. 🏳️‍🌈👩🏾‍🦽\n\nNosso objetivo - Potencializar os negócios dos nossos clientes através de soluções inovadoras e sustentáveis. Topa vir com a gente nessa? 🎯\n\nComo será o seu dia a dia:\n\nDesenvolver, evoluir e manter funcionalidades do App do Vendedor , aplicação utilizada para apoiar a jornada de vendas e os processos das lojas Fast Shop.\n\nAtuar no desenvolvimento de novas funcionalidades, melhorias e correções de bugs.\n\nAnalisar requisitos funcionais e técnicos, contribuindo para o refinamento das demandas junto ao Product Owner e demais integrantes do time.\n\nDesenvolver soluções com foco em qualidade, performance, escalabilidade, segurança e manutenibilidade .\n\nInvestigar e solucionar incidentes e problemas relacionados à aplicação, realizando análise de causa e propondo soluções definitivas sempre que possível.\n\nAtuar na integração do aplicativo com APIs, serviços e sistemas do ecossistema Fast Shop .\n\nRealizar análise de logs e troubleshooting para identificação de falhas.\n\nCriar e manter testes unitários e apoiar a estratégia de qualidade das entregas.\n\nParticipar de code reviews, contribuindo para a qualidade e padronização do código.\n\nTrabalhar em conjunto com desenvolvedores, QA, PO, arquitetura e demais áreas envolvidas na evolução do produto.\n\nParticipar dos ritos da equipe, como refinamentos, planejamentos, reuniões de acompanhamento e retrospectivas.\n\nContribuir para estimativas técnicas e identificação de riscos e dependências.\n\nApoiar os processos de deploy, homologação e acompanhamento das entregas em produção.\n\nDocumentar soluções, integrações e decisões técnicas relevantes.\n\nAcompanhar o comportamento das funcionalidades após implantação e atuar rapidamente quando forem identificadas anomalias.\n\nContribuir continuamente para melhoria da arquitetura, código, processos e práticas de engenharia do time.\n\nConhecimento em:\n\nExperiência\nExperiência profissional como Desenvolvedor de Software, preferencialmente em nível Pleno .\n\nExperiência no desenvolvimento e manutenção de aplicações utilizadas em ambientes corporativos.\n\nExperiência trabalhando com APIs REST e integrações entre sistemas .\n\nExperiência com versionamento de código utilizando Git .\n\nVivência com metodologias ágeis e trabalho em squads multidisciplinares.\n\nExperiência com análise e correção de bugs em ambientes produtivos.\n\nConhecimento de boas práticas de desenvolvimento, como Clean Code, SOLID e padrões de projeto .\n\nExperiência com testes unitários e preocupação com qualidade de software.\n\nConhecimentos técnicos desejáveis\nDesenvolvimento de aplicações mobile e/ou web , de acordo com a stack utilizada no App do Vendedor.\n\nConsumo e integração de APIs REST.\n\nJSON e comunicação entre aplicações.\n\nBancos de dados relacionais e/ou NoSQL.\n\nGit e estratégias de versionamento.\n\nCI/CD.\n\nLogs, monitoramento e troubleshooting.\n\nConceitos de autenticação e autorização.\n\nConhecimentos de arquitetura de software e integração entre sistemas.\n\nConhecimentos básicos de Cloud e ambientes de aplicações distribuídas.\n\nDesenvolvimento de sistemas;\n\nPadrões e práticas de frontend e backend;\n\nPráticas de segurança e performance para WEB;\n\nDesenvolvimentos de Microserviços Java Spring Boot, NodeJs, React, Angular, GraphQL, Flutter Python,OpenShift, Kubernetes, Docker, Maven e Filas (JMS, ActiveMQ ou KAFKA);\n\nDesenvolvimentos de Front, React, Angular, NodeJs,Flutter, OpenShift, Kubernetes, Docker, NestJS,ReactJS,Firebase,Github Actions,VtexIO,VtexCommcerce\n\nDesign patterns;\n\nTestes unitários com JUnit, conhecimento em Logs no DataDog, Git;\n\nDB Oracle, SQL, MYSQL e Aurora\n\nUtilização de cache com REDIS, conhecimento em SOLID, Clean Code e SCRUM.\n\nCompetências comportamentais\n\nBoa capacidade analítica e de resolução de problemas.\n\nAutonomia compatível com nível Pleno.\n\nComunicação clara com profissionais técnicos e de negócio.\n\nCapacidade de compreender o impacto das alterações técnicas na operação.\n\nOrganização e responsabilidade com prazos e entregas.\n\nProatividade na identificação de problemas e oportunidades de melhoria.\n\nCapacidade de trabalhar colaborativamente.\n\nSenso de urgência diante de incidentes que afetem a operação.\n\nInteresse em compreender o produto e o negócio, e não apenas executar demandas técnicas.\n\nOBS.: Hey! Caso você não preencha todos os requisitos da vaga, te convidamos a se candidatar mesmo assim, ok? Faremos uma análise cuidadosa do seu perfil considerando todas as suas qualificações 😉\nInformações adicionais\nO que você vai encontrar aqui:\n\nUm ambiente propício para aprendizado e crescimento profissional 🎯\n\nAvaliação de desempenho e feedbacks , visando o desenvolvimento contínuo das nossas pessoas 📊\n\nVale alimentação e/ou refeição para suas compras de mercado e refeições 🍴\n\nAssistência médica e odontológica para que você e sua família estejam com a saúde em dia 💙\n\nConvênio com farmácias para descontos em medicamentos 💊\n\nAuxílio creche de acordo com política vigente 🍼\n\nParceria com o SESC para programações variadas de cultura e lazer ✈\n\nParcerias para seus estudos de idiomas, tecnologia e plataforma de cursos 📚\n\nEmpréstimo consignado com taxas atrativas + programa de educação financeira💰\n\nUniversidade Corporativa e trilhas de conhecimento com conteúdos diversos de tecnologia, soft skills, tendências de mercado e muito mais 👨‍💻\n\nPrograma de Indicações com possibilidade de prêmios e bonificações 🎁\n\nSeguro de vida coletivo ⛑\n\nOriginally posted on Himalayas",
-      "excerpt": "Atuação como Desenvolvedor Pleno no App do Vendedor do cliente, participando da evolução, sustentação e melhoria contínua da aplicação.",
-      "seniority": [
-        "Mid-level"
-      ],
-      "categories": [
-        "Fullstack-Development",
-        "Software-Development",
-        "Backend-Development",
-        "Frontend-Development",
-        "Mobile-Development",
-        "Desenvolvedor-Full-Stack",
-        "Mid-Level-Desenvolvedor-Full-Stack",
-        "Full-Stack-Developer",
-        "Full-Stack-Software-Developer",
-        "Développeur-Full-Stack",
-        "Full-Stack-Web-Developer"
-      ],
-      "application_link": "https://himalayas.app/companies/quality-digital/jobs/desenvolvedor-pleno-full-stack",
-      "expiry_date": "2026-10-30T21:25:22.000Z"
-    },
-    {
       "id": "desenvolvedor-full-stack",
       "title": "Desenvolvedor Full Stack",
-      "company": "InEvent",
-      "company_slug": "inevent",
+      "company": "LUZA Group",
+      "company_slug": "luza-group",
       "location": "Brazil",
-      "date": "2026-08-23T20:32:36.000Z",
-      "url": "https://himalayas.app/companies/inevent/jobs/desenvolvedor-full-stack",
-      "description": "SOBRE A INEVENT\nA InEvent é uma startup B2B inovadora e ágil que desenvolve soluções inteligentes para eventos e marketing em grandes empresas, criando gerenciamento de alto nível para executivos e ferramentas operacionais robustas para analistas e gerentes.\n\nQUEM SOMOS\nA InEvent é uma empresa de tecnologia de eventos remotos com InEvent ers em mais de 13 países diferentes, falando mais de 27 idiomas diferentes. Somos uma equipe global.\nOs InEvent ers são uma equipe única, com Visão de crescimento e Valores compartilhados. Nós permitimos que você seja você mesmo e encorajamos a comunicação aberta. O mais importante aqui não é a sua experiência, mas sim a sua curiosidade e paixão por aprender e crescer connosco!\n\nFULL STACK DEVELOPER\nA InEvent está procurando um Desenvolvedor Full Stack que deseja se juntar ao nosso Time de Produto responsável por impressionar os clientes desenvolvendo uma tecnologia transformadora. Suas responsabilidades incluem projetar as interações do usuário em nosso site, trabalhar com servidores e bancos de dados para a funcionalidade do site e desenvolvimento de plataformas móveis.\nRESPONSABILIDADES\n\nConhecer os modelos de desenvolvimento usados em nossas plataformas;\n\nDesenvolver parte da nossa comunicação;\n\nCorrigir problemas e resolver questões de design de programação tanto no backend quanto no frontend;\n\nParticipar de eventos de empreendedorismo e tecnologia;\n\nColaborar ativamente com a criação de valor do InEvent , tendo coragem de ser desafiado e disposição para propor as melhorias necessárias.\n\nPERFIL IDEAL\n\nExperiência de pelo menos 1 ano em desenvolvimento web, principalmente com foco em implementação modular e interfaces minimalistas e funcionais;\n\nExperiência em REST API e ambiente LINUX e / ou DOCKER;\n\nHabilidades de aprendizado rápido e resolução de problemas;\n\nConhecimento e experiência em desenvolvimento com PHP + nginx + mySQL para nosso backend e HTML5, Vue.js, Javascript e CSS para nosso frontend é desejável;\n\nCriatividade e curiosidade para aprender e propor novos conceitos em nossa plataforma;\n\nTer um espírito hacker quando necessário;\n\nEsteja pronto para trabalhar remotamente em um ambiente UNIX e plataformas de versionamento de código (GIT);\n\nMuito (muito) resiliente para aprender continuamente em uma startup!\n\nBENEFÍCIOS\n\nPlano de saúde;\n\nPaid Time Off (PTO);\n\nDia de aniversário off;\n\nPresentes de aniversário e aniversário de trabalho.\n\nCONTRATO\n\nInEvent é uma startup americana e o contrato é feito via PJ.\n\nOriginally posted on Himalayas",
-      "excerpt": "SOBRE A INEVENT A InEvent é uma startup B2B inovadora e ágil que desenvolve soluções inteligentes para eventos e marketing em grandes empresas, criando gerenciamento de alto nível para executivos e ferramentas operacionais robustas para analistas e gerentes.",
+      "date": "2026-09-08T20:32:15.000Z",
+      "url": "https://himalayas.app/companies/luza-group/jobs/desenvolvedor-full-stack",
+      "description": "Venha fazer parte de um ecossistema vivo onde o futuro dos negócios é criado e vivido todos os dias. Faça parte desta transformação! Na LUZA Group , a paixão, a perseverança e a vontade de superar limites definem o nosso caminho para o sucesso. Fundada em 2006, somos uma multinacional portuguesa com mais de 1.200 profissionais talentosos e um volume de negócios. Com presença em mercados estratégicos como Portugal, Espanha, Marrocos, Brasil, México, Estados Unidos e China, oferecemos soluções inovadoras em engenharia, TI, design, consultoria, Indústria 4.0, treinamento e recrutamento. Tudo o que fazemos é movido pelo talento de nosso povo. Este é um momento de crescimento e oportunidade. O futuro pertence a mentes visionárias. Junte-se a nós!\nEstamos buscando: ﻿ Desenvolvedor Full Stack ﻿\nResponsável por:\n\nAtuar na implementação, testes e manutenção de software com foco em qualidade, escalabilidade e segurança;\n\nApoiar na definição e condução de demandas técnicas, garantindo a evolução tecnológica dos produtos;\n\nColaborar com times de tecnologia e de negócio no desenvolvimento de novas soluções;\n\nCriar e evoluir soluções escaláveis, sustentáveis e orientadas ao negócio, tanto no back-end quanto no front-end;\n\nParticipar ativamente da elaboração e revisão de soluções técnicas;\n\nAtuar em um ambiente desafiador e inovador, buscando sempre as melhores práticas;\n\nColaborar com equipes multidisciplinares (UX/UI, QA, DevOps e PO) para entregas integradas e alinhadas.\n\nPré-requisitos (Hard Skills):\nBack-end:\n\nSólida experiência em Java e Spring Boot Framework;\n\nBanco de dados PostgreSQL e MongoDB;\n\nExperiência com Redis;\n\nConhecimento em Cloud AWS e Kubernetes (EKS);\n\nExperiência com arquitetura monolítica e microsserviços;\n\nExperiência com arquitetura Orientada a Eventos (SQS e SNS);\n\nExperiência com Simple Queue Service (SQS);\n\nControle de versão com Bitbucket;\n\nBoas práticas de Clean Code, DDD, TDD e integração contínua;\n\nDiferencial experiência em migração de arquitetura monolítica para microsserviços.\n\nFront-end:\n\nExperiência sólida com ReactJs e TypeScript;\n\nExperiência com NextJs;\n\nExperiência com TailwindCSS e Sass;\n\nBoas práticas de Clean Code, componentização e testes automatizados;\n\nExperiência com Jest para testes unitários;\n\nExperiência com Cypress e testes E2E (End-to-End);\n\nDesejável experiência com micro front-end.\n\nPré-requisitos (Soft Skills):\n\nSenso de urgência e foco em resultados;\n\nResponsabilidade e postura de dono (ownership);\n\nCapacidade de colaboração e trabalho em equipe;\n\nBoa comunicação e facilidade para interação com áreas técnicas e de negócio;\n\nPerfil proativo, curioso e orientado a soluções.\nPJ\nRemoto\nOriginally posted on Himalayas",
+      "excerpt": "Venha fazer parte de um ecossistema vivo onde o futuro dos negócios é criado e vivido todos os dias.",
       "seniority": [
         "Senior"
       ],
       "categories": [
-        "Web-Development",
-        "Backend-Development",
-        "Frontend-Development",
-        "Software-Development",
+        "Full-Stack-Developer",
+        "Software-Engineer",
+        "Web-Developer",
         "Desenvolvedor-Full-Stack",
         "Mid-Level-Desenvolvedor-Full-Stack",
-        "Full-Stack-Developer",
         "Full-Stack-Software-Developer",
         "Full-Stack-Engineer",
-        "Fullstack-Development"
+        "Front-End-Developer",
+        "Backend-Engineer"
       ],
-      "application_link": "https://himalayas.app/companies/inevent/jobs/desenvolvedor-full-stack",
-      "expiry_date": "2026-09-22T05:24:45.000Z"
+      "application_link": "https://himalayas.app/companies/luza-group/jobs/desenvolvedor-full-stack",
+      "expiry_date": "2026-10-08T04:21:19.000Z"
     }
   ]
 }
