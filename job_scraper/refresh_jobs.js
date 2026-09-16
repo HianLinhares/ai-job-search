@@ -11,6 +11,12 @@ const portals = {
   rok: ".agents/skills/remoteok-search/cli/src/cli.ts",
   him: ".agents/skills/himalayas-search/cli/src/cli.ts",
   wwr: ".agents/skills/weworkremotely-search/cli/src/cli.ts",
+  rmt: ".agents/skills/remotar-search/cli/src/cli.ts",
+  gh: ".agents/skills/geekhunter-search/cli/src/cli.ts",
+  pth: ".agents/skills/programathor-search/cli/src/cli.ts",
+  // Indeed / Glassdoor: blocked by bot protection (403) — not wired.
+  // Wellfound: fragile SSR + Turnstile; optional skill if present.
+  wf: ".agents/skills/wellfound-search/cli/src/cli.ts",
 };
 
 const portalLabel = {
@@ -20,6 +26,10 @@ const portalLabel = {
   rok: "RemoteOK",
   him: "Himalayas",
   wwr: "WeWorkRemotely",
+  rmt: "Remotar",
+  gh: "GeekHunter",
+  pth: "Programathor",
+  wf: "Wellfound",
 };
 
 async function run(cmd, args, outFile) {
@@ -65,13 +75,20 @@ function isBrazilRemote(j) {
   if (foreignGeo && !mentionsBrazil) return false;
 
   // Portals already scoped to BR/remote in this refresh script
-  if (["LinkedIn", "Gupy", "Freehire", "Himalayas", "RemoteOK"].includes(j.portal)) {
+  if (
+    ["LinkedIn", "Gupy", "Freehire", "Himalayas", "RemoteOK", "Remotar", "GeekHunter", "Programathor", "Wellfound"].includes(
+      j.portal,
+    )
+  ) {
     if (j.portal === "RemoteOK" && !mentionsBrazil && !/brazil|brasil|latam|south america/i.test(blob)) {
       // RemoteOK --country BR may still return empty; keep only BR-ish hits
       return mentionsBrazil;
     }
     if (j.portal === "WeWorkRemotely") {
       return mentionsBrazil || /brazil|brasil|latam/i.test(blob);
+    }
+    if (j.portal === "Wellfound") {
+      return mentionsBrazil || /brazil|brasil|são paulo|sao paulo|remoto|remote/i.test(blob);
     }
     return true;
   }
@@ -147,6 +164,34 @@ if (!offline) {
     ["search", "-q", "developer", "--jobage", "14", "--limit", "25", "--format", "json"],
     "wwr_developer.json",
   );
+
+  await run(
+    portals.rmt,
+    ["search", "-q", "desenvolvedor", "--jobage", "14", "--limit", "20", "--format", "json"],
+    "rmt_desenvolvedor.json",
+  );
+  await run(
+    portals.rmt,
+    ["search", "-q", "backend", "--jobage", "14", "--limit", "15", "--format", "json"],
+    "rmt_backend.json",
+  );
+  await run(
+    portals.gh,
+    ["search", "-q", "desenvolvedor", "--jobage", "14", "--limit", "20", "--format", "json"],
+    "gh_desenvolvedor.json",
+  );
+  await run(
+    portals.pth,
+    ["search", "-q", "desenvolvedor", "--jobage", "14", "--limit", "20", "--format", "json"],
+    "pth_desenvolvedor.json",
+  );
+  if (fs.existsSync(portals.wf)) {
+    await run(
+      portals.wf,
+      ["search", "-q", "engineer", "--jobage", "14", "--limit", "20", "--format", "json"],
+      "wf_engineer.json",
+    );
+  }
 } else {
   console.log("offline: reusing existing portal json dumps");
 }
@@ -158,6 +203,10 @@ const prefixToPortal = [
   ["rok_", "RemoteOK"],
   ["him_", "Himalayas"],
   ["wwr_", "WeWorkRemotely"],
+  ["rmt_", "Remotar"],
+  ["gh_", "GeekHunter"],
+  ["pth_", "Programathor"],
+  ["wf_", "Wellfound"],
 ];
 
 const byKey = new Map();

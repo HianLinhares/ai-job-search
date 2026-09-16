@@ -1,0 +1,209 @@
+{
+  "meta": {
+    "count": 20,
+    "page": 1,
+    "total": 25
+  },
+  "results": [
+    {
+      "id": "desenvolvedor--a--backend--9",
+      "title": "Desenvolvedor (a) Backend",
+      "company": "Nava Technology For Business 1",
+      "location": "Remoto",
+      "date": null,
+      "url": "https://www.geekhunter.com/pt/nava-technology-for-business-1/jobs/desenvolvedor--a--backend--9",
+      "description": null,
+      "work_mode": "Remoto"
+    },
+    {
+      "id": "desenvolvedor--a--full-stack-senior-1",
+      "title": "Desenvolvedor (a) Full Stack Sênior",
+      "company": "Nava Technology For Business 1",
+      "location": "Remoto",
+      "date": null,
+      "url": "https://www.geekhunter.com/pt/nava-technology-for-business-1/jobs/desenvolvedor--a--full-stack-senior-1",
+      "description": null,
+      "work_mode": "Remoto"
+    },
+    {
+      "id": "desenvolvedor-angular-31",
+      "title": "Desenvolvedor Angular - Híbrido SP",
+      "company": "Ntt Data",
+      "location": "Remoto",
+      "date": null,
+      "url": "https://www.geekhunter.com/pt/ntt-data/jobs/desenvolvedor-angular-31",
+      "description": null,
+      "work_mode": "Remoto"
+    },
+    {
+      "id": "desenvolvedor-java-pleno-68",
+      "title": "Desenvolvedor Java Pleno",
+      "company": "Ntt Data",
+      "location": "Remoto",
+      "date": null,
+      "url": "https://www.geekhunter.com/pt/ntt-data/jobs/desenvolvedor-java-pleno-68",
+      "description": null,
+      "work_mode": "Remoto"
+    },
+    {
+      "id": "pessoa-analista-desenvolvedor--a---net---senior-1",
+      "title": "Pessoa Analista Desenvolvedor (a) .Net _ Sênior",
+      "company": "Ey 3",
+      "location": "Remoto",
+      "date": null,
+      "url": "https://www.geekhunter.com/pt/ey-3/jobs/pessoa-analista-desenvolvedor--a---net---senior-1",
+      "description": null,
+      "work_mode": "Remoto"
+    },
+    {
+      "id": "vaga--desenvolvedor-a--fullstack-java---angular-pleno-1",
+      "title": "Vaga: Desenvolvedor(a) Fullstack Java + Angular Pleno",
+      "company": "Nava Technology For Business 1",
+      "location": "Remoto",
+      "date": null,
+      "url": "https://www.geekhunter.com/pt/nava-technology-for-business-1/jobs/vaga--desenvolvedor-a--fullstack-java---angular-pleno-1",
+      "description": null,
+      "work_mode": "Remoto"
+    },
+    {
+      "id": "desenvolvedor-junior---hibrido-em-recife-pe-1",
+      "title": "DESENVOLVEDOR JUNIOR - HÍBRIDO EM RECIFE/PE",
+      "company": "Ibrowse Consultoria E Informatica 1",
+      "location": "Remoto",
+      "date": null,
+      "url": "https://www.geekhunter.com/pt/ibrowse-consultoria-e-informatica-1/jobs/desenvolvedor-junior---hibrido-em-recife-pe-1",
+      "description": null,
+      "work_mode": "Remoto"
+    },
+    {
+      "id": "melhor-envio-i-desenvolvedor--a--pleno--php-lavarel--i-remoto-1",
+      "title": "Melhor Envio I Desenvolvedor (a) Pleno (PHP/Lavarel) I Remoto",
+      "company": "Locaweb",
+      "location": "Remoto",
+      "date": null,
+      "url": "https://www.geekhunter.com/pt/locaweb/jobs/melhor-envio-i-desenvolvedor--a--pleno--php-lavarel--i-remoto-1",
+      "description": null,
+      "work_mode": "Remoto"
+    },
+    {
+      "id": "melhor-envio-i-desenvolvedor--a--front-pleno--vue-js-e-nuxt-js--i-remoto-1",
+      "title": "Melhor Envio I Desenvolvedor (a) Front Pleno (Vue.js e Nuxt.js) I Remoto",
+      "company": "Locaweb",
+      "location": "Remoto",
+      "date": null,
+      "url": "https://www.geekhunter.com/pt/locaweb/jobs/melhor-envio-i-desenvolvedor--a--front-pleno--vue-js-e-nuxt-js--i-remoto-1",
+      "description": null,
+      "work_mode": "Remoto"
+    },
+    {
+      "id": "desenvolvedor-full-stack-java-angular---pleno--1",
+      "title": "Desenvolvedor Full Stack Java/Angular - Pleno",
+      "company": "Nava Technology For Business 1",
+      "location": "Remoto",
+      "date": null,
+      "url": "https://www.geekhunter.com/pt/nava-technology-for-business-1/jobs/desenvolvedor-full-stack-java-angular---pleno--1",
+      "description": null,
+      "work_mode": "Remoto"
+    },
+    {
+      "id": "desenvolvedor--net-full-stack-senior-1",
+      "title": "Desenvolvedor .NET Full Stack Sênior",
+      "company": "Seven Inovacoes",
+      "location": "Remoto",
+      "date": null,
+      "url": "https://www.geekhunter.com/pt/seven-inovacoes/jobs/desenvolvedor--net-full-stack-senior-1",
+      "description": null,
+      "work_mode": "Remoto"
+    },
+    {
+      "id": "desenvolvedor-cloud-com-ia-generativa-e-mcp-1",
+      "title": "Desenvolvedor Cloud com IA Generativa e MCP",
+      "company": "Ntt Data",
+      "location": "Remoto",
+      "date": null,
+      "url": "https://www.geekhunter.com/pt/ntt-data/jobs/desenvolvedor-cloud-com-ia-generativa-e-mcp-1",
+      "description": null,
+      "work_mode": "Remoto"
+    },
+    {
+      "id": "desenvolvedor-java-senior-88",
+      "title": "Desenvolvedor Java Sênior",
+      "company": "Ntt Data",
+      "location": "Remoto",
+      "date": null,
+      "url": "https://www.geekhunter.com/pt/ntt-data/jobs/desenvolvedor-java-senior-88",
+      "description": null,
+      "work_mode": "Remoto"
+    },
+    {
+      "id": "desenvolvedor-a--full-stack-senior-17",
+      "title": "Desenvolvedor(a) Full Stack Sênior",
+      "company": "Deeploy",
+      "location": "Remoto",
+      "date": null,
+      "url": "https://www.geekhunter.com/pt/deeploy/jobs/desenvolvedor-a--full-stack-senior-17",
+      "description": null,
+      "work_mode": "Remoto"
+    },
+    {
+      "id": "desenvolvedor-full-stack-php-pleno-6",
+      "title": "Desenvolvedor Full Stack PHP Pleno",
+      "company": "Pagbrasil Pagamentos Eletronicos Ltda",
+      "location": "Remoto",
+      "date": null,
+      "url": "https://www.geekhunter.com/pt/pagbrasil-pagamentos-eletronicos-ltda/jobs/desenvolvedor-full-stack-php-pleno-6",
+      "description": null,
+      "work_mode": "Remoto"
+    },
+    {
+      "id": "desenvolvedor-java-angular-senior-2",
+      "title": "Desenvolvedor Java/Angular Senior",
+      "company": "Nava Technology For Business 1",
+      "location": "Remoto",
+      "date": null,
+      "url": "https://www.geekhunter.com/pt/nava-technology-for-business-1/jobs/desenvolvedor-java-angular-senior-2",
+      "description": null,
+      "work_mode": "Remoto"
+    },
+    {
+      "id": "desenvolvedor-pleno-fullstack--typescript---remoto-1",
+      "title": "DESENVOLVEDOR PLENO FULLSTACK .TYPESCRIPT - REMOTO",
+      "company": "Ibrowse Consultoria E Informatica 1",
+      "location": "Remoto",
+      "date": null,
+      "url": "https://www.geekhunter.com/pt/ibrowse-consultoria-e-informatica-1/jobs/desenvolvedor-pleno-fullstack--typescript---remoto-1",
+      "description": null,
+      "work_mode": "Remoto"
+    },
+    {
+      "id": "desenvolvedor-pleno-fullstack----net---remoto-1",
+      "title": "DESENVOLVEDOR PLENO FULLSTACK - .NET - REMOTO",
+      "company": "Ibrowse Consultoria E Informatica 1",
+      "location": "Remoto",
+      "date": null,
+      "url": "https://www.geekhunter.com/pt/ibrowse-consultoria-e-informatica-1/jobs/desenvolvedor-pleno-fullstack----net---remoto-1",
+      "description": null,
+      "work_mode": "Remoto"
+    },
+    {
+      "id": "desenvolvedor-angular-react-aws-1",
+      "title": "Desenvolvedor Angular React AWS",
+      "company": "Ntt Data",
+      "location": "Remoto",
+      "date": null,
+      "url": "https://www.geekhunter.com/pt/ntt-data/jobs/desenvolvedor-angular-react-aws-1",
+      "description": null,
+      "work_mode": "Remoto"
+    },
+    {
+      "id": "desenvolvedor-javascript-pleno-2",
+      "title": "Desenvolvedor JavaScript Pleno",
+      "company": "Ntt Data",
+      "location": "Remoto",
+      "date": null,
+      "url": "https://www.geekhunter.com/pt/ntt-data/jobs/desenvolvedor-javascript-pleno-2",
+      "description": null,
+      "work_mode": "Remoto"
+    }
+  ]
+}

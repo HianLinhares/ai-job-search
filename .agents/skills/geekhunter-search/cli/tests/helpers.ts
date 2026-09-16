@@ -1,0 +1,27 @@
+import { join } from "path"
+
+const CLI_PATH = join(import.meta.dir, "../src/cli.ts")
+// Prefer the current Bun binary — child PATH on Windows often lacks `bun`.
+const BUN = process.execPath
+
+export interface CLIResult {
+  stdout: string
+  stderr: string
+  exitCode: number
+}
+
+export async function runCLI(args: string[], env: Record<string, string> = {}): Promise<CLIResult> {
+  const proc = Bun.spawn([BUN, "run", CLI_PATH, ...args], {
+    stdout: "pipe",
+    stderr: "pipe",
+    env: { ...process.env, ...env },
+  })
+
+  const [stdout, stderr, exitCode] = await Promise.all([
+    new Response(proc.stdout).text(),
+    new Response(proc.stderr).text(),
+    proc.exited,
+  ])
+
+  return { stdout: stdout.trim(), stderr: stderr.trim(), exitCode }
+}

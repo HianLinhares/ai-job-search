@@ -59,24 +59,6 @@
       "url": "https://br.linkedin.com/jobs/view/desenvolvedor-back-end-at-jobbol-4463378010"
     },
     {
-      "id": "4461544273",
-      "title": "Engenheiro de Backend",
-      "company": "Jobbol",
-      "companyUrl": "https://br.linkedin.com/company/jobbol-empregos",
-      "location": "São Paulo, São Paulo, Brazil",
-      "date": "2026-09-01",
-      "url": "https://br.linkedin.com/jobs/view/engenheiro-de-backend-at-jobbol-4461544273"
-    },
-    {
-      "id": "4458094550",
-      "title": "Desenvolvedor Back-End .NET Pleno",
-      "company": "QiBit",
-      "companyUrl": "https://it.linkedin.com/company/qibit-tech",
-      "location": "São Paulo, São Paulo, Brazil",
-      "date": "2026-08-28",
-      "url": "https://br.linkedin.com/jobs/view/desenvolvedor-back-end-net-pleno-at-qibit-4458094550"
-    },
-    {
       "id": "4463577518",
       "title": "Desenvolvedor(a) Back-end Sênior – PHP / Laravel",
       "company": "IEBT Innovation",
@@ -86,13 +68,31 @@
       "url": "https://br.linkedin.com/jobs/view/desenvolvedor-a-back-end-s%C3%AAnior-%E2%80%93-php-laravel-at-iebt-innovation-4463577518"
     },
     {
-      "id": "4460065273",
-      "title": "Desenvolvedor Senior",
-      "company": "Ambev Tech",
-      "companyUrl": "https://br.linkedin.com/company/ambevtech",
-      "location": "Blumenau, Santa Catarina, Brazil",
-      "date": "2026-08-31",
-      "url": "https://br.linkedin.com/jobs/view/desenvolvedor-senior-at-ambev-tech-4460065273"
+      "id": "4464247606",
+      "title": "Desenvolvedor Backend .NET - Pleno",
+      "company": "Blite Tecnologia",
+      "companyUrl": "https://br.linkedin.com/company/bliteti",
+      "location": "São Paulo, São Paulo, Brazil",
+      "date": "2026-09-11",
+      "url": "https://br.linkedin.com/jobs/view/desenvolvedor-backend-net-pleno-at-blite-tecnologia-4464247606"
+    },
+    {
+      "id": "4467761332",
+      "title": "Desenvolvedor Backend",
+      "company": "Jobbol",
+      "companyUrl": "https://br.linkedin.com/company/jobbol-empregos",
+      "location": "São Paulo, São Paulo, Brazil",
+      "date": "2026-09-15",
+      "url": "https://br.linkedin.com/jobs/view/desenvolvedor-backend-at-jobbol-4467761332"
+    },
+    {
+      "id": "4454325799",
+      "title": "(1535) Staff Backend Engineer (.NET)",
+      "company": "Nortal",
+      "companyUrl": "https://ee.linkedin.com/company/nortal",
+      "location": "São Paulo, São Paulo, Brazil",
+      "date": "2026-09-04",
+      "url": "https://br.linkedin.com/jobs/view/1535-staff-backend-engineer-net-at-nortal-4454325799"
     }
   ]
 }

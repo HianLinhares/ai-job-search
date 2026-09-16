@@ -1,146 +1,65 @@
 {
   "meta": {
-    "count": 10,
+    "count": 6,
     "page": 1,
-    "total": 10
+    "total": 6
   },
   "results": [
     {
-      "id": "github-contributor-106728860",
-      "title": "GitHub Contributor",
-      "company": "micro1",
-      "company_slug": "micro1",
-      "location": "Remote",
-      "date": "2026-09-09T15:50:14.000Z",
-      "url": "https://himalayas.app/companies/micro1/jobs/github-contributor-106728860",
-      "description": "Role Title: GitHub Contributor\nRole Type : Contractor (~15 hrs a week)\nLocation: Remote\nmicro1 is engaging expert Senior Software Engineers to support a customer’s innovative project. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters.\nAs an expert you will be creating Reinforcement Learning Environments which test and AI model's ability to solve complex software engineering problems related to fixing code, creating features, refactoring code and optimizing performance. You will be tasked with creating a reproducible environment and golden reference solution for the problem.\nApplicants must have clear open source contributions and profiles to showcase it like GitHub or GitLab. (Preferably with C++, Python, JAVA, GoLang, Typescript, or Rust)\nScope of Work\n\nContribute expert-level code samples, debugging strategies, and development insights in Python3, Java, Rust, Go, C++, or TypeScript.\n\nAnalyze, troubleshoot, and resolve complex software defects and performance bottlenecks in diverse codebases.\n\nImplement robust new features, ensuring scalability, maintainability, and adherence to software best practices.\n\nRefactor and optimize legacy code to improve clarity, efficiency, and long-term reliability.\n\nDocument technical reasoning, solution approaches, and code decisions to enhance AI training data quality.\n\nReview and validate peer-contributed code and technical submissions for accuracy and clarity.\n\nPreferred Qualifications\n\nSignificant hands-on expertise in at least one of the following: Python3, Java, Rust, Go, C++, or TypeScript.\n\nDeep understanding of algorithms, data structures, and software engineering principles.\n\nProven ability to debug complex systems, resolve bugs, and deliver effective optimizations.\n\nExperience with large codebase refactoring and legacy system modernization.\n\nTrack record of delivering high-impact features from conception through delivery within cross-functional projects.\n\nStrong documentation and communication skills to articulate technical concepts clearly.\n\nInterest in or curiosity about AI and its technical challenges (previous AI experience not required).\n\nProcess:\n\nApply to the role, filling out the screening questions\n\nComplete AI interview (aprox. 30 minutes)\n\nTechnical Assessment (Tentative)\n\nHiring Manager review\n\nCompensation Structure\nCompensation is output-based; experts are paid per task that meets the project specifications. The time required to complete work may vary depending on the expert’s experience and workflow. Minimum submission requirements apply. Experts must submit a minimum of tasks per week.\nStart Timeline & Availability\nWe typically fill roles within 48 hours and are looking for experts ready to jump in right away. If selected, we expect you to start your first tasks within 24–48 hours of completing onboarding.\nOriginally posted on Himalayas",
-      "excerpt": "Role Title: GitHub Contributor Role Type: Contractor (~15 hrs a week) Location: Remote micro1 is engaging expert Senior Software Engineers to support a customer’s innovative project.",
-      "seniority": [
-        "Entry-level"
-      ],
-      "categories": [
-        "Open-Source-Contributor",
-        "Open-Source-Developer",
-        "Community-Contributor",
-        "Open-Source-Software-Developer",
-        "Open-Source-Engineer",
-        "Developer"
-      ],
-      "application_link": "https://himalayas.app/companies/micro1/jobs/github-contributor-106728860",
-      "expiry_date": "2026-11-07T19:34:09.000Z"
-    },
-    {
-      "id": "fullstack-outsystems-developer",
-      "title": "Fullstack Outsystems Developer",
-      "company": "99x Brazil (formerly Nextly)",
-      "company_slug": "99x-brazil-formerly-nextly",
-      "location": "Brazil",
-      "date": "2026-08-30T03:14:02.000Z",
-      "url": "https://himalayas.app/companies/99x-brazil-formerly-nextly/jobs/fullstack-outsystems-developer",
-      "description": "99x Brazil is on the lookout for skilled Intermediate and Senior Outsystems Developer. As a part of our dynamic team, you will play a vital role in the design, development, and maintenance of applications using the Outsystems platform. You will collaborate with a talented group of developers and designers to deliver high-quality software solutions that meet client requirements.\nIn this job you will master OutSystems Platform technology in conjunction with modern software engineering practices for developing web and mobile business applications in the context of agile projects.\nResponsibilities\n\nDevelop solution features following OutSystems development best practices\n\nWork as an IT expert and evangelist while supporting customers in their technical evaluation;\n\nUnderstand the customers' IT architecture in order to clarify the strategic fit of the OutSystems technology with their IT ecosystem;\n\nRequirements\n\nAdvanced English, written and spoken (mandatory).\n\nBachelor's degree in Computer Science or a related field.\n\nGreat communication skills;\n\nTransparency and ability to establish trust and supportive relationships;\n\nStrong quality orientation and attention to detail;\n\nUnderstanding of solution architecture and design, and web and mobile application performance.\n\nMore than 3 years experience, in web and/or mobile application programing;;\n\nBS/BA in computer science or similar\n\nKnowledge of web development or mobile app development, business modeling, database concepts and project management - preferably using Agile Development Methodologies\n\nDeep insight on technical architectures, IT products and product positioning\n\nProficiency with at least one programming language: PHP, C# or Java;\n\nProficiency in web based languages: JavaScript, CSS, HTML;\n\nKnowledge in ASP.NET;\n\nProgramming with databases: SQL Server, Oracle or MySQL;\n\nKnowledge in Database Modeling;\n\nOutSystems development experience and certifications are a plus;\n\nDegree in Computer Science or Engineering. Academic achievements valued;\n\nBenefits\n\nYour pick when it comes to employment models: CLT/PJ/Cooperativa;\n\nWe provide resources for you to grow and learn on the job, including online courses, mentoring, and the latest gen laptops;\n\nA fully remote work environment with flexible working hours;\n\nBonus for any referrals that we end up hiring;\n\nOriginally posted on Himalayas",
-      "excerpt": "99x Brazil is on the lookout for skilled Intermediate and Senior Outsystems Developer.",
+      "id": "senior-react-native-developer-5236230554",
+      "title": "Senior React Native Developer",
+      "company": "lemon.io",
+      "company_slug": "lemon-io",
+      "location": "Albania, Andorra, Australia, Austria, Belgium, Belize, Bolivia, Bosnia and Herzegovina, Brazil, Bulgaria, Canada, Chile, Colombia, Costa Rica, Croatia, Cyprus, Czechia, Denmark, Dominican Republic, Ecuador, El Salvador, Estonia, Finland, France, Germany, Greece, Guatemala, Haiti, Honduras, Hungary, Indonesia, Ireland, Israel, Italy, Jamaica, Japan, Latvia, Lithuania, Luxembourg, Malaysia, Malta, Mexico, Moldova, Montenegro, Morocco, Netherlands, New Zealand, North Macedonia, Norway, Panama, Papua New Guinea, Paraguay, Peru, Philippines, Poland, Portugal, Puerto Rico, Romania, Singapore, Slovakia, Slovenia, South Africa, South Korea, Spain, Sweden, Switzerland, Thailand, Turkey, Ukraine, United Kingdom, United States, Uruguay, Vietnam",
+      "date": "2026-09-11T11:44:00.000Z",
+      "url": "https://himalayas.app/companies/lemon-io/jobs/senior-react-native-developer-5236230554",
+      "description": "Are you a talented Senior Developer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe.\nWhat we offer:\n\nThe rate depends on your seniority level, skills and experience. We've already paid out over $11M to our engineers.\n\nNo more hunting for clients or negotiating rates — let us handle the business side of things so you can focus on what you do best.\n\nWe'll manually find the best project for you according to your skills and preferences.\n\nChoose a schedule that works best for you. It’s possible to communicate async or minimally overlap within team working hours.\n\nWe respect your seniority so you can expect no micromanagement or screen trackers.\n\nCommunicate directly with the clients. Most of them have technical backgrounds. Sounds good, yeah?\n\nWe will support you from the time you submit the application throughout all cooperation stages.\n\nMost of our projects involve working in a fast-paced startup environment. We hope you like it as much as we do.\n\nThrough our community, we will connect you with the best developers from more than 75 countries.\n\nRequirements for React Native & React Developer’s position:\n\n4+ years of software development experience\n\n2+ years of experience with React and 4+ years of experience with React Native\nOR\n4+ years of experience with React and 2+ years of experience with React Native\n\nRequirements for React Native & Node Developer’s position:\n\n4+ years of software development experience\n\n2+ years of experience with Node and 4+ years of experience with React Native\nOR\n4+ years of experience with Node and 2+ years of experience with React Native\n\nRequirements for React Native & Node & React Developer’s position:\n\n4+ years of software development experience\n\n3+ years of experience with Node\n\n4+ years of experience with React Native and 2+ years of experience with React\nOR\n2+ years of experience with React Native and 3+ years of experience with React\n\nRequirements for React Native & Ruby Developer’s position:\n\n4+ years of software development experience\n\n2+ years of experience with React and 4+ years of experience with Ruby\nOR\n4+ years of experience with React and 2+ years of experience with Ruby\n\nStrong technical skills: as a Senior Developer, you are expected to be able to create projects from scratch and have a deep understanding of application architecture.\n\nClear and effective communication in English — advanced ability to discuss business tasks, justify decisions, and communicate issues. Good self-presentation is also essential for upcoming client calls.\n\nStrong self-organizational skills — ability to work full-time remotely with no supervision.\n\nReliability — we want to trust you and expect that you won’t let us and the client down.\n\nAdaptability and Flexibility — the ability to onboard the project promptly after accepting it and start delivering results quickly.\n\nSounds good for you? Apply now and join the Lemon.io community!\nNOT YOUR TECH STACK?\nWe're placing Senior Developers (4+ yrs commercial experience) across AI Agent Architecture, AI Automation Architecture, AI Engineering, Site Reliability Engineering, Platform Engineering, React & Python, React & Golang, Golang, React & Java, React & Ruby, Ruby, PHP & Vue, Vue & Node.js, React & .NET, Android & iOS, iOS & Swift, Flutter & Firebase, Solutions Engineer, Blockchain (Ethereum/Ethers.js/Wagmi/Viem/Solana), Angular & Node.js, Vue & .NET, Python & Vue, DevOps, MLOps, Data Science, Angular & PHP, Angular & .NET, Symfony & React, Symfony & Vue, Symfony & Angular, Python, Symfony & JavaScript & Next.js & TypeScript, Data Analysis, React & PHP, Data Engineering, Project Management, Product Management, QA Automation, QA Manual, Embedded Software Engineering, React Native & Ruby, React Native & Python, WordPress, Android, Data Annotation, Angular, Python & Node, React & Node.js, Java & Spring, Svelte & Python, Svelte & Node.js, Svelte & TypeScript, Rust, Shopify & JavaScript, Vue & Nuxt, PHP & Laravel, UI/UX Design, Animation, Graphic Design, .NET & C#, Electron, Scala, C++, Unreal Engine & C++, Python & LLM, Unity, or Machine Learning Engineering and more. Reach out and we'll match you.\nWe do not provide visa assistance, and our cooperation model does not include the benefits typically offered with direct hire.\nWe work with developers from 75+ countries across Europe, Latin America, North America (the U.S. and Canada), selected countries in Asia (Japan, Singapore, South Korea, the Philippines, Indonesia, Malaysia, Vietnam, Thailand, and Israel), Oceania (Australia, New Zealand, and Papua New Guinea), and Africa (including Morocco and South Africa).\nOriginally posted on Himalayas",
+      "excerpt": "Are you a talented Senior Developer looking for a remote job that lets you show your skills and get decent compensation?",
       "seniority": [
         "Senior"
       ],
       "categories": [
-        "OutSystems-Development",
+        "React-Native-Developer",
+        "Senior-React-Native-Mobile-Developer",
+        "Senior-React-Native-Engineer"
+      ],
+      "application_link": "https://himalayas.app/companies/lemon-io/jobs/senior-react-native-developer-5236230554",
+      "expiry_date": "2026-10-11T11:43:59.000Z"
+    },
+    {
+      "id": "lead-fullstack-developer-6132357482",
+      "title": "Lead Fullstack Developer",
+      "company": "Teravision Technologies",
+      "company_slug": "teravision-technologies",
+      "location": "Remote",
+      "date": "2026-09-15T20:39:00.000Z",
+      "url": "https://himalayas.app/companies/teravision-technologies/jobs/lead-fullstack-developer-6132357482",
+      "description": "Teravision Technologies is a Nearshore Software outsourcing company with offices in Colombia and USA and over 170 professionals working remotely worldwide. With over 20 years of experience in design, development, and quality assurance, Teravision Technologies offers custom solutions for a wide range of industries in the USA, Europe, and Latin America.\n\nWhy Teravision Technologies ?\n\nHere at Teravision Technologies we are problem solvers, with detail and objective-oriented mindset and are first and foremost team players. We want to be the next big step in your career. We look for innovators, people hungry for challenges, and go getters to join our team.\n\nGeneral Details:\n\nFully remote position.\n\nEmployment type: Contractor.\n\nCompensation in USD.\n\nQualifications:\n\nStrong experience in at least one enterprise backend stack (Java or .NET).\n\nProduction experience with Node.js or Python.\n\nSolid React.js experience.\n\nCloud experience in AWS or Azure.\n\nPrevious hands-on experience with AI implementations.\n\nExperience leading development teams and projects is required.\n\nExcellent English communication skills (C1/C2) are a must .\n\nBachelor’s Degree in Computer Science or equivalent work experience.\n\nWhat We’re Looking For\n\nMindset\n\nYou think in systems, not just features.\n\nYou are comfortable making architectural trade-offs.\n\nYou are curious about AI and emerging technologies.\n\nWhat's in it for you?\n\nPaid time off.\n\nPaid National Holidays of your country of residence.\n\nUnlimited access to professional educational resources, through our growth partner Pluralsight and English Learning.\n\nEnjoy benefits related to our AWS partnership.\n\nRemote work laptop.\n\nCareer path development.\n\nChallenging projects with international clients.\n\nOriginally posted on Himalayas",
+      "excerpt": "Teravision Technologies is a Nearshore Software outsourcing company with offices in Colombia and USA and over 170 professionals working remotely worldwide.",
+      "seniority": [
+        "Senior"
+      ],
+      "categories": [
         "Fullstack-Development",
-        "Web-Development",
-        "Mobile-Development",
-        "Low-Code-Development",
-        "OutSystems-Full-Stack-Developer",
-        "OutSystems-Developer",
-        "Senior-OutSystems-Developer"
+        "Backend-Development",
+        "Frontend-Development",
+        "Software-Engineer",
+        "Team-Leadership",
+        "Lead-Developer",
+        "AI-Development",
+        "Lead-Full-Stack-Developer",
+        "Full-Stack-Development-Lead",
+        "Full-Stack-Developer-Lead",
+        "Lead-Full-Stack-Engineer",
+        "Lead-Software-Engineer-Full-Stack",
+        "Technical-Lead-Full-Stack-Developer",
+        "Senior-Fullstack-Developer",
+        "Full-Stack-Team-Lead",
+        "Lead-Full-Stack-Engineer-(Angular-React-Node.Js)",
+        "Senior-Full-Stack-Development"
       ],
-      "application_link": "https://himalayas.app/companies/99x-brazil-formerly-nextly/jobs/fullstack-outsystems-developer",
-      "expiry_date": "2026-10-29T03:14:02.000Z"
-    },
-    {
-      "id": "interactive-developer-associate",
-      "title": "Interactive Developer Associate",
-      "company": "Maritz",
-      "company_slug": "maritz",
-      "location": "Australia, Brazil, Canada, China, France, Germany, India, Japan, United Kingdom, United States",
-      "date": "2026-08-31T20:31:37.000Z",
-      "url": "https://himalayas.app/companies/maritz/jobs/interactive-developer-associate",
-      "description": "EXCITED TO GROW YOUR CAREER? WE’RE GLAD YOU’RE HERE!​\nTo support and produce interactive and web communications in a variety of e-media.\nScope\n\nAre you passionate about bringing digital experiences to life? As an Interactive Developer Associate, you’ll manage multiple client projects, oversee production budgets, and collaborate with account teams to deliver high-quality creative solutions. From supporting cutting-edge technology approaches to producing engaging e-media sites, you’ll play a key role in shaping innovative digital experiences.\n\nReporting & Working Relationships\n\nThis role reports to the Manager or Director of the Creative team, working closely with technology, operations, and sales teams to bring digital projects to completion. You'll work across departments to ensure seamless execution and creative excellence.\n\nPrimary Responsibilities\n\n70% – Product Development\n\nMaster Maritz software and systems to create compelling digital experiences\n\nProduce graphically sound, user-friendly websites that engage audiences\n\nAssist in the production of Flash and HTML content\n\nSupport creative design, project schedules, and budget management\n\nContribute to the development of innovative e-media communications\n\n30% – Internal & Client Interactions\n\nPartner with account teams to understand client objectives and deliver tailored solutions\n\nDevelop website concepts and refine designs to gain approval from project teams and clients\n\nAssist in budget development, specifically for e-media graphics\n\nProvide ongoing support to ensure creative consistency, timely execution, and strategic alignment\n\nReady to make an impact? Join us in shaping the future of digital creativity!\n\nQualifications\n\n1. Bachelors of Arts in related Graphics, Web, E-media, or Production field.\n\n2. 1-3 years of experience relevant business experience.\n\n3. Experience in (preferred); print or related 3D modeling field, animation field.\n\nDISCLAIMER: This job description is designed to indicate the general nature and level of work performed by associates within this classification. It is not designed to confirm or be interpreted as a comprehensive summary of all duties, responsibilities and qualifications required of associates assigned to this job.\n\nMaritz offers a comprehensive benefits package for full-time employees including medical, dental, vision, life insurance, disability, 401k, tuition reimbursement, paid time off, and more! Part-time employees may qualify for medical, 401k, and paid time off depending on total hours worked. View all details at www. Maritz Benefits.com.\nMaritz will only employ applicants who have authorization to work permanently in the U.S. This is not a position for which sponsorship will be provided. Those who need sponsorship for work authorization now or in the future are not eligible for hire. No calls or agencies please.\nMaritz is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to sex, race, color, religion, national origin, age, marital status, political affiliation, sexual orientation, gender identity, genetic information, disability or protected veteran status. We are committed to providing a workplace free of any discrimination or harassment. If you have a disability and are having difficulty accessing or using this website to apply for a position, you can request help by calling 1-636-827-9761 or by sending an email .\nOriginally posted on Himalayas",
-      "excerpt": "EXCITED TO GROW YOUR CAREER?  WE’RE GLAD YOU’RE HERE!",
-      "seniority": [
-        "Entry-level"
-      ],
-      "categories": [
-        "Interactive-Developer",
-        "Web-Developer",
-        "Digital-Designer",
-        "Creative-Developer",
-        "E-Media-Development",
-        "Interactive-Web-Developer",
-        "Associate-Game-Developer",
-        "Interactive-Development",
-        "Interactive-Media-Developer",
-        "Software-Developer-Associate",
-        "Interactive-Designer",
-        "Front-End-Developer"
-      ],
-      "application_link": "https://himalayas.app/companies/maritz/jobs/interactive-developer-associate",
-      "expiry_date": "2026-09-29T09:07:38.000Z"
-    },
-    {
-      "id": "job-31300-senior-data-developer-brazil",
-      "title": "[Job 31300] Senior Data Developer, Brazil",
-      "company": "CI&T",
-      "company_slug": "ci-t",
-      "location": "Brazil",
-      "date": "2026-08-31T08:49:27.000Z",
-      "url": "https://himalayas.app/companies/ci-t/jobs/job-31300-senior-data-developer-brazil",
-      "description": "At CI&T, we help large enterprises transform the potential of AI into real business impact with AI Deployment, AI-native execution, and tech-integrated business solutions.\nWith 30 years of experience in technological transformation, we accelerate innovation with expertise in Agentic SDLC, Application modernization, Data & AI, Martech and Business strategy.\nWe are 8,000 CI&Ters across more than 25 countries, collaborating to build solutions with real impact. AI is already part of how we work, evolve, and innovate every day.\nOur client's Digital Supply Chain Analytics team is scaling how artificial intelligence and modern data platforms support day-to-day decisions across manufacturing, logistics, planning, procurement, and operations. The team is running multiple parallel initiatives — from data pipelines feeding AI agents, to a full SaaS replacement for forecasting and inventory management, to machine learning for vision and forecasting systems — and needs additional hands-on developers to keep pace.\nThe Senior Data Developer joins an existing team and contributes to established code repositories, with work scoped to the individual's strongest skills — whether that's database and pipeline development, application and UI development, or machine learning. Rather than owning a fixed set of responsibilities end to end, this person becomes part of a larger team accountable for the overall project, picking up the pieces of work best suited to their profile. What matters most is the ability to work confidently inside an existing codebase, follow solid Git practices, and communicate clearly and consistently with the rest of the team.\n\nResponsibilities:\n\nContributes to existing code repositories by extending and maintaining code according to established patterns and conventions.\n\nFollows Git best practices, including branching, commit hygiene, code review, and merge processes.\n\nCommunicates progress, blockers, and technical decisions clearly and consistently with the broader team.\n\nCollaborates within a larger cross-functional team accountable for the overall success of each project.\n\nData Pipelines & Integration\n\nBuilds data pipelines that feed downstream applications, including AI agents that manage purchase orders, by integrating and transforming data from sources such as Google BigQuery and SAP.\n\nDevelops and maintains ETL/ELT (Extract, Transform, Load / Extract, Load, Transform) processes to ensure reliable, accurate data flow between systems.\n\nDesigns and maintains database structures that support operational and analytical workloads.\n\nApplication & UI Development\n\nBuilds and extends front-end interfaces for internal applications, including a SaaS replacement for forecasting and inventory management.\n\nDevelops backend features and administrative functionality that support day-to-day application operations.\n\nBuilds and maintains scheduled jobs (cron jobs) that automate recurring application or data processes.\n\nMachine Learning\n\nSupports the development of machine learning models for use cases such as computer vision and forecasting.\n\nAssists in preparing data and features required to train and evaluate models.\n\nRequirements:\n\nDemonstrated experience contributing to and extending existing code repositories in a team environment\n\nStrong working knowledge of Git and collaborative version control practices\n\nClear, consistent communication skills, comfortable working closely with a distributed team\n\nDepth in at least one of the following areas, with working familiarity in others: database development and SQL, front-end/application development, ETL and data pipeline development, or machine learning\n\nComfort working across a range of tasks as scoped by the team, rather than a single fixed role\n\nExperience with Google BigQuery, SAP, or similar enterprise data platforms is a plus where relevant to assigned tasks\n\nNice to Have:\n\nExperience with SAP integrations\n\nExperience building or maintaining SaaS-style applications (forecasting, inventory management, or similar)\n\nExperience with machine learning for computer vision or time-series forecasting\n\nExperience with scheduled/automated jobs (cron) and lightweight administrative tooling\n\nExperience in supply chain, manufacturing, logistics, or procurement contexts\n\nOur benefits:\n-Health and dental insurance\n-Meal and food allowance\n-Childcare assistance\n-Extended paternity leave\n-Partnership with gyms and health and wellness professionals via Wellhub (Gympass) TotalPass;\n-Profit Sharing and Results Participation (PLR);\n-Life insurance\n-Continuous learning platform (CI&T University);\n-Discount club\n-Free online platform dedicated to physical, mental, and overall well-being\n-Pregnancy and responsible parenting course\n-Partnerships with online learning platforms\n-Language learning platform\nAnd many more!\nMore details about our benefits here:\nAt CI&T, inclusion starts at the first contact. If you are a person with a disability, it is important to present your assessment during the selection process. See which data needs to be included in the report by clicking here .This way, we can ensure the support and accommodations that you deserve. If you do not yet have the assessment, don't worry: we can support you in obtaining it.\n\nWe have a dedicated Health and Well-being team, inclusion specialists, and affinity groups who will be with you at every stage. Count on us to make this journey side by side.\nOriginally posted on Himalayas",
-      "excerpt": "At CI&T, we help large enterprises transform the potential of AI into real business impact with AI Deployment, AI-native execution, and tech-integrated business solutions.",
-      "seniority": [
-        "Senior"
-      ],
-      "categories": [
-        "Senior-Data-Developer",
-        "Data-Engineering",
-        "Machine-Learning",
-        "ETL-Development",
-        "Data-Pipeline-Development",
-        "Senior-Data-Integration-Developer",
-        "Senior-Data-Engineering",
-        "Data-Platform-Engineer",
-        "Data-Developer"
-      ],
-      "application_link": "https://himalayas.app/companies/ci-t/jobs/job-31300-senior-data-developer-brazil",
-      "expiry_date": "2026-10-30T08:49:26.000Z"
-    },
-    {
-      "id": "laravel-developer-9515901776",
-      "title": "Laravel Developer",
-      "company": "Learntastic",
-      "company_slug": "learntastic",
-      "location": "Remote",
-      "date": "2026-08-31T21:26:42.000Z",
-      "url": "https://himalayas.app/companies/learntastic/jobs/laravel-developer-9515901776",
-      "description": "Job Title: Laravel Developer (5+ Years Experience)\nJob Type: Full-Time,\nJob Location: Remote\nAbout the Role:\nWe are seeking a skilled and experienced Laravel Developer with 5+ years of hands-on experience to join our dynamic team. This is a fully remote opportunity, offering you the flexibility to work from home while contributing to challenging projects and collaborating with a talented team.\nKey Responsibilities:\nDevelop, maintain, and enhance web applications using the Laravel framework.\n\nCollaborate with cross-functional teams to design and implement scalable and efficient solutions.\n\nOptimize application performance and troubleshoot technical issues.\n\nWrite clean, well-documented, and testable code following industry best practices.\n\nIntegrate front-end components with server-side logic.\n\nImplement security and data protection measures.\n\nParticipate in code reviews, debugging, and performance tuning.\n\nRequirements:\n5+ years of experience working with Laravel and PHP.\n\nStrong knowledge of web technologies including HTML, CSS, JavaScript, and AJAX.\n\nProficient in database design and management using MySQL or other relational databases.\n\nExperience with RESTful APIs and third-party integrations.\n\nProficiency with Cursor and AI-assisted development workflows to accelerate delivery and maintain high code quality.\n\nFamiliarity with version control systems, such as Git.\n\nStrong problem-solving skills and attention to detail.\n\nExcellent communication and teamwork abilities.\n\nPrior experience working in a remote setup is a plus.\n\nOriginally posted on Himalayas",
-      "excerpt": "Job Title: Laravel Developer (5+ Years Experience) Job Type: Full-Time, Job Location: Remote About the Role: We are seeking a skilled and experienced Laravel Developer with 5+ years of hands-on experience to join our dynamic team.",
-      "seniority": [
-        "Senior"
-      ],
-      "categories": [
-        "Laravel-Developer",
-        "PHP-Developer",
-        "Backend-Engineer",
-        "Web-Developer",
-        "Full-Stack-Developer",
-        "Laravel-Development",
-        "Senior-Laravel-Developer",
-        "Laravel",
-        "Laravel-Full-Stack-Development",
-        "Laravel-Entwicklung",
-        "Senior-Full-Stack-Laravel-React-Developer",
-        "Developer"
-      ],
-      "application_link": "https://himalayas.app/companies/learntastic/jobs/laravel-developer-9515901776",
-      "expiry_date": "2026-10-30T21:26:41.000Z"
+      "application_link": "https://himalayas.app/companies/teravision-technologies/jobs/lead-fullstack-developer-6132357482",
+      "expiry_date": "2026-11-14T20:38:59.000Z"
     },
     {
       "id": "software-developer-23980",
@@ -235,66 +154,30 @@
       "expiry_date": "2026-11-05T22:23:50.000Z"
     },
     {
-      "id": "lead-fullstack-developer",
-      "title": "Lead Fullstack Developer",
-      "company": "Teravision Technologies",
-      "company_slug": "teravision-technologies",
-      "location": "Remote",
-      "date": "2026-09-03T20:30:57.000Z",
-      "url": "https://himalayas.app/companies/teravision-technologies/jobs/lead-fullstack-developer",
-      "description": "Teravision Technologies is a Nearshore Software outsourcing company with offices in Colombia and USA and over 170 professionals working remotely worldwide. With over 20 years of experience in design, development, and quality assurance, Teravision Technologies offers custom solutions for a wide range of industries in the USA, Europe, and Latin America.\n\nWhy Teravision Technologies ?\n\nHere at Teravision Technologies we are problem solvers, with detail and objective-oriented mindset and are first and foremost team players. We want to be the next big step in your career. We look for innovators, people hungry for challenges, and go getters to join our team.\n\nGeneral Details:\n\nFully remote position.\n\nEmployment type: Contractor.\n\nCompensation in USD.\n\nQualifications:\n\nStrong experience in at least one enterprise backend stack (Java or .NET).\n\nProduction experience with Node.js or Python.\n\nSolid React.js experience.\n\nCloud experience in AWS or Azure.\n\nPrevious hands-on experience with AI implementations.\n\nExperience leading development teams and projects is required.\n\nExcellent English communication skills (C1/C2) are a must .\n\nBachelor’s Degree in Computer Science or equivalent work experience.\n\nWhat We’re Looking For\n\nMindset\n\nYou think in systems, not just features.\n\nYou are comfortable making architectural trade-offs.\n\nYou are curious about AI and emerging technologies.\n\nWhat's in it for you?\n\nPaid time off.\n\nPaid National Holidays of your country of residence.\n\nUnlimited access to professional educational resources, through our growth partner Pluralsight and English Learning.\n\nEnjoy benefits related to our AWS partnership.\n\nRemote work laptop.\n\nCareer path development.\n\nChallenging projects with international clients.\n\nOriginally posted on Himalayas",
-      "excerpt": "Teravision Technologies is a Nearshore Software outsourcing company with offices in Colombia and USA and over 170 professionals working remotely worldwide.",
+      "id": "senior-genexus-developer",
+      "title": "Senior Genexus Developer",
+      "company": "Bizmoni Corp.",
+      "company_slug": "bizmoni-corp",
+      "location": "Brazil",
+      "date": "2026-09-13T20:35:21.000Z",
+      "url": "https://himalayas.app/companies/bizmoni-corp/jobs/senior-genexus-developer",
+      "description": "** Note: This is a equity-based compensation until our next funding round **\nLocation: fully remote\nEmployment type: part-time\nBizmoni Corp.\nBizmoni is the world's first AI Super App designed to help anyone earn, learn, and grow in the AI era. Whether you're looking for a job, launching a side hustle, or running a business, Bizmoni delivers smart tools to generate income, upskill, and stay competitive.\nOperating remotely across 20+ countries, we're not just building software; we're building the next global unicorn. We're looking for people who think boldly, act fast, and want to shape the future of global entrepreneurship.\nAbout the Role:\nBizmoni is seeking a Senior Genexus Developer to help design, build, and scale the technology behind our AI-powered super app. In this role, youll lead full-stack development from concept to deployment, ensuring seamless functionality, responsive performance, and secure user experiences across web and mobile platforms.\nWhat You'll do:\n\nDevelop front-end website architecture and user interactions on web pages.\n\nBuild back-end applications, create servers, and manage databases for functionality and performance.\n\nDesign and develop APIs to connect and optimize BizHubs services.\n\nEnsure cross-platform optimization and mobile responsiveness.\n\nCollaborate with designers to translate UI/UX concepts into functional products.\n\nManage projects end-to-end, from conception to final product delivery.\n\nConduct manual and/or automated functional, operational, and security testing.\n\nStay current with emerging technologies and Genexus updates.\n\nPerform other duties as they may arise and be assigned by the Company.\n\nWhat You'll bring:\n\nProven experience in Genexus Web/SD development, including Genexus Server, GAM, CI/CD, Data Modeling, and SQL Server (Genexus certification is a plus).\n\nStrong skills in HTML, CSS, JavaScript, and modern web frameworks.\n\nExperience working with modularized KBs, Feature toggles, and code reusability.\n\nSolid understanding of database technologies like MSSQLServer, MySQL, or Oracle.\n\nExperience working with Teams, OpenVPN, RDP, and similar collaboration tools.\n\nStrong organizational and agile project management skills (Kanban, Scrum).\n\nExcellent communication, problem-solving, and attention to detail.\n\nProactive mindset, comfortable in fast-moving, collaborative environments.\n\nWhat We Expect:\n\nFlexible Hours: Meet deadlines and attend key meetings at your convenience.\n\nLanguage Skills: Fluent in English; Spanish or Portuguese is a plus.\n\nSelf-Discipline: Comfortable working remotely and independently.\n\nResults-Driven: Proactive, creative problem solver who delivers impact.\n\nTech-Ready: Personal computer with a camera and stable internet.\n\nEquity-Based Compensation: Willingness to accept shares until our next funding round.\n\nTime commitment: minimum of 16 hours per week.\n\nWhat's in it for You:\n\nCo-founder-level equity: Earn real ownership in a high-potential startup\n\nRemote-first culture: Work from anywhere, on your schedule\n\nImpact-driven mission: Build technology that supports real entrepreneurs around the world\n\nAgile, collaborative team: Join an international team of doers, thinkers, and builders\n\nGrowth opportunity: Be part of the founding phase and influence core business strategy.\n\nWhy Join Bizmoni?\nJoin a high-energy, collaborative team and shape the future of AI-powered fintech. If you're passionate about innovation and growth, we'd love to meet you!\nBefore Applying, Ask Yourself:\n1. Are you available to work at least 8-16 hours per week?\n2. Are you open to equity-based compensation until our next funding round?\nIf your answer is 'YES', then we are happy to meet you!\nRecruitment Process:\n1. Interview with Technical Department Manager & TA Partner.\n2. Practical assignment.\n3. Offer (based on final positive feedback.)\nPlease send us your English CV stating the role you apply. Only shortlisted candidates are selected for the interview. Thank you.\nOriginally posted on Himalayas",
+      "excerpt": "** Note: This is a equity-based compensation until our next funding round ** Location: fully remoteEmployment type: part-timeBizmoni Corp.",
       "seniority": [
         "Senior"
       ],
       "categories": [
-        "Software-Engineer",
+        "Senior-Genexus-Developer",
         "Fullstack-Development",
-        "Backend-Development",
-        "Frontend-Development",
-        "Team-Leadership",
-        "Lead-Full-Stack-Developer",
-        "Full-Stack-Development-Lead",
-        "Lead-Full-Stack-Engineer",
-        "Lead-Software-Engineer-Full-Stack",
-        "Technical-Lead-Full-Stack-Developer",
-        "Full-Stack-Team-Lead",
-        "Lead-Full-Stack-Engineer-(Angular-React-Node.Js)",
-        "Senior-Full-Stack-Development"
+        "Web-Development",
+        "Software-Engineer",
+        "Mobile-Development",
+        "Senior-Developer",
+        "Senior-Software-Developer",
+        "Senior-Application-Developer"
       ],
-      "application_link": "https://himalayas.app/companies/teravision-technologies/jobs/lead-fullstack-developer",
-      "expiry_date": "2026-10-02T05:07:14.000Z"
-    },
-    {
-      "id": "business-development",
-      "title": "Business Development",
-      "company": "Valce Talent Solutions",
-      "company_slug": "valce-talent-solutions",
-      "location": "Argentina, Brazil, Chile, Colombia, Uruguay",
-      "date": "2026-09-05T22:26:24.000Z",
-      "url": "https://himalayas.app/companies/valce-talent-solutions/jobs/business-development",
-      "description": "Employment Type: Full-time / Independent Contractor\nLocation: 100% Remote\nSchedule: Monday – Friday, 8:00 AM – 5:00 PM EST\nCompensation: $1,200 – $1,500 USD / month + Commissions\nLanguage Requirement: Effective English + Strong Local Language Fluency\nAbout the Role\nWe are seeking an entrepreneurial International B2B Business Development Manager to drive regional expansion by opening industrial accounts, presenting specialized technical solutions, and converting opportunities into recurring regional revenue.\nIn this role, you will lead end-to-end commercial growth within your assigned territory—targeting HVAC, industrial equipment, facilities, and mechanical sectors. This position is tailored for a technical sales \"hunter\" capable of building a durable customer ecosystem from the ground up.\nKey Responsibilities\n\nNew Revenue Development: Prospect, cold-outreach, and open doors across industrial accounts to generate and convert coating-project opportunities into collected revenue.\n\nAccount Ownership & Recurring Sales: Maintain close contact post-sale, follow up on quotes, engage key decision-makers, and drive repeat orders and account expansion.\n\nEcosystem & Channel Building: Identify, qualify, and recruit regional distributors, resellers, certified-applicator candidates, and strategic partners.\n\nPipeline & Activity Discipline: Maintain consistent prospecting, meetings, opportunity reporting, forecasting, and routine communication with INFINIGUARD management.\n\nBrand & Channel Protection: Apply approved pricing, claims, commercial terms, and materials to ensure brand value and channel alignment.\n\nRequirements & Qualifications\n\nB2B Technical Sales Experience: Preferred background in industrial markets, HVAC, mechanical equipment, protective coatings, construction, facility management, energy, OEMs, or technical distribution.\n\nHunter Mentality: Proven ability to proactively prospect, open new doors, and create opportunities rather than relying on inbound leads.\n\nRelevant Industry Network (Strong Advantage): Established relationships with contractors, OEMs, distributors, engineering firms, facility owners/operators, or industrial buyers.\n\nTechnical Sales Aptitude: Ability to learn and credibly present a technical solution (INFINIGUARD provides technical support, training, documentation, and application expertise).\n\nLanguage Proficiency: Effective communication in English to coordinate with INFINIGUARD management, combined with strong local-language and cultural fluency.\n\nEquipment & Setup (Mandatory): Must possess your own reliable computer/laptop, high-speed internet, and headset for daily remote operations.\n\nTravel Readiness: Willingness and capability to travel within the assigned market to meet customers, partners, and prospects in person.\n\nHigh Integrity & Commercial Maturity: Strong ethics, pricing discipline, and a focus on long-term regional development over one-time sales.\n\nOriginally posted on Himalayas",
-      "excerpt": "Employment Type: Full-time / Independent Contractor Location: 100% Remote Schedule: Monday – Friday, 8:00 AM – 5:00 PM EST Compensation: $1,200 – $1,500 USD / month + Commissions Language Requirement: Effective English + Strong Local Language Fluency About the RoleWe are seeking an entrepreneurial International B2B Business Development Manager to drive regional expansion by opening industrial accounts, presenting specialized technical solutions, and converting opportunities into recurring regional revenue.",
-      "seniority": [
-        "Mid-level"
-      ],
-      "categories": [
-        "Business-Development",
-        "B2B-Sales",
-        "Technical-Sales",
-        "Sales-Management",
-        "International-Sales",
-        "Business-Development-And-Sales",
-        "New-Business-Development",
-        "Business-Developer",
-        "Business-Development-B2B",
-        "BUSINESS-DEVELOPMENT-AND-CLIENTS",
-        "Business-Development-And-Strategy",
-        "Business-Development-Support",
-        "Business-Development-And-Partnerships"
-      ],
-      "application_link": "https://himalayas.app/companies/valce-talent-solutions/jobs/business-development",
-      "expiry_date": "2026-11-04T22:26:23.000Z"
+      "application_link": "https://himalayas.app/companies/bizmoni-corp/jobs/senior-genexus-developer",
+      "expiry_date": "2026-11-12T20:35:20.000Z"
     }
   ]
 }

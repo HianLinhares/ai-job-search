@@ -1,8 +1,8 @@
 {
   "meta": {
-    "count": 12,
+    "count": 11,
     "page": 1,
-    "total": 12
+    "total": 11
   },
   "results": [
     {
@@ -63,34 +63,63 @@
       "expiry_date": "2026-11-05T20:14:10.000Z"
     },
     {
-      "id": "desenvolvedor-a-c-pleno",
-      "title": "Desenvolvedor(a) C# Pleno",
-      "company": "Trade Technology",
-      "company_slug": "trade-technology",
+      "id": "desenvolvedor-a-angular",
+      "title": "Desenvolvedor(a) Angular",
+      "company": "Stefanini",
+      "company_slug": "stefanini",
       "location": "Brazil",
-      "date": "2026-08-30T04:22:59.000Z",
-      "url": "https://himalayas.app/companies/trade-technology/jobs/desenvolvedor-a-c-pleno",
-      "description": "Estamos em busca de um(a) Desenvolvedor(a) C# Pleno para atuar em um de nossos clientes de outsourcing, contribuindo com o desenvolvimento, manutenção e evolução de soluções estratégicas para o negócio.\nProcuramos profissionais com boa capacidade analítica, autonomia e comprometimento com a qualidade das entregas, que gostem de atuar em ambientes dinâmicos e colaborativos.\n\nDesenvolver, manter e evoluir aplicações utilizando C# e .NET;\n\nParticipar da análise e entendimento de requisitos de negócio;\n\nRealizar correções, melhorias e sustentação de sistemas existentes;\n\nDesenvolver e consumir APIs e integrações com sistemas internos e externos;\n\nParticipar de revisões de código e garantir boas práticas de desenvolvimento;\n\nApoiar a identificação e resolução de problemas em ambiente produtivo;\n\nContribuir para a melhoria contínua dos processos e da arquitetura das aplicações;\n\nTrabalhar em conjunto com equipes multidisciplinares para garantir a qualidade e eficiência das soluções\n\nConhecimentos Técnicos\n\nExperiência com desenvolvimento em C# ;\n\nConhecimento em .NET Framework e/ou .NET Core (.NET 6+) ;\n\nDesenvolvimento e consumo de APIs REST ;\n\nConhecimento em bancos de dados relacionais (SQL Server, PostgreSQL ou similares);\n\nExperiência com versionamento de código utilizando Git ;\n\nConhecimento em princípios de orientação a objetos e boas práticas de desenvolvimento;\n\nVivência com metodologias ágeis.\n\nDiferenciais\n\nExperiência com Azure;\n\nConhecimento em arquitetura de microsserviços;\n\nExperiência com Entity Framework;\n\nVivência em ambientes de outsourcing ou atendimento a clientes;\n\nConhecimento em CI/CD e DevOps.\n\nCompetências comportamentais\n\nCapacidade analítica e resolução de problemas;\n\nBoa comunicação e relacionamento interpessoal;\n\nOrganização e gestão de prioridades;\n\nProatividade e autonomia;\n\nSenso de responsabilidade e comprometimento com entregas;\n\nFacilidade para trabalhar em equipe.\n\nInformações adicionais\nNa Cognitive, acreditamos que tecnologia é feita por pessoas. Valorizamos a colaboração, o aprendizado contínuo e a busca por soluções que gerem impacto real para nossos clientes.\nSe você busca novos desafios e deseja atuar em projetos relevantes, com autonomia e oportunidade de crescimento, venha fazer parte do nosso time!\n🚀 Candidate-se e venha construir o futuro da tecnologia com a gente.\nOriginally posted on Himalayas",
-      "excerpt": "Estamos em busca de um(a) Desenvolvedor(a) C# Pleno para atuar em um de nossos clientes de outsourcing, contribuindo com o desenvolvimento, manutenção e evolução de soluções estratégicas para o negócio.",
+      "date": "2026-09-10T15:16:52.000Z",
+      "url": "https://himalayas.app/companies/stefanini/jobs/desenvolvedor-a-angular",
+      "description": "No Grupo Stefanini , acreditamos no poder da colaboração. Co-criamos soluções inovadoras em parceria com nossos clientes, combinando tecnologia de ponta, inteligência artificial e a criatividade humana. Estamos na vanguarda da resolução de problemas de negócios, proporcionando impacto real em escala global.\nAo se juntar à Stefanini , você se torna parte de uma jornada global de transformação. Estamos empenhados em criar impacto positivo não apenas nos negócios, mas também na vida de nossos colaboradores. Se você procura uma oportunidade de crescimento profissional em uma empresa que valoriza inovação, respeito, autonomia e parceria, você encontra aqui!\nJunte-se a nós e seja parte da mudança!\nEstamos à procura de uma pessoa Desenvolvedora Frontend experiente para se juntar ao nosso time de tecnologia. Essa pessoa será responsável por criar interfaces de usuário eficientes e intuitivas, garantindo uma experiência de usuário superior em nossos produtos. Buscamos alguém com paixão por tecnologia, habilidade em resolver problemas e forte senso estético para transformar requisitos de projeto em realidade.\n\nDesenvolver e manter interfaces de usuário para aplicações web, utilizando tecnologias modernas.\n\nColaborar com designers, desenvolvedores backend e outros membros da equipe para criar experiências de usuário coerentes e funcionais.\n\nGarantir a responsividade e a compatibilidade cross-browser das aplicações.\n\nOtimizar performance e SEO das páginas web.\n\nImplementar práticas de segurança na camada frontend.\n\nRevisar código de outros desenvolvedores e fornecer feedback construtivo.\n\nManter-se atualizado com as últimas tendências e melhores práticas em desenvolvimento frontend.\n\nGraduação na área de Tecnologia da Informação ou afins;\n\nExperiência prévia com foco em desenvolvimento Frontend.\n\nDomínio de HTML5, CSS3 e JavaScript.\n\nFamiliaridade e vivência com desenvolvimento Java.\n\nExperiência comprovada em frameworks/libraries com Angular\n\nConhecimento em preprocessadores de CSS como SASS ou LESS.\n\nExperiência com sistemas de controle de versão, como Git.\n\nFamiliaridade com APIs RESTful e integração de serviços backend.\n\nDiferenciais:\n\nExperiência com TypeScript.\n\nConhecimento em metodologias ágeis (Scrum, Kanban).\n\nConhecimentos em e ;\n\nExperiência com ferramentas de automação de build (Webpack, Gulp, etc.).\n\nNoções de design de UX/UI.\n\nExperiência em testes automatizados e frameworks como Jest ou Cypress.\n\nInformações adicionais\n\nContratação CLT\n\nAtuação remota\n\n🍛 Vale-alimentação ou vale-refeição;\n👨🏼‍🎓 Desconto em cursos, universidades e instituições de idiomas;\n📚 Academia Stefanini — plataforma com cursos on-line, gratuitos, atualizados e com certificado;\n🗣 Mentoring;\n💉 Clube de vantagens para consultas e exames;\n🏥 Assistência médica;\n🦷 Assistência odontológica;\n💰 Clube de vantagens e descontos nos melhores estabelecimentos;\n🛫 Clube de viagens;\n🐶 Convênio para pets.\nOriginally posted on Himalayas",
+      "excerpt": "No Grupo Stefanini, acreditamos no poder da colaboração.",
       "seniority": [
         "Mid-level"
       ],
       "categories": [
-        "C++-Developer",
-        ".NET-Developer",
-        "Backend-Engineer",
-        "Software-Developer",
-        "Mid-Level-Developer",
-        "Desenvolvedor-C#",
-        "Desenvolvedor-C#-.NET",
-        "Programação-C#",
-        "Desenvolvedor-.NET",
-        "C#-.NET-Developer",
-        "C#-Software-Developer",
-        "C#-Development"
+        "Frontend-Development",
+        "Angular-Development",
+        "Web-Development",
+        "Frontend-Engineer",
+        "UI-Development",
+        "Desenvolvedor-Angular",
+        "Angular-Developer",
+        "AngularJS-Developer",
+        "Angular-Engineer",
+        "Angular-Frontend-Developer",
+        "Desenvolvedor-Front-End"
       ],
-      "application_link": "https://himalayas.app/companies/trade-technology/jobs/desenvolvedor-a-c-pleno",
-      "expiry_date": "2026-10-27T13:52:42.000Z"
+      "application_link": "https://himalayas.app/companies/stefanini/jobs/desenvolvedor-a-angular",
+      "expiry_date": "2026-11-09T15:16:51.000Z"
+    },
+    {
+      "id": "desenvolvedor-de-software-pl",
+      "title": "Desenvolvedor de Software PL",
+      "company": "Minha Biblioteca",
+      "company_slug": "minha-biblioteca",
+      "location": "Brazil",
+      "date": "2026-09-13T05:17:18.000Z",
+      "url": "https://himalayas.app/companies/minha-biblioteca/jobs/desenvolvedor-de-software-pl",
+      "description": "Estamos em busca de uma pessoa Desenvolvedora deSoftware que sejatalentosa e apaixonada por tecnologia para se juntar à nossa equipe. Estamos procurando alguém que tenha experiência em desenvolvimento e esteja atualizado com as tecnologias mais recentes do mercado.\n\nDesenvolver e manter soluções de software de alta qualidade, eficientes e escaláveis usando Python, Banco de Dados SQL, HTML, CSS e JavaScript;\n\nRevisar o código escrito por outros membros da equipe e fornecer feedback construtivo para garantir a qualidade e a consistência do código;\n\nColaborar com equipes multifuncionais, incluindo gerente de produto, designer e outras pessoas desenvolvedoras, para definir requisitos e entregáveis do projeto;\n\nCompartilhar seu conhecimento e melhores práticas, promovendo uma cultura de aprendizado contínuo e aprimoramento;\n\nCriar e manter documentação técnica para facilitar a transferência de conhecimento e os processos de integração;\n\nIdentificar e abordar desafios técnicos e gargalos de desempenho em bases de código existentes;\n\nDesenvolver e executar testes unitários e testes de integração para garantir a confiabilidade dos componentes de software;\n\nAcompanhar as tendências da indústria, tecnologias emergentes e melhores práticas para melhorar continuamente suas habilidades e contribuir para o sucesso da equipe.\n\nGraduação completa;\n\nExperiência com Elixir, Python e/ou Javascript;\n\nConhecimento de frameworks de desenvolvimento das linguagens citadas acima;\n\nFamiliaridade com sistemas de banco de dados, como PostgreSQL, MySQL, MongoDB e Elastic Search;\n\nControle de versão usando Git e ferramentas de desenvolvimento colaborativo;\n\nCompreensão de arquitetura de software e padrões de design;\n\nDesenvolvimento e integração de APIs;\n\nGrande atenção aos detalhes e compromisso em produzir código de alta qualidade.\n\nInformações adicionais\n\n📚 Acervo com mais de 15k livros;\n\n🖥️ Equipamento para execução de suas atividades.\n\nOriginally posted on Himalayas",
+      "excerpt": "Estamos em busca de uma pessoa Desenvolvedora deSoftware que sejatalentosa e apaixonada por tecnologia para se juntar à nossa equipe.",
+      "seniority": [
+        "Mid-level"
+      ],
+      "categories": [
+        "Backend-Development",
+        "Software-Engineer",
+        "Web-Development",
+        "API-Development",
+        "Fullstack-Development",
+        "Desenvolvedor-De-Software",
+        "Desenvolvimento-de-software",
+        "Desenvolvedor-De-Sistemas",
+        "Engenheiro-De-Software",
+        "Desenvolvedor-C#-.NET",
+        "Desenvolvedor-C#",
+        "Desenvolvedor-Web"
+      ],
+      "application_link": "https://himalayas.app/companies/minha-biblioteca/jobs/desenvolvedor-de-software-pl",
+      "expiry_date": "2026-11-12T05:17:18.000Z"
     },
     {
       "id": "desenvolvedor-senior-tech-lead",
@@ -125,62 +154,6 @@
       "expiry_date": "2026-11-06T00:58:20.000Z"
     },
     {
-      "id": "desenvolvedor-a-fullstack-backend-pleno",
-      "title": "Desenvolvedor(a) Fullstack Backend - Pleno",
-      "company": "Confitec",
-      "company_slug": "confitec",
-      "location": "Brazil",
-      "date": "2026-08-31T12:06:54.000Z",
-      "url": "https://himalayas.app/companies/confitec/jobs/desenvolvedor-a-fullstack-backend-pleno",
-      "description": "Você fará parte de um time de desenvolvedores extremamente qualificado fortemente orientado a resultados e que não tem medo de inovar.\nVocê será parte vital no desenvolvimento da nova plataforma de um de nossos principais clientes, trabalhando com boas práticas de desenvolvimento em um ambiente dinâmico que incentiva a autonomia e o aprendizado constante.\nSomos especialistas em softwares voltados ao mercado segurador. Estamos ajudando a impulsionar a transformação no setor de seguros no Brasil. Estamos presentes em São Paulo e Rio de Janeiro, duas das principais capitais do país.\nEstamos crescendo e precisamos de pessoas que amem tecnologia e que sejam fascinadas por aprender!\nAtuação na equipe de projetos ULTRON da Confitec .\nVocê será responsável pelo desenvolvimento e manutenção de sistemas utilizando Java e Spring Boot.\nAtuará monitorando e analisando a saúde e performance dos serviços.\nPara fazer parte da equipe você precisa ter atuado em projetos ou conhecer muito bem as seguintes ferramentas e práticas de desenvolvimento:\n\nJava 8.\n\nSpring boot.\n\nFamiliaridade com APIs.\n\nNoções de programação backend.\n\nPython\n\nFamiliaridade com APIs.\n\nFrameworks: Flask ou Django.\n\nVocê se destaca caso conheça:\n\nReact\n\nGIT. Web API’s. DDD.\n\nAWS.\n\nConhecimento em metodologia ágil.\n\nInformações adicionais\n\nIfood Benefícios\n\nHorário Flexível\n\nPrograma de custeio e incentivo a cursos e certificações\n\nDesconto com faculdades parceiras\n\nPlano de Saúde\n\nPlano Odontológico\n\nSeguro de Vida\n\nPLR\n\nDay Off\n\nLicença Pet\n\nAuxílio Home Office\n\nTotalPass\n\nZenklub\n\nGuapeco\n\nOriginally posted on Himalayas",
-      "excerpt": "Você fará parte de um time de desenvolvedores extremamente qualificado fortemente orientado a resultados e que não tem medo de inovar.",
-      "seniority": [
-        "Mid-level"
-      ],
-      "categories": [
-        "Backend-Development",
-        "Fullstack-Development",
-        "Java-Development",
-        "Software-Engineer",
-        "Spring-Boot-Development",
-        "Desenvolvedor-Full-Stack",
-        "Mid-Level-Desenvolvedor-Full-Stack",
-        "Desenvolvedor-Back-End",
-        "Full-Stack-Backend-Engineering",
-        "Full-Stack-Developer",
-        "Full-Stack-Engineer",
-        "Engenharia-De-Software-Backend"
-      ],
-      "application_link": "https://himalayas.app/companies/confitec/jobs/desenvolvedor-a-fullstack-backend-pleno",
-      "expiry_date": "2026-10-30T12:06:53.000Z"
-    },
-    {
-      "id": "desenvolvedor-ios-pleno",
-      "title": "Desenvolvedor iOS Pleno",
-      "company": "Deliver IT",
-      "company_slug": "deliver-it",
-      "location": "Brazil",
-      "date": "2026-08-28T03:01:13.000Z",
-      "url": "https://himalayas.app/companies/deliver-it/jobs/desenvolvedor-ios-pleno",
-      "description": "Você se considera uma pessoa que tem sede por aprendizado, gosta de trabalhar em equipe e curte compartilhar conhecimento? Então essa oportunidade é para você!\nEstamos em busca de um(a) Desenvolvedor IOS Sênior, para atuar em um cliente global de comércio eletrônico. Presente em 45 países, publicando anúncios classificados na Internet.\nNa sua rotina de trabalho, você vai se deparar com as seguintes atividades:\n\nAtuar com desenvolvimento de soluções ponta a ponta;\n\nTrabalhar em conjunto com os demais times de engenharia para construir e manter produtos, com foco em nossos clientes;\n\nPrezar pela excelência do software, aliando o seu conhecimento técnico e experiência, com uma postura proativa;\n\nTer autonomia, com a responsabilidade de entregar um software que atenda um volume massivo de requisições, com alta disponibilidade e que gere um impacto para o negócio.\n\nConfere abaixo o que você vai precisar saber pra se dar bem nessa oportunidade!\nCONHECIMENTOS EXIGIDOS\n\nExperiência como engenheiro de software mobile, tendo aprendido e trabalhado com Swift e Objective C;\n\nExperiência com Design Patterns (Ex: Adapters, Singletons, Dependency Injection e etc);\n\nExperiência com versionamento de código (Ex: Git, gitflow);\n\nExperiência com metodologias ágeis e práticas ágeis (Ex: Scrum, Kanban, Pair Programming);\n\nExperiência em desenvolvimento orientado a testes (Ex: TDD, BDD);\n\nExperiência com testes unitários (Ex: XCTest, XCTestCase);\n\nExperiência com testes instrumentados (Ex: teste de integração, end to end e testes de interface);\n\nConhecimento em integração contínua e distribuição contínua (Ex: CI, CD, fastlane, github actions);\n\nConhecimento sobre observabilidade e monitoramento.\n\nCONHECIMENTOS DESEJÁVEIS\nAtuação em projetos de alta escalabilidade;\n\nInformações adicionais\nA Deliver IT vai deixar a digital nesse projeto e quer convidar você para fazer parte dessa construção! 🙆‍♀️\nTemos uma cultura leve, descontraída, colaborativa e diversa, além de um ambiente enriquecedor, com muitos colegas feras em diversos segmentos e muitos desafios. Aqui você vai encontrar projetos inovadores, conexão e muita troca de conhecimento! 😊\n⭐Fomos eleitos pela GPTW a 5° Melhor empresa para se trabalhar no RS e 24º a nível BRASIL. 🤩\nTodas as nossas posições seguem o modelo de contrato CLT em 44h/semanais.\nCONFIRA NOSSOS BENEFÍCIOS\n\nModalidade: 100% Remoto\n\nVA e/ou VR\n\nPrograma Bem-Estar: apoio psicológico, apoio jurídico, apoio social, apoio financeiro.\n\nPlano de Saúde e Plano Odontológico\n\nWellhub (Gympass)\n\nSeguro de Vida\n\nWorkshops mensais\n\nParcerias que te dão desconto: Sucesu, Target Trust, Sesc e Seprorgs\n\nPremiação por aniversário de empresa\n\nPremiação por indicação contratada\n\nAuxílio Creche\n\nOriginally posted on Himalayas",
-      "excerpt": "Você se considera uma pessoa que tem sede por aprendizado, gosta de trabalhar em equipe e curte compartilhar conhecimento?",
-      "seniority": [
-        "Mid-level"
-      ],
-      "categories": [
-        "iOS-Development",
-        "Mobile-Development",
-        "Swift-Development",
-        "Software-Engineer",
-        "Mobile-Engineering",
-        "Desenvolvedor-Mobile",
-        "iOS-Developer",
-        "Desenvolvedor-De-Software"
-      ],
-      "application_link": "https://himalayas.app/companies/deliver-it/jobs/desenvolvedor-ios-pleno",
-      "expiry_date": "2026-10-27T03:01:12.000Z"
-    },
-    {
       "id": "desenvolvedor-net-bilingue-pleno",
       "title": "Desenvolvedor .Net Bilíngue Pleno",
       "company": "Stefanini",
@@ -206,6 +179,34 @@
       ],
       "application_link": "https://himalayas.app/companies/stefanini/jobs/desenvolvedor-net-bilingue-pleno",
       "expiry_date": "2026-11-04T18:06:55.000Z"
+    },
+    {
+      "id": "desenvolvedor-de-sistemas-fullstack-java-e-reack-credito-1-csc-remoto",
+      "title": "Desenvolvedor de Sistemas Fullstack | Java e Reack | Crédito 1 | CSC (remoto)",
+      "company": "Cresol",
+      "company_slug": "cresol",
+      "location": "Brazil",
+      "date": "2026-09-10T08:53:43.000Z",
+      "url": "https://himalayas.app/companies/cresol/jobs/desenvolvedor-de-sistemas-fullstack-java-e-reack-credito-1-csc-remoto",
+      "description": "Venha fazer a diferença com a gente! 🧡\nEstamos em busca de um(a) Desenvolvedor de Sistemas para fortalecer ainda mais o nosso time!\nSe você acredita no poder do trabalho em equipe, na construção de um ambiente colaborativo e no impacto positivo que pode gerar na comunidade, essa oportunidade é para você!\nAqui na Cresol , crescimento é sobre desenvolver talentos, fortalecer conexões e criar um ambiente onde cada pessoa se sinta valorizada. Se você está pronto(a) para esse desafio e quer fazer parte de algo grandioso, vem para a Cresol e embarque na onda laranja! 🧡\n✨ Juntos, vamos mais longe! 🚀\nO que se espera do profissional?\n\nMentor entusiasta da cultura da qualidade e cuidado\n\nVisão estratégica em desenvolvimento de software (incluindo automação)\n\nBoa comunicação escrita e oral\n\nParticipação das cerimônias do time/squad\n\nResponsabilidades do cargo:\n\nDesenvolver e evoluir funcionalidades dos sistemas\n\nParticipar da definição e revisão de soluções técnicas\n\nRealizar revisão de código e compartilhar boas práticas\n\nGarantir a qualidade e a estabilidade das entregas\n\nPreparar e acompanhar implantações de sistemas\n\nAcompanhar a saúde dos sistemas em produção por meio de ferramentas de observabilidade\n\nAnalisar métricas, logs e traces para identificar falhas e oportunidades de melhoria\n\nRequisitos e qualificações\n\nFormado em Análise de Sistemas, informática, ciências da computação ou alguma outra faculdade relacionada à Tecnologia da Informação;\n\nExperiência no desenvolvimento com Java (11, 17, 21), Spring Framework, Frameworks Java ee (struts, jsf)\n\nExperiência em 5+ Anos como Desenvolvedor\n\nExperiência no desenvolvimento de API's e domínio da arquitetura REST\n\nConteinerização (Docker e/ou Kubernates)\n\nVivência em times que utilizam metodologias ágeis(Scrum, Kanban e/ou SAFe)\n\nConhecimento das boas práticas de programação, DevOps (CI, GIT, análise estática: Sonar, SCM, etc) e NoOps\n\nExperiência em bancos de dados relacional (PostgreSQL, SQL Server e/ou Oracle 12C+)\n\nExperiência com mensageria (preferencialmente Azure Service Bus; experiências com RabbitMQ ou Kafka serão consideradas diferenciais);\n\nExperiência em plataformas de Cloud Computing, com ênfase em Microsoft Azure (conhecimento em AWS, GCP e/ou IBM Cloud);\n\nExperiência em integração com serviços governamentais e terceiros(APIs, Web scraping e/ou serviços de raspagem);\n\nExperiência com tecnologias front-end como React\n\nPodem te destacar:\n\nExperiência em sistemas financeiros\n\nJasperReports e/ou JasperStudio\n\nExperiência com Jira e Confluence\n\nExperiência com Java + Struts\n\nConhecimento Hibernate\n\nConhecimento em Microsoft Azure\n\nArquitetura de sistemas para nuvem/micro serviços\n\nConhecimento em modelagem UML\n\nInformações adicionais\nConfira nossos benefícios:\nPara o seu crescimento e futuro 🚀\nAdicional por Tempo de Serviço –Reconhecemos sua dedicação e carreira conosco\nAuxílio Pós-Graduação – Investimos no seu conhecimento com um incentivo especial para sua Pós-Graduação.\nDescontos Educacionais – Possuímos parcerias exclusivas com universidades para Graduação, Pós-Graduação e MBA.\nUniversidade Corporativa Cresol – Aprendizado contínuo para impulsionar sua carreira.\nPara celebrar os momentos especiais 🎉🥂\nDay Off de Aniversário – No mês do seu aniversário, além de um presente especial, você tem direito a um dia de folga para você comemorar como quiser!\nBônus Papai e Mamãe – A chegada de um filho é um momento único. Por isso, você recebe um incentivo especial para celebrar essa nova fase da sua vida.\nKit do Bebê – O cuidado da Cresol já começa desde o nascimento, com um presente especial para acolher quem está chegando na sua famí seu bebê.\nAuxílio Casamento – Um apoio financeiro para você celebrar esse novo capítulo da sua história de vida.\nAuxílio Natal – Um presente para tornar sua ceia ainda mais especial ao lado de quem ama.\nPara o seu bem-estar e qualidade de vida 🧘🏋️🧠\nPlano de Saúde – Sua saúde em primeiro lugar, a mensalidade é 100% custeada pela Cresol .\nPlano Odontológico - Sua saúde também começa pelo sorriso: E o melhor, a mensalidade é 100% custeada pela Cresol , sem custo para realizar os procedimentos contidos no plano.\nIncentivo à Atividade Física –Acesso a iniciativas como a academias, yoga, meditação e outras práticas voltadas para seu bem-estar.\nGinástica Laboral –Momentos de alongamentos e exercícios durante a rotina no trabalho, promovendo mais disposição e cuidado com o seu Bem Estar.\nIncentivo à Doação de Sangue – Valorizamos atitudes que salvam vidas, reforçamos a cooperação com um benefício financeiro para quem doa sangue.\nCresol Acolhe – Cuidado com a sua saúde emocional por meio de sessões de terapia onlines gratuitas para você e até dois dependentes (Cônjuge, filhos e pais).\nPara sua segurança e estabilidade 🌱💲\nSeguro de Vida – Proteção extra, incluindo cobertura para doenças graves.\nCresol Longevidade – Incentivo à construção de reserva financeira, pensando em um futuro mais seguro.\nPrevidência Privada – Incentivo à construção de reserva financeira, pensando em um futuro mais seguro.\nReconhecimentos ao longo da jornada 🏆\nPrêmio de Reconhecimento – Valorizamos quem faz a diferença e contribui para nossa história.\nPPR (Programa de Participação nos Resultados) – Com planejamento, o seu desempenho se transforma em Aqui, temos um planejamento e o seu esforço gera reconhecimento e recompensa.\nPara você e sua família 👨‍👩‍👧 👶🐶\nVale Alimentação e/ou Refeição – Para tornar seu dia a dia mais prático.\nAuxílio Creche – Apoio para a educação e cuidado dos seus filhos até 7 anos.\nAuxílio Material Escolar – Um incentivo para a educação dos seus filhos de até 11 anos e 11 meses.\nVale Transporte – Facilitamos sua locomoção com transporte público coletivo.\nFérias Flexíveis – Possibilidade de dividir as férias em até três períodos, para melhor organização pessoal.\nLicença Pet – Adotou um pet? Você ganha 2 dias de folga para curtir esse novo membro da família.\nLicença Maternidade Estendida – Além dos 120 dias previstos em lei, você pode escolher entre mais 30 dias integrais ou 60 dias por meio período.\nLicença Paternidade Estendida – Mais tempo para viver esse momento especial, com 5 dias adicionais além dos previstos em lei.\nAuxílio acolhimento especial: Benefício destinado a colaboradores que são pais de pessoas com deficiência que necessitam de cuidado integral.\nAusência Justificada : Pais que tenham filhos com deficiência terão até 5 dias de faltas justificadas por ano para acompanhamento em consultas ou internações.\nPara os momentos delicados 🖤\nAuxílio Falecimento – Um suporte financeiro mensal, por um ano, aos dependentes legais do colaborador que faleceu.\nAuxílio Funeral – Apoio financeiro para auxiliar nas despesas neste momento difícil.\nLicença Luto – Mais 3 dias úteis de licença, além dos previstos em lei, para momentos de despedida de pais, filhos, irmãos ou cônjuge.\nPara fortalecer nosso orgulho de pertencer 🧡\nUniforme – Conforto, identidade e orgulho de vestir a nossa marca no dia a dia.\nOriginally posted on Himalayas",
+      "excerpt": "Venha fazer a diferença com a gente!  🧡Estamos em busca de um(a)Desenvolvedor de Sistemaspara fortalecer ainda mais o nosso time!",
+      "seniority": [
+        "Mid-level"
+      ],
+      "categories": [
+        "Full-Stack-Developer",
+        "Java-Developer",
+        "React-Developer",
+        "Backend-Engineer",
+        "Software-Engineer",
+        "Engenheiro-De-Software-Full-Stack",
+        "Desenvolvedor-Full-Stack",
+        "Desenvolvedor-De-Sistemas",
+        "Desenvolvedor-ReactJS",
+        "Desenvolvedor-De-Software"
+      ],
+      "application_link": "https://himalayas.app/companies/cresol/jobs/desenvolvedor-de-sistemas-fullstack-java-e-reack-credito-1-csc-remoto",
+      "expiry_date": "2026-11-09T08:53:42.000Z"
     },
     {
       "id": "tecnologia-desenvolvedor-a-senior",
@@ -238,34 +239,35 @@
       "expiry_date": "2026-11-03T12:04:02.000Z"
     },
     {
-      "id": "desenvolvedor-sql-pl-servicos",
-      "title": "Desenvolvedor SQL PL - Serviços",
-      "company": "i4pro",
-      "company_slug": "i4pro",
+      "id": "desenvolvedor-front-end-angular-sr",
+      "title": "Desenvolvedor Front-end Angular Sr",
+      "company": "Stefanini",
+      "company_slug": "stefanini",
       "location": "Brazil",
-      "date": "2026-08-31T13:41:19.000Z",
-      "url": "https://himalayas.app/companies/i4pro/jobs/desenvolvedor-sql-pl-servicos",
-      "description": "Venha fazer parte do time mais tecnológico do mercado segurador!\n/ Como fazemos acontecer:\n\nSomos movidos por tecnologia, inovação e criatividade! Valorizamos a curiosidade e a busca constante pelo aperfeiçoamento, desenvolvimento e conhecimento. Para transformar e melhorar a nós mesmos e ao nosso negócio, gostamos de pensar fora da caixa ao entender problemas, identificar oportunidades e propor soluções.\n\nNão esperamos que as coisas aconteçam, fazemos as coisas acontecerem. Temos atitude proativa e focamos nossos esforços para melhorar processos e desenvolver pessoas, buscando sempre a excelência em nossa entrega.\n\nAcreditamos no trabalho colaborativo e praticamos a empatia em tudo que fazemos! Somos um time, que constrói relacionamentos sólidos e valoriza as ideias e opiniões uns dos outros.\n\nTomamos decisões e agimos como donos do negócio. Acreditamos que todos podem ter um impacto positivo significativo, liderando pelo exemplo, independentemente de cargos e posições hierárquicas. Você será o protagonista da sua história!\n\nSempre fazemos o que é certo. Agir com integridade e dentro dos mais altos padrões éticos é inegociável e não toleramos nada menos do que isso.\n\nNossa rotina é intensa, queremos transformar o mercado segurador com soluções inovadoras e nosso sucesso é o sucesso de nossos clientes. Trabalhamos com o cliente e para o cliente, pois só é valioso para nós se for valioso para eles.\n\n/ Seja o protagonista com a i4pro ! Contamos com você para:\n\nResponsável por desenvolver novas funcionalidades e alterar funcionalidades existente em 75% do tempo previsto conforme tabela orçamentária.\n\nResponsável por atender as necessidades e priorizações dos clientes conectando com a tabela orçamentária e estratégia da companhia.\n\nResponsável por analisar a especificação funcional, quando necessário devolver a EF para complementação do escopo e recomendar ao analista de negócio ou produtos novas formas de implementar o projeto que traga mais valor ao cliente e menor impacto no sistema.\n\nResponsável em definir os requisitos técnicos, executar e orientar os demais desenvolvedores em relação a execução e cumprimento dos requisitos de governança.\n\nResponsável em validar com o analista de negócio Sênior ou a sua liderança o orçamento das horas de desenvolvimento de cada projeto.\n\nResponsável em distribuir as tarefas de desenvolvimento entre os demais desenvolvedores da equipe com as devidas orientações técnica.\n\nResponsável em realizar o Code Review dos códigos gerados pelos analistas da sua equipe, garantindo que o que foi desenvolvido está de acordo com os requisitos técnicos, de governança e dentro melhores práticas de desenvolvimento\n\nResponsável por atuar na sustentação realizando correções de erros em programas, componentes e elaboração de script para ajuste de base, analisar o impacto que os problemas podem ter ocasionados na operação do cliente e alertar o analista de negócio para comunicação com o cliente.\n\nAtuar ativamente junto à liderança no planejamento da estrutura dos projetos e suportes para entendimento das atividades a ele designadas, compartilhando ideias ou propondo ações que viabilizem a conclusão do projeto.\n\nAtuar como apoio da liderança na garantia do cumprimento do cronograma e atendimento ao cliente conforme prazos acordados e estipulados com sua liderança.\n\n· Desenvolver testes unitários (TDDs).\n\nRealizar Code Refactoring de rotinas a ele designadas.\n\nGerar evidências e documentação do desenvolvimento efetuado.\n\nApós o término do desenvolvimento encaminhar para a área de qualidade, para efetuar a homologação final do projeto, suportar o processo de homologação e orientar a equipe em incluir testes adicionais quando detectado que o ponto de alteração pode gerar impactos em diversos pontos do sistema que não passam pela especificação funcional do projeto.\n\nAtuar ativamente no processo de implantação do sistema/módulo no cliente e analisar melhor formato de implantação, processo de migração de dados, versão de sistema e apoiar o analista de negócios/produto nas configurações do sistema.\n\nAuxiliar tecnicamente e/ou treinar os novos desenvolvedores em relação as ferramentas de desenvolvimento.\n/ O que é necessário para ser um i4pro :\n\nFormação Superior cursando em cursos de tecnologia e áreas correlacionadas\n\nConhecimento sólidos em Lógica de programação.\n\n· Conhecimento sólidos em Linguagem SQL.\n\nDesejável conhecimento de Linguagem C#.\n\nConhecimentos sólidos na ferramenta Visual Studio\n\nDesejável conhecimento em metodologia ágil\n\n/ E os diferenciais:\n· Conhecimento em metodologia ágil\n· Inglês\nInformações adicionais\n/ Nosso escritório:\nEstamos na Avenida Angélica, 2133 – próximo do metrô Paulista.\nAtualmente estamos atuando remotamente.\n/ O seu bem-estar é a nossa prioridade:\n· Vale Refeição;\n· Vale Alimentação;\n· Horário flexível;\n· Plano Médico Sulamérica;\n· Plano Odontológico Sulamérica;\n· Wellhub e Totalpass;\n· Vale Transporte;\n· Auxílio Creche;\n· Participação nos Lucros e Resultados;\n· Seguro de Vida;\n· Previdência Privada;\n· Day off no dia do seu aniversário;\n· Licença-paternidade estendida;\n· Parceria com a Creditas.\nA i4pro apoia a diversidade e inclusão de PCD em todas as suas vagas.\nOriginally posted on Himalayas",
-      "excerpt": "Venha fazer parte do time mais tecnológico do mercado segurador!",
+      "date": "2026-09-10T04:05:08.000Z",
+      "url": "https://himalayas.app/companies/stefanini/jobs/desenvolvedor-front-end-angular-sr",
+      "description": "No Grupo Stefanini , acreditamos no poder da colaboração. Co-criamos soluções inovadoras em parceria com nossos clientes, combinando tecnologia de ponta, inteligência artificial e a criatividade humana. Estamos na vanguarda da resolução de problemas de negócios, proporcionando impacto real em escala global.\nAo se juntar à Stefanini , você se torna parte de uma jornada global de transformação. Estamos empenhados em criar impacto positivo não apenas nos negócios, mas também na vida de nossos colaboradores. Se você procura uma oportunidade de crescimento profissional em uma empresa que valoriza inovação, respeito, autonomia e parceria, você encontra aqui!\nJunte-se a nós e seja parte da mudança!\nEstamos em busca de um(a) Desenvolvedor(a) Front-end Angular para atuar no desenvolvimento e evolução de aplicações web, contribuindo para soluções modernas, performáticas e com excelente experiência para o usuário.\n(Remoto)\nDesenvolver e manter interfaces de usuário para aplicações web utilizando tecnologias modernas;\nAtuar no desenvolvimento com Angular, HTML5, CSS3 e JavaScript ;\nIntegrar aplicações front-end com APIs REST e serviços backend ;\nGarantir responsividade, compatibilidade entre navegadores, performance e boas práticas de SEO;\nImplementar boas práticas de segurança na camada front-end;\nRealizar revisão de código e contribuir para a qualidade técnica das soluções;\nColaborar com designers, desenvolvedores backend e demais integrantes do time;\nParticipar de iniciativas de melhoria contínua e acompanhar tendências de desenvolvimento front-end.\nEnsino superior completo ou cursando em Tecnologia da Informação ou áreas correlatas;\nMínimo de 5 anos de experiência como Desenvolvedor Front-end ;\nDomínio de HTML5, CSS3 e JavaScript ;\nExperiência com Angular ;\nExperiência mínima de 2 anos com desenvolvimento Java ;\nConhecimento em SASS ou LESS ;\nExperiência com Git e sistemas de controle de versão;\nFamiliaridade com APIs REST e integração com serviços backend.\nDiferenciais\nExperiência com TypeScript ;\nConhecimentos em ou ;\nExperiência com Webpack, Gulp ou ferramentas similares de automação de build;\nConhecimentos em UX/UI ;\nVivência com metodologias ágeis, como Scrum e Kanban ;\nExperiência com testes automatizados e ferramentas como Jest ou Cypress .\nInformações adicionais\n🍛 Vale-alimentação ou vale-refeição;\n👨🏼‍🎓 Desconto em cursos, universidades e instituições de idiomas;\n📚 Academia Stefanini — plataforma com cursos on-line, gratuitos, atualizados e com certificado;\n🗣 Mentoring;\n💉 Clube de vantagens para consultas e exames;\n🏥 Assistência médica;\n🦷 Assistência odontológica;\n💰 Clube de vantagens e descontos nos melhores estabelecimentos;\n🛫 Clube de viagens;\n🐶 Convênio para pets.\nOriginally posted on Himalayas",
+      "excerpt": "No Grupo Stefanini, acreditamos no poder da colaboração.",
       "seniority": [
-        "Mid-level"
+        "Senior"
       ],
       "categories": [
-        "PL-SQL-Developer",
-        "Desenvolvedor-Back-End",
-        "Database-Developer",
-        "Desenvolvedor-De-Software",
-        "Développeur-SQL",
-        "PL-SQL-Development",
-        "SQL-Developer",
-        "Oracle-PL-SQL-Development",
-        "Oracle-PL-SQL-Developer",
-        "SQL-Development",
-        "SQL-Programmer",
-        "Developer"
+        "Frontend-Development",
+        "Angular-Development",
+        "Web-Development",
+        "Frontend-Engineer",
+        "JavaScript-Development",
+        "Desenvolvedor-Angular",
+        "Angular-Frontend-Developer",
+        "Desenvolvedor-Front-End",
+        "Desarrollador-Front-End-Senior",
+        "Desenvolvimento-Frontend",
+        "Senior-Angular-Frontend-Developer",
+        "Angular-Developer",
+        "Angular-Frontend-Development"
       ],
-      "application_link": "https://himalayas.app/companies/i4pro/jobs/desenvolvedor-sql-pl-servicos",
-      "expiry_date": "2026-10-30T13:41:17.000Z"
+      "application_link": "https://himalayas.app/companies/stefanini/jobs/desenvolvedor-front-end-angular-sr",
+      "expiry_date": "2026-11-09T04:05:07.000Z"
     },
     {
       "id": "desenvolvedor-a-net-angular-pleno-ia-spec-driven-exclusiva-sao-paulo-7212303621",
@@ -322,33 +324,6 @@
       ],
       "application_link": "https://himalayas.app/companies/stefanini/jobs/desenvolvedor-android-pleno",
       "expiry_date": "2026-11-04T21:52:27.000Z"
-    },
-    {
-      "id": "desenvolvedor-full-stack",
-      "title": "Desenvolvedor Full Stack",
-      "company": "LUZA Group",
-      "company_slug": "luza-group",
-      "location": "Brazil",
-      "date": "2026-09-08T20:32:15.000Z",
-      "url": "https://himalayas.app/companies/luza-group/jobs/desenvolvedor-full-stack",
-      "description": "Venha fazer parte de um ecossistema vivo onde o futuro dos negócios é criado e vivido todos os dias. Faça parte desta transformação! Na LUZA Group , a paixão, a perseverança e a vontade de superar limites definem o nosso caminho para o sucesso. Fundada em 2006, somos uma multinacional portuguesa com mais de 1.200 profissionais talentosos e um volume de negócios. Com presença em mercados estratégicos como Portugal, Espanha, Marrocos, Brasil, México, Estados Unidos e China, oferecemos soluções inovadoras em engenharia, TI, design, consultoria, Indústria 4.0, treinamento e recrutamento. Tudo o que fazemos é movido pelo talento de nosso povo. Este é um momento de crescimento e oportunidade. O futuro pertence a mentes visionárias. Junte-se a nós!\nEstamos buscando: ﻿ Desenvolvedor Full Stack ﻿\nResponsável por:\n\nAtuar na implementação, testes e manutenção de software com foco em qualidade, escalabilidade e segurança;\n\nApoiar na definição e condução de demandas técnicas, garantindo a evolução tecnológica dos produtos;\n\nColaborar com times de tecnologia e de negócio no desenvolvimento de novas soluções;\n\nCriar e evoluir soluções escaláveis, sustentáveis e orientadas ao negócio, tanto no back-end quanto no front-end;\n\nParticipar ativamente da elaboração e revisão de soluções técnicas;\n\nAtuar em um ambiente desafiador e inovador, buscando sempre as melhores práticas;\n\nColaborar com equipes multidisciplinares (UX/UI, QA, DevOps e PO) para entregas integradas e alinhadas.\n\nPré-requisitos (Hard Skills):\nBack-end:\n\nSólida experiência em Java e Spring Boot Framework;\n\nBanco de dados PostgreSQL e MongoDB;\n\nExperiência com Redis;\n\nConhecimento em Cloud AWS e Kubernetes (EKS);\n\nExperiência com arquitetura monolítica e microsserviços;\n\nExperiência com arquitetura Orientada a Eventos (SQS e SNS);\n\nExperiência com Simple Queue Service (SQS);\n\nControle de versão com Bitbucket;\n\nBoas práticas de Clean Code, DDD, TDD e integração contínua;\n\nDiferencial experiência em migração de arquitetura monolítica para microsserviços.\n\nFront-end:\n\nExperiência sólida com ReactJs e TypeScript;\n\nExperiência com NextJs;\n\nExperiência com TailwindCSS e Sass;\n\nBoas práticas de Clean Code, componentização e testes automatizados;\n\nExperiência com Jest para testes unitários;\n\nExperiência com Cypress e testes E2E (End-to-End);\n\nDesejável experiência com micro front-end.\n\nPré-requisitos (Soft Skills):\n\nSenso de urgência e foco em resultados;\n\nResponsabilidade e postura de dono (ownership);\n\nCapacidade de colaboração e trabalho em equipe;\n\nBoa comunicação e facilidade para interação com áreas técnicas e de negócio;\n\nPerfil proativo, curioso e orientado a soluções.\nPJ\nRemoto\nOriginally posted on Himalayas",
-      "excerpt": "Venha fazer parte de um ecossistema vivo onde o futuro dos negócios é criado e vivido todos os dias.",
-      "seniority": [
-        "Senior"
-      ],
-      "categories": [
-        "Full-Stack-Developer",
-        "Software-Engineer",
-        "Web-Developer",
-        "Desenvolvedor-Full-Stack",
-        "Mid-Level-Desenvolvedor-Full-Stack",
-        "Full-Stack-Software-Developer",
-        "Full-Stack-Engineer",
-        "Front-End-Developer",
-        "Backend-Engineer"
-      ],
-      "application_link": "https://himalayas.app/companies/luza-group/jobs/desenvolvedor-full-stack",
-      "expiry_date": "2026-10-08T04:21:19.000Z"
     }
   ]
 }
