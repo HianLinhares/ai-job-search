@@ -1,10 +1,21 @@
 {
   "meta": {
-    "count": 2,
+    "count": 3,
     "page": 1,
-    "total": 8
+    "total": 9
   },
   "results": [
+    {
+      "id": "12467137",
+      "title": "Desenvolvedor de Software Pleno (FrontEnd)",
+      "company": "Montreal | Tecnologia e Inovação",
+      "location": "Brasil",
+      "date": "2026-09-18T14:34:45.194Z",
+      "url": "https://montreal.gupy.io/job/eyJqb2JJZCI6MTI0NjcxMzcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "description": "Como Desenvolvedor de Software Pleno&nbsp;(FrontEnd) na Montreal, você fará parte de uma das melhores empresas de tecnologia do Brasil. Nossa trajetória iniciou há mais de trinta anos com uma pequena equipe de engenharia apaixonada por inovação. Em 1986, pessoas visionárias fizeram um compromisso com a tecnologia e sua capacidade de transformar o mundo. Aquele, seria apenas o começo de uma trajetória que nos tornou referência sólida no mercado e uma das melhores empresas para se trabalhar.Responsabilidades e atribuiçõesProfissional da CONTRATADA responsável pela produção dos artefatos de software que o Squad deve entregar.Requisitos e qualificaçõesBuscamos um profissional focado na construção de interfaces de usuário de alta performance, garantindo excelente usabilidade, acessibilidade e integridade da experiência visual nas aplicações web da plataforma.Principais responsabilidadesAplicar conceitos de UX, prototipação visual e design de interfaces.Implementar interfaces complexas e responsivas.Realizar a otimização constante da performance, considerando as métricas de Core Web Vitals.Garantir a acessibilidade das interfaces desenvolvidas.Criar componentes e realizar a manutenção de sistemas de design — Design Systems.Realizar a integração eficiente das interfaces com APIs REST e GraphQL.Implementar layouts com foco em Mobile First.Requisitos obrigatóriosFormação superior completa (tecnólogo, graduação e/ou pós-graduação lato sensu e/ou pós-graduação stricto sensu) na área de Tecnologia da Informação.Possuir experiência como Desenvolvedor de Software Pleno e em desenvolvimento ágil.&nbsp;Core Frontend: React e TypeScript.Ferramentas de build: Vite e Webpack.Estilização: CSS-in-JS, com Styled Components, ou Tailwind.Gerenciamento de estado: Redux, Zustand e React Query.Conhecimentos desejáveis&nbsp;Testes e otimização: testes end-to-end utilizando Cypress ou Playwright, SEO técnico e aplicações Progressive Web Apps — PWA.Observabilidade: utilização de ferramentas de monitoramento de frontend, como Sentry ou New Relic.Inteligência Artificial: conhecimentos em IA Agêntica, LLMs e boas práticas de engenharia de prompt.\n\n",
+      "workplace_type": "remote",
+      "skills": []
+    },
     {
       "id": "12452788",
       "title": "Desenvolvedor Frontend Angular - Sênior",

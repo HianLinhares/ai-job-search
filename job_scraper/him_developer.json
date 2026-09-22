@@ -1,8 +1,8 @@
 {
   "meta": {
-    "count": 6,
+    "count": 12,
     "page": 1,
-    "total": 6
+    "total": 12
   },
   "results": [
     {
@@ -25,6 +25,211 @@
       ],
       "application_link": "https://himalayas.app/companies/lemon-io/jobs/senior-react-native-developer-5236230554",
       "expiry_date": "2026-10-11T11:43:59.000Z"
+    },
+    {
+      "id": "senior-content-engineer",
+      "title": "Senior Content Engineer",
+      "company": "Lingo.dev",
+      "company_slug": "lingo-dev",
+      "location": "Remote",
+      "date": "2026-09-16T06:15:55.000Z",
+      "url": "https://himalayas.app/companies/lingo-dev/jobs/senior-content-engineer",
+      "description": "is the localization engineering platform. Teams measure translation quality, translate with LLMs, and proofread with native speakers. We are a small YC-backed team, fully remote, with paying customers.\nThis is our first marketing hire. You own content end to end: creation, publishing, distribution, measurement, and automation.\nApply through our careers page, not through this listing:\nWhat you own\nBlog posts, research articles, essays, changelogs, the newsletter. Distribution on LinkedIn, dev.to, Hacker News and Reddit. Interviewing our engineers and customers, then writing for both technical and non-technical readers. Weekly publishing, with volume growing through Claude workflows and templated distribution. SEO, GEO and AI search visibility, measured in Ahrefs, Search Console and the ad accounts. The outcomes: signups, citations, rankings, backlinks.\nWhat we look for\nDistribution results you can point at. A site you grew, a page that outranked an incumbent, a property that gets cited by AI assistants at volume. You write plainly, with no superlatives and no sentences that carry nothing. You code enough to automate your own workflow and distribution. You interview well and get people on the record saying something quotable. You use Claude daily as a production method and have opinions about prompting and output quality. You understand what Hacker News, the LinkedIn algorithm and AI systems reward. You work from Ahrefs and Search Console data.\nDo not apply if\nYou do not use Claude daily. You plan work from keyword spreadsheets. Your job ends at publishing. You need a weekly brief. You call yourself non-technical. Your portfolio is generic. You want to manage a team right away.\nWhat you get\nOriginal engineering research to write about. The whole pipeline, from draft to measured impact. Claude Code and Claude Cowork budget for volume production. Small team, direct founder access. Conference and learning budget, flexible hours, health insurance.\nHiring process\nScreening call with Max, our CEO. Trial project plus an interview. Offer. Four-week probation period. You hear back within a few days at every step.\nHow to apply\nApply on our careers page: The form there asks a few opinion questions instead of a CV. That form is the only application we review.\nOriginally posted on Himalayas",
+      "excerpt": "is the localization engineering platform.  Teams measure translation quality, translate with LLMs, and proofread with native speakers.",
+      "seniority": [
+        "Mid-level",
+        "Senior"
+      ],
+      "categories": [
+        "Senior-Content-Engineer",
+        "Senior-Content-Architect",
+        "Content-Developer",
+        "Senior-Contentful-Engineer",
+        "Senior-Content-Management-System-Engineer",
+        "Content-Platform-Engineer"
+      ],
+      "application_link": "https://himalayas.app/companies/lingo-dev/jobs/senior-content-engineer",
+      "expiry_date": "2026-10-15T15:44:39.000Z"
+    },
+    {
+      "id": "1099-elearning-developers-2759892917",
+      "title": "1099 eLearning Developers",
+      "company": "Performance Development Group",
+      "company_slug": "performance-development-group",
+      "location": "Remote",
+      "date": "2026-09-18T08:58:37.000Z",
+      "url": "https://himalayas.app/companies/performance-development-group/jobs/1099-elearning-developers-2759892917",
+      "description": "About PDG\nPerformance Development Group (PDG) is an award-winning, global leader helping Life Sciences companies improve business results through improving sales performance. Recognized as a premier company in our field, we provide collaborative advisory services and innovative sales performance solutions that help our clients to exceed their business goals.\nHere at PDG, we complement our learning and creative teams with professional consultants who help us to scale effortlessly, optimize creativity and deliver award-winning learning programs. Our network of consultants loves to work with us and here are some of the reasons why they find a relationship with PDG to be so valuable to them:\n\nVariety is the spice of life: PDG’s wide variety of learning projects gives you the opportunity to be a part of the design and development of award-winning programs that help to move the needle on employee performance while enhancing your experience and skills\n\nFocus on what you do so well: We have a superstar team of salespeople who work with some of the most exciting companies in the world. We handle all the business development, scoping, and proposal writing so you can focus on doing what you enjoy doing the most.\n\nThe devil is in the details: We contract with the clients and handle all the logistics, absorbing the risk so you don’t have to worry about a thing. We also provide a wide array of tools and templates to make gigs easier for you while you work with us. Our team will make sure that you are set up for success with our thorough onboarding program and consultant toolkit.\n\nWe show you the money!!: PDG pays a generous hourly rate, and your invoices are paid on time regardless of when our clients pay us.\n\nWe are just nice : When we ask our professional consultants what they like best about working with PDG, we always hear that our team is super friendly, and we treat our consultants like part of the family which they don’t find in their other clients.\n\nPDG is looking for Contract eLearning Developers to join our talent network to support PDG’s ongoing needs. The work to be performed will be on a project basis and will be paid via 1099 or corp to corp. This job posting is to attract pipeline candidates only and is not aligned with a specific need.\nThe interview process for this role includes the following:\n\nResume review\n\nTalent Acquisition screening\n\nSignature of Non-Disclosure Agreement\n\nReview of professional portfolio or work samples\n\nHiring Manager interview\n\nPosition Summary\nThe eLearning Developer is responsible for taking the designs of our instructional and visual designers and putting them into Articulate Storyline using a variety of tools and techniques to ensure that each eLearning module is not only visually appealing but also engaging for the learner.\nThe ideal candidate is flexible and able to work on fast-paced projects. The work can largely be done flexibly.\nRequirements:\nThe eLearning Developer will have the following experience and qualities:\n\nA minimum of 5-10 years of high-end E-learning development experience using Articulate Storyline 360 and Rise\n\nA professional portfolio featuring relevant work samples demonstrating capabilities in visual design and utilizing elearning tools to drive learner engagement\n\n5 years of corporate training experience at large enterprise companies\n\nExperience in the Life Sciences Industries preferred\n\nPlease review our privacy policy here.\n\nOriginally posted on Himalayas",
+      "excerpt": "About PDGPerformance Development Group (PDG) is an award-winning, global leader helping Life Sciences companies improve business results through improving sales performance.",
+      "seniority": [
+        "Senior"
+      ],
+      "categories": [
+        "E-Learning-Development",
+        "Instructional-Design",
+        "Contract-ELearning-Developer",
+        "Freelance-Developer",
+        "ELearning-Developer",
+        "ELearning-Content-Developer"
+      ],
+      "application_link": "https://himalayas.app/companies/performance-development-group/jobs/1099-elearning-developers-2759892917",
+      "expiry_date": "2026-11-17T08:58:36.000Z"
+    },
+    {
+      "id": "developer-marketer",
+      "title": "Developer Marketer",
+      "company": "LottieFiles",
+      "company_slug": "lottiefiles",
+      "location": "Remote",
+      "date": "2026-09-18T11:16:15.000Z",
+      "url": "https://himalayas.app/companies/lottiefiles/jobs/developer-marketer",
+      "description": "Role Summary\nWe’re hiring a senior Developer Marketer to own how developers discover, try, and ship with LottieFiles ’ developer products. This is an IC seat, not a brand or campaign role. You’ll write the docs, ship the samples, grow our open-source and developer presence, and make sure a developer can go from “I need motion in my app” to working code without talking to us.\nYou’ll sit within Growth/Marketing, but act as the day-to-day bridge to Engineering for the developer products we build. You’ll help shape strategy, positioning, and messaging, then turn that into shipped outputs.\nYou’ll own the developer story for the surfaces we’re building next: AI-assisted motion for builders, agent workflows (including MCP-style tooling), APIs/SDKs, and open-source — not just the classic players and docs.\nYour day-to-day\n\nOwn positioning, docs, quickstarts, and samples across our developer stack — including AI generation surfaces and agent integrations\n\nShip and maintain the first-run path so a developer reaches a clear “first success” without help\n\nGrow our open-source and developer presence — READMEs, examples, launch posts, and listings on GitHub, package registries, and relevant developer directories\n\nPublish where developers and agent builders already are: documentation, package pages, registries, MCP registries, GitHub, and technical communities\n\nPartner with engineering on APIs, docs accuracy, and developer experience; file bugs and fix the docs yourself when something’s wrong\n\nInstrument and report on developer activation (docs usage, first success, OSS adoption) against company goals\n\nChampion internal adoption: LottieFiles engineers shipping with our own developer tools\n\nWhat we are looking for\n\n5+ years in developer marketing, developer experience, or product marketing for a developer tool, API, SDK, or open-source project — and a portfolio of what you shipped\n\nYou can write code well enough to build samples, read a PR, and fix a broken quickstart without waiting on engineering\n\nStrong written English: docs, READMEs, launch posts, and technical community writing\n\nExperience launching or growing an open-source project or developer platform (GitHub, npm, docs sites, community)\n\nComfortable working with engineers as a peer; you can push back on DX without a manager in the middle\n\nRemote-friendly; preferred overlapping Asia / Europe hours\n\nBonus points if you..\n\nHave worked in design systems, motion/animation, web graphics, or AI-assisted developer tooling\n\nExperience with AI developer tools, agent ecosystems, or Model Context Protocol (MCP)\n\nHave shipped developer launches that held up on HN, Reddit, or similar developer channels\n\nEnjoy measuring activation, not vanity traffic\n\nWhat this role is not\n\nBrand campaigns, paid acquisition, or conference evangelism as the core of the job\n\nDesigner-led or enterprise sales motions — this role is for developers building with LottieFiles\n\nManaging a large team — this is a senior IC role\n\nLottieFiles Perks\n\nFully remote working environment\n\nFlexible work hours\n\nA welcome gift and LottieFiles swag pack\n\nBonus to set up your workstation at home\n\nUnlimited leave days\n\nMedical insurance\n\nGenerous learning budget\n\nGym membership\n\nCo-working space membership\n\nPlease note: To proceed with your application, you must confirm your acknowledgment of this Privacy Policy by ticking the checkbox on the next page.\nRead our Privacy Policy here: LottieFiles : Privacy Policy\n\nOriginally posted on Himalayas",
+      "excerpt": "Role SummaryWe’re hiring a senior Developer Marketer to own how developers discover, try, and ship with LottieFiles’ developer products.",
+      "seniority": [
+        "Senior"
+      ],
+      "categories": [
+        "Developer-Marketing",
+        "Developer-Experience",
+        "Technical-Marketing",
+        "Product-Marketing",
+        "Developer-Relations",
+        "Senior-Developer-Marketing-Specialist",
+        "Developer-Relations-Marketing",
+        "Developer-Experience-Marketing",
+        "Developer-Tools-Marketing",
+        "Developer-Advocacy-Manager"
+      ],
+      "application_link": "https://himalayas.app/companies/lottiefiles/jobs/developer-marketer",
+      "expiry_date": "2026-11-17T11:16:14.000Z"
+    },
+    {
+      "id": "junior-full-stack-web-developer",
+      "title": "Junior Full-Stack Web Developer",
+      "company": "AURIC",
+      "company_slug": "auric",
+      "location": "Brazil, Colombia, Indonesia, Mexico, Philippines",
+      "date": "2026-09-20T07:15:38.000Z",
+      "url": "https://himalayas.app/companies/auric/jobs/junior-full-stack-web-developer",
+      "description": "Junior Full-Stack Developer\n\nFull-Time | $7-$10 USD/Hour Starting\nRemote | Philippines or Indonesia\n\nAbout the Role\n\nWe are looking for a smart, resourceful junior full-stack developer who wants the opportunity to grow into a major engineering role.\n\nThis position is designed for someone early in their career who already understands the fundamentals of web development but has the potential to become much more. You do not need to know everything yet. We care more about your problem-solving ability, technical curiosity, communication skills, and willingness to learn.\n\nYou will work across our SaaS platform—building features, fixing bugs, improving user workflows, and testing your own work. Initially, you will receive smaller, clearly defined assignments. As your skills and understanding of the product grow, you will be given greater responsibility and more complex projects.\n\nWe are looking for someone who wants to grow with the company—not someone looking for a short-term freelance project.\n\nResponsibilities\n\nFull-Stack Development\n\nBuild and improve frontend and backend features.\n\nFix bugs throughout the application.\n\nCreate and update user interfaces, forms, validation rules, and workflows.\n\nWork with APIs, databases, and third-party integrations.\n\nRead and understand an existing codebase.\n\nWrite clean, maintainable, and well-organized code.\n\nUse Git to manage code changes and collaborate with the engineering team.\n\nParticipate in code reviews and apply feedback from senior developers.\n\nAssist with deployments and post-deployment verification.\n\nTesting and Product Quality\n\nTest your own work thoroughly before submitting it for review.\n\nReproduce and investigate customer-reported issues.\n\nIdentify edge cases and unexpected user behavior.\n\nWrite clear bug reports with reproduction steps, screenshots, or videos.\n\nPerform regression testing to ensure changes do not break existing features.\n\nRecommend improvements to usability, performance, and reliability.\n\nRequirements\n\nYou must be able to independently read, understand, and evaluate code.\nDo not apply if you rely on Claude to generate code that you cannot explain, debug, or verify yourself.**\n\nBasic full-stack web development experience.\n\nWorking knowledge of HTML, CSS, JavaScript, and Git.\n\nFamiliarity with frontend frameworks such as React.\n\nBasic understanding of backend development, APIs, and databases.\n\nAbility to troubleshoot problems using browser developer tools and logs.\n\nStrong written and spoken English communication skills.\n\nAbility to explain your thinking clearly and ask good questions.\n\nStrong attention to detail and willingness to test your own work.\n\nAbility to work independently and manage assigned tasks.\n\nWillingness to work overnight locally during U.S. business hours.\n\nReliable computer and internet connection.\n\nPreferred Qualifications\n\nFamiliarity with React, Next.js, and TypeScript.\n\nExperience building personal, school, freelance, or professional web applications.\n\nExperience working with REST APIs and relational databases.\n\nFamiliarity with SaaS applications and subscription-based products.\n\nExperience with Asana or similar project-management tools.\n\nA GitHub profile, portfolio, or working application that demonstrates your abilities.\n\nPrevious experience working with a remote international team.\n\nProfessional experience is helpful, but it is not required if you can demonstrate strong technical ability through projects or practical work.\n\nWhat We Are Looking For\n\nThe ideal candidate:\n\nLearns quickly and actively searches for solutions.\n\nCan take a problem from investigation through implementation and testing.\n\nIs comfortable admitting when they do not know something.\n\nAccepts feedback without becoming defensive.\n\nPays attention to how the entire product works—not only the assigned ticket.\n\nLooks for underlying causes instead of applying temporary fixes.\n\nShows the potential to take ownership of larger systems over time.\n\nWants to become a highly capable full-stack engineer.\n\nWhat Success Looks Like\n\nAssigned features and fixes are completed accurately and on time.\n\nCode is tested before being submitted for review.\n\nQuestions are thoughtful, specific, and asked early.\n\nMistakes are learned from and are not repeatedly made.\n\nKnowledge of the platform grows steadily.\n\nThe developer progresses from smaller assignments to independently owning features.\n\nResponsibility and compensation can increase as technical ability and contribution grow.\n\nSalary: $6 – $10 / hour Originally posted on Himalayas",
+      "excerpt": "Junior Full-Stack DeveloperFull-Time | $7-$10 USD/Hour Starting Remote | Philippines or Indonesia About the RoleWe are looking for a smart, resourceful junior full-stack developer who wants the opportunity to grow into a major engineering role.",
+      "seniority": [
+        "Entry-level"
+      ],
+      "categories": [
+        "Junior-Full-Stack-Developer",
+        "Full-Stack-Web-Developer",
+        "Web-Development",
+        "Frontend-Development",
+        "Backend-Development",
+        "Junior-Full-Stack-Web-Developer",
+        "Junior-Full-Stack-Engineer",
+        "Junior-Full-Stack-Software-Engineer",
+        "Junior-Full-Stack-Developer-Jobs",
+        "Junior-Full-Stack-Developer-(React-Node.Js)",
+        "Junior-Full-Stack-Developer-(Angular-Node)",
+        "Junior-Full-Stack-Engineering",
+        "Junior-Web-Developer",
+        "Junior-Full-Stack-Developer-(Node.Js-TypeScript)"
+      ],
+      "application_link": "https://himalayas.app/companies/auric/jobs/junior-full-stack-web-developer",
+      "expiry_date": "2026-11-19T07:15:37.000Z"
+    },
+    {
+      "id": "software-developer",
+      "title": "Software Developer",
+      "company": "SIL International",
+      "company_slug": "sil-international",
+      "location": "Remote",
+      "date": "2026-09-17T03:27:55.000Z",
+      "url": "https://himalayas.app/companies/sil-international/jobs/software-developer",
+      "description": "Job Title\nSoftware Developer Location\nGlobal Position Type\nVolunteer Job Description\nA Software Developer is responsible for using their knowledge of programming languages to design software programs. Their duties include meeting with clients to determine their software needs, coding and testing software to ensure functionality, and updating software programs to refine components like cybersecurity measures and data storage capacities. Major Responsibilities:\n\nDesign, develop, and deploy software applications, new features, and defect fixes.\n\nDesign and develop unit tests and perform code reviews\n\nWork with team leader to collaborate, review, and deliver high quality software applications\n\nParticipate as an integral and enthusiastic part of the team, exhibiting ownership, follow-through, initiative, awareness, and effective communication with peers and management.\n\nWork with the team around a cohesive product roadmap\n\nMinor Responsibilities:\n\nAnalyze software requirements by consulting with the user community\n\nSupport user community with developer-level support\n\nWrite technical reference documentation for the new software\n\nParticipate in regular project status, planning, partnership, and strategic meetings\n\nBe available to travel to meet with the larger development team at least once per year\n\nBe available to travel biannually to the Language Technology Conference\n\nParticipate in professional conferences and meetings\n\nKnowledge, Skills, and Abilities:\n\nA servant heart attitude\n\nDemonstrated skills in software development and algorithms\n\nDemonstrated passion for programming and solving complex problems\n\nDemonstrated user interface design skills\n\nGood interpersonal skills of communication\n\nGood organizational skills\n\nThe ability to quickly analyze and learn a large existing codebase\n\nThe ability to make decisions in a timely manner\n\nThe ability to generate multiple solutions to the problem\n\nThe ability to quickly pick up technical concepts\n\nThe ability to work both with a team and independently, and to multitask effectively\n\nEducation and Experience:\nSoftware Developers should have experience in software engineering and a good understanding of the software development lifecycle. Bachelor’s degree in computer science or equivalent work experience is preferred, but we care more for a heart and mind that are always learning.\nTraining and Orientation:\nWill complete the initial IT Software Department training program and relevant portions of IT Orientation.\nWeekly Hours\n40 Originally posted on Himalayas",
+      "excerpt": "Job TitleSoftware DeveloperLocationGlobalPosition TypeVolunteerJob DescriptionA Software Developer is responsible for using their knowledge of programming languages to design software programs.",
+      "seniority": [
+        "Mid-level"
+      ],
+      "categories": [
+        "Software-Development",
+        "Software-Engineer",
+        "Programming",
+        "Application-Development",
+        "Software-Development-Lifecycle",
+        "Software-Developer",
+        "Software-Engineer-Developer",
+        "Software-Application-Developer",
+        "Software-Applications-Developer",
+        "Software-Development-Specialist",
+        "Lead-Software-Developer",
+        "Developer"
+      ],
+      "application_link": "https://himalayas.app/companies/sil-international/jobs/software-developer",
+      "expiry_date": "2026-11-16T03:27:54.000Z"
+    },
+    {
+      "id": "software-developer-freelance",
+      "title": "Software Developer (Freelance)",
+      "company": "Sortitt",
+      "company_slug": "sortitt",
+      "location": "Australia, Austria, Brazil, Canada, Denmark, France, Germany, India, Ireland, Italy, Netherlands, New Zealand, Norway, Pakistan, Philippines, Spain, Sweden, Switzerland, United Kingdom, United States",
+      "date": "2026-09-17T20:38:26.000Z",
+      "url": "https://himalayas.app/companies/sortitt/jobs/software-developer-freelance",
+      "description": "Position Title: Software Developer (Freelance)\nLocation: Remote\nAbout Us: Welcome to Sortitt , the revolutionary marketplace that is reshaping the future of resource acquisition. As a dynamic platform, Sortitt connects business with top-tier resources across the globe, transcending traditional constraints. Our cutting edge approach delivers tailored solutions that precisely match client demands, creating opportunities for professionals seeking remote engagements. At Sortitt , resources are available on demand and clients are empowered with diverse choices to ensure the best talent with matching skills. Join us in revolutionizing talent sourcing where innovation, flexibility and growth converge to redefine success in the modern workforce.\nJob Summary: We are seeking a talented and experienced Software Developer to join our platform as a freelancer. The ideal candidate will be responsible for designing, developing, testing, and maintaining high-performance software applications. The Software Developer will work closely with cross-functional teams to deliver innovative solutions that meet the needs of our clients and contribute to the overall success of the company.\nOriginally posted on Himalayas",
+      "excerpt": "Position Title: Software Developer (Freelance) Location: Remote About Us: Welcome to Sortitt, the revolutionary marketplace that is reshaping the future of resource acquisition.",
+      "seniority": [
+        "Mid-level"
+      ],
+      "categories": [
+        "Software-Development",
+        "Development-and-Technology",
+        "Freelance-Development",
+        "Application-Development",
+        "Contract-Development",
+        "Freelance-Software-Developer",
+        "Software-Development-Freelancer",
+        "Freelance-Software-Development",
+        "Freelance-Software-Engineer",
+        "Freelance-Developer",
+        "Software-Developer",
+        "Python-Developer-(Freelance)",
+        "Contract-Software-Developer",
+        "Freelance-Developer-Jobs",
+        "Developer"
+      ],
+      "application_link": "https://himalayas.app/companies/sortitt/jobs/software-developer-freelance",
+      "expiry_date": "2026-10-28T01:24:56.000Z"
+    },
+    {
+      "id": "freelance-curriculum-content-developer-4580254098",
+      "title": "Freelance Curriculum Content Developer",
+      "company": "ScribeConcepts",
+      "company_slug": "scribeconcepts",
+      "location": "Remote",
+      "date": "2026-09-20T04:07:18.000Z",
+      "url": "https://himalayas.app/companies/scribeconcepts/jobs/freelance-curriculum-content-developer-4580254098",
+      "description": "Candidates with project samples are highly encouraged to apply.\nQualified candidates will be scheduled for interviews and required to complete a short vetting task for the role. When selected, you will be virtually onboarded and complete non-disclosure and business agreements. Invoices for payment are submitted at the beginning of each month for the previous month’s work and are paid by direct deposit within 30 days.\nOur clients trust us to assemble best-in-class expertise for curriculum development projects. We knit professionals together remotely across time zones and backgrounds to deliver high quality work through every phase of the content production process. For more about working as an independent consultant through ScribeConcepts , please see\n.\nCurriculum Content Developer\nA Curriculum Content Developer provides vision and leadership in the design and development of highly effective education products to meet a client’s specific needs. This position works directly with the Director of Publishing Operations and Content Manager to weave research-based pedagogy and subject matter expertise into market-leading products that challenge and grow all students. A Curriculum Content Developer also acts as a project manager.\n\n3+ years of experience developing content for K-12 students for publication at the state or national level\n\n2+ years of teaching experience\n\nProven effectiveness at leading teams, working across teams, and/or participating in the design of a curriculum at the direction of an organization’s leadership\n\nProven effectiveness at reviewing content for standards alignment, clarity, and cohesion\n\nStrong familiarity with both digital and print development projects\n\nStrong understanding of grade-appropriate content, college- and career-ready standards, and pedagogy\n\nCurrent on relevant research\n\nAbility to adhere to client requirements and deadlines\n\nSignificant experience working in publishing tools (Content templates, InCopy, assessment platforms, etc.)\n\nBelief that all students are capable of engaging in rigorous, meaningful work\n\nHourly rate range: $45 - $60/Hour or flat per deliverable depending on the specifics of the contract\nRate range is based on experience and project specifications.\nChosen candidates will join a talent pool of independent contractors and be considered for potential projects. Full-time, consistent work is not guaranteed.\nOriginally posted on Himalayas",
+      "excerpt": "Candidates with project samples are highly encouraged to apply.",
+      "seniority": [
+        "Mid-level"
+      ],
+      "categories": [
+        "Curriculum-Development",
+        "Content-Developer",
+        "Instructional-Design",
+        "K-12-Education",
+        "Educational-Content-Writer",
+        "Remote-Curriculum-Developer",
+        "Remote-Curriculum-Development-Expert",
+        "Freelance-Content-Developer",
+        "Curriculum-Developer",
+        "Freelance-Content-Development",
+        "Education-Content-Developer",
+        "Educational-Content-Developer",
+        "Curriculum-Writer",
+        "Teaching-Content-Developer",
+        "Remote-Educational-Content-Developer"
+      ],
+      "application_link": "https://himalayas.app/companies/scribeconcepts/jobs/freelance-curriculum-content-developer-4580254098",
+      "expiry_date": "2026-11-19T04:07:17.000Z"
     },
     {
       "id": "lead-fullstack-developer-6132357482",
@@ -62,6 +267,34 @@
       "expiry_date": "2026-11-14T20:38:59.000Z"
     },
     {
+      "id": "senior-software-developer",
+      "title": "Senior Software Developer",
+      "company": "SIL International",
+      "company_slug": "sil-international",
+      "location": "Remote",
+      "date": "2026-09-16T21:43:24.000Z",
+      "url": "https://himalayas.app/companies/sil-international/jobs/senior-software-developer",
+      "description": "Job Title\nSenior Software Developer Location\nGlobal Position Type\nVolunteer Job Description\nA Senior Software Developer is a team leadership role for smaller teams with responsibilities that encompass the entire product lifecycle, leadership of the team, and fiscal management, and software development. Senior Software Developers work closely with the Development team, Language Technology leadership, partners and supporting organizations, user communities, and leaders of field trials. A good Senior Software Developer is expected to be a customer spokesperson, product visionary, team champion, and a strategic leader. The goal of this role is to develop and manage roadmaps and sprint priorities via robust processes for collecting and synthesizing user needs. Their duties include meeting with clients to determine their software needs, coding and testing software to ensure functionality, and updating software programs to refine components like cybersecurity measures and data storage capacities. Major Responsibilities:\n\nChampion the team, partners, and user community to ensure alignment around overall strategy and direction of the product\n\nDiscover what users need by conducting user research and unveiling critical insights\n\nCreate the product’s long-term vision and strategy\n\nAlign the team around a cohesive product roadmap\n\nDesign, develop, and deploy software applications, new features, and defect fixes.\n\nDesign and develop unit tests and perform code reviews\n\nLead creation of targeted promotions: white papers, conference presentations, user videos\n\nWork with Director on yearly roadmap, budget, and funding proposals\n\nWork with Director and Language Technology Leadership to develop and grow partnerships\n\nProvide quarterly reports and requested metrics to Language Technology Leadership\n\nLead performance reviews and goal discussions for your team\n\nMinor Responsibilities:\n\nImplement and Manage Agile software development methodology\n\nAnalyze software requirements by consulting with the user community\n\nSupport user community with developer-level support\n\nWrite technical reference documentation for the new software\n\nParticipate in regular project status, planning, partnership, and strategic meetings\n\nReport any hardware and software needs to Director\n\nBe available to travel to meet with the larger development team at least once per year\n\nBe available to travel biannually to the Language Technology Conference\n\nParticipate in professional conferences and meetings\n\nKnowledge, Skills, and Abilities:\n\nA servant heart attitude\n\nDemonstrated leadership skills\n\nDemonstrated skills in software development and algorithms\n\nDemonstrated passion for understanding and resolving complex user-needs into product priorities\n\nDemonstrated user interface design skills\n\nDemonstrated appreciation for quality user interface design\n\nGood interpersonal skills of communication\n\nGood organizational skills\n\nThe ability to quickly analyze and learn a large existing codebase\n\nThe ability to make decisions in a timely manner\n\nThe ability to generate/analyze multiple solutions to a problem\n\nThe ability to quickly pick up technical concepts\n\nThe ability to work both with a team and independently, and to multitask effectively\n\nEducation and Experience:\nProduct Managers should have experience in software engineering, a good understanding of the software development lifecycle, and experience leading development teams. Bachelor’s or Master’s degree in computer science or equivalent work experience is preferred, but we care more for a heart and mind that are always learning. 3 to 5 years’ experience leading teams is preferred.\nTraining and Orientation:\nWill complete the initial IT Software Department training program and relevant portions of IT Orientation.\nWeekly Hours\n40 Originally posted on Himalayas",
+      "excerpt": "Job TitleSenior Software DeveloperLocationGlobalPosition TypeVolunteerJob DescriptionA Senior Software Developer is a team leadership role for smaller teams with responsibilities that encompass the entire product lifecycle, leadership of the team, and fiscal management, and software development.",
+      "seniority": [
+        "Senior"
+      ],
+      "categories": [
+        "Senior-Software-Developer",
+        "Software-Development-Lead",
+        "Software-Engineering-Leadership",
+        "Product-Management",
+        "Team-Leadership",
+        "Senior-Software-Development",
+        "Senior-Developer",
+        "Senior-Software-Developer-Positions",
+        "Senior-Software-Development-Jobs",
+        "Software-Developer"
+      ],
+      "application_link": "https://himalayas.app/companies/sil-international/jobs/senior-software-developer",
+      "expiry_date": "2026-11-15T21:43:23.000Z"
+    },
+    {
       "id": "software-developer-23980",
       "title": "Software Developer",
       "company": "micro1",
@@ -91,93 +324,33 @@
     {
       "id": "business-development-representative",
       "title": "Business Development Representative",
-      "company": "Champion",
-      "company_slug": "championhq",
+      "company": "Canonical",
+      "company_slug": "canonical",
       "location": "Remote",
-      "date": "2026-09-03T07:14:38.000Z",
-      "url": "https://himalayas.app/companies/championhq/jobs/business-development-representative",
-      "description": "At Champion , we believe that the biggest growth catalyst doesn’t lie outside, but within. It’s not about more, but about untapping the potential from opportunity that already exists — from within your champions and yourself.\nAs a product and a company, we’re set on creating deeper partnerships with organizations and their champions so each and every person can do more, together. Our mission is to help organizations activate their happiest customers as advocates — turning advocacy into a true growth engine.\nBut “ Champion ” isn’t just about business growth. It represents individual and professional growth. We’re building a company where every team member is empowered, celebrated, and supported to become their best.\nAs an early-stage startup, you’ll be part of the starting lineup — helping build the foundation for Champion ’s GTM success alongside the founding team.\nAbout the Role\nChampion is looking for a motivated Business Development Representative (BDR) to be the first point of contact with potential new customers. You’ll engage with Customer Marketing Leaders, Chief Marketing Officers, and GTM executives about driving growth through customer advocacy, while working closely with our Account Executives (AEs) and VP of Marketing to develop and execute a coordinated go-to-market motion.\nThis is more than a traditional BDR role — it’s an opportunity to reimagine how outreach is done. At Champion , we believe the best growth comes from human connection, customer-centricity, empathy, and curiosity. You’ll help pioneer a motion that replaces transactional outreach with meaningful engagement — where every conversation builds trust, not just pipeline.\nYour goal is to develop relationships with prospects in our Ideal Customer Profile and convert them into high-quality opportunities through authentic outreach, warm introductions, re-engagement of past conversations, and by driving attendance to Champion ’s in-person and virtual events. You’ll partner closely with our AEs to identify and develop opportunities and with our VP of Marketing to align outreach with campaigns, content, events, and broader marketing initiatives .\nWe will also invest heavily in your professional growth and Champion YOU!! You’ll be invited to join the Pavilion GTM community to learn from your peers, receive professional coaching, and have direct mentorship from the CEO and COO.\nWhat You’ll Do\n\nProspect and Engage: Lead outreach to prospective customers through thoughtful, human-centric communication across email, social, and events.\n\nBuild Relationships: Develop authentic connections with customer marketing, advocacy, and GTM leaders across mid-market and enterprise accounts.\n\nCreate Pipeline: Identify new opportunities through warm introductions, event engagement, and outbound campaigns, aligning closely with our CEO and COO.\n\nMarket Intelligence: Research target accounts to identify organizational priorities, customer programs, and advocate signals that align with Champion ’s mission.\n\nMarketing Collaboration: Support campaigns, events, and launches — turning engagement into meaningful conversations.\n\nProcess Evolution: Help build and redefine the SDR motion — tools, messaging, metrics, and playbooks. You’ll leave your fingerprint on how we scale and build a human-centric framework for driving growth.\nOwn Results: Set and achieve measurable goals for outreach, meetings booked, and pipeline created, while ensuring quality stays high.\n\nWhat You’ll Bring\n\nA self-starter mindset — resourceful, proactive, and driven by results.\n\nGenuine interest in customer marketing, GTM innovation, and AI in B2B.\n\nStrong written and verbal communication skills with the ability to connect quickly and authentically.\n\nDeep empathy and human-centric communication — you understand that great selling starts with listening, curiosity, and trust.\n\nCuriosity and confidence to engage executives with purpose and thoughtfulness.\n\nAbility to learn quickly, stay organized, and thrive in a fast-moving environment.\n\nPerseverance: You push through challenges with consistency and optimism, always finding a way forward.\n\nCompensation & Benefits\n\nBase Salary: $65,000–$70,000\n\nOn-Target Earnings (OTE): $75,000–$85,000\n\nEquity: Early-stage equity grant\n\nBenefits:\n\nHealthcare, dental, and vision coverage for employees\n\nMonthly equipment stipend for laptop, monitor, and tools\n\nFlexible time off policy\n\nValues We Live By\nGo On Offense We’re a culture of experimentation, speed, and adaptation — we play to win.\nBe Better Than Yesterday In our arena of growth, every day is a new game.\nGet Curious, Not Critical We ask questions before making assumptions, driving deeper learning and greater impact.\nCheck Your Ego at the Door We collaborate openly, welcome feedback, and celebrate great ideas — no matter where they come from.\nOne Team, One Goal We believe and understand that we all impact the collective goal.\nOriginally posted on Himalayas",
-      "excerpt": "At Champion, we believe that the biggest growth catalyst doesn’t lie outside, but within.",
+      "date": "2026-09-19T04:25:45.000Z",
+      "url": "https://himalayas.app/companies/canonical/jobs/business-development-representative",
+      "description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders in many sectors. The company is a pioneer of global distributed collaboration, with 1200+ colleagues in 75+ countries and very few office-based roles. Teams meet two to four times yearly in person, in interesting locations around the world, to align on strategy and execution.\nThe company is founder-led, profitable, and growing.\nCanonical is a remote-first global company that publishes Ubuntu and open-source enterprise solutions for cloud, developer, IoT and AI. Ubuntu is the fastest growing Linux distribution and ranks as the number #1 OS in the cloud.\nIn partnership with Google, Amazon, IBM and Microsoft, Canonical helps companies become more agile, productive and adopt new technologies faster. Examples of customer success include AI, Blockchain, IoT, Advanced Robotics and self-driving cars, where Ubuntu is the preferred development platform.\nThe role of a Business Development Representative at Canonical\nCanonical is profitable and growing. We consider our sales development organization to be the best technology sales academy in the market, and as such, we select exceptional and ambitious candidates to join our team. You will enjoy this role if you are organized, persistent, charismatic and hard-working. You will need to be interested in tech and its business implications. In this role, you will collaborate with a regional sales and marketing team, and your primary objective will be to find customer projects that fit our product lines and spread the good name of Canonical across multiple different industries and geographies.\nClick HERE to watch our SDR team discuss their role in Canonical\nThe role entails\n\nExecute outbound sales & marketing campaigns\n\nResearch information about prospective customers and market trends\n\nGenerate high-quality leads for Senior Sellers to fuel a multi-million dollar pipeline\n\nOwn and close SMB opportunities within your designated territory\n\nCollaborate across multiple teams and senior stakeholders to drive results\n\nHelp define the processes and policies for the team\n\nTravel to events and conferences worldwide, presenting on booths and driving face-to-face marketing and sales opportunities\n\nWhat we are looking for in you\n\nDemonstrated success in SDR or outbound sales, with a track record of exceeding annual quotas and consistently driving qualified pipeline growth\n\nExperience navigating prospective accounts from and into a senior executive level to identify new customer opportunities\n\nExperience in enterprise software or technology sales\n\nExceptional academic track record from both high school and university\n\nPassion for business and technology\n\nCommitment to continuous learning and improvement - curious, flexible, scientific\n\nCreative problem solving and cross team collaboration\n\nProfessional written and spoken English with excellent presentation skills\n\nVerbal and written communication and negotiation skills\n\nResult driven with an over-achiever spirit\n\nPersistence & perseverance\n\nGrowth mindset - people from our team develop into all departments within the sales organization (Channel, IoT, Enterprise Sales, etc)\n\nAbility to travel internationally twice a year for company events up to two weeks long\n\nWhat we offer colleagues\nWe consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually (and more often for graduates and associates) to ensure we recognize outstanding performance. In addition to base pay, we offer a performance-driven annual bonus or commission. We provide all team members with additional benefits which reflect our values and ideals. We balance our programs to meet local needs and ensure fairness globally.\n\nDistributed work environment with twice-yearly team sprints in person\n\nPersonal learning and development budget of USD 2,000 per year\n\nAnnual compensation review\n\nRecognition rewards\n\nAnnual holiday leave\n\nMaternity and paternity leave\n\nTeam Member Assistance Program & Wellness Platform\n\nOpportunity to travel to new locations to meet colleagues\n\nPriority Pass and travel upgrades for long-haul company events\n\nAbout Canonical\n\nCanonical is a pioneering tech firm at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open-source projects and the platform for AI, IoT, and the cloud, we are changing the world of software. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence; in order to succeed, we need to be the best at what we do. Most colleagues at Canonical have worked from home since our inception in 2004.​ Working here is a step into the future and will challenge you to think differently, work smarter, learn new skills, and raise your game.\n\nCanonical is an equal opportunity employer\nWe are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. Whatever your identity, we will give your application fair consideration.\nOriginally posted on Himalayas",
+      "excerpt": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets.",
       "seniority": [
-        "Entry-level",
         "Mid-level"
       ],
       "categories": [
-        "Business-Development",
-        "Sales-Development-Representative",
-        "B2B-Sales",
-        "Lead-Generation",
-        "Sales",
         "Business-Development-Representative",
+        "Sales-Development-Representative",
+        "Inside-Sales",
+        "B2B-Sales",
+        "Lead-Development",
         "Sales-Business-Development-Representative",
         "Business-Development-Professional",
         "Partner-Business-Development-Representative",
         "Business-Developer",
         "Remote-Business-Development-Representative",
         "Business-Development-Specialist",
-        "SDR-Business-Development-Representative"
+        "SDR-Business-Development-Representative",
+        "Business-Development"
       ],
-      "application_link": "https://himalayas.app/companies/championhq/jobs/business-development-representative",
-      "expiry_date": "2026-11-02T07:14:37.000Z"
-    },
-    {
-      "id": "head-of-business-development-logos",
-      "title": "Head of Business Development - Logos",
-      "company": "Logos",
-      "company_slug": "logos",
-      "location": "Remote",
-      "date": "2026-09-06T22:23:51.000Z",
-      "url": "https://himalayas.app/companies/logos/jobs/head-of-business-development-logos",
-      "description": "Logos is a movement supporting the development of the decentralised web. Logos technologies lay the foundations for a freer internet upon which communities can evolve into network states. Each protocol in the Logos stack seeks to empower its users while upholding civil liberties and fundamental freedoms.\n\nAbout Logos :\nLogos is building the technology and community required for a more sovereign, decentralised world.\nOur technology stack spans decentralised infrastructure, communications and storage, with a focus on privacy, censorship resistance and permissionless systems. We work at the intersection of protocol development, Web3 infrastructure and ecosystem building.\nWe’re looking for a Head of Business Development to own and drive business development across Logos , while leading a team of two.\nThis isn't a traditional sales role. We're looking for someone who is deeply embedded in the Web3 infrastructure ecosystem, with a strong understanding of how decentralised networks operate and experience working with/launching privacy-focused protocols. Crucially, you'll have been through a mainnet launch and understand what it takes to build the partnerships, ecosystem and infrastructure relationships required both in the lead-up to launch and as the network scales post-mainnet.\nThe role:\nAs Head of Business Development, you will lead the development and execution of strategies to grow the Logos ecosystem. You will be responsible for establishing strategic partnerships, designing and executing growth strategies and building any relevant commercial relationships.\nYou'll identify where Logos technology can solve real problems, build relationships with protocols and infrastructure providers, and work closely with our technical teams to turn opportunities into integrations and long-term partnerships.\nYou'll also manage and develop a team of two, providing direction and prioritisation while remaining highly hands-on yourself.\nA core part of the role is being able to operate credibly with technical stakeholders. You don't need to be an engineer, but you should understand the technology stack well enough to have substantive conversations with protocol teams, founders and engineering leaders without relying on someone else to translate the technology for you.\nResponsibilities:\n\nDevelop and execute Logos ’ BD and partnership strategy, building strategic relationships ahead of mainnet and driving ecosystem growth and adoption through expanded distribution channels post-launch.\n\nIdentify the ecosystems, protocols, infrastructure providers and applications where Logos technology can deliver the greatest value and bring users and volume to Logos network\n\nBuild a focused pipeline of high-value opportunities rather than pursuing partnerships for their own sake.\n\nEstablish clear priorities and success metrics for BD activity, owning the performance of BD goals against budget.\n\nOwn opportunities from initial identification through technical evaluation, negotiation, integration and ongoing relationship management.\n\nBuild technically meaningful partnerships:\n\nDevelop relationships across the Web3 infrastructure ecosystem, including wallets, centralised exchanges, on/off-ramps, oracles, indexers, DeFi protocols and aggregators, multisigs and other infrastructure providers, with a particular focus on those actively engaged in the privacy ecosystem.\n\nIdentify opportunities for integrations, deployments, ecosystem partnerships and adoption of Logos technology.\n\nUnderstand prospective partners’ technical architecture and identify how Logos can complement their technology stack through its privacy capabilities, while attracting privacy-focused applications and protocols to build on the Logos ecosystem.\n\nWork with technical teams on both sides to move opportunities from conversation to implementation.\n\nRepresent Logos credibly with founders, protocol leads, ecosystem teams and technical decision-makers.\n\nUnderstand the technology:\nYou should be comfortable discussing concepts such as:\n\nL1s, L2s and modular blockchain architectures\n\nP2P and decentralised networking\n\nNodes, validators and network operators\n\nConsensus and distributed systems\n\nDecentralised storage and messaging\n\nRPC and blockchain infrastructure\n\nWallet and application infrastructure\n\nToken and network incentive models\n\nTestnets, mainnets and network launches\n\nPrivacy-preserving and censorship-resistant technologies\n\nYou don't need to write production code, but you need genuine technical curiosity and enough depth to understand what we're building, why it matters, and how it can be used by others.\nLead the team:\n\nManage, mentor and develop an existing team of two BD contributors.\n\nSet priorities and ensure the team is focused on the opportunities most likely to create meaningful adoption.\n\nEstablish a disciplined approach to pipeline management, ownership and follow-through.\n\nSupport the team on complex partnerships and negotiations.\n\nCreate accountability without introducing unnecessary processes or bureaucracy.\n\nRemain hands-on with strategically important relationships and opportunities.\n\nWork across Logos :\n\nPartner closely with protocol, engineering, product, ecosystem and communications teams.\n\nBring market and partner feedback back into the organisation to help inform product and ecosystem priorities.\n\nTranslate technical capabilities into clear propositions for different partners and use cases.\n\nHelp technical teams understand the commercial and strategic context behind potential integrations.\n\nEnsure partnerships result in tangible outcomes rather than announcements alone.\n\nRequired skills:\n\nSignificant experience in Web3, blockchain or decentralised infrastructure.\n\nStrong understanding of the technical architecture of blockchain networks and Web3 infrastructure.\n\nExperience in business development, ecosystem development, strategic partnerships or a closely related role.\n\nEvidence of building partnerships that resulted in real integrations, adoption, users, network activity or revenue.\n\nExisting relationships across the Web3 infrastructure ecosystem.\n\nAbility to communicate effectively with highly technical stakeholders.\n\nStrong commercial judgement and the ability to distinguish strategically valuable opportunities from noise.\n\nExperience managing or mentoring a small team.\n\nComfortable operating autonomously in a remote, highly technical organisation.\n\nA builder mentality; you enjoy taking opportunities from an initial idea through to something that actually exists.\n\nWe'd be especially interested in people who have worked within privacy focused ecosystems in areas such as:\n\nPrivacy focused L1 or L2 ecosystems\n\nDecentralised networking projects relating to messaging, storage and or Privacy tools and applications\n\nWallets\n\nExperience in Open-source protocols is a must\n\nHiring process: Interview with our People Ops team\nInterview with Artem (IR Lead) & Rahul (BD)\nTask\nInterview with Kaushal (EcoDev Team Lead)\nInterview with Co-founders, Jarrad & Carl\nWe occasionally use cognitive tests and/or personality tests to gain insight into candidates' suitability with our org. The results provide an additional data point for us when making our hiring decisions. The steps may change along the way if we see it makes sense to adapt the interview stages, so please consider the above as a guideline.\nCompensation:\nThe expected compensation range for this role is negotiable, dependent on how we assess your skills and experience throughout our interview process. We are happy to pay in any mix of fiat/crypto\nOriginally posted on Himalayas",
-      "excerpt": "Logos is a movement supporting the development of the decentralised web.",
-      "seniority": [
-        "Director"
-      ],
-      "categories": [
-        "Ecosystem-Development",
-        "Business-Development",
-        "Web3-Business-Development",
-        "Strategic-Partnerships",
-        "Blockchain-Partnerships",
-        "Head-of-Business-Development",
-        "Business-Development-Leader",
-        "Business-Development-Director",
-        "Business-Development-Lead",
-        "Managing-Director-Business-Development",
-        "Director-Business-Development",
-        "Head-of-Business",
-        "Director-of-Business-Development",
-        "Lead-Business-Developer",
-        "Business-Head"
-      ],
-      "application_link": "https://himalayas.app/companies/logos/jobs/head-of-business-development-logos",
-      "expiry_date": "2026-11-05T22:23:50.000Z"
-    },
-    {
-      "id": "senior-genexus-developer",
-      "title": "Senior Genexus Developer",
-      "company": "Bizmoni Corp.",
-      "company_slug": "bizmoni-corp",
-      "location": "Brazil",
-      "date": "2026-09-13T20:35:21.000Z",
-      "url": "https://himalayas.app/companies/bizmoni-corp/jobs/senior-genexus-developer",
-      "description": "** Note: This is a equity-based compensation until our next funding round **\nLocation: fully remote\nEmployment type: part-time\nBizmoni Corp.\nBizmoni is the world's first AI Super App designed to help anyone earn, learn, and grow in the AI era. Whether you're looking for a job, launching a side hustle, or running a business, Bizmoni delivers smart tools to generate income, upskill, and stay competitive.\nOperating remotely across 20+ countries, we're not just building software; we're building the next global unicorn. We're looking for people who think boldly, act fast, and want to shape the future of global entrepreneurship.\nAbout the Role:\nBizmoni is seeking a Senior Genexus Developer to help design, build, and scale the technology behind our AI-powered super app. In this role, youll lead full-stack development from concept to deployment, ensuring seamless functionality, responsive performance, and secure user experiences across web and mobile platforms.\nWhat You'll do:\n\nDevelop front-end website architecture and user interactions on web pages.\n\nBuild back-end applications, create servers, and manage databases for functionality and performance.\n\nDesign and develop APIs to connect and optimize BizHubs services.\n\nEnsure cross-platform optimization and mobile responsiveness.\n\nCollaborate with designers to translate UI/UX concepts into functional products.\n\nManage projects end-to-end, from conception to final product delivery.\n\nConduct manual and/or automated functional, operational, and security testing.\n\nStay current with emerging technologies and Genexus updates.\n\nPerform other duties as they may arise and be assigned by the Company.\n\nWhat You'll bring:\n\nProven experience in Genexus Web/SD development, including Genexus Server, GAM, CI/CD, Data Modeling, and SQL Server (Genexus certification is a plus).\n\nStrong skills in HTML, CSS, JavaScript, and modern web frameworks.\n\nExperience working with modularized KBs, Feature toggles, and code reusability.\n\nSolid understanding of database technologies like MSSQLServer, MySQL, or Oracle.\n\nExperience working with Teams, OpenVPN, RDP, and similar collaboration tools.\n\nStrong organizational and agile project management skills (Kanban, Scrum).\n\nExcellent communication, problem-solving, and attention to detail.\n\nProactive mindset, comfortable in fast-moving, collaborative environments.\n\nWhat We Expect:\n\nFlexible Hours: Meet deadlines and attend key meetings at your convenience.\n\nLanguage Skills: Fluent in English; Spanish or Portuguese is a plus.\n\nSelf-Discipline: Comfortable working remotely and independently.\n\nResults-Driven: Proactive, creative problem solver who delivers impact.\n\nTech-Ready: Personal computer with a camera and stable internet.\n\nEquity-Based Compensation: Willingness to accept shares until our next funding round.\n\nTime commitment: minimum of 16 hours per week.\n\nWhat's in it for You:\n\nCo-founder-level equity: Earn real ownership in a high-potential startup\n\nRemote-first culture: Work from anywhere, on your schedule\n\nImpact-driven mission: Build technology that supports real entrepreneurs around the world\n\nAgile, collaborative team: Join an international team of doers, thinkers, and builders\n\nGrowth opportunity: Be part of the founding phase and influence core business strategy.\n\nWhy Join Bizmoni?\nJoin a high-energy, collaborative team and shape the future of AI-powered fintech. If you're passionate about innovation and growth, we'd love to meet you!\nBefore Applying, Ask Yourself:\n1. Are you available to work at least 8-16 hours per week?\n2. Are you open to equity-based compensation until our next funding round?\nIf your answer is 'YES', then we are happy to meet you!\nRecruitment Process:\n1. Interview with Technical Department Manager & TA Partner.\n2. Practical assignment.\n3. Offer (based on final positive feedback.)\nPlease send us your English CV stating the role you apply. Only shortlisted candidates are selected for the interview. Thank you.\nOriginally posted on Himalayas",
-      "excerpt": "** Note: This is a equity-based compensation until our next funding round ** Location: fully remoteEmployment type: part-timeBizmoni Corp.",
-      "seniority": [
-        "Senior"
-      ],
-      "categories": [
-        "Senior-Genexus-Developer",
-        "Fullstack-Development",
-        "Web-Development",
-        "Software-Engineer",
-        "Mobile-Development",
-        "Senior-Developer",
-        "Senior-Software-Developer",
-        "Senior-Application-Developer"
-      ],
-      "application_link": "https://himalayas.app/companies/bizmoni-corp/jobs/senior-genexus-developer",
-      "expiry_date": "2026-11-12T20:35:20.000Z"
+      "application_link": "https://himalayas.app/companies/canonical/jobs/business-development-representative",
+      "expiry_date": "2026-11-18T04:25:44.000Z"
     }
   ]
 }

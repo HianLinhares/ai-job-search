@@ -26,6 +26,16 @@
       "work_mode": "remoto"
     },
     {
+      "id": "33814",
+      "title": "Gerente de Engenharia Sênior",
+      "company": null,
+      "location": "Remoto",
+      "date": null,
+      "url": "https://programathor.com.br/jobs/33814-gerente-de-engenharia-senior",
+      "description": null,
+      "work_mode": "remoto"
+    },
+    {
       "id": "33772",
       "title": "Desenvolvedor(a) Back-End Pleno (Middle Salesforce)",
       "company": "TechMagic",
@@ -86,72 +96,62 @@
       "work_mode": "remoto"
     },
     {
-      "id": "33746",
-      "title": "Senior React & Python Developer",
+      "id": "33749",
+      "title": "Full-stack Engineer Node.js + React.js + AWS (USD-based pay)",
       "company": null,
       "location": "Remoto",
       "date": null,
-      "url": "https://programathor.com.br/jobs/33746-senior-react-python-developer",
+      "url": "https://programathor.com.br/jobs/33749-full-stack-engineer-node-js-react-js-aws-usd-based-pay",
       "description": null,
       "work_mode": "remoto"
     },
     {
-      "id": "33745",
-      "title": "Senior React & Ruby Developer",
+      "id": "33812",
+      "title": "Full-stack & AI Engineer (USD-based pay)",
       "company": null,
       "location": "Remoto",
       "date": null,
-      "url": "https://programathor.com.br/jobs/33745-senior-react-ruby-developer",
+      "url": "https://programathor.com.br/jobs/33812-full-stack-ai-engineer-usd-based-pay",
       "description": null,
       "work_mode": "remoto"
     },
     {
-      "id": "33744",
-      "title": "Senior React Full-stack Developer",
+      "id": "33750",
+      "title": "Database Administrator and Developer Sql + MySQL + AWS (USD-based pay)",
       "company": null,
       "location": "Remoto",
       "date": null,
-      "url": "https://programathor.com.br/jobs/33744-senior-react-full-stack-developer",
+      "url": "https://programathor.com.br/jobs/33750-database-administrator-and-developer-sql-mysql-aws-usd-based-pay",
       "description": null,
       "work_mode": "remoto"
     },
     {
-      "id": "33742",
-      "title": "Engenheiro(a) de IA Generativa — Sênior",
+      "id": "33768",
+      "title": "Integrations Back-end Engineer Node.js + TypeScript + PostgreSQL (USD-based pay)",
       "company": null,
       "location": "Remoto",
       "date": null,
-      "url": "https://programathor.com.br/jobs/33742-engenheiro-a-de-ia-generativa-senior",
+      "url": "https://programathor.com.br/jobs/33768-integrations-back-end-engineer-node-js-typescript-postgresql-usd-based-pay",
       "description": null,
       "work_mode": "remoto"
     },
     {
-      "id": "33741",
-      "title": "Engenheiro(a) de IA Generativa — Pleno",
+      "id": "33810",
+      "title": "AI Data Researcher Python + LLMs + SQL (USD-based pay)",
       "company": null,
       "location": "Remoto",
       "date": null,
-      "url": "https://programathor.com.br/jobs/33741-engenheiro-a-de-ia-generativa-pleno",
+      "url": "https://programathor.com.br/jobs/33810-ai-data-researcher-python-llms-sql-usd-based-pay",
       "description": null,
       "work_mode": "remoto"
     },
     {
-      "id": "33740",
-      "title": "Engenheiro(a) de IA Generativa — Júnior",
+      "id": "33811",
+      "title": "Data Architect SQL + MySQL + NoSQL (USD-based pay)",
       "company": null,
       "location": "Remoto",
       "date": null,
-      "url": "https://programathor.com.br/jobs/33740-engenheiro-a-de-ia-generativa-junior",
-      "description": null,
-      "work_mode": "remoto"
-    },
-    {
-      "id": "33726",
-      "title": "Desenvolvedor(a) Frontend React - Pleno",
-      "company": "Ubuntu Future Labs",
-      "location": "Remoto",
-      "date": null,
-      "url": "https://programathor.com.br/jobs/33726-desenvolvedor-a-frontend-react-pleno",
+      "url": "https://programathor.com.br/jobs/33811-data-architect-sql-mysql-nosql-usd-based-pay",
       "description": null,
       "work_mode": "remoto"
     }

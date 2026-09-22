@@ -23,6 +23,15 @@
       "url": "https://br.linkedin.com/jobs/view/engenheiro-de-software-net-remote-work-ref%23303237-at-bairesdev-4464905504"
     },
     {
+      "id": "4432490754",
+      "title": "Grupo QuintoAndar | Senior Software Engineer - Enterprise Engineering",
+      "company": "QuintoAndar",
+      "companyUrl": "https://br.linkedin.com/company/quintoandar-com-br",
+      "location": "São Paulo, São Paulo, Brazil",
+      "date": "2026-09-18",
+      "url": "https://br.linkedin.com/jobs/view/grupo-quintoandar-senior-software-engineer-enterprise-engineering-at-quintoandar-4432490754"
+    },
+    {
       "id": "4464695717",
       "title": "Engenheiro de Software (.NET) - Remote Work | REF#303239",
       "company": "BairesDev",
@@ -41,31 +50,40 @@
       "url": "https://br.linkedin.com/jobs/view/software-developer-senior-net-remoto-at-localiza-co-4462565194"
     },
     {
+      "id": "4468139720",
+      "title": "Pessoa Engenheira de Software Backend",
+      "company": "Tivita",
+      "companyUrl": "https://br.linkedin.com/company/tivita",
+      "location": "São Paulo, São Paulo, Brazil",
+      "date": "2026-09-21",
+      "url": "https://br.linkedin.com/jobs/view/pessoa-engenheira-de-software-backend-at-tivita-4468139720"
+    },
+    {
       "id": "4458937753",
       "title": "Senior Software Engineer (Java, AWS)",
       "company": "Exadel",
       "companyUrl": "https://www.linkedin.com/company/exadel",
       "location": "São Paulo, São Paulo, Brazil",
-      "date": "2026-09-15",
+      "date": "2026-09-16",
       "url": "https://br.linkedin.com/jobs/view/senior-software-engineer-java-aws-at-exadel-4458937753"
     },
     {
-      "id": "4449421116",
-      "title": "Grupo QuintoAndar | Senior Software Engineer - IAM",
-      "company": "QuintoAndar",
-      "companyUrl": "https://br.linkedin.com/company/quintoandar-com-br",
+      "id": "4432469586",
+      "title": "Software Engineer, Enterprise Apps",
+      "company": "Coinbase",
+      "companyUrl": "https://www.linkedin.com/company/coinbase",
       "location": "São Paulo, São Paulo, Brazil",
-      "date": "2026-09-04",
-      "url": "https://br.linkedin.com/jobs/view/grupo-quintoandar-senior-software-engineer-iam-at-quintoandar-4449421116"
+      "date": "2026-09-17",
+      "url": "https://br.linkedin.com/jobs/view/software-engineer-enterprise-apps-at-coinbase-4432469586"
     },
     {
-      "id": "3969556398",
-      "title": "Senior Software Engineer, Backend (All teams) – Brazil",
-      "company": "DoorDash",
-      "companyUrl": "https://www.linkedin.com/company/doordash",
+      "id": "4468154291",
+      "title": "Software Engineer",
+      "company": "Getnet Platforms",
+      "companyUrl": "https://es.linkedin.com/company/getnet-platforms",
       "location": "São Paulo, São Paulo, Brazil",
-      "date": "2026-09-05",
-      "url": "https://br.linkedin.com/jobs/view/senior-software-engineer-backend-all-teams-%E2%80%93-brazil-at-doordash-3969556398"
+      "date": "2026-09-21",
+      "url": "https://br.linkedin.com/jobs/view/software-engineer-at-getnet-platforms-4468154291"
     },
     {
       "id": "4336243481",
@@ -75,24 +93,6 @@
       "location": "Greater Rio de Janeiro",
       "date": "2026-09-11",
       "url": "https://br.linkedin.com/jobs/view/senior-software-engineer-%E2%80%93-cloud-applications-at-jitterbit-4336243481"
-    },
-    {
-      "id": "4319506512",
-      "title": "Senior Software Engineer – Cloud Applications",
-      "company": "Jitterbit",
-      "companyUrl": "https://www.linkedin.com/company/jitterbit",
-      "location": "São Paulo, São Paulo, Brazil",
-      "date": "2026-09-11",
-      "url": "https://br.linkedin.com/jobs/view/senior-software-engineer-%E2%80%93-cloud-applications-at-jitterbit-4319506512"
-    },
-    {
-      "id": "4464654225",
-      "title": "SOFTWARE ENGINEER III GOLANG ELIXIR",
-      "company": "Stone",
-      "companyUrl": "https://br.linkedin.com/company/stone-co",
-      "location": "Greater São Paulo Area",
-      "date": "2026-09-08",
-      "url": "https://br.linkedin.com/jobs/view/software-engineer-iii-golang-elixir-at-stone-4464654225"
     }
   ]
 }
