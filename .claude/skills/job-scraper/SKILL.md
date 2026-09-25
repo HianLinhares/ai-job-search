@@ -15,9 +15,15 @@ allowed-tools: Read, Write, Edit, Glob, Grep, Bash(bun --version), Bash(bun run 
 ## How It Works
 
 This skill searches job portals using the **installed portal-search CLIs** in
-`.agents/skills/` (plus WebSearch as a fallback), using queries from your profile.
-It deduplicates against previously seen jobs and the application tracker, and
-presents new matches with a quick fit assessment.
+`.agents/skills/` (plus WebSearch for configured sources without a CLI), using queries
+from your profile. It handles three opportunity types:
+
+- `vaga` — an employment opening;
+- `credenciamento_clinico` — an active professional-network/provider application;
+- `projeto_autonomo` — a dated freelance or service project.
+
+It deduplicates against previously seen opportunities and the application tracker, and
+presents new matches with a quick fit assessment. Never present one type as another.
 
 ## Invocation
 
@@ -41,10 +47,16 @@ Optional arguments:
 1. Read `job_scraper/seen_jobs.json` (create if missing - start with `{"seen": {}}`)
 2. Read `job_search_tracker.csv` to extract already-applied companies+roles
 3. Read `search-queries.md` (this directory) for the search strategy
+4. Classify every collected result as `vaga`, `credenciamento_clinico`, or
+   `projeto_autonomo` from its source and page content. Default to `vaga` only for an
+   actual job posting; an ambiguous page must be fetched before classification.
 
 ### Step 1: Search
 
-Read `search-queries.md` (this directory) for the search strategy. By default, run the top 3 priority query categories. If the user said "broad", run all categories. If the user specified a focus area (e.g. "data science"), prioritize queries from that category.
+Read `search-queries.md` (this directory) for the search strategy. By default, run the
+top 3 priority query categories. If the user said "broad", run all categories and all
+three opportunity types. If the user specified a focus area, use the mapping under
+`Adapting Queries`.
 
 **Use the installed CLI tools as the primary search mechanism.** Fall back to `WebSearch` only for portals that do not have a CLI skill, or if `bun` is unavailable on the system.
 
@@ -77,11 +89,17 @@ If a CLI tool exits with a non-zero code, log the error message and continue —
 #### 1c. WebSearch fallback
 
 Use `WebSearch` for:
+- Sources listed under `Fontes sem CLI` in `search-queries.md`
 - Portals listed in `search-queries.md` that do **not** have a corresponding directory under `.agents/skills/`
-- Any portal whose CLI fails at runtime
+- Any enabled portal whose CLI fails at runtime
 - When bun is unavailable (Step 1a failed)
 
 Use the site-specific query strings from `search-queries.md` directly as WebSearch queries for these portals.
+
+Do not use WebSearch to bypass login, robots restrictions, CAPTCHA, or a site's terms.
+For professional networks and marketplaces, search only public official pages. A
+provider-registration page is a `credenciamento_clinico`; a directory profile offer is
+not a job; a client request with a concrete scope/date is a `projeto_autonomo`.
 
 Tag each fallback result as WebSearch-sourced, keeping the portal tag when the fallback stands in for an installed portal whose CLI failed. Step 4 persists this as the entry's `source`, and Step 5 reports which portals ran on the fallback this run.
 
@@ -109,6 +127,14 @@ fragment link.
 For every candidate:
 - Skip if the URL or company+title combo already exists in `seen_jobs.json`
 - Skip if the company+role already appears in `job_search_tracker.csv`
+- Reject `vaga` and `projeto_autonomo` results older than 14 days, closed, expired, or
+  without remote eligibility in Brazil.
+- For `credenciamento_clinico`, do not apply the 14-day limit. Instead confirm that the
+  official application form/page is active and capture its operating model (employee,
+  contractor, provider network, directory, subscription), PJ/CNPJ requirement, and
+  target population when stated.
+- Consolidate Zenklub and Psicologia Viva provider results under Conexa while retaining
+  the legacy name in a note when it explains the source URL.
 
 ### Step 2.5: Mass-Posting Detection (within this run)
 
@@ -126,6 +152,19 @@ For each new job, do a rapid fit check (NOT the full evaluation from `04-job-eva
 
 **Language override:** before assigning a match level, check the posting against `04-job-evaluation.md`'s Language Gate (a required language you haven't declared at all in your CLAUDE.md Languages table). A required language that's entirely undeclared overrides skill fit: mark it **Low** regardless of how well the skills align, and name it in the highlight bullets so it isn't buried under an otherwise-good-looking match. A **declared** language at a requirement that reads higher than your declared level is *not* an override — score fit normally, but add a red-flag bullet under that job's highlights (Step 5) quoting the posting's requirement next to your declared level, so the gap is visible without being auto-downgraded.
 
+**Psychology compliance gate:** this is a factual warning, not a claim that the
+candidate is eligible.
+
+- Online psychological services require an active CRP registration and compliance with
+  CFP Resolution 09/2024. Do not ask for or claim an e-Psi registration: since
+  2024-08-31 it is no longer required.
+- For remote psychological assessment/testing, require the posting/project to be
+  compatible with CFP Resolution 31/2022. Flag that every psychological test must have
+  a favorable SATEPSI status and explicit authorization for `On line (remoto)` use;
+  computerized administration alone is not equivalent to remote administration.
+- Never infer CRP status, specialization, age-group experience, test qualification, or
+  PJ/CNPJ availability from a search term. Mark unstated requirements `to confirm`.
+
 ### Step 4: Deduplicate & Store
 
 1. Add ALL fetched jobs (new and skipped) to `seen_jobs.json` with structure:
@@ -138,6 +177,7 @@ For each new job, do a rapid fit check (NOT the full evaluation from `04-job-eva
       "url": "...",
       "first_seen": "YYYY-MM-DD",
       "deadline": "YYYY-MM-DD" | null,
+      "opportunity_type": "vaga/credenciamento_clinico/projeto_autonomo",
       "fit": "high/medium/low",
       "status": "new/skipped/ranked/expired",
       "portal": "<source portal skill, e.g. jobindex-search>",
@@ -154,6 +194,10 @@ The `source` field records which mechanism produced the entry: `cli` for Step 1b
 `/rank` extends this schema additively: ranked entries also carry `rank_score` (0–100 overall score), `rank_verdict` (fit band, e.g. "strong fit"), `rank_date` (ISO date of ranking), the veto fields `location_verdict` and `language_gate` (both PASS/FAIL/FLAG) with `language_note` (the quoted requirement explaining a non-PASS), and `strengths`/`gaps` (1-3 verbatim bullets each, copied from the scoring agent's findings). The `status` field is set to `"ranked"`. Do not drop any of these fields when re-writing entries. Entries ranked before `strengths`/`gaps` existed simply lack them; readers tolerate their absence and never backfill by guessing. Entries ranked before the verdict rename may carry a legacy PASS/FAIL/FLAG string in `location` - read that as the verdict when `location_verdict` is absent; in fresh entries `location` is always a place, never a verdict.
 
 `deadline` is a base field rather than a `/rank` extension: Step 2's detail fetch already extracts the application deadline, so it is written when the job is first seen and refreshed by `/rank` Step 4 when a scoring agent returns a different value. `null` means the posting states no deadline; a missing key means the entry predates this field - **never infer a deadline** from either, and never backfill by guessing.
+
+`opportunity_type` records how the opportunity must be presented and assessed. Entries
+written before this field existed are treated as `vaga`; never backfill historical
+entries by guessing. For a fresh entry this field is mandatory.
 
 2. Only present jobs NOT already in the seen list or tracker.
 
@@ -198,7 +242,10 @@ Scraper-based portal CLIs rot silently: when a portal changes its markup, the pa
 
 ### Step 5: Present Results
 
-Present new jobs in a table sorted by fit (high first). When Step 1b skipped
+Present new results in three separate sections, omitting empty sections:
+`Vagas`, `Credenciamentos clínicos`, and `Projetos autônomos`. Within each section sort
+by fit (high first). Never combine their counts or imply that a credentialing page is an
+employment opening. When Step 1b skipped
 portals (`enabled: false`), report them with the `skipped (disabled):` line below
 so opting one out stays visible rather than silent; omit the line when nothing
 was skipped. When any portal's results came from the Step 1c fallback this run
@@ -213,9 +260,9 @@ edit the toggle with the user's confirmation, and never edit anything else in
 the skill.
 
 ```
-## New Job Matches - YYYY-MM-DD
+## New Remote Opportunities - YYYY-MM-DD
 
-Found X new positions (Y high, Z medium, W low match).
+Found X vacancies, Y clinical credentialing opportunities, and Z freelance projects.
 
 skipped (disabled): <portal-name>, <portal-name>
 
@@ -224,17 +271,29 @@ fallback (websearch): <portal-name>, <portal-name>
 health: <portal-name> - degraded (company null on all 12 results); parsing anchors in .agents/skills/<portal-name>/url-reference.md
 health: <portal-name> - broken (0 results for the SKILL.md test query and a broader retry); parsing anchors in .agents/skills/<portal-name>/url-reference.md
 
+### Vagas
 | # | Fit | Title | Company | Location | Deadline | URL |
 |---|-----|-------|---------|----------|----------|-----|
 | 1 | High | ... | ... | ... | ... | [Link](...) |
 
+### Credenciamentos clínicos
+| # | Fit | Network/platform | Model | Requirements to confirm | URL |
+|---|-----|------------------|-------|-------------------------|-----|
+| 1 | High | ... | provider network | PJ/CNPJ, target population | [Link](...) |
+
+### Projetos autônomos
+| # | Fit | Project | Platform/client | Budget/deadline | URL |
+|---|-----|---------|-----------------|-----------------|-----|
+| 1 | Medium | ... | ... | ... | [Link](...) |
+
 If Step 2.5 flagged a mass-posting pattern, note it in the Title cell (e.g. "Frontend Developer (posted in 6 cities)") rather than burying it. Do the same for a declared-language-insufficient-level flag from the Language Gate (e.g. "Backend Engineer ⚠ fluent English required") - both are signals the user should see at a glance, not just in the detail highlights below.
 
 ### High-Match Highlights
-For each high-match job, add 2-3 bullet points:
+For each high-match result, add 2-3 bullet points:
 - Why it matches your profile
 - Key requirements to check
 - Any red flags (including mass-posting signals from Step 2.5)
+- For psychology work, the applicable CRP/SATEPSI warning when relevant
 
 ### Contacts
 For each high/medium-fit job from Step 4.5, add a short contacts block with the two
@@ -258,7 +317,8 @@ If the user decides to apply to any job, the tracker row is written by **job-app
 
 ## Important Rules
 
-1. **Never fabricate job postings.** Only present jobs from actual CLI search/detail output or WebSearch/WebFetch results.
+1. **Never fabricate opportunities.** Only present vacancies, credentialing pages, or
+   projects from actual CLI search/detail output or WebSearch/WebFetch results.
 2. **Respect deduplication.** Always check seen_jobs.json AND job_search_tracker.csv before presenting.
 3. **Focus on configured geographic area.** Skip jobs that require relocation or are clearly outside commute range.
 4. **Only open positions.** Skip postings with expired deadlines or those marked as closed.
@@ -267,3 +327,9 @@ If the user decides to apply to any job, the tracker row is written by **job-app
 7. **No automated people lookups.** Referral contacts (Step 4.5) are LinkedIn search links only - never fetch or scrape LinkedIn people-search result pages programmatically.
 8. **Health checks are bounded and honest.** Step 4.75 spends at most one probe, one retry, and (in `health` mode) one detail fetch per portal - a diagnosis, not a crawl. A rate-limit is never evidence of breakage. Health verdicts come only from observed CLI output; a portal that could not be tested is reported as inconclusive, never guessed. The `enabled` toggle is the only thing the health check may edit, and only with confirmation.
 9. **Flag distribution patterns, never accuse.** The mass-posting signal (Step 2.5) describes how a listing is being distributed, not a claim that the employer is a scam. Never name a company as fraudulent or untrustworthy - present the observation and let the user decide.
+10. **Keep opportunity types distinct.** Directories, subscriptions, provider-network
+    registrations, and freelance leads are not jobs. Label the commercial model and
+    costs when the source states them.
+11. **Apply current psychology rules.** Do not repeat the revoked e-Psi registration
+    requirement. For remote tests, surface the SATEPSI online-use constraint rather
+    than asserting that all computerized instruments are remotely valid.

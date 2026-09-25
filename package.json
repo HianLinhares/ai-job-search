@@ -1,0 +1,12 @@
+{
+  "name": "ai-job-search",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Busca local de oportunidades remotas de Psicologia e RH no Brasil",
+  "scripts": {
+    "dev": "bun run job_scraper/ui/server.js",
+    "refresh": "bun run job_scraper/refresh_jobs.js",
+    "refresh:offline": "bun run job_scraper/refresh_jobs.js --offline",
+    "dev:fresh": "npm run refresh && npm run dev"
+  }
+}

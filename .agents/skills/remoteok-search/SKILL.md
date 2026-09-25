@@ -7,7 +7,7 @@ description: >
   ok, remoteok, remoteok.com, remote jobs board, find remote developer jobs on
   remote ok, look up this remoteok posting.
 context: fork
-enabled: true
+enabled: false  # tech-first global portal; outside this fork's Psychology/HR scope
 allowed-tools: Bash(bun run .agents/skills/remoteok-search/cli/src/cli.ts *)
 ---
 

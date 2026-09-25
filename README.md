@@ -71,6 +71,22 @@ O framework codifica boas práticas de orientação de carreira, incluindo crit�
 
 > 🎥 **Prefere ver na prática primeiro?** [The Next New Thing fez um walkthrough prático](https://www.youtube.com/watch?v=HoVxjMNFYv4) de como o fluxo é realmente usado, do setup até uma candidatura finalizada (gravado em agosto de 2026 — os comandos podem ter evoluído desde então).
 
+### Interface local de vagas
+
+Com Bun e npm disponíveis, inicie a interface em `http://127.0.0.1:8080`:
+
+```bash
+npm run dev
+```
+
+Outros comandos:
+
+```bash
+npm run refresh          # atualiza as vagas de Psicologia e RH
+npm run dev:fresh        # atualiza e depois inicia a interface
+npm run refresh:offline  # reconstrói a interface usando os resultados locais
+```
+
 ### 1. Fork e clone
 
 ```bash

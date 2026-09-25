@@ -8,7 +8,7 @@ description: >
   remote jobs brasil geekhunter, find geekhunter jobs, search geekhunter, look up
   this geekhunter posting, vagas remotas brasil geekhunter.
 context: fork
-enabled: true
+enabled: false  # tech-only portal; outside this fork's Psychology/HR search scope
 allowed-tools: Bash(bun run .agents/skills/geekhunter-search/cli/src/cli.ts *)
 ---
 

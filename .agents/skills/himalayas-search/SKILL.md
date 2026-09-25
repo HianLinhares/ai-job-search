@@ -7,7 +7,7 @@ description: >
   phrases: himalayas, himalayas.app, himalayas jobs, remote jobs himalayas, look
   up this himalayas posting.
 context: fork
-enabled: true
+enabled: false  # tech-first global portal; outside this fork's Psychology/HR scope
 allowed-tools: Bash(bun run .agents/skills/himalayas-search/cli/src/cli.ts *)
 ---
 

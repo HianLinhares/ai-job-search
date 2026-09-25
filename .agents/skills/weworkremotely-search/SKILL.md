@@ -7,7 +7,7 @@ description: >
   weworkremotely, wwr, weworkremotely.com, remote jobs rss, look up this we work
   remotely posting.
 context: fork
-enabled: true
+enabled: false  # low Brazil Psychology/HR coverage; excluded from default searches
 allowed-tools: Bash(bun run .agents/skills/weworkremotely-search/cli/src/cli.ts *)
 ---
 

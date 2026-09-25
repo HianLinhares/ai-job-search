@@ -6,30 +6,14 @@ const outDir = "job_scraper";
 
 const portals = {
   li: ".agents/skills/linkedin-search/cli/src/cli.ts",
-  fh: ".agents/skills/freehire-search/cli/src/cli.ts",
   gupy: ".agents/skills/gupy-search/cli/src/cli.ts",
-  rok: ".agents/skills/remoteok-search/cli/src/cli.ts",
-  him: ".agents/skills/himalayas-search/cli/src/cli.ts",
-  wwr: ".agents/skills/weworkremotely-search/cli/src/cli.ts",
   rmt: ".agents/skills/remotar-search/cli/src/cli.ts",
-  gh: ".agents/skills/geekhunter-search/cli/src/cli.ts",
-  pth: ".agents/skills/programathor-search/cli/src/cli.ts",
-  // Indeed / Glassdoor: blocked by bot protection (403) — not wired.
-  // Wellfound: fragile SSR + Turnstile; optional skill if present.
-  wf: ".agents/skills/wellfound-search/cli/src/cli.ts",
 };
 
 const portalLabel = {
   li: "LinkedIn",
-  fh: "Freehire",
   gupy: "Gupy",
-  rok: "RemoteOK",
-  him: "Himalayas",
-  wwr: "WeWorkRemotely",
   rmt: "Remotar",
-  gh: "GeekHunter",
-  pth: "Programathor",
-  wf: "Wellfound",
 };
 
 async function run(cmd, args, outFile) {
@@ -74,28 +58,8 @@ function isBrazilRemote(j) {
 
   if (foreignGeo && !mentionsBrazil) return false;
 
-  // Portals already scoped to BR/remote in this refresh script
-  if (
-    ["LinkedIn", "Gupy", "Freehire", "Himalayas", "RemoteOK", "Remotar", "GeekHunter", "Programathor", "Wellfound"].includes(
-      j.portal,
-    )
-  ) {
-    if (j.portal === "RemoteOK" && !mentionsBrazil && !/brazil|brasil|latam|south america/i.test(blob)) {
-      // RemoteOK --country BR may still return empty; keep only BR-ish hits
-      return mentionsBrazil;
-    }
-    if (j.portal === "WeWorkRemotely") {
-      return mentionsBrazil || /brazil|brasil|latam/i.test(blob);
-    }
-    if (j.portal === "Wellfound") {
-      return mentionsBrazil || /brazil|brasil|são paulo|sao paulo|remoto|remote/i.test(blob);
-    }
-    return true;
-  }
-
-  if (j.portal === "WeWorkRemotely") {
-    return mentionsBrazil || /brazil|brasil|latam|latin america/i.test(blob);
-  }
+  // These portals are already called with their Brazil/remote filters.
+  if (["LinkedIn", "Gupy", "Remotar"].includes(j.portal)) return true;
 
   const brEligible =
     mentionsBrazil ||
@@ -109,115 +73,60 @@ function isBrazilRemote(j) {
   );
 }
 
+function isRelevant(j) {
+  const title = j.title || "";
+  return /psic[oó]log|psicoter|terapeuta|sa[uú]de mental|psicossocial|recrut|recruit|talent acquisition|talent partner|\bHRBP\b|business partner|people partner|recursos humanos|analista de RH|consultor(?:a)? de RH|gente (?:&|e) gest[aã]o|\bDHO\b|treinamento|desenvolvimento humano|desenvolvimento organizacional|learning (?:&|and) development|assessment|avalia[cç][aã]o psicol[oó]gica|teste psicol[oó]gico|\bEAP\b|employee assistance|sa[uú]de ocupacional/i.test(
+    title,
+  );
+}
+
 const offline = process.argv.includes("--offline");
 const queries = [
-  "desenvolvedor",
-  "engenheiro de software",
-  "backend",
-  "frontend",
-  "fullstack",
+  { slug: "psicologo", term: "psicólogo" },
+  { slug: "talent_acquisition", term: "talent acquisition" },
+  { slug: "hrbp", term: "HRBP" },
+  { slug: "recrutamento_selecao", term: "recrutamento e seleção" },
+  { slug: "avaliacao_psicologica", term: "avaliação psicológica" },
+  { slug: "eap", term: "EAP" },
+  { slug: "treinamento_desenvolvimento", term: "treinamento e desenvolvimento" },
+  { slug: "consultor_rh", term: "consultor de RH" },
 ];
 
 if (!offline) {
-  for (const q of queries) {
-    const slug = q.replaceAll(" ", "_");
+  for (const { slug, term } of queries) {
     await run(
       portals.li,
-      ["search", "-q", q, "-l", "Brazil", "--remote", "remote", "--jobage", "14", "--limit", "12", "--format", "json"],
+      ["search", "-q", term, "-l", "Brazil", "--remote", "remote", "--jobage", "14", "--limit", "12", "--format", "json"],
       `li_${slug}.json`,
     );
     await run(
       portals.gupy,
-      ["search", "-q", q, "--remote", "remote", "--jobage", "14", "--limit", "12", "--format", "json"],
+      ["search", "-q", term, "--remote", "remote", "--jobage", "14", "--limit", "12", "--format", "json"],
       `gupy_${slug}.json`,
     );
-  }
-
-  await run(
-    portals.fh,
-    ["search", "-q", "desenvolvedor", "--country", "BR", "--remote", "remote", "--jobage", "14", "--limit", "20", "--no-description", "--format", "json"],
-    "fh_desenvolvedor.json",
-  );
-  await run(
-    portals.fh,
-    ["search", "--category", "backend,frontend,fullstack", "--country", "BR", "--remote", "remote", "--jobage", "14", "--limit", "20", "--no-description", "--format", "json"],
-    "fh_categories.json",
-  );
-
-  await run(
-    portals.rok,
-    ["search", "-q", "developer", "--country", "BR", "--jobage", "14", "--limit", "20", "--format", "json"],
-    "rok_developer.json",
-  );
-  await run(
-    portals.him,
-    ["search", "-q", "developer", "--country", "BR", "--jobage", "14", "--limit", "20", "--format", "json"],
-    "him_developer.json",
-  );
-  await run(
-    portals.him,
-    ["search", "-q", "desenvolvedor", "--country", "BR", "--jobage", "14", "--limit", "15", "--format", "json"],
-    "him_desenvolvedor.json",
-  );
-  await run(
-    portals.wwr,
-    ["search", "-q", "developer", "--jobage", "14", "--limit", "25", "--format", "json"],
-    "wwr_developer.json",
-  );
-
-  await run(
-    portals.rmt,
-    ["search", "-q", "desenvolvedor", "--jobage", "14", "--limit", "20", "--format", "json"],
-    "rmt_desenvolvedor.json",
-  );
-  await run(
-    portals.rmt,
-    ["search", "-q", "backend", "--jobage", "14", "--limit", "15", "--format", "json"],
-    "rmt_backend.json",
-  );
-  await run(
-    portals.gh,
-    ["search", "-q", "desenvolvedor", "--jobage", "14", "--limit", "20", "--format", "json"],
-    "gh_desenvolvedor.json",
-  );
-  await run(
-    portals.pth,
-    ["search", "-q", "desenvolvedor", "--jobage", "14", "--limit", "20", "--format", "json"],
-    "pth_desenvolvedor.json",
-  );
-  if (fs.existsSync(portals.wf)) {
     await run(
-      portals.wf,
-      ["search", "-q", "engineer", "--jobage", "14", "--limit", "20", "--format", "json"],
-      "wf_engineer.json",
+      portals.rmt,
+      ["search", "-q", term, "--jobage", "14", "--limit", "12", "--format", "json"],
+      `rmt_${slug}.json`,
     );
   }
 } else {
   console.log("offline: reusing existing portal json dumps");
 }
 
-const prefixToPortal = [
-  ["li_", "LinkedIn"],
-  ["fh_", "Freehire"],
-  ["gupy_", "Gupy"],
-  ["rok_", "RemoteOK"],
-  ["him_", "Himalayas"],
-  ["wwr_", "WeWorkRemotely"],
-  ["rmt_", "Remotar"],
-  ["gh_", "GeekHunter"],
-  ["pth_", "Programathor"],
-  ["wf_", "Wellfound"],
-];
+const sourceFiles = queries.flatMap(({ slug }) => [
+  [`li_${slug}.json`, "LinkedIn"],
+  [`gupy_${slug}.json`, "Gupy"],
+  [`rmt_${slug}.json`, "Remotar"],
+]);
 
 const byKey = new Map();
-for (const f of fs.readdirSync(outDir)) {
-  if (!f.endsWith(".json")) continue;
-  const hit = prefixToPortal.find(([p]) => f.startsWith(p));
-  if (!hit) continue;
-  const [, portal] = hit;
+for (const [f, portal] of sourceFiles) {
+  const sourcePath = path.join(outDir, f);
+  if (!fs.existsSync(sourcePath)) continue;
   let data;
   try {
-    data = JSON.parse(fs.readFileSync(path.join(outDir, f), "utf8"));
+    data = JSON.parse(fs.readFileSync(sourcePath, "utf8"));
   } catch {
     continue;
   }
@@ -237,7 +146,7 @@ for (const f of fs.readdirSync(outDir)) {
       work_mode: r.work_mode || null,
       remote: true,
     };
-    if (!isBrazilRemote(job)) continue;
+    if (!isBrazilRemote(job) || !isRelevant(job)) continue;
     byKey.set(key, job);
   }
 }
@@ -248,7 +157,7 @@ fs.writeFileSync(
   JSON.stringify(
     {
       generated_at: new Date().toISOString(),
-      scope: "remote-brazil-only",
+      scope: "psychology-hr-remote-brazil",
       sources: Object.values(portalLabel),
       count: jobs.length,
       jobs,

@@ -9,7 +9,7 @@ description: >
   brazil, find wellfound jobs, search wellfound, look up this wellfound posting,
   vagas remotas brasil wellfound.
 context: fork
-enabled: true
+enabled: false  # startup/tech-first portal; outside this fork's Psychology/HR scope
 allowed-tools: Bash(bun run .agents/skills/wellfound-search/cli/src/cli.ts *)
 ---
 

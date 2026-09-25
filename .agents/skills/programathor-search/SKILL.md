@@ -8,7 +8,7 @@ description: >
   programathor, remote jobs brasil programathor, find programathor jobs, search
   programathor, look up this programathor posting, vagas remotas brasil programathor.
 context: fork
-enabled: true
+enabled: false  # developer-only portal; outside this fork's Psychology/HR search scope
 allowed-tools: Bash(bun run .agents/skills/programathor-search/cli/src/cli.ts *)
 ---
 
