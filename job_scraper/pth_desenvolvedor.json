@@ -6,6 +6,16 @@
   },
   "results": [
     {
+      "id": "33724",
+      "title": "Desenvolvedor(a) Mobile Flutter - Sênior",
+      "company": "Ubuntu Future Labs",
+      "location": "Remoto",
+      "date": null,
+      "url": "https://programathor.com.br/jobs/33724-desenvolvedor-a-mobile-flutter-senior",
+      "description": null,
+      "work_mode": "remoto"
+    },
+    {
       "id": "33685",
       "title": "Desenvolvedor Back-End Senior (AI Engineer)",
       "company": "LOLDESIGN Soluções Digitais LTDA",
@@ -16,12 +26,32 @@
       "work_mode": "remoto"
     },
     {
-      "id": "33724",
-      "title": "Desenvolvedor(a) Mobile Flutter - Sênior",
-      "company": "Ubuntu Future Labs",
+      "id": "33822",
+      "title": "Senior React Native Developer",
+      "company": null,
       "location": "Remoto",
       "date": null,
-      "url": "https://programathor.com.br/jobs/33724-desenvolvedor-a-mobile-flutter-senior",
+      "url": "https://programathor.com.br/jobs/33822-senior-react-native-developer",
+      "description": null,
+      "work_mode": "remoto"
+    },
+    {
+      "id": "33823",
+      "title": "Senior Angular Full-stack Developer",
+      "company": null,
+      "location": "Remoto",
+      "date": null,
+      "url": "https://programathor.com.br/jobs/33823-senior-angular-full-stack-developer",
+      "description": null,
+      "work_mode": "remoto"
+    },
+    {
+      "id": "33821",
+      "title": "Senior PHP Full-stack Developer",
+      "company": null,
+      "location": "Remoto",
+      "date": null,
+      "url": "https://programathor.com.br/jobs/33821-senior-php-full-stack-developer",
       "description": null,
       "work_mode": "remoto"
     },
@@ -56,52 +86,12 @@
       "work_mode": "remoto"
     },
     {
-      "id": "33766",
-      "title": "Desenvolvedor(a) Back-End Pleno - Automações de mensageria (META, WA Business)",
-      "company": "Lyza/RS",
-      "location": "Remoto",
-      "date": null,
-      "url": "https://programathor.com.br/jobs/33766-desenvolvedor-a-back-end-pleno-automacoes-de-mensageria-meta-wa-business",
-      "description": null,
-      "work_mode": "remoto"
-    },
-    {
-      "id": "33765",
-      "title": "Desenvolvedor(a) Back-End Pleno",
-      "company": "Crescer RH",
-      "location": "Remoto",
-      "date": null,
-      "url": "https://programathor.com.br/jobs/33765-desenvolvedor-a-back-end-pleno",
-      "description": null,
-      "work_mode": "remoto"
-    },
-    {
-      "id": "33764",
-      "title": "Desenvolvedor(a) Fullstack Sênior",
-      "company": "CECAM - Consultoria Econômica, Contábil e Administrativa Municipal LTDA",
-      "location": "Remoto",
-      "date": null,
-      "url": "https://programathor.com.br/jobs/33764-desenvolvedor-a-fullstack-senior",
-      "description": null,
-      "work_mode": "remoto"
-    },
-    {
-      "id": "33762",
-      "title": "Desenvolvedor Full Stack Sênior",
-      "company": "AGL Solutions Consultoria em TI",
-      "location": "Remoto",
-      "date": null,
-      "url": "https://programathor.com.br/jobs/33762-desenvolvedor-full-stack-senior",
-      "description": null,
-      "work_mode": "remoto"
-    },
-    {
-      "id": "33749",
-      "title": "Full-stack Engineer Node.js + React.js + AWS (USD-based pay)",
+      "id": "33811",
+      "title": "Data Architect SQL + MySQL + NoSQL (USD-based pay)",
       "company": null,
       "location": "Remoto",
       "date": null,
-      "url": "https://programathor.com.br/jobs/33749-full-stack-engineer-node-js-react-js-aws-usd-based-pay",
+      "url": "https://programathor.com.br/jobs/33811-data-architect-sql-mysql-nosql-usd-based-pay",
       "description": null,
       "work_mode": "remoto"
     },
@@ -116,22 +106,12 @@
       "work_mode": "remoto"
     },
     {
-      "id": "33750",
-      "title": "Database Administrator and Developer Sql + MySQL + AWS (USD-based pay)",
+      "id": "33749",
+      "title": "Full-stack Engineer Node.js + React.js + AWS (USD-based pay)",
       "company": null,
       "location": "Remoto",
       "date": null,
-      "url": "https://programathor.com.br/jobs/33750-database-administrator-and-developer-sql-mysql-aws-usd-based-pay",
-      "description": null,
-      "work_mode": "remoto"
-    },
-    {
-      "id": "33768",
-      "title": "Integrations Back-end Engineer Node.js + TypeScript + PostgreSQL (USD-based pay)",
-      "company": null,
-      "location": "Remoto",
-      "date": null,
-      "url": "https://programathor.com.br/jobs/33768-integrations-back-end-engineer-node-js-typescript-postgresql-usd-based-pay",
+      "url": "https://programathor.com.br/jobs/33749-full-stack-engineer-node-js-react-js-aws-usd-based-pay",
       "description": null,
       "work_mode": "remoto"
     },
@@ -146,12 +126,32 @@
       "work_mode": "remoto"
     },
     {
-      "id": "33811",
-      "title": "Data Architect SQL + MySQL + NoSQL (USD-based pay)",
-      "company": null,
+      "id": "13150",
+      "title": "Vencida Desenvolvedor(a) Back End Pleno",
+      "company": "Mandic Cloud Solution",
       "location": "Remoto",
       "date": null,
-      "url": "https://programathor.com.br/jobs/33811-data-architect-sql-mysql-nosql-usd-based-pay",
+      "url": "https://programathor.com.br/jobs/13150-desenvolvedor-a-back-end-pleno",
+      "description": null,
+      "work_mode": "remoto"
+    },
+    {
+      "id": "12931",
+      "title": "Vencida Desenvolvedor(a) C# / unity3D / AR Foundation",
+      "company": "36X Game Studio",
+      "location": "Remoto",
+      "date": null,
+      "url": "https://programathor.com.br/jobs/12931-desenvolvedor-a-c-unity3d-ar-foundation",
+      "description": null,
+      "work_mode": "remoto"
+    },
+    {
+      "id": "15335",
+      "title": "Vencida 9274 - Analista Desenvolvedor(a) Full Stack C#",
+      "company": "Talent Group",
+      "location": "Remoto",
+      "date": null,
+      "url": "https://programathor.com.br/jobs/15335-9274-analista-desenvolvedor-a-full-stack-c",
       "description": null,
       "work_mode": "remoto"
     }

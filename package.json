@@ -1,0 +1,8 @@
+{
+  "name": "ai-job-search",
+  "private": true,
+  "scripts": {
+    "dev": "bun job_scraper/ui/server.js",
+    "refresh": "bun job_scraper/refresh_jobs.js"
+  }
+}

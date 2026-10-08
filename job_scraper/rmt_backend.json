@@ -2,219 +2,225 @@
   "meta": {
     "count": 15,
     "page": 1,
-    "total": 667
+    "total": 784
   },
   "results": [
     {
-      "id": "163721",
-      "title": "Desenvolvedor Full Stack",
-      "company": "Foursys",
+      "id": "165752",
+      "title": "Senior Backend Developer",
+      "company": "Quartile",
       "location": "Remoto · Brasil",
-      "date": "2026-09-21T20:50:01.007-03:00",
-      "url": "https://www.linkedin.com/jobs/view/4469898220/?",
-      "description": "Responsabilidades e atribuições\n\nBuscamos um Desenvolvedor Full Stack com forte experiência em Java moderno, arquitetura de microserviços e serviços Cloud, capaz de construir soluções escaláveis, resilientes e de alta performance. Esperamos um profissional com domínio de boas práticas de engenharia, integração assíncrona e capacidade de atuar tanto no backend quanto no frontend quando necessário.\n\nHabilidades e Requisitos\n\n• Java\n\n• Docker\n\n• Spring Boot\n\n• ARQUITETURA HEXAGONAL\n\n• Kubernetes\n\n• Banco de dados SQL\n\n• Banco de dados NoSQL\n\n• DESENVOLVIMENTO DE APIS REST\n\n• TESTES AUTOMATIZADOS (JUNIT, MOCKITO)\n\n• VERSIONAMENTO COM GIT/GITHUB\n\n• MENSAGERIA COM KAFKA\n\n• CLOUD AZURE\n\n• MongoDB",
+      "date": "2026-10-07T21:06:23.590-03:00",
+      "url": "https://ats.rippling.com/pt-BR/careers-quartile/jobs/65ea83ce-24d2-433d-90d6-cabe570fdce1?utm_source=remotar",
+      "description": "Quartile, the world's largest retail media optimization platform, is a trusted partner for multichannel e-commerce success. Through unmatched expertise and patented AI technology, we fuel growth for 5,300+ brands and sellers worldwide and manage an annual ad spend exceeding $2 billion. The award-winning platform covers major marketplaces and ad channels for optimal reach. The result is unprecedented granularity, smarter budgeting, and bespoke solutions for retailers.\n\nQuartile is proud to be an equal opportunity employer with employees stemming from a wide range of backgrounds and experiences. As a business, we value the enrichment that diversity brings to our organization and are committed to a culture that creates a sense of inclusion and belonging. We welcome new perspectives and affirm that all employment decisions are made without regard to race, color, ancestry, religion, national origin, age, familial or marital status, sex, sexual orientation, pregnancy, gender identity or expression, disability, genetic information, veteran status, or any other classification protected by federal, state, or local law.\n\nOVERVIEW:\n\nWe are looking for a Backend Developer to join our Interface Team!\n\nREQUIREMENTS:\n\nProven experience as a back-end developer, preferably with at least 5 years of experience\n\nProficiency in .NET (C#) and knowledge in Phyton\n\nExperience in web application development using relevant frameworks such as ASP.NET Core and/or Flask\n\nSolid knowledge of SQL Server and data modeling\n\nAbility to optimize SQL queries and database performance\n\nFamiliarity with system integration through RESTful APIs and microservices\n\nExperience with version control systems, such as Git\n\nTroubleshooting and debugging skills\n\nAbility to work both independently and as part of a team\n\nStrong communication and collaboration skills\n\nStrong knowledge of the Azure platform, including expertise in API Management and Service Bus\n\nExcellent English communication skills (fluency in English is required for effective collaboration with English-speaking team members)\n\nWHAT YOU’LL DO:\n\nDevelop and maintain high-quality back-end applications using .NET and Python\n\nCollaborate with the development team to design and implement efficient solutions\n\nIntegrate systems and services using APIs and microservices\n\nOptimize application and database performance\n\nPerform code testing and debugging\n\nDocument code and development processes\n\nWork effectively in an agile team environment",
       "work_mode": "remote",
       "tags": [
         "🌍 100% Remoto",
-        "👌 Candidatura simplificada"
-      ]
-    },
-    {
-      "id": "163706",
-      "title": "Desenvolvedor(a) Java Pleno",
-      "company": "Framework",
-      "location": "Remoto · Brasil",
-      "date": "2026-09-21T20:30:01.836-03:00",
-      "url": "https://frameworkdigital.inhire.app/vagas/b376aeaf-8440-4e08-b52f-fc1f63a19e41/desenvolvedora-java-pleno",
-      "description": "A Framework Digital busca uma pessoa Desenvolvedora Java Pleno para atuar no desenvolvimento e evolução de soluções backend. A Rethink, parte da Framework Digital, é uma consultoria que une tecnologia, design e estratégia de produtos digitais para solucionar os desafios de grandes empresas brasileiras como Smiles, Gol, Santander Esfera, Swift e Comgás.\nResponsabilidades\nDesenvolver, testar e manter APIs e serviços backend utilizando Java e Spring Boot, com foco em qualidade, eficiência e confiabilidade;\nColaborar com times de frontend e demais stakeholders para garantir que as soluções atendam aos requisitos técnicos e de negócio;\nParticipar da evolução e manutenção das soluções desenvolvidas;\nDocumentar as soluções e práticas adotadas ao longo do desenvolvimento.",
-      "work_mode": "remote",
-      "tags": [
-        "😎 Pleno",
-        "🌍 100% Remoto"
-      ]
-    },
-    {
-      "id": "163699",
-      "title": "Desenvolvedor(a) Backend Pleno",
-      "company": "Poliedro Educação",
-      "location": "Remoto · Brasil",
-      "date": "2026-09-21T20:28:21.835-03:00",
-      "url": "https://poliedroeducacao.inhire.app/vagas/67d16de8-d9c7-4a21-9500-2786581bc570/desenvolvedora-backend-pleno-net-e-nodejs",
-      "description": "A Poliedro Educação, com mais de 30 anos de história, busca um(a) Desenvolvedor(a) Backend Pleno para atuar no desenvolvimento e manutenção de soluções escaláveis utilizando .NET e Node.js. O profissional irá colaborar com times de produto, frontend e infraestrutura, garantindo a qualidade do código e a melhoria contínua dos sistemas.\nResponsabilidades\nDesenvolver e manter soluções backend escaláveis utilizando .NET/Node.js.\nCriar e manter APIs, além de integrar sistemas internos.\nTrabalhar com mensageria e filas para orquestração e comunicação assíncrona entre serviços.\nColaborar com times de produto, frontend e infraestrutura para garantir entregas alinhadas às necessidades do negócio.\nGarantir qualidade do código com práticas de Clean Code, DDD, testes automatizados e revisões de código.\nMonitorar e melhorar sistemas em produção, utilizando ferramentas de observabilidade (logs, métricas, alertas).\nManter-se atualizado sobre novas tecnologias e boas práticas de desenvolvimento, promovendo melhorias contínuas.",
-      "work_mode": "remote",
-      "tags": [
-        "😎 Pleno",
-        "🌍 100% Remoto"
-      ]
-    },
-    {
-      "id": "163664",
-      "title": "Profissional Estagiário em Desenvolvimento",
-      "company": "Radix",
-      "location": "Remoto · Brasil",
-      "date": "2026-09-21T16:31:17.880-03:00",
-      "url": "https://radix.inhire.app/vagas/d997c854-4c23-4202-ac07-b7ec898575fd/profissional-estagiario-em-desenvolvimento",
-      "description": "A Radix está em busca de um(a) Estagiário(a) em Desenvolvimento para atuar no desenvolvimento e evolução de aplicações web, com foco em frontend e backend. O profissional apoiará o desenvolvimento de APIs e serviços em Python, colaborará na implementação de interfaces, dashboards e visualizações, e auxiliará na integração da aplicação com bancos de dados e diferentes fontes de dados. Também apoiará a implementação de rotinas de ingestão, processamento, armazenamento e disponibilização de dados, e trabalhará de forma colaborativa com desenvolvedores, cientistas de dados e engenheiros.\nResponsabilidades\nApoiar o desenvolvimento e evolução de aplicações web.\nDesenvolver e dar manutenção em funcionalidades de frontend e backend, com acompanhamento de profissionais mais experientes.\nApoiar o desenvolvimento de APIs e serviços em Python para disponibilização de dados, cálculos e funcionalidades da aplicação.\nColaborar na implementação de interfaces, dashboards e visualizações para acompanhamento de indicadores e resultados.\nApoiar a integração da aplicação com bancos de dados, APIs e diferentes fontes de dados.\nColaborar na integração dos modelos e cálculos desenvolvidos pelas equipes de Dados e Engenharia com a plataforma de software.\nApoiar a implementação de rotinas de ingestão, processamento, armazenamento e disponibilização de dados.\nEscrever código organizado, legível e testável, seguindo as boas práticas de desenvolvimento de software adotadas pelo time.\nUtilizar Git para versionamento de código e colaborar com o fluxo de desenvolvimento da equipe.\nApoiar a investigação e correção de bugs e problemas identificados durante o desenvolvimento e os testes da solução.\nParticipar de reuniões técnicas e discussões sobre as soluções desenvolvidas.\nDocumentar funcionalidades, integrações e implementações realizadas ao longo do projeto.\nTrabalhar de forma colaborativa com desenvolvedores, cientistas de dados e engenheiros, contribuindo para a evolução da solução.",
-      "work_mode": "remote",
-      "tags": [
-        "🌍 100% Remoto"
-      ]
-    },
-    {
-      "id": "163629",
-      "title": "ANALISTA DE ENGENHARIA DE SOFTWARE PL - Remoto",
-      "company": "Inmetrics",
-      "location": "Remoto · Brasil",
-      "date": "2026-09-21T13:15:53.019-03:00",
-      "url": "https://inmetrics.gupy.io/job/eyJqb2JJZCI6MTI1MjU1NDIsInNvdXJjZSI6InJlbW90YXIifQ==?jobBoardSource=remotar",
-      "description": "A Inmetrics busca um(a) Analista de Engenharia de Software Pleno para atuar no desenvolvimento de funcionalidades em produtos web, mobile ou backend, correção de bugs e melhorias em código existente. O profissional será responsável por escrever testes unitários e automatizados, participar de code reviews e colaborar com o time em reuniões diárias e cerimônias ágeis, trabalhando com arquitetura de microserviços e micro-frontends.\nResponsabilidades\nDesenvolver funcionalidades em produtos web, mobile ou backend;\nCorrigir bugs e realizar melhorias em código existente;\nEscrever testes unitários para garantir qualidade do código;\nEscrever testes automatizados web e app;\nParticipar de code reviews com outros desenvolvedores, para futuramente realizar code reviews;\nColaborar com o time em reuniões diárias e cerimônias ágeis;\nTrabalhar com arquitetura de microserviços e micro-frontends.",
-      "work_mode": "remote",
-      "tags": [
-        "😎 Pleno",
-        "💼 CLT",
-        "🌍 100% Remoto"
-      ]
-    },
-    {
-      "id": "163627",
-      "title": "Desenvolvedor React Sênior",
-      "company": "Premiersoft",
-      "location": "Remoto · Brasil",
-      "date": "2026-09-21T12:27:09.631-03:00",
-      "url": "https://premiersoft.inhire.app/vagas/d12b695e-f94f-46f3-9de6-ccca4d76155b/desenvolvedor-react-senior-or-remoto",
-      "description": "A Premiersoft está em busca de um Desenvolvedor React Sênior para integrar um projeto estratégico no setor agroindustrial. O profissional atuará na construção e evolução de uma plataforma corporativa de dados, especificamente no desenvolvimento de um portal proprietário de BI. O foco será na camada de experiência da plataforma, visando tornar o consumo de dados mais eficiente, intuitivo e performático, com impacto direto na usabilidade do produto e na integração com serviços analíticos.\nResponsabilidades\nDesenvolver e evoluir interfaces utilizando React.js e TypeScript.\nConstruir componentes reutilizáveis e escaláveis.\nAtuar na evolução da experiência do usuário (UX).\nIntegrar com APIs REST e serviços corporativos.\nGarantir performance, responsividade e qualidade da aplicação.\nContribuir com a arquitetura frontend e boas práticas (Clean Code/Architecture).\nAtuar em conjunto com times de backend, dados e negócio.",
-      "work_mode": "remote",
-      "tags": [
         "🧓🏽 Sênior",
-        "🌍 100% Remoto"
+        "🤝🏽 PJ"
       ]
     },
     {
-      "id": "163589",
-      "title": "Desenvolvedor Backend Sênior",
-      "company": "Digisystem",
+      "id": "165699",
+      "title": "Pessoa Especialista Desenvolvedora Backend",
+      "company": "YDUQS - Vagas Tech",
       "location": "Remoto · Brasil",
-      "date": "2026-09-18T21:11:33.434-03:00",
-      "url": "https://jobs.recrutei.com.br/digisystem/vacancy/158668-desenvolvedor-backend-sr?utm_source=remotar",
-      "description": "A Digisystem está em busca de um Desenvolvedor Backend Sênior para atuar no desenvolvimento, manutenção e evolução de aplicações corporativas. O profissional será responsável por garantir a qualidade, performance e escalabilidade das soluções, utilizando .NET Core 3.1+.\nResponsabilidades\nDesenvolver, manter e evoluir aplicações corporativas utilizando .NET Core 3.1+, garantindo qualidade, performance e escalabilidade das soluções.\nProjetar e implementar APIs RESTful e arquiteturas baseadas em microsserviços.\nDesenvolver integrações entre sistemas utilizando conceitos de mensageria e comunicação assíncrona.\nModelar, otimizar e realizar manutenção de bancos de dados SQL, criando consultas, procedures e rotinas de alta performance.\nImplementar e manter testes unitários, assegurando a qualidade e a confiabilidade das entregas.\nUtilizar Docker para criação, empacotamento e execução de aplicações em ambientes de desenvolvimento e produção.\nParticipar das definições de arquitetura, realizando análises técnicas e propondo melhorias contínuas para os sistemas.\nAtuar na identificação e resolução de problemas, realizando correções e otimizações de código.\nColaborar com equipes multidisciplinares seguindo metodologias ágeis, participando de cerimônias, refinamentos e revisões de código.\nContribuir para a implementação e manutenção de pipelines de integração e entrega contínua (CI/CD).",
-      "work_mode": "remote",
-      "tags": [
-        "💼 CLT",
-        "🧓🏽 Sênior",
-        "🌍 100% Remoto"
-      ]
-    },
-    {
-      "id": "163581",
-      "title": "Arquiteto de Software Sênior",
-      "company": "Montreal Oficial",
-      "location": "Remoto · Brasil",
-      "date": "2026-09-18T21:09:28.906-03:00",
-      "url": "https://montreal.gupy.io/job/eyJqb2JJZCI6MTI0NjcwODIsInNvdXJjZSI6InJlbW90YXIifQ==?jobBoardSource=remotar",
-      "description": "Como Arquiteto de Software Sênior na Montreal, você coordenará as decisões arquiteturais de software que afetam a aplicação. Atuará nas atividades de desenho da arquitetura, POC arquitetural, definição de padrões arquiteturais e de codificação de software, considerando as tecnologias e framework padrão adotados. Será responsável pela evolução das diretrizes arquiteturais e garantia da qualidade técnica dos sistemas, atuando de forma transversal unindo governança técnica e requisitos para o desenvolvimento de soluções sustentáveis e escaláveis.\nResponsabilidades\nDefinição de padrões arquiteturais, mentoria técnica da equipe e realização de revisão de código crítica.\nDesenho de soluções escaláveis de backend e frontend, alinhando escolhas tecnológicas aos objetivos de negócio.\nImplementação Full Stack das funcionalidades e módulos de maior complexidade técnica.\nDefinição de padrões de desenvolvimento, integração, versionamento, entrega e operação das aplicações.\nParticipação na definição da arquitetura de infraestrutura, estratégias de deploy, escalabilidade, disponibilidade e observabilidade.\nDefinição de padrões para containers, pipelines de CI/CD e automação do ciclo de desenvolvimento e implantação.\nApoio à definição de estratégias de segurança, continuidade, monitoramento e operação dos ambientes.",
+      "date": "2026-10-07T16:21:00.425-03:00",
+      "url": "https://yduqstech.gupy.io/job/eyJqb2JJZCI6MTIyMTQ4ODUsInNvdXJjZSI6InJlbW90YXIifQ==?jobBoardSource=remotar",
+      "description": "A YDUQS busca uma Pessoa Especialista Desenvolvedora Backend para atuar no desenvolvimento e manutenção de microsserviços escaláveis e de alta disponibilidade. O profissional trabalhará com tecnologias como Node.js e AWS, garantindo a integração eficiente entre sistemas internos e externos e gerenciando soluções resilientes em ambientes de produção.\nResponsabilidades\nDesenvolver e manter microsserviços escaláveis e de alta disponibilidade utilizando Node.js e AWS.\nGarantir a integração eficiente entre sistemas internos e externos, usando SNS, SQS, Lambda e outras tecnologias relevantes.\nTrabalhar com bancos de dados Oracle, PostgreSQL, MySQL, MongoDB e DynamoDB.\nProjetar, implementar e gerenciar soluções escaláveis e resilientes em ambientes de produção.",
       "work_mode": "remote",
       "tags": [
         "♿ PcD",
-        "🧓🏽 Sênior",
         "💼 CLT",
         "🌍 100% Remoto"
       ]
     },
     {
-      "id": "163569",
-      "title": "Pessoa Desenvolvedora Fullstack React/Kotlin/Java Especialista I (RGM e Demanda)",
-      "company": "Grupo Boticário",
-      "location": "Remoto · Brasil",
-      "date": "2026-09-18T21:06:04.959-03:00",
-      "url": "https://grupoboticario.gupy.io/job/eyJqb2JJZCI6MTI0ODU3NzEsInNvdXJjZSI6InJlbW90YXIifQ==?jobBoardSource=remotar",
-      "description": "O Grupo Boticário busca uma Pessoa Desenvolvedora Fullstack Especialista I para atuar com React, Kotlin e Java. Você contribuirá ativamente com o desenho técnico e a evolução da Plataforma de Planejamento de RGM e Demanda, trabalhando desde a interface de alta densidade (One Page Cockpit) até a manutenção de endpoints e persistência no calculation-engine.\nResponsabilidades\nContribuir ativamente com o desenho técnico e a evolução da aplicação de Plataforma de Planejamento de RGM e Demanda.\nAtuar desde a interface de alta densidade (One Page Cockpit) até a manutenção de endpoints e persistência no calculation-engine.\nDesenvolver uma interface reativa e fluida utilizando React 18, Vite e TypeScript.\nAplicar técnicas de virtualização (TanStack Virtual v3) para renderizar grandes volumes de dados em tela.\nImplementar lógicas de negócios complexas no cliente, gerenciando estados de alta frequência via Zustand e TanStack Query.\nSincronizar de forma eficiente as edições de rascunhos (drafts) com o backend.\nConstruir e dar manutenção em serviços utilizando Kotlin K2 e Spring Boot.\nGarantir que fluxos de consolidação e aprovação não bloqueiem a thread HTTP, integrando-se a mecanismos de orquestração assíncrona.\nAtuar com banco de dados PostgreSQL (RDS), elaborando migrações com Flyway.\nRespeitar as restrições arquiteturais da plataforma (como a segregação rigorosa de leitura e escrita entre schemas).\nImplementar a camada gráfica exclusivamente com Recharts.\nIntegrar o fluxo de autenticação e carteirização de serviços via Microsoft Entra ID (Azure ID) e SSO (JWT).",
-      "work_mode": "remote",
-      "tags": [
-        "♿ PcD",
-        "🧓🏽 Sênior",
-        "💼 CLT",
-        "🌍 100% Remoto"
-      ]
-    },
-    {
-      "id": "163511",
-      "title": "Trabalhe de Casa Desenvolvedor Go / Ref. 0138P",
-      "company": "BairesDev",
-      "location": "Remoto · Brasil",
-      "date": "2026-09-18T13:06:06.093-03:00",
-      "url": "https://applicants.bairesdev.com/job/138/286834/apply?utm_source=remotar&utm_medium=jobposting&utm_campaign=usa-20260918",
-      "description": "Há mais de 15 anos, a BairesDev® é líder em projetos tecnológicos. Entregamos soluções inovadoras para gigantes como Google e Rolls-Royce e as startups mais inovadoras do Vale do Silício.\n\nTemos uma equipe diversa de mais de 4.000 profissionais formada pelo Top 1% dos talentos de tecnologia do mundo, trabalhando remotamente em cargos de impacto global.\n\nAo se candidatar para este cargo, você está dando o primeiro passo em um processo que vai além do comum. Nosso objetivo é alinhar suas paixões, habilidades, e expectativas às nossas vagas, colocando você no caminho para desenvolver uma carreira de sucesso excepcional.\n\nDesenvolvedor Go na BairesDev\n\nDesenvolva e mantenha aplicações backend usando Go. Esta função foca na construção de serviços escaláveis, colaboração com equipes multifuncionais e implementação de melhores práticas ao longo do ciclo de vida de desenvolvimento de software.\n\nO Que Você Fará:\n\n- Projetar, desenvolver e manter aplicações Go e serviços backend.\n\n- Escrever código limpo e eficiente seguindo melhores práticas Go e padrões de codificação.\n\n- Construir e integrar APIs, microsserviços e sistemas de banco de dados.\n\n- Colaborar com membros da equipe para coletar requisitos e implementar soluções.\n\n- Participar de revisões de código e contribuir para iniciativas de melhoria contínua.\n\n- Fazer debug e otimizar aplicações para garantir performance e confiabilidade.\n\nO Que Procuramos:\n\n- 3+ anos de experiência com desenvolvimento Go.\n\n- Sólido conhecimento de Go, programação concorrente e padrões de design de software.\n\n- Experiência com APIs RESTful e arquitetura de microsserviços.\n\n- Familiaridade com tecnologias de banco de dados e plataformas cloud.\n\n- Compreensão de princípios de desenvolvimento de software e metodologias de testes.\n\n- Nível avançado de inglês.\n\nComo tornamos seu trabalho (e sua vida) mais fácil:\n\n- Modalidade 100% remota - trabalhe de qualquer lugar.\n\n- Excelente remuneração em USD ou na sua moeda local, como preferir.\n\n- Hardware para você trabalhar de casa.\n\n- Horários flexíveis - faça seu próprio horário.\n\n- Licença parental remunerada, férias, e feriados nacionais.\n\n- Ambiente de trabalho inovador e multicultural.\n\n- Colabore e aprenda com o Top 1% global dos talentos de cada área.\n\n- Ambiente de apoio com mentoria, promoções, desenvolvimento de habilidades, e diversas oportunidades de crescimento.\n\nJunte-se a uma equipe global onde seus talentos excepcionais podem se destacar!",
-      "work_mode": "remote",
-      "tags": [
-        "🌍 100% Remoto"
-      ]
-    },
-    {
-      "id": "163503",
-      "title": "Work From Home Fullstack Engineer (Python + React) / Ref. 0071E",
-      "company": "BairesDev",
-      "location": "Remoto · Brasil",
-      "date": "2026-09-18T13:04:36.934-03:00",
-      "url": "https://applicants.bairesdev.com/job/71/303050/apply?utm_source=remotar&utm_medium=jobposting&utm_campaign=usa-20260918",
-      "description": "At BairesDev®, we've been leading the way in technology projects for over 15 years. We deliver cutting-edge solutions to giants like Google and the most innovative startups in Silicon Valley.\n\nOur diverse 4,000+ team, composed of the world's Top 1% of tech talent, works remotely on roles that drive significant impact worldwide.\n\nWhen you apply for this position, you're taking the first step in a process that goes beyond the ordinary. We aim to align your passions and skills with our vacancies, setting you on a path to exceptional career development and success.\n\nFullstack Engineer (Python + React) at BairesDev\n\nIn this role, you'll join the engineering team behind an enterprise AI assistant used daily by thousands of employees. You'll contribute across both backend and frontend, working comfortably on both sides of the stack.\n\nWhat You'll Do:\n\n- Contribute to features spanning backend logic and frontend interface.\n\n- Help build and maintain Python services powering core application logic.\n\n- Help develop frontend features using React with TypeScript.\n\n- Balance work across the stack between backend and frontend.\n\nWhat we are looking for:\n\n- 7+ years of professional software development experience.\n\n- Experience building services with Python.\n\n- Experience with React and TypeScript.\n\n- Experience with AWS.\n\n- LLM work already shipped to real users.\n\n- Availability to work PST hours.\n\n- Advanced level of English.\n\nHow we do make your work (and your life) easier:\n\n- 100% remote work (from anywhere).\n\n- Excellent compensation in USD or your local currency if preferred\n\n- Hardware and software setup for you to work from home.\n\n- Flexible hours: create your own schedule.\n\n- Paid parental leaves, vacations, and holidays.\n\n- Innovative and multicultural work environment: collaborate and learn from the global Top 1% of talent.\n\n- Supportive environment with mentorship, promotions, skill development, and diverse growth opportunities.\n\nApply now and become part of a global team where your unique talents can truly thrive!",
-      "work_mode": "remote",
-      "tags": [
-        "🌍 100% Remoto"
-      ]
-    },
-    {
-      "id": "163501",
-      "title": "Trabalhe de Casa Desenvolvedor de Software Frontend / Ref. 0054P",
-      "company": "BairesDev",
-      "location": "Remoto · Brasil",
-      "date": "2026-09-18T13:04:01.973-03:00",
-      "url": "https://applicants.bairesdev.com/job/54/285618/apply?utm_source=remotar&utm_medium=jobposting&utm_campaign=usa-20260918",
-      "description": "Há mais de 15 anos, a BairesDev® é líder em projetos tecnológicos. Entregamos soluções inovadoras para gigantes como Google e Rolls-Royce e as startups mais inovadoras do Vale do Silício.\n\nTemos uma equipe diversa de mais de 4.000 profissionais formada pelo Top 1% dos talentos de tecnologia do mundo, trabalhando remotamente em cargos de impacto global.\n\nAo se candidatar para este cargo, você está dando o primeiro passo em um processo que vai além do comum. Nosso objetivo é alinhar suas paixões, habilidades, e expectativas às nossas vagas, colocando você no caminho para desenvolver uma carreira de sucesso excepcional.\n\nDesenvolvedor de Software Frontend na BairesDev\n\nComo Desenvolvedor de Software Frontend na BairesDev, você projetará e implementará aplicações web dinâmicas usando tecnologias e frameworks frontend modernos. Você aplicará sua expertise para criar interfaces de usuário responsivas, otimizar o desempenho de aplicações e colaborar com equipes multifuncionais para entregar soluções de software robustas que proporcionem experiências excepcionais aos usuários e atendam a diversos requisitos de negócio.\n\nO que você fará:\n\n- Projetar, desenvolver e manter aplicações frontend complexas demonstrando habilidades avançadas de resolução de problemas e proficiência em codificação.\n\n- Criar interfaces de usuário responsivas e interativas usando frameworks e bibliotecas JavaScript modernos.\n\n- Colaborar com designers, desenvolvedores backend e equipes de produto para implementar soluções coesas.\n\n- Otimizar aplicações para máxima velocidade, escalabilidade e compatibilidade entre navegadores.\n\n- Implementar e manter bibliotecas de componentes e sistemas de design para consistência entre projetos.\n\n- Participar em revisões de código e discussões técnicas para aprimorar os padrões gerais de desenvolvimento.\n\nO que estamos procurando:\n\n- 3+ anos de experiência em desenvolvimento de software frontend.\n\n- Forte conhecimento de JavaScript, HTML, CSS e frameworks frontend modernos.\n\n- Experiência com princípios de design responsivo e desenvolvimento cross-browser.\n\n- Compreensão do ciclo de vida de desenvolvimento de software e sistemas de controle de versão.\n\n- Familiaridade com ferramentas de build, frameworks de teste e processos de deployment.\n\n- Capacidade de trabalhar com APIs e integrar aplicações frontend com serviços backend.\n\n- Inglês avançado.\n\nComo tornamos seu trabalho (e sua vida) mais fácil:\n\n- Modalidade 100% remota - trabalhe de qualquer lugar.\n\n- Excelente remuneração em USD ou na sua moeda local, como preferir.\n\n- Hardware para você trabalhar de casa.\n\n- Horários flexíveis - faça seu próprio horário.\n\n- Licença parental remunerada, férias, e feriados nacionais.\n\n- Ambiente de trabalho inovador e multicultural.\n\n- Colabore e aprenda com o Top 1% global dos talentos de cada área.\n\n- Ambiente de apoio com mentoria, promoções, desenvolvimento de habilidades, e diversas oportunidades de crescimento.\n\nJunte-se a uma equipe global onde seus talentos excepcionais podem se destacar!",
-      "work_mode": "remote",
-      "tags": [
-        "🌍 100% Remoto"
-      ]
-    },
-    {
-      "id": "163498",
-      "title": "Work From Home Frontend Software Developer / Ref. 0054E",
-      "company": "BairesDev",
-      "location": "Remoto · Brasil",
-      "date": "2026-09-18T13:03:39.252-03:00",
-      "url": "https://applicants.bairesdev.com/job/54/285617/apply?utm_source=remotar&utm_medium=jobposting&utm_campaign=usa-20260918",
-      "description": "At BairesDev®, we've been leading the way in technology projects for over 15 years. We deliver cutting-edge solutions to giants like Google and the most innovative startups in Silicon Valley.\n\nOur diverse 4,000+ team, composed of the world's Top 1% of tech talent, works remotely on roles that drive significant impact worldwide.\n\nWhen you apply for this position, you're taking the first step in a process that goes beyond the ordinary. We aim to align your passions and skills with our vacancies, setting you on a path to exceptional career development and success.\n\nFrontend Software Developer at BairesDev\n\nAs a Frontend Software Developer at BairesDev, you will design and implement dynamic web applications using modern frontend technologies and frameworks. You'll apply your expertise to create responsive user interfaces, optimize application performance, and collaborate with cross-functional teams to deliver robust software solutions that provide exceptional user experiences and meet diverse business requirements.\n\nWhat You'll Do:\n\n- Design, develop, and maintain complex frontend applications demonstrating advanced problem-solving skills and coding proficiency.\n\n- Create responsive and interactive user interfaces using modern JavaScript frameworks and libraries.\n\n- Collaborate with designers, backend developers, and product teams to implement cohesive solutions.\n\n- Optimize applications for maximum speed, scalability, and cross-browser compatibility.\n\n- Implement and maintain component libraries and design systems for consistency across projects.\n\n- Participate in code reviews and technical discussions to enhance overall development standards.\n\nWhat We Are Looking For:\n\n- 3+ years of experience in frontend software development.\n\n- Strong knowledge of JavaScript, HTML, CSS, and modern frontend frameworks.\n\n- Experience with responsive design principles and cross-browser development.\n\n- Understanding of software development lifecycle and version control systems.\n\n- Familiarity with build tools, testing frameworks, and deployment processes.\n\n- Ability to work with APIs and integrate frontend applications with backend services.\n\n- Advanced level of English.\n\nHow we do make your work (and your life) easier:\n\n- 100% remote work (from anywhere).\n\n- Excellent compensation in USD or your local currency if preferred\n\n- Hardware and software setup for you to work from home.\n\n- Flexible hours: create your own schedule.\n\n- Paid parental leaves, vacations, and holidays.\n\n- Innovative and multicultural work environment: collaborate and learn from the global Top 1% of talent.\n\n- Supportive environment with mentorship, promotions, skill development, and diverse growth opportunities.\n\nApply now and become part of a global team where your unique talents can truly thrive!",
-      "work_mode": "remote",
-      "tags": [
-        "🌍 100% Remoto"
-      ]
-    },
-    {
-      "id": "163493",
-      "title": "Pessoa Desenvolvedora Flutter - Sênior",
+      "id": "165693",
+      "title": "Desenvolvedor Backend",
       "company": "Grupo FCamara",
       "location": "Remoto · Brasil",
-      "date": "2026-09-18T13:02:47.621-03:00",
-      "url": "https://fcamara.gupy.io/job/eyJqb2JJZCI6MTI1MjM2NDcsInNvdXJjZSI6InJlbW90YXIifQ==?jobBoardSource=remotar",
-      "description": "Estamos em busca de uma Pessoa Desenvolvedora Mobile (Flutter) Sênior para atuar no time de engenharia de um dos nossos clientes de Health, uma das maiores plataformas de benefícios de saúde que proporciona acesso a mais de 29 mil academias e com presença em mais de 2500 cidades no Brasil e México. A empresa possui uma cultura técnica sólida, baixíssimo turnover e forte valorização de times internos. Buscamos profissionais curiosos, proativos e com visão de impacto no negócio, que dominem Flutter, mas tenham disposição real para navegar por outras tecnologias do ecossistema (TypeScript e Ruby), entendendo o produto de ponta a ponta. É um ambiente onde a qualidade é responsabilidade direta do desenvolvedor, sem times separados de QA: quem desenvolve, testa, garante e sustenta. Você atuará com muita autonomia em um projeto temporário de 2 a 3 meses, com possibilidade de ganhar espaço e permanecer.\nResponsabilidades\nDesenvolver e evoluir o aplicativo mobile em Flutter (Dart), utilizado diariamente por milhares de usuários.\nAtuar ativamente na arquitetura do app, garantindo escalabilidade, modularização e performance.\nImplementar e evoluir features críticas como: Geolocalização e mapas, Check-in de usuários, Integração com meios de pagamento.\nIntegrar o aplicativo com APIs REST, entendendo também os fluxos de backend.\nGarantir alta qualidade de entrega, sendo responsável por testes de comportamento (caixa-preta).\nParticipar de code reviews, decisões técnicas e discussões de produto.\nMonitorar a saúde do app em produção (crashes, performance, estabilidade).\nAtuar no processo de deploy e publicação nas lojas (Android e iOS) com CI/CD.\nColaborar de forma próxima com Produto e Design, sempre conectando decisões técnicas ao impacto no negócio.",
+      "date": "2026-10-07T16:19:34.907-03:00",
+      "url": "https://fcamara.gupy.io/job/eyJqb2JJZCI6MTI2OTE2MjksInNvdXJjZSI6InJlbW90YXIifQ==?jobBoardSource=remotar",
+      "description": "Buscamos um(a) Desenvolvedor Backend para atuar em um squad multidisciplinar responsável pela construção de um novo produto digital vinculado a um cliente do segmento financeiro. O profissional será responsável pelo desenvolvimento dos serviços, APIs, regras de negócio e integrações que suportarão as aplicações mobile iOS e Android, incluindo a implementação da arquitetura necessária para suportar o conceito de Server-Driven UI (SDUI).\nResponsabilidades\nDesenvolver e evoluir serviços backend responsáveis pelo produto.\nConstruir APIs escaláveis, seguras e de alta disponibilidade para consumo pelas aplicações mobile.\nImplementar regras de negócio relacionadas a funcionalidades do produto.\nImplementar serviços responsáveis por fornecer configurações e estruturas necessárias para a estratégia de Server-Driven UI.\nDefinir e evoluir contratos entre backend e aplicações mobile.\nDesenvolver serviços seguindo princípios de arquitetura modular e desacoplada.\nImplementar integrações com serviços e plataformas existentes no ecossistema do cliente.\nDesenvolver mecanismos de autenticação, autorização e controle de acesso.\nImplementar tratamento de concorrência, idempotência e consistência das operações.\nGarantir rastreabilidade das operações realizadas pelos usuários.\nImplementar tratamento adequado de erros, exceções e indisponibilidades.\nCriar testes unitários, testes de integração e apoiar testes automatizados.\nParticipar de code reviews e definição de padrões de desenvolvimento.\nApoiar estratégias de observabilidade utilizando logs estruturados, métricas e distributed tracing.\nTrabalhar em conjunto com Arquitetura, Mobile, QA, Product Owner e Squad Leader.\nApoiar análise de performance, troubleshooting e melhoria contínua dos serviços.",
       "work_mode": "remote",
       "tags": [
-        "♿ PcD",
-        "🧓🏽 Sênior",
-        "👩‍💻 Freelancer",
-        "😎 Pleno",
         "🌍 100% Remoto"
       ]
     },
     {
-      "id": "163488",
-      "title": "Work From Home Flutter Mobile Engineer (Amazon Cognito) / Ref. 0825E",
-      "company": "BairesDev",
+      "id": "165692",
+      "title": "Desenvolvedor Backend",
+      "company": "Grupo FCamara",
       "location": "Remoto · Brasil",
-      "date": "2026-09-18T13:01:39.750-03:00",
-      "url": "https://applicants.bairesdev.com/job/825/303077/apply?utm_source=remotar&utm_medium=jobposting&utm_campaign=usa-20260918",
-      "description": "At BairesDev®, we've been leading the way in technology projects for over 15 years. We deliver cutting-edge solutions to giants like Google and the most innovative startups in Silicon Valley.\n\nOur diverse 4,000+ team, composed of the world's Top 1% of tech talent, works remotely on roles that drive significant impact worldwide.\n\nWhen you apply for this position, you're taking the first step in a process that goes beyond the ordinary. We aim to align your passions and skills with our vacancies, setting you on a path to exceptional career development and success.\n\nFlutter Mobile Engineer (Amazon Cognito) at BairesDev\n\nAs a Flutter Mobile Engineer (Amazon Cognito), you will specialize in cross-platform mobile development, designing and creating secure application architectures. You will connect modern front-end user interfaces with cloud-based identity verification frameworks, ensuring seamless and protected user experiences across devices.\n\nWhat You'll Do:\n\n- Architect and build high-performance mobile applications using multi-platform frameworks.\n\n- Implement secure, cloud-hosted user authentication and access management systems.\n\n- Collaborate with design and backend teams to integrate reliable end-to-end application features.\n\n- Optimize mobile software delivery workflows and enforce security best practices.\n\nWhat we are looking for:\n\n- 5+ years of experience in Mobile Engineering, specializing in multi-platform development.\n\n- Proven expertise in developing mobile applications using the Flutter framework.\n\n- Hands-on experience integrating cloud-based authentication services, specifically Amazon Cognito.\n\n- Strong understanding of mobile application architecture, deployment pipelines, and security best practices.\n\n- Advanced proficiency in English.\n\nHow we do make your work (and your life) easier:\n\n- 100% remote work (from anywhere).\n\n- Excellent compensation in USD or your local currency if preferred\n\n- Hardware and software setup for you to work from home.\n\n- Flexible hours: create your own schedule.\n\n- Paid parental leaves, vacations, and holidays.\n\n- Innovative and multicultural work environment: collaborate and learn from the global Top 1% of talent.\n\n- Supportive environment with mentorship, promotions, skill development, and diverse growth opportunities.\n\nApply now and become part of a global team where your unique talents can truly thrive!",
+      "date": "2026-10-07T16:19:18.283-03:00",
+      "url": "https://fcamara.gupy.io/job/eyJqb2JJZCI6MTI2OTE3MTEsInNvdXJjZSI6InJlbW90YXIifQ==?jobBoardSource=remotar",
+      "description": "Buscamos um Desenvolvedor Backend para atuar em um squad multidisciplinar responsável pela construção de um novo produto digital vinculado a um cliente do segmento financeiro. O profissional será responsável pelo desenvolvimento dos serviços, APIs, regras de negócio e integrações que suportarão as aplicações mobile iOS e Android, incluindo a implementação da arquitetura necessária para suportar o conceito de Server-Driven UI (SDUI).\nResponsabilidades\nDesenvolver e evoluir serviços backend responsáveis pelo produto.\nConstruir APIs escaláveis, seguras e de alta disponibilidade para consumo pelas aplicações mobile.\nImplementar regras de negócio relacionadas a funcionalidades do produto.\nImplementar serviços responsáveis por fornecer configurações e estruturas necessárias para a estratégia de Server-Driven UI.\nDefinir e evoluir contratos entre backend e aplicações mobile.\nDesenvolver serviços seguindo princípios de arquitetura modular e desacoplada.\nImplementar integrações com serviços e plataformas existentes no ecossistema do cliente.\nDesenvolver mecanismos de autenticação, autorização e controle de acesso.\nImplementar tratamento de concorrência, idempotência e consistência das operações.\nGarantir rastreabilidade das operações realizadas pelos usuários.\nImplementar tratamento adequado de erros, exceções e indisponibilidades.\nCriar testes unitários, testes de integração e apoiar testes automatizados.\nParticipar de code reviews e definição de padrões de desenvolvimento.\nApoiar estratégias de observabilidade utilizando logs estruturados, métricas e distributed tracing.\nTrabalhar em conjunto com Arquitetura, Mobile, QA, Product Owner e Squad Leader.\nApoiar análise de performance, troubleshooting e melhoria contínua dos serviços.",
       "work_mode": "remote",
       "tags": [
+        "🌍 100% Remoto"
+      ]
+    },
+    {
+      "id": "165690",
+      "title": "Analista de testes/QA",
+      "company": "Grupo FCamara",
+      "location": "Remoto · Brasil",
+      "date": "2026-10-07T16:18:49.984-03:00",
+      "url": "https://fcamara.gupy.io/job/eyJqb2JJZCI6MTI2OTE3MzcsInNvdXJjZSI6InJlbW90YXIifQ==?jobBoardSource=remotar",
+      "description": "Buscamos um(a) Analista de Testes/QA para atuar em um squad multidisciplinar responsável pela construção de um novo produto digital vinculado a um cliente do segmento financeiro. O profissional será responsável por garantir a qualidade funcional e técnica da solução, atuando de forma integrada com Product Owner, Squad Leader, Arquitetura, desenvolvedores Mobile e Backend durante todo o ciclo de desenvolvimento. O projeto contempla aplicações nativas iOS/Swift e Android/Kotlin, serviços Backend/APIs, arquitetura modular e utilização de Server-Driven UI (SDUI), exigindo uma estratégia de qualidade que considere toda a jornada ponta a ponta.\nResponsabilidades\nDefinir e executar a estratégia de testes do produto.\nParticipar dos refinamentos de histórias junto ao Product Owner e ao time de desenvolvimento.\nAnalisar requisitos, histórias de usuário e critérios de aceite, identificando antecipadamente cenários, riscos e gaps de qualidade.\nElaborar planos, cenários, casos e evidências de testes.\nExecutar testes funcionais, regressivos, exploratórios, integração e End-to-End.\nValidar jornadas completas envolvendo aplicações Mobile, APIs, Backend e integrações.\nRealizar testes das aplicações nativas iOS e Android, considerando diferentes versões de sistemas operacionais e dispositivos.\nValidar funcionalidades relacionadas à criação de grupos, inclusão de participantes, lançamento de despesas, divisão/rateio de valores, saldos e demais jornadas do produto.\nValidar regras de negócio.\nRealizar testes de APIs e serviços Backend.\nValidar contratos, payloads, códigos de retorno, tratamento de exceções e regras de negócio das APIs.\nCriar e manter testes automatizados para jornadas críticas do produto.\nApoiar a implementação de testes automatizados dentro dos pipelines de CI/CD.\nIdentificar, registrar, acompanhar e apoiar a análise de defeitos.\nTrabalhar junto aos desenvolvedores na identificação de causa raiz de problemas.\nApoiar testes de performance, segurança, resiliência e disponibilidade.\nAcompanhar indicadores de qualidade e contribuir para a melhoria contínua do processo de desenvolvimento.",
+      "work_mode": "remote",
+      "tags": [
+        "♿ PcD",
+        "🌍 100% Remoto"
+      ]
+    },
+    {
+      "id": "165687",
+      "title": "Desenvolvedor Mobile Frontend Android",
+      "company": "Grupo FCamara",
+      "location": "Remoto · Brasil",
+      "date": "2026-10-07T16:18:08.349-03:00",
+      "url": "https://fcamara.gupy.io/job/eyJqb2JJZCI6MTI2OTE0NzUsInNvdXJjZSI6InJlbW90YXIifQ==?jobBoardSource=remotar",
+      "description": "Buscamos um(a) Desenvolvedor Mobile Front para atuar em um squad multidisciplinar responsável pela construção de um novo produto digital vinculado a um cliente do segmento financeiro. O profissional atuará no desenvolvimento das experiências mobile utilizando tecnologias nativas Android (Kotlin), dentro de uma arquitetura modular e com adoção de Server-Driven UI (SDUI).\nResponsabilidades\nDesenvolver e evoluir funcionalidades mobile integradas aos demais aplicativos do cliente.\nAtuar no desenvolvimento nativo para Android utilizando Kotlin.\nImplementar interfaces responsivas, fluidas e aderentes aos padrões de UX/UI definidos para o produto.\nDesenvolver componentes reutilizáveis dentro de uma arquitetura modular e plugável.\nImplementar componentes e jornadas utilizando conceitos de Server-Driven UI.\nInterpretar configurações e contratos enviados pelo backend para renderização dinâmica das interfaces.\nIntegrar aplicações mobile com APIs e serviços backend.\nTrabalhar com estados, cache, persistência local e sincronização de informações.\nImplementar tratamento de erros, indisponibilidade de serviços e cenários de conectividade.\nGarantir performance, estabilidade e fluidez das jornadas.\nImplementar práticas de segurança no desenvolvimento mobile, considerando o contexto de uma instituição financeira.\nDesenvolver testes unitários, testes de integração e apoiar estratégias de testes automatizados.\nParticipar de code reviews e definição de padrões técnicos.\nTrabalhar em conjunto com Backend, Arquitetura, QA, Product Owner e UX/UI.\nApoiar a evolução contínua da arquitetura mobile e dos componentes compartilhados.\nApoiar estratégias de observabilidade, monitoramento e análise de falhas das aplicações.",
+      "work_mode": "remote",
+      "tags": [
+        "🌍 100% Remoto"
+      ]
+    },
+    {
+      "id": "165685",
+      "title": "Desenvolvedor Mobile Frontend IOS",
+      "company": "Grupo FCamara",
+      "location": "Remoto · Brasil",
+      "date": "2026-10-07T16:17:37.959-03:00",
+      "url": "https://fcamara.gupy.io/job/eyJqb2JJZCI6MTI2OTE1OTYsInNvdXJjZSI6InJlbW90YXIifQ==?jobBoardSource=remotar",
+      "description": "Buscamos um(a) Desenvolvedor Mobile Front para atuar em um squad multidisciplinar responsável pela construção de um novo produto digital vinculado a um cliente do segmento financeiro. O profissional atuará no desenvolvimento das experiências mobile utilizando tecnologias nativas iOS (Swift), dentro de uma arquitetura modular e com adoção de Server-Driven UI (SDUI).\nResponsabilidades\nDesenvolver e evoluir funcionalidades mobile integradas aos demais aplicativos do cliente.\nAtuar no desenvolvimento nativo para iOS utilizando Swift.\nImplementar interfaces responsivas, fluidas e aderentes aos padrões de UX/UI definidos para o produto.\nDesenvolver componentes reutilizáveis dentro de uma arquitetura modular e plugável.\nImplementar componentes e jornadas utilizando conceitos de Server-Driven UI.\nInterpretar configurações e contratos enviados pelo backend para renderização dinâmica das interfaces.\nIntegrar aplicações mobile com APIs e serviços backend.\nTrabalhar com estados, cache, persistência local e sincronização de informações.\nImplementar tratamento de erros, indisponibilidade de serviços e cenários de conectividade.\nGarantir performance, estabilidade e fluidez das jornadas.\nImplementar práticas de segurança no desenvolvimento mobile, considerando o contexto de uma instituição financeira.\nDesenvolver testes unitários, testes de integração e apoiar estratégias de testes automatizados.\nParticipar de code reviews e definição de padrões técnicos.\nTrabalhar em conjunto com Backend, Arquitetura, QA, Product Owner e UX/UI.\nApoiar a evolução contínua da arquitetura mobile e dos componentes compartilhados.\nApoiar estratégias de observabilidade, monitoramento e análise de falhas das aplicações.",
+      "work_mode": "remote",
+      "tags": [
+        "🌍 100% Remoto"
+      ]
+    },
+    {
+      "id": "165684",
+      "title": "Desenvolvedor(a) Mobile IOS I",
+      "company": "Omie",
+      "location": "Remoto · Brasil",
+      "date": "2026-10-07T16:17:23.201-03:00",
+      "url": "https://carreirasomie.gupy.io/job/eyJqb2JJZCI6MTI2ODM1NDQsInNvdXJjZSI6InJlbW90YXIifQ==?jobBoardSource=remotar",
+      "description": "A Omie busca um(a) Desenvolvedor(a) Mobile iOS I para atuar na área de Serviços Financeiros, contribuindo para o desenvolvimento e manutenção de funcionalidades de aplicativos móveis com foco em eficiência e qualidade. O profissional irá integrar uma das empresas de tecnologia que mais cresce no país, em um ambiente que valoriza a adaptação, o senso colaborativo e a inovação contínua.\nResponsabilidades\nDesenvolver e manter funcionalidades de aplicativos móveis (Android/iOS) com foco em eficiência e qualidade.\nImplementar interfaces de usuário responsivas e aderentes ao design proposto.\nCorrigir bugs e realizar melhorias com base em feedbacks dos usuários ou testes automatizados.\nIntegrar aplicações móveis com APIs e serviços backend.\nEscrever testes unitários e auxiliar na automação de testes funcionais.\nDocumentar código e soluções de forma clara e acessível.\nColaborar com outros desenvolvedores, designers e stakeholders para entrega de valor contínuo.",
+      "work_mode": "remote",
+      "tags": [
+        "♿ PcD",
+        "💼 CLT",
+        "🌍 100% Remoto"
+      ]
+    },
+    {
+      "id": "165683",
+      "title": "Desenvolvedor Mobile Android I - Serviços Financeiros",
+      "company": "Omie",
+      "location": "Remoto · Brasil",
+      "date": "2026-10-07T16:17:09.628-03:00",
+      "url": "https://carreirasomie.gupy.io/job/eyJqb2JJZCI6MTI2ODMzNjUsInNvdXJjZSI6InJlbW90YXIifQ==?jobBoardSource=remotar",
+      "description": "A Omie, uma das empresas de tecnologia que mais crescem no país, busca um Desenvolvedor Mobile Android I para atuar com foco em eficiência e qualidade no desenvolvimento e manutenção de funcionalidades do aplicativo. O profissional contribuirá diretamente para o sucesso dos novos clientes desde seus primeiros passos na plataforma.\nResponsabilidades\nDesenvolver e manter funcionalidades do aplicativo (Android) com foco em eficiência e qualidade.\nImplementar interfaces de usuário responsivas e aderentes ao design proposto.\nCorrigir bugs e realizar melhorias com base em feedbacks dos usuários ou testes automatizados.\nIntegrar aplicações móveis com APIs e serviços backend.\nEscrever testes unitários e auxiliar na automação de testes funcionais.\nDocumentar código e soluções de forma clara e acessível.",
+      "work_mode": "remote",
+      "tags": [
+        "♿ PcD",
+        "💼 CLT",
+        "🌍 100% Remoto"
+      ]
+    },
+    {
+      "id": "165651",
+      "title": "Desenvolvedor(a) Node.js | NestJS + Next.js",
+      "company": "Framework",
+      "location": "Remoto · Brasil",
+      "date": "2026-10-07T14:13:28.971-03:00",
+      "url": "https://frameworkdigital.inhire.app/vagas/f74f4ece-0e8e-40a2-b406-e93ac619d331/desenvolvedora-nodejs-or-nestjs-nextjs",
+      "description": "A Framework está em busca de uma pessoa Desenvolvedora Node.js para atuar na evolução e modernização de sistemas, com foco na construção de soluções escaláveis, performáticas e sustentáveis. A pessoa fará parte de um time de tecnologia e terá contato diário com referências em tecnologia.\nResponsabilidades\nProjetar e implementar novas arquiteturas backend utilizando Node.js e NestJS;\nDesenvolver e evoluir APIs e serviços backend, garantindo qualidade, segurança, performance e escalabilidade;\nTrabalhar na integração entre o backend Node.js/NestJS e aplicações front-end desenvolvidas em Next.js;\nRefatorar e/ou reestruturar partes de sistemas existentes, contribuindo para sua modernização, manutenibilidade e escalabilidade;\nDefinir e aplicar padrões arquiteturais, boas práticas e guidelines de desenvolvimento;\nTrabalhar com integração entre serviços, APIs, microsserviços e diferentes fontes de dados;\nAnalisar cenários técnicos, propor soluções e tomar decisões relacionadas à arquitetura e desenvolvimento;\nParticipar de code reviews, testes e iniciativas de melhoria contínua da qualidade do código;\nAtuar em conjunto com profissionais de diferentes disciplinas, contribuindo para as decisões técnicas e evolução das soluções;\nApoiar a identificação e resolução de problemas em ambientes de desenvolvimento, homologação e produção.",
+      "work_mode": "remote",
+      "tags": [
+        "♿ PcD",
+        "🌍 100% Remoto"
+      ]
+    },
+    {
+      "id": "165644",
+      "title": "Engenheiro de Dados Sênior",
+      "company": "Extractta",
+      "location": "Remoto · Brasil",
+      "date": "2026-10-07T14:11:47.296-03:00",
+      "url": "https://extractta.inhire.app/vagas/bc576841-13ee-42b7-b52e-5301bb949be7/engenheiro-de-dados-senior",
+      "description": "A Extractta busca um Engenheiro de Dados Sênior com forte atuação em engenharia de dados e desenvolvimento backend. O profissional será responsável pela manutenção e evolução de serviços de backend, além da migração de sistemas legados para uma arquitetura de dados moderna, em um ambiente que lida com dados financeiros sensíveis e aderência à LGPD.\nResponsabilidades\nConstruir e manter pipelines de dados escaláveis (ingestão, transformação, consumo) em arquitetura medalhão / Lakehouse.\nTrabalhar na fronteira dados + backend, incluindo manutenção/evolução e migração de serviços legados em Java/Spring Boot para arquitetura moderna de dados.\nProcessar dados com Spark (batch e streaming), incluindo Structured Streaming com Kafka.\nGarantir qualidade, governança e segurança dos dados: controle de acesso por catálogo/schema, mascaramento de PII, aderência à LGPD, quality checks, testes unitários e de integração.\nOrquestrar e agendar jobs (Airflow / Lakeflow Jobs), logging estruturado, monitoramento e observabilidade.\nOtimizar performance e custos; aplicar boas práticas de engenharia de software (SOLID, design patterns, código limpo/manutenível).\nColaborar com líderes técnicos, stakeholders de negócio e times multidisciplinares.",
+      "work_mode": "remote",
+      "tags": [
+        "🧓🏽 Sênior",
+        "🌍 100% Remoto"
+      ]
+    },
+    {
+      "id": "165635",
+      "title": "Desenvolvedor(a) Backend Java - Sênior",
+      "company": "Peers Solutions",
+      "location": "Remoto · Brasil",
+      "date": "2026-10-07T14:09:25.084-03:00",
+      "url": "https://peers.inhire.app/peers-solutions/vagas/91e4a2de-dd91-4bfe-b5aa-dc126dc5e39b/desenvolvedora-backend-java-senior",
+      "description": "A Peers Solutions busca um(a) Desenvolvedor(a) Backend Java Sênior para atuar no desenvolvimento, evolução e integração de aplicações em um projeto de transformação de uma plataforma digital. A posição envolve atuação hands-on no desenvolvimento de soluções backend, APIs e integrações entre diferentes sistemas, em um ambiente distribuído com arquitetura de microsserviços e alto volume de transações.\nResponsabilidades\nDesenvolver, manter e evoluir aplicações backend utilizando Java e Spring Boot.\nDesenvolver e consumir APIs REST para integração entre sistemas e plataformas.\nImplementar integrações síncronas e assíncronas.\nAtuar em arquiteturas distribuídas e baseadas em microsserviços.\nTrabalhar com mensageria e processamento assíncrono.\nParticipar das definições técnicas e arquiteturais das soluções.\nGarantir boas práticas de desenvolvimento, qualidade, segurança e desempenho.\nRealizar revisão de código e apoiar a evolução técnica do time.\nDesenvolver testes unitários e de integração.\nInvestigar e solucionar problemas relacionados a performance, estabilidade e integrações.\nColaborar com times de Produto, Qualidade, Arquitetura e demais áreas envolvidas no projeto.",
+      "work_mode": "remote",
+      "tags": [
+        "🧓🏽 Sênior",
+        "🌍 100% Remoto"
+      ]
+    },
+    {
+      "id": "165619",
+      "title": "Analista de Sistemas C# Sênior",
+      "company": "Grupo Fácil",
+      "location": "Remoto · Brasil",
+      "date": "2026-10-07T12:52:23.084-03:00",
+      "url": "https://grupofacil.vagas.solides.com.br/vaga/934248?origem=remotar",
+      "description": "O Grupo Fácil busca um(a) Analista de Sistemas Sênior com foco em C# para atuar no desenvolvimento, sustentação e otimização de sistemas de alta criticidade para operadoras de planos de saúde. O profissional terá um papel fundamental na construção de APIs, modelagem de banco de dados, resolução de problemas estruturais e apoio no desenho de novos requisitos técnicos, em um ambiente ágil e colaborativo.\nResponsabilidades\nDesenvolver e manter sistemas para operadoras de saúde (planos de saúde e autogestões) com foco em backend.\nConstruir, integrar e manter APIs nos padrões REST e SOAP, garantindo a comunicação eficiente entre sistemas.\nAtuar ativamente na sustentação das aplicações, identificando a causa raiz de falhas e corrigindo bugs para garantir a estabilidade do ambiente.\nPropor e implementar melhorias contínuas nos sistemas existentes, visando a otimização de performance e uma melhor experiência para o usuário final.\nRealizar a modelagem de dados.\nCriar consultas otimizadas e desenvolver novas estruturas de banco de dados de acordo com as necessidades e novos requisitos do negócio.\nColaborar tecnicamente na elaboração de requisitos para novas funcionalidades ou melhorias.\nAtuar no desdobramento e detalhamento de requisitos em tarefas menores, facilitando o planejamento e a execução do time de desenvolvimento.",
+      "work_mode": "remote",
+      "tags": [
+        "🧓🏽 Sênior",
+        "💼 CLT",
+        "♿ PcD",
+        "🌈 LGBTQIAP+",
+        "👨🏾‍🦱 Para pessoas não brancas",
+        "👩🏻 Para mulheres",
+        "🌍 100% Remoto"
+      ]
+    },
+    {
+      "id": "165617",
+      "title": "Analista de Sistemas Delphi",
+      "company": "Grupo Fácil",
+      "location": "Remoto · Brasil",
+      "date": "2026-10-07T12:51:53.263-03:00",
+      "url": "https://grupofacil.vagas.solides.com.br/vaga/934207?origem=remotar",
+      "description": "O Grupo Fácil busca um(a) Analista de Sistemas Delphi Sênior para atuar no desenvolvimento e manutenção de programas, implementando melhorias e correções nos sistemas, com foco em backend. A empresa atua há mais de 30 anos transformando a complexidade dos setores de Saúde e Instituições Financeiras em soluções inteligentes, sólidas e eficientes.\nResponsabilidades\nDesenvolvimento e manutenção de sistemas backend e frontend (foco backend).\nParticipação/auxílio na análise e especificação de novas implementações.\nSustentação e auxílio em melhorias para mitigação de erros e aumento da usabilidade.\nModelagem de dados e criação de scripts banco de dados (Oracle).\nDesenvolvimento e manutenção de API's REST e SOAP.\nUtilização de métodos e técnicas adequadas aos equipamentos e aplicações que destinam a Delphi.",
+      "work_mode": "remote",
+      "tags": [
+        "💼 CLT",
+        "🧓🏽 Sênior",
+        "👩🏻 Para mulheres",
+        "🌈 LGBTQIAP+",
+        "👨🏾‍🦱 Para pessoas não brancas",
+        "🌍 100% Remoto"
+      ]
+    },
+    {
+      "id": "165609",
+      "title": "Desenvolvedor Full Stack",
+      "company": "Jump",
+      "location": "Remoto · Brasil",
+      "date": "2026-10-07T10:07:10.243-03:00",
+      "url": "https://jump.inhire.app/vagas/a87c7d6b-c9b6-4093-ae6a-404ecc8d3408/desenvolvedor-full-stack",
+      "description": "A Jump está buscando um Desenvolvedor Full Stack Sênior para atuar no desenvolvimento e manutenção de aplicações mobile e do BFF (Backend for Frontend). O profissional trabalhará com React Native, TypeScript, Node.js/NestJs e GraphQL, contribuindo para a evolução das práticas de arquitetura e qualidade de código.\nResponsabilidades\nDesenvolver e manter a aplicação mobile utilizando TypeScript e React Native.\nDesenvolver e manter o BFF (Backend for Frontend) utilizando Node.js e GraphQL.\nColaborar com equipes multidisciplinares (Product Owners, Scrum Masters, Designers e Quality Assurance) para definir e entregar novas funcionalidades.\nRealizar revisões de código para garantir a consistência e qualidade do mesmo.\nIdentificar e corrigir bugs e gargalos de desempenho.\nContribuir para a evolução das práticas de arquitetura e qualidade de código junto ao time.\nEscrever testes unitários e automatizados para garantir a qualidade e a confiabilidade do código.",
+      "work_mode": "remote",
+      "tags": [
+        "🧓🏽 Sênior",
         "🌍 100% Remoto"
       ]
     }

@@ -2,194 +2,60 @@
   "meta": {
     "count": 20,
     "page": 1,
-    "total": 1703
+    "total": 1918
   },
   "results": [
     {
-      "id": "163735",
-      "title": "Analista Desenvolvedor Sênior AS/400 – RPG",
-      "company": "3CON Consultoria e Sistemas",
-      "location": "Remoto · Brasil",
-      "date": "2026-09-21T21:20:42.667-03:00",
-      "url": "https://trescon.gupy.io/job/eyJqb2JJZCI6MTI1MzI2NzksInNvdXJjZSI6InJlbW90YXIifQ==?jobBoardSource=remotar",
-      "description": "A 3CON está em busca de um(a) Analista Desenvolvedor Sênior AS/400 – RPG para atuar em uma das maiores seguradoras do mundo. O profissional será responsável por analisar, desenvolver e manter aplicações IBM i / AS/400, realizando manutenções corretivas, evolutivas e adaptativas. O trabalho envolve o desenvolvimento e a manutenção de aplicações em RPG, Free-form RPG e RPGLE (ILE RPG), além de atuar em aplicações e rotinas legadas System/36 (S/36).\nResponsabilidades\nAnalisar, desenvolver e manter aplicações IBM i / AS/400.\nRealizar manutenções corretivas, evolutivas e adaptativas.\nDesenvolver e manter aplicações em RPG, Free-form RPG e RPGLE (ILE RPG).\nAtuar em aplicações e rotinas legadas System/36 (S/36).\nAnalisar requisitos, regras de negócio e impactos das alterações.\nAtuar com DB2 for i / DB2/400.\nInvestigar incidentes, identificar causa-raiz e implementar correções.\nAtender chamados conforme SLAs estabelecidos.\nRealizar testes e apoiar processos de homologação.\nDocumentar soluções e alterações realizadas.\nApoiar integrações entre AS/400 e outras plataformas.",
+      "id": "165781",
+      "title": "Desenvolvedor .NET Pleno",
+      "company": "EMPREGARE.com",
+      "location": "São José do Rio Preto, SP",
+      "date": "2026-10-08T00:20:55.057-03:00",
+      "url": "https://www.empregare.com/pt-br/vaga-desenvolvedor-net-pleno-remoto-full-stac_183733?source=remotar",
+      "description": "Como Desenvolvedor(a) .NET Pleno, você liderará a evolução de produtos inovadores com autonomia, focando em soluções escaláveis e de alta performance. Integrará IA para impulsionar eficiência e colaborará em equipes ágeis para entregar valor real aos clientes. A stack inclui .NET, ASP.NET Web API, SQL Server, Redis, Git e Azure DevOps.\nResponsabilidades\nProjetar e desenvolver funcionalidades ponta a ponta, aplicando Clean Code e SOLID para sistemas robustos.\nRealizar análise de requisitos, criar testes automatizados e otimizar código existente para estabilidade.\nParticipar de planejamentos ágeis, alinhando equipes internas e externas com comunicação clara.\nTransformar demandas de negócio em plataformas performáticas, priorizando experiência do usuário.\nAssumir ownership, cumprindo sprints com entregas de excelência e foco em inovação.",
       "work_mode": "remote",
       "tags": [
-        "♿ PcD",
-        "🧓🏽 Sênior",
-        "💼 CLT",
+        "😎 Pleno",
         "🌍 100% Remoto"
       ]
     },
     {
-      "id": "163728",
-      "title": "Desenvolvedor Java Sênior",
-      "company": "Stefanini Group",
+      "id": "165761",
+      "title": "Desenvolvedor(a) Mobile",
+      "company": "Pontotel",
       "location": "Remoto · Brasil",
-      "date": "2026-09-21T21:18:34.282-03:00",
-      "url": "https://stefanini.gupy.io/job/eyJqb2JJZCI6MTI1NDIwNzIsInNvdXJjZSI6InJlbW90YXIifQ==?jobBoardSource=remotar",
-      "description": "A Stefanini busca um(a) Desenvolvedor(a) Java Sênior para atuar no desenvolvimento e manutenção de aplicações back-end, integração de APIs e sustentação de soluções em ambiente AWS. O profissional será parte de uma jornada global de transformação, co-criando soluções inovadoras e impactando negócios em escala global.\nResponsabilidades\nDesenvolver e manter aplicações back-end em Java com Spring Boot.\nCriar, documentar e integrar APIs REST.\nImplementar persistência e consultas em PostgreSQL.\nAtuar na implantação e sustentação de soluções na AWS.\nUtilizar Docker para padronização dos ambientes.\nGerenciar versionamento de código com Git.\nIntegrar sistemas por meio de serviços SOAP/WSDL.\nImplementar autenticação e autorização com OAuth 2.0 e OpenID Connect.\nDesenvolver fluxos assíncronos utilizando SQS FIFO.",
-      "work_mode": "remote",
-      "tags": [
-        "♿ PcD",
-        "🧓🏽 Sênior",
-        "💼 CLT",
-        "🌍 100% Remoto"
-      ]
-    },
-    {
-      "id": "163721",
-      "title": "Desenvolvedor Full Stack",
-      "company": "Foursys",
-      "location": "Remoto · Brasil",
-      "date": "2026-09-21T20:50:01.007-03:00",
-      "url": "https://www.linkedin.com/jobs/view/4469898220/?",
-      "description": "Responsabilidades e atribuições\n\nBuscamos um Desenvolvedor Full Stack com forte experiência em Java moderno, arquitetura de microserviços e serviços Cloud, capaz de construir soluções escaláveis, resilientes e de alta performance. Esperamos um profissional com domínio de boas práticas de engenharia, integração assíncrona e capacidade de atuar tanto no backend quanto no frontend quando necessário.\n\nHabilidades e Requisitos\n\n• Java\n\n• Docker\n\n• Spring Boot\n\n• ARQUITETURA HEXAGONAL\n\n• Kubernetes\n\n• Banco de dados SQL\n\n• Banco de dados NoSQL\n\n• DESENVOLVIMENTO DE APIS REST\n\n• TESTES AUTOMATIZADOS (JUNIT, MOCKITO)\n\n• VERSIONAMENTO COM GIT/GITHUB\n\n• MENSAGERIA COM KAFKA\n\n• CLOUD AZURE\n\n• MongoDB",
+      "date": "2026-10-07T21:25:13.800-03:00",
+      "url": "https://oportunidades.mindsight.com.br/pontotel/180?utm_source=remotar",
+      "description": "Aqui, você terá a oportunidade de crescer e contribuir para a construção de um ambiente colaborativo, descontraído e desafiador. Valorizamos a troca de ideias e o trabalho em equipe, onde cada voz é ouvida e respeitada. Nosso foco é ir além do óbvio, desafiando constantemente o status quo e incentivando a busca por soluções inovadoras. Se você está em busca de um lugar onde suas ideias realmente importam e você pode impactar o futuro, venha fazer parte do nosso time! 🚀\n\nRESPONDABILIDADES E ATRIBUIÇÕES\n\nAcompanhar todo o ciclo de vida do aplicativo (conceito, projeto, testes, lançamento e suporte);\n\nReunir informações sobre necessidades específicas e sugerir soluções;\n\nEscrever testes unitários e de UI para identificar falhas;\n\nDiagnosticar falhas e depurá-las para otimizar o desempenho;\n\nInteragir com o time de Produto para planejar novas funcionalidades;\n\nAssegurar que aplicativos novos e antigos satisfaçam aos padrões de qualidade;\n\nManter-se atualizado com novas tendências em tecnologia.\n\nGerenciar as aplicações na App Store e na Play Store.\n\nREQUISITOS E QUALIFICAÇÕES\n\nConhecimento sobre desenvolvimento mobile utilizando React Native.\n\nConhecimento sobre ferramentas de gerenciamento de estado, preferencialmente o Redux.\n\nConhecimento pratico de uso de IA no desenvolvimento\n\nTer utilizado bibliotecas de criação de rotas e navegação, como o React Navigation ou o React Native Navigation.\n\nConhecimento sobre criação de testes no ambiente do React Native, utilizando o Jest ou outro framework.\n\nConhecimento sobre criação de componentes nativos, usando linking entre RN e o nativo\n\nOtimização de performance com profilers, troca de dependências, análise de renders, etc\n\nExperiência com desenvolvimento mobile nativo IOS(Swift/Objective-C) ou Android (Kotlin/Java).",
       "work_mode": "remote",
       "tags": [
         "🌍 100% Remoto",
-        "👌 Candidatura simplificada"
+        "💼 CLT"
       ]
     },
     {
-      "id": "163716",
-      "title": "Supervisor(a) de Customer Success e Customer Experience (CS/CX)",
-      "company": "Trinus.Co",
+      "id": "165743",
+      "title": "Desenvolvedor Python",
+      "company": "Skopia Digital",
       "location": "Remoto · Brasil",
-      "date": "2026-09-21T20:32:21.511-03:00",
-      "url": "https://centraldevagas.inhire.app/trinus/vagas/11de0b82-1707-4c07-b9ca-1fa94bfa3473/supervisora-de-customer-success-e-customer-experience-cscx",
-      "description": "A Trinus.co busca um(a) Supervisor(a) de Customer Success e Customer Experience (CS/CX) para liderar a equipe da central de atendimento, garantindo que os clientes desenvolvedores imobiliários extraiam valor contínuo das soluções da empresa. O profissional será a voz do cliente, atuando transversalmente com Produto, Tecnologia, Operações e Negócios para assegurar qualidade operacional, geração de valor e relações de longo prazo.\nResponsabilidades\nLiderar a equipe da central de atendimento (ativo e receptivo), garantindo cumprimento de metas e padrões de qualidade.\nGarantir agilidade no tempo de resposta, organização do fluxo e acompanhamento dos chamados.\nMonitorar indicadores como SLA, taxa de resposta e resolução no primeiro contato.\nEstruturar e aprimorar rotinas, scripts, templates e fluxos de atendimento.\nGarantir que as solicitações sejam tratadas conforme políticas da empresa e regras internas.\nRealizar tratativas de casos críticos e escalonamentos (reclamações, retornos sistêmicos, acessos a ferramentas, esclarecimentos etc.).\nAssegurar comunicação clara, cordial e consistente com foco em satisfação.\nElaborar acompanhamento de resultados por canal (telefone, WhatsApp, e-mail, chat, etc.).\nPlanejar ações corretivas e preventivas com base em dados e feedback de clientes.\nParticipar e acompanhar metas de relacionamento do time.\nTreinar e desenvolver a equipe.\nRealizar feedbacks, orientar em demandas complexas e promover melhoria contínua.\nMonitorar performance e conduzir escalas/turnos de acordo com demanda.\nGarantir que informações e retornos ao cliente estejam atualizados e coerentes.",
-      "work_mode": "remote",
-      "tags": [
-        "🌍 100% Remoto"
-      ]
-    },
-    {
-      "id": "163706",
-      "title": "Desenvolvedor(a) Java Pleno",
-      "company": "Framework",
-      "location": "Remoto · Brasil",
-      "date": "2026-09-21T20:30:01.836-03:00",
-      "url": "https://frameworkdigital.inhire.app/vagas/b376aeaf-8440-4e08-b52f-fc1f63a19e41/desenvolvedora-java-pleno",
-      "description": "A Framework Digital busca uma pessoa Desenvolvedora Java Pleno para atuar no desenvolvimento e evolução de soluções backend. A Rethink, parte da Framework Digital, é uma consultoria que une tecnologia, design e estratégia de produtos digitais para solucionar os desafios de grandes empresas brasileiras como Smiles, Gol, Santander Esfera, Swift e Comgás.\nResponsabilidades\nDesenvolver, testar e manter APIs e serviços backend utilizando Java e Spring Boot, com foco em qualidade, eficiência e confiabilidade;\nColaborar com times de frontend e demais stakeholders para garantir que as soluções atendam aos requisitos técnicos e de negócio;\nParticipar da evolução e manutenção das soluções desenvolvidas;\nDocumentar as soluções e práticas adotadas ao longo do desenvolvimento.",
-      "work_mode": "remote",
-      "tags": [
-        "😎 Pleno",
-        "🌍 100% Remoto"
-      ]
-    },
-    {
-      "id": "163699",
-      "title": "Desenvolvedor(a) Backend Pleno",
-      "company": "Poliedro Educação",
-      "location": "Remoto · Brasil",
-      "date": "2026-09-21T20:28:21.835-03:00",
-      "url": "https://poliedroeducacao.inhire.app/vagas/67d16de8-d9c7-4a21-9500-2786581bc570/desenvolvedora-backend-pleno-net-e-nodejs",
-      "description": "A Poliedro Educação, com mais de 30 anos de história, busca um(a) Desenvolvedor(a) Backend Pleno para atuar no desenvolvimento e manutenção de soluções escaláveis utilizando .NET e Node.js. O profissional irá colaborar com times de produto, frontend e infraestrutura, garantindo a qualidade do código e a melhoria contínua dos sistemas.\nResponsabilidades\nDesenvolver e manter soluções backend escaláveis utilizando .NET/Node.js.\nCriar e manter APIs, além de integrar sistemas internos.\nTrabalhar com mensageria e filas para orquestração e comunicação assíncrona entre serviços.\nColaborar com times de produto, frontend e infraestrutura para garantir entregas alinhadas às necessidades do negócio.\nGarantir qualidade do código com práticas de Clean Code, DDD, testes automatizados e revisões de código.\nMonitorar e melhorar sistemas em produção, utilizando ferramentas de observabilidade (logs, métricas, alertas).\nManter-se atualizado sobre novas tecnologias e boas práticas de desenvolvimento, promovendo melhorias contínuas.",
-      "work_mode": "remote",
-      "tags": [
-        "😎 Pleno",
-        "🌍 100% Remoto"
-      ]
-    },
-    {
-      "id": "163696",
-      "title": "UX Researcher Sênior",
-      "company": "Zallpy Digital",
-      "location": "Porto Alegre, RS",
-      "date": "2026-09-21T20:27:42.536-03:00",
-      "url": "https://zallpy.inhire.app/vagas/40120a4b-2233-402a-be06-fda3e1b09781/ux-researcher-senior",
-      "description": "A Zallpy Digital está em busca de um(a) UX Researcher Sênior para integrar uma equipe que valoriza a parceria, autonomia e a troca de experiências para construir soluções. O profissional será responsável por liderar a identificação e o enquadramento de questões de pesquisa, traduzindo as necessidades do produto em estudos estruturados com propostas e cronogramas claros. A empresa busca pessoas curiosas e colaborativas que se importam em fazer as coisas bem, em um ambiente diverso e inclusivo.\nResponsabilidades\nLiderar a identificação e o enquadramento das questões de pesquisa corretas, traduzindo as necessidades do produto em estudos estruturados com propostas e cronogramas claros.\nPlanejar e conduzir pesquisas de usuário qualitativas e quantitativas, recrutando e gerenciando participantes de testes.\nTraduzir descobertas de pesquisa e resultados de testes em recomendações de design acionáveis.\nIdentificar e aplicar novas tendências e metodologias de UX Research em um ambiente empresarial.\nColaborar diariamente com designers, Product Owners e desenvolvedores em um ambiente ágil e acelerado.\nAplicar diferentes métodos de pesquisa com base na situação: coleta de dados, entrevistas individuais com usuários, pesquisas, prototipagem e testes de usabilidade.",
-      "work_mode": "remote",
-      "tags": [
-        "🧓🏽 Sênior",
-        "💼 CLT",
-        "🤝🏽 PJ",
-        "🌍 100% Remoto"
-      ]
-    },
-    {
-      "id": "163664",
-      "title": "Profissional Estagiário em Desenvolvimento",
-      "company": "Radix",
-      "location": "Remoto · Brasil",
-      "date": "2026-09-21T16:31:17.880-03:00",
-      "url": "https://radix.inhire.app/vagas/d997c854-4c23-4202-ac07-b7ec898575fd/profissional-estagiario-em-desenvolvimento",
-      "description": "A Radix está em busca de um(a) Estagiário(a) em Desenvolvimento para atuar no desenvolvimento e evolução de aplicações web, com foco em frontend e backend. O profissional apoiará o desenvolvimento de APIs e serviços em Python, colaborará na implementação de interfaces, dashboards e visualizações, e auxiliará na integração da aplicação com bancos de dados e diferentes fontes de dados. Também apoiará a implementação de rotinas de ingestão, processamento, armazenamento e disponibilização de dados, e trabalhará de forma colaborativa com desenvolvedores, cientistas de dados e engenheiros.\nResponsabilidades\nApoiar o desenvolvimento e evolução de aplicações web.\nDesenvolver e dar manutenção em funcionalidades de frontend e backend, com acompanhamento de profissionais mais experientes.\nApoiar o desenvolvimento de APIs e serviços em Python para disponibilização de dados, cálculos e funcionalidades da aplicação.\nColaborar na implementação de interfaces, dashboards e visualizações para acompanhamento de indicadores e resultados.\nApoiar a integração da aplicação com bancos de dados, APIs e diferentes fontes de dados.\nColaborar na integração dos modelos e cálculos desenvolvidos pelas equipes de Dados e Engenharia com a plataforma de software.\nApoiar a implementação de rotinas de ingestão, processamento, armazenamento e disponibilização de dados.\nEscrever código organizado, legível e testável, seguindo as boas práticas de desenvolvimento de software adotadas pelo time.\nUtilizar Git para versionamento de código e colaborar com o fluxo de desenvolvimento da equipe.\nApoiar a investigação e correção de bugs e problemas identificados durante o desenvolvimento e os testes da solução.\nParticipar de reuniões técnicas e discussões sobre as soluções desenvolvidas.\nDocumentar funcionalidades, integrações e implementações realizadas ao longo do projeto.\nTrabalhar de forma colaborativa com desenvolvedores, cientistas de dados e engenheiros, contribuindo para a evolução da solução.",
-      "work_mode": "remote",
-      "tags": [
-        "🌍 100% Remoto"
-      ]
-    },
-    {
-      "id": "163661",
-      "title": "Desenvolvedor Node.js Sênior",
-      "company": "Premiersoft",
-      "location": "Remoto · Brasil",
-      "date": "2026-09-21T16:30:22.935-03:00",
-      "url": "https://premiersoft.inhire.app/vagas/9ba58162-eae1-439b-91f0-349071b14d86/desenvolvedor-nodejs-senior-or-remoto",
-      "description": "A Premiersoft está em busca de um Desenvolvedor Node.js Sênior para atuar em um projeto de uma grande empresa do setor agroindustrial. O profissional será responsável por desenvolver soluções que apoiam toda a cadeia produtiva, desde o planejamento do plantio até o monitoramento de reflorestamento, gestão de colheita e controle financeiro da operação. O ambiente valoriza boas práticas, qualidade de código e automação, com foco em integrações, confiabilidade dos dados e evolução contínua das soluções.\nResponsabilidades\nDesenvolver e evoluir funcionalidades back-end em Node.js, garantindo qualidade, organização e performance das aplicações.\nAtuar na integração entre front-end e back-end (React e React Native), assegurando consistência e fluidez na comunicação entre as camadas.\nImplementar e manter testes automatizados (unitários e de integração), contribuindo para a confiabilidade e evolução contínua do sistema.\nApoiar e evoluir a esteira de CI/CD utilizando Azure DevOps, garantindo entregas mais seguras e eficientes.\nZelar pela qualidade do código, utilizando boas práticas e ferramentas como SonarQube.\nParticipar ativamente das rotinas ágeis, contribuindo com discussões técnicas e evolução das soluções.\nRealizar integrações com soluções de terceiros, especialmente no contexto de monitoramento e gestão do negócio.",
-      "work_mode": "remote",
-      "tags": [
-        "🧓🏽 Sênior",
-        "🌍 100% Remoto"
-      ]
-    },
-    {
-      "id": "163657",
-      "title": "Desenvolvedor AWS & Python Sênior",
-      "company": "EcomIT",
-      "location": "Remoto · Brasil",
-      "date": "2026-09-21T16:29:29.664-03:00",
-      "url": "https://ecommit.inhire.app/vagas/83d904f8-9d09-4157-8e12-a0f303c0368b/desenvolvedor-aws-and-phyton-sr",
-      "description": "A ecomm|IT está em busca de um(a) Desenvolvedor(a) AWS & Python Sênior para atuar em um projeto de tecnologia de grande porte, desenvolvendo e mantendo soluções serverless em ambiente AWS. Esta é uma excelente oportunidade para profissionais que desejam atuar em um ambiente colaborativo, participando de projetos estratégicos e contribuindo com soluções que geram impacto para o negócio.\nResponsabilidades\nDesenvolver e manter aplicações serverless na AWS utilizando Python e Lambda.\nConstruir e integrar APIs REST/JSON com API Gateway.\nImplementar infraestrutura como código utilizando Terraform.\nDesenvolver testes unitários e participar de code reviews.\nAtuar com soluções orientadas a eventos utilizando SNS, SQS e EventBridge.\nContribuir com melhorias de arquitetura, performance, segurança e custos.",
+      "date": "2026-10-07T18:15:07.826-03:00",
+      "url": "https://skopiadigital.inhire.app/vagas/da9d78d6-971b-4c37-baa3-dc3f701704a0/desenvolvedor-python",
+      "description": "A Skopia Digital, resultado da fusão entre EclipsWorks e Nscreen, busca um Desenvolvedor Python para atuar no desenvolvimento, manutenção e evolução de soluções de automação de processos. O profissional trabalhará com um ecossistema de aproximadamente 35 robôs, focando na modernização, simplificação e melhoria técnica das automações existentes, transformando-as em serviços e APIs mais sustentáveis. A empresa, eleita pela EXAME como a 2ª que mais cresceu no Brasil em 2023, é parceira Advanced AWS e atua com clientes como Renault, Rede Dor, Claro e Sólides, construindo produtos e serviços que impactam milhões de brasileiros.\nResponsabilidades\nAtuar no desenvolvimento, manutenção e evolução de soluções de automação de processos utilizando Python.\nTrabalhar com um ecossistema de aproximadamente 35 robôs, entendendo seu funcionamento, regras de negócio, integrações e dependências.\nAnalisar automações existentes e identificar oportunidades de modernização, simplificação e melhoria técnica.\nTransformar robôs e automações existentes em serviços, APIs ou outras soluções de software mais sustentáveis, quando fizer sentido.\nDesenvolver novas soluções para problemas de negócio, evitando simplesmente reproduzir a lógica existente em uma nova tecnologia.\nTrabalhar com automações que envolvem consultas e manipulação de bancos de dados, integrações e diferentes fluxos de processos.\nAtuar com diferentes tecnologias e abordagens de automação, avaliando qual solução é mais adequada para cada cenário.\nTrabalhar com bancos de dados como MySQL, SQLite e PostgreSQL.\nManter e evoluir automações que utilizam ferramentas como Selenium.\nInvestigar problemas em produção, identificar causas-raiz e propor soluções definitivas.\nParticipar da definição técnica das soluções junto ao time, contribuindo com alternativas e decisões de arquitetura.\nDesenvolver código limpo, testável e sustentável, buscando reduzir dependências e complexidade desnecessária.\nTrabalhar em parceria com PO, QA, desenvolvedores e referência técnica.\nParticipar de discussões técnicas e contribuir para a evolução dos padrões de desenvolvimento da equipe.\nIdentificar oportunidades de automação e melhoria de processos além das demandas inicialmente apresentadas.\nAvaliar novas tecnologias e abordagens que possam tornar as soluções mais eficientes e escaláveis.\nContribuir para a transição gradual das automações atuais para soluções mais modernas e sustentáveis.",
       "work_mode": "remote",
       "tags": [
         "🤝🏽 PJ",
         "🧓🏽 Sênior",
-        "💬 Espanhol",
         "🌍 100% Remoto"
       ]
     },
     {
-      "id": "163633",
-      "title": "Desenvolvedor(a) Java Pleno",
-      "company": "Bemobi",
+      "id": "165729",
+      "title": "Profissional QA (Automação) Sênior/Especialista",
+      "company": "Luby",
       "location": "Remoto · Brasil",
-      "date": "2026-09-21T13:16:49.620-03:00",
-      "url": "https://bemobi.gupy.io/job/eyJqb2JJZCI6MTI0ODI0ODIsInNvdXJjZSI6InJlbW90YXIifQ==?jobBoardSource=remotar",
-      "description": "A Bemobi busca uma pessoa Desenvolvedora Java Pleno para atuar na evolução de uma equipe, com foco em otimizar linguagens de programação e garantir as melhores práticas e qualidade dos sistemas. O profissional contribuirá para a redução da variedade de linguagens, visando aprimorar a arquitetura e a observabilidade das aplicações, especialmente em fluxos de pagamentos.\nResponsabilidades\nDesenvolver e manter novas funcionalidades em serviços utilizando Java/Kotlin e, desejavelmente, Golang.\nConstruir e manter pipelines de deploy CI/CD com Terraform e Bitbucket.\nConstruir e manter aplicações com infraestrutura baseada na nuvem AWS.\nCompartilhar conhecimentos de desenvolvimento de software.\nAuxiliar na definição de novas arquiteturas voltadas ao fluxo de pagamentos.\nAuxiliar no desenvolvimento e melhoria da observabilidade das aplicações.\nAtuar junto ao time na estrutura de sistemas Data Driven.\nUtilizar ferramentas de IA para acelerar o desenvolvimento, revisão de código e automação de tarefas diárias.",
-      "work_mode": "remote",
-      "tags": [
-        "😎 Pleno",
-        "💼 CLT",
-        "♿ PcD",
-        "🌍 100% Remoto"
-      ]
-    },
-    {
-      "id": "163629",
-      "title": "ANALISTA DE ENGENHARIA DE SOFTWARE PL - Remoto",
-      "company": "Inmetrics",
-      "location": "Remoto · Brasil",
-      "date": "2026-09-21T13:15:53.019-03:00",
-      "url": "https://inmetrics.gupy.io/job/eyJqb2JJZCI6MTI1MjU1NDIsInNvdXJjZSI6InJlbW90YXIifQ==?jobBoardSource=remotar",
-      "description": "A Inmetrics busca um(a) Analista de Engenharia de Software Pleno para atuar no desenvolvimento de funcionalidades em produtos web, mobile ou backend, correção de bugs e melhorias em código existente. O profissional será responsável por escrever testes unitários e automatizados, participar de code reviews e colaborar com o time em reuniões diárias e cerimônias ágeis, trabalhando com arquitetura de microserviços e micro-frontends.\nResponsabilidades\nDesenvolver funcionalidades em produtos web, mobile ou backend;\nCorrigir bugs e realizar melhorias em código existente;\nEscrever testes unitários para garantir qualidade do código;\nEscrever testes automatizados web e app;\nParticipar de code reviews com outros desenvolvedores, para futuramente realizar code reviews;\nColaborar com o time em reuniões diárias e cerimônias ágeis;\nTrabalhar com arquitetura de microserviços e micro-frontends.",
-      "work_mode": "remote",
-      "tags": [
-        "😎 Pleno",
-        "💼 CLT",
-        "🌍 100% Remoto"
-      ]
-    },
-    {
-      "id": "163627",
-      "title": "Desenvolvedor React Sênior",
-      "company": "Premiersoft",
-      "location": "Remoto · Brasil",
-      "date": "2026-09-21T12:27:09.631-03:00",
-      "url": "https://premiersoft.inhire.app/vagas/d12b695e-f94f-46f3-9de6-ccca4d76155b/desenvolvedor-react-senior-or-remoto",
-      "description": "A Premiersoft está em busca de um Desenvolvedor React Sênior para integrar um projeto estratégico no setor agroindustrial. O profissional atuará na construção e evolução de uma plataforma corporativa de dados, especificamente no desenvolvimento de um portal proprietário de BI. O foco será na camada de experiência da plataforma, visando tornar o consumo de dados mais eficiente, intuitivo e performático, com impacto direto na usabilidade do produto e na integração com serviços analíticos.\nResponsabilidades\nDesenvolver e evoluir interfaces utilizando React.js e TypeScript.\nConstruir componentes reutilizáveis e escaláveis.\nAtuar na evolução da experiência do usuário (UX).\nIntegrar com APIs REST e serviços corporativos.\nGarantir performance, responsividade e qualidade da aplicação.\nContribuir com a arquitetura frontend e boas práticas (Clean Code/Architecture).\nAtuar em conjunto com times de backend, dados e negócio.",
+      "date": "2026-10-07T18:11:59.953-03:00",
+      "url": "https://luby.inhire.app/vagas/7b59dbae-27cb-44fb-bc4a-e3d3024cdde4/profissional-qa-automacao-seniorespecialista-remoto",
+      "description": "A Luby está em busca de um(a) Profissional QA (Automação) Sênior/Especialista para atuar na garantia da qualidade de produtos digitais. Você será responsável por definir e liderar estratégias avançadas de QA, atuando como referência técnica, estruturando e evoluindo práticas de testes em múltiplas camadas, fortalecendo a cultura de qualidade no ciclo de desenvolvimento e apoiando a tomada de decisão técnica baseada em métricas, alinhando engenharia de qualidade às necessidades de negócio.\nResponsabilidades\nDefinir e liderar estratégias de testes (manual e automatizado) para aplicações front-end, back-end e APIs, garantindo cobertura eficiente e escalável.\nEstruturar e evoluir a Pirâmide de Testes (unitários, integração, API e end-to-end), orientando o time sobre melhores práticas.\nAtuar como referência técnica de QA, apoiando desenvolvedores e outros QAs na definição de estratégias de qualidade.\nAntecipar riscos técnicos e funcionais, propondo soluções preventivas que reduzam impacto em produção.\nParticipar ativamente de refinamentos técnicos e definição de arquitetura de testes, influenciando decisões de engenharia.\nTrabalhar em conjunto com POs, desenvolvedores e arquitetos para garantir clareza de requisitos e qualidade desde o início do ciclo de desenvolvimento (Shift Left Testing).\nDefinir e implementar estratégias de automação de testes escaláveis, utilizando frameworks como Cypress, Playwright ou similares.\nCriar e evoluir cenários de teste utilizando BDD com Gherkin e Cucumber, garantindo alinhamento entre requisitos e validação.\nProjetar e manter pipelines de testes automatizados integrados ao CI/CD, garantindo qualidade contínua nas entregas.\nLiderar a definição e acompanhamento de métricas de qualidade (cobertura de testes, taxa de defeitos, lead time de correção, falhas em produção).\nApoiar na estruturação de boas práticas de QA dentro da organização, contribuindo para evolução da maturidade de qualidade dos produtos.\nAtuar como mentor de profissionais mais juniores ou plenos, compartilhando conhecimento e elevando o nível técnico do time.",
       "work_mode": "remote",
       "tags": [
         "🧓🏽 Sênior",
@@ -197,74 +63,132 @@
       ]
     },
     {
-      "id": "163619",
-      "title": "Desenvolvedor Power Platform Júnior",
-      "company": "mazzatech",
+      "id": "165718",
+      "title": "Desenvolvedor Back-end Pleno",
+      "company": "Housi",
       "location": "Remoto · Brasil",
-      "date": "2026-09-21T12:25:17.801-03:00",
-      "url": "https://mazzatech.inhire.app/vagas/5208aab7-b7af-4b1c-9ae6-45b217f96dc4/3596-desenvolvedor-power-platform-jr",
-      "description": "Atue como Desenvolvedor Power Platform Júnior, focado no desenvolvimento de soluções internas para automação de processos, criação de aplicações low-code e análise de dados. Você será responsável por desenvolver aplicativos simples com Power Apps, criar e manter fluxos de automação com Power Automate (Cloud e Desktop/RPA), construir dashboards e relatórios com Power BI, e manipular e transformar dados com Excel (Power Query).\nResponsabilidades\nDesenvolver aplicativos simples com Power Apps\nCriar e manter fluxos de automação com Power Automate (Cloud e Desktop/RPA)\nConstruir dashboards e relatórios com Power BI\nManipular e transformar dados com Excel (Power Query)\nApoiar integrações com sistemas internos (ERP, CRM, etc.)\nRealizar melhorias em processos operacionais através de automação\nDar suporte técnico básico aos usuários das soluções desenvolvidas\nExecutar demandas bem definidas\nCriar automações simples",
+      "date": "2026-10-07T18:09:15.249-03:00",
+      "url": "https://housi.inhire.app/vagas/2feeff70-4b37-4d76-93c3-06cd7fc58cad/desenvolvedor-back-end-pleno-integracoes",
+      "description": "A Housi, uma proptech líder no Brasil, está em busca de um Desenvolvedor Back-end Pleno para atuar com integrações. O profissional será responsável por desenvolver e manter integrações entre a Housi e sistemas parceiros, utilizando APIs REST, filas, webhooks e rotinas agendadas, sempre pensando em desempenho, escalabilidade e confiabilidade.\nResponsabilidades\nDesenvolver e manter integrações entre a Housi e sistemas parceiros, utilizando APIs REST, filas, webhooks e rotinas agendadas;\nConstruir soluções pensando em desempenho, escalabilidade e confiabilidade, considerando também os cenários em que sistemas externos apresentam falhas;\nAvaliar a complexidade e o esforço das tarefas, contribuindo para o planejamento das entregas;\nParticipar ativamente das revisões de código, contribuindo para a qualidade técnica do time;\nImplementar testes automatizados e boas práticas de desenvolvimento;\nDesenvolver estratégias de tratamento de erros e reprocessamento de mensagens, utilizando retry e filas de erro;\nUtilizar logs, métricas e traces para investigar e resolver problemas em produção;\nDocumentar fluxos de integração e decisões técnicas, facilitando a manutenção e evolução das soluções;\nAtuar no suporte a incidentes de produção relacionados às integrações sob sua responsabilidade;\nColaborar com outros times na definição de contratos de API e levantamento de requisitos;",
       "work_mode": "remote",
       "tags": [
-        "🐥 Júnior",
+        "😎 Pleno",
         "🌍 100% Remoto"
       ]
     },
     {
-      "id": "163589",
-      "title": "Desenvolvedor Backend Sênior",
+      "id": "165717",
+      "title": "Analista Desenvolvedor(a) ADVPL Sênior",
+      "company": "Lyncas",
+      "location": "Remoto · Brasil",
+      "date": "2026-10-07T18:09:00.636-03:00",
+      "url": "https://lyncas.inhire.app/vagas/2c0b298e-5265-42d7-8484-f21cfc457285/analista-desenvolvedora-advpl-senior",
+      "description": "A Lyncas busca um(a) Analista Desenvolvedor(a) ADVPL Sênior para atuar no desenvolvimento, sustentação e evolução do TOTVS Protheus, com foco nos módulos de Compras (SIGACOM) e Contratos (SIGAGCT). O profissional será responsável por conectar as necessidades do negócio às soluções técnicas dentro do Protheus, participando de projetos de desenvolvimento, customização, integração e sustentação do ERP.\nResponsabilidades\nDesenvolver, customizar e evoluir soluções em ADVPL no Protheus, com foco nos módulos SIGACOM e SIGAGCT.\nRealizar a sustentação do ERP, analisando e corrigindo incidentes e melhorias.\nDesenvolver e manter integrações entre o Protheus e sistemas externos.\nTraduzir necessidades das áreas de negócio em soluções técnicas.\nAvaliar e implementar adequações relacionadas à Reforma Tributária nos processos e soluções do Protheus.\nAtuar nos pontos de integração do módulo de Compras com Estoque/Custos, Fiscal e Financeiro.",
+      "work_mode": "remote",
+      "tags": [
+        "🧓🏽 Sênior",
+        "🌍 100% Remoto"
+      ]
+    },
+    {
+      "id": "165715",
+      "title": "Desenvolvedor Ruby on Rails Pleno",
+      "company": "LWSA",
+      "location": "Remoto · Brasil",
+      "date": "2026-10-07T18:08:31.736-03:00",
+      "url": "https://lwsa.inhire.app/vindi/vagas/1a26394b-54f9-4883-b489-dd7144f9bd51/vindi-or-desenvolvedor-ruby-on-rails-plenoor-remoto",
+      "description": "A Vindi, parte do ecossistema LWSA e referência em cobrança recorrente, busca um Desenvolvedor Ruby on Rails Pleno para atuar em squads multidisciplinares. O profissional será responsável por construir e evoluir o motor transacional da Vindi, garantindo soluções fluidas, escaláveis e seguras, com foco em transformar o complexo mundo financeiro em processos eficientes.\nResponsabilidades\nConstruir e evoluir o motor transacional da Vindi.\nGarantir que as soluções sejam fluidas, escaláveis e seguras.\nAtuar com Ruby e Ruby on Rails no desenvolvimento de APIs REST.\nGerenciar processamento em background utilizando Sidekiq.\nTrabalhar com bancos de dados relacionais e metodologias ágeis.\nColaborar ativamente com o time, compartilhando conhecimento e apoiando os pares.",
+      "work_mode": "remote",
+      "tags": [
+        "😎 Pleno",
+        "🌍 100% Remoto"
+      ]
+    },
+    {
+      "id": "165709",
+      "title": "Desenvolvedor Fullstack Sênior",
       "company": "Digisystem",
       "location": "Remoto · Brasil",
-      "date": "2026-09-18T21:11:33.434-03:00",
-      "url": "https://jobs.recrutei.com.br/digisystem/vacancy/158668-desenvolvedor-backend-sr?utm_source=remotar",
-      "description": "A Digisystem está em busca de um Desenvolvedor Backend Sênior para atuar no desenvolvimento, manutenção e evolução de aplicações corporativas. O profissional será responsável por garantir a qualidade, performance e escalabilidade das soluções, utilizando .NET Core 3.1+.\nResponsabilidades\nDesenvolver, manter e evoluir aplicações corporativas utilizando .NET Core 3.1+, garantindo qualidade, performance e escalabilidade das soluções.\nProjetar e implementar APIs RESTful e arquiteturas baseadas em microsserviços.\nDesenvolver integrações entre sistemas utilizando conceitos de mensageria e comunicação assíncrona.\nModelar, otimizar e realizar manutenção de bancos de dados SQL, criando consultas, procedures e rotinas de alta performance.\nImplementar e manter testes unitários, assegurando a qualidade e a confiabilidade das entregas.\nUtilizar Docker para criação, empacotamento e execução de aplicações em ambientes de desenvolvimento e produção.\nParticipar das definições de arquitetura, realizando análises técnicas e propondo melhorias contínuas para os sistemas.\nAtuar na identificação e resolução de problemas, realizando correções e otimizações de código.\nColaborar com equipes multidisciplinares seguindo metodologias ágeis, participando de cerimônias, refinamentos e revisões de código.\nContribuir para a implementação e manutenção de pipelines de integração e entrega contínua (CI/CD).",
+      "date": "2026-10-07T16:23:32.665-03:00",
+      "url": "https://jobs.recrutei.com.br/digisystem/vacancy/160925-desenvolvedor-fullstack-senior?utm_source=remotar",
+      "description": "A Digisystem busca um Desenvolvedor Fullstack Sênior com perfil de liderança técnica para integrar uma equipe de sustentação. O profissional terá sólida atuação em desenvolvimento Full Stack e será responsável por apoiar tecnicamente o time e contribuir com a condução das atividades da equipe. É importante possuir conhecimento prévio nos produtos de Pagamentos de Boletos, DDA, Débitos Veiculares, Impostos e Assistente de Pagamentos.\nResponsabilidades\nApoiar tecnicamente o time de desenvolvimento.\nContribuir com a condução das atividades da equipe.",
       "work_mode": "remote",
       "tags": [
-        "💼 CLT",
         "🧓🏽 Sênior",
-        "🌍 100% Remoto"
-      ]
-    },
-    {
-      "id": "163574",
-      "title": "Dev Full Stack Jr. - PHP/Symfony + Angular - Florianópolis -SC",
-      "company": "Stefanini Group",
-      "location": "Remoto · Brasil",
-      "date": "2026-09-18T21:07:37.565-03:00",
-      "url": "https://stefanini.gupy.io/job/eyJqb2JJZCI6MTI1MzIyODksInNvdXJjZSI6InJlbW90YXIifQ==?jobBoardSource=remotar",
-      "description": "No Grupo Stefanini, você será parte de uma jornada global de transformação, co-criando soluções inovadoras em parceria com clientes, combinando tecnologia de ponta, inteligência artificial e criatividade humana. Esta posição é para um Desenvolvedor Full Stack Júnior, com foco em PHP/Symfony e Angular.\nResponsabilidades\nDescrever atividades, importância da operação/projeto e jornada.",
-      "work_mode": "remote",
-      "tags": [
         "🐥 Júnior",
-        "💼 CLT",
-        "♿ PcD",
         "🌍 100% Remoto"
       ]
     },
     {
-      "id": "163569",
-      "title": "Pessoa Desenvolvedora Fullstack React/Kotlin/Java Especialista I (RGM e Demanda)",
-      "company": "Grupo Boticário",
+      "id": "165708",
+      "title": "Desenvolvedor Fullstack Pleno",
+      "company": "Digisystem",
       "location": "Remoto · Brasil",
-      "date": "2026-09-18T21:06:04.959-03:00",
-      "url": "https://grupoboticario.gupy.io/job/eyJqb2JJZCI6MTI0ODU3NzEsInNvdXJjZSI6InJlbW90YXIifQ==?jobBoardSource=remotar",
-      "description": "O Grupo Boticário busca uma Pessoa Desenvolvedora Fullstack Especialista I para atuar com React, Kotlin e Java. Você contribuirá ativamente com o desenho técnico e a evolução da Plataforma de Planejamento de RGM e Demanda, trabalhando desde a interface de alta densidade (One Page Cockpit) até a manutenção de endpoints e persistência no calculation-engine.\nResponsabilidades\nContribuir ativamente com o desenho técnico e a evolução da aplicação de Plataforma de Planejamento de RGM e Demanda.\nAtuar desde a interface de alta densidade (One Page Cockpit) até a manutenção de endpoints e persistência no calculation-engine.\nDesenvolver uma interface reativa e fluida utilizando React 18, Vite e TypeScript.\nAplicar técnicas de virtualização (TanStack Virtual v3) para renderizar grandes volumes de dados em tela.\nImplementar lógicas de negócios complexas no cliente, gerenciando estados de alta frequência via Zustand e TanStack Query.\nSincronizar de forma eficiente as edições de rascunhos (drafts) com o backend.\nConstruir e dar manutenção em serviços utilizando Kotlin K2 e Spring Boot.\nGarantir que fluxos de consolidação e aprovação não bloqueiem a thread HTTP, integrando-se a mecanismos de orquestração assíncrona.\nAtuar com banco de dados PostgreSQL (RDS), elaborando migrações com Flyway.\nRespeitar as restrições arquiteturais da plataforma (como a segregação rigorosa de leitura e escrita entre schemas).\nImplementar a camada gráfica exclusivamente com Recharts.\nIntegrar o fluxo de autenticação e carteirização de serviços via Microsoft Entra ID (Azure ID) e SSO (JWT).",
+      "date": "2026-10-07T16:23:19.468-03:00",
+      "url": "https://jobs.recrutei.com.br/digisystem/vacancy/160931-desenvolvedor-fullstack-pleno?utm_source=remotar",
+      "description": "A Digisystem está em busca de um Desenvolvedor Fullstack Pleno para atuar no desenvolvimento e manutenção de sistemas, utilizando uma variedade de tecnologias e ferramentas modernas. O profissional será responsável por trabalhar com Java, bancos de dados SQL, e ferramentas de CI/CD, além de ter experiência com microserviços e plataformas cloud.\nResponsabilidades\nDesenvolver e manter sistemas utilizando Java.\nTrabalhar com bancos de dados, incluindo SQL, views e procedures.\nUtilizar ferramentas de CI/CD como GIT, Bitbucket, Jira, Jenkins e Urban Code.\nAplicar Métodos Ágeis no desenvolvimento de projetos.\nTrabalhar com tecnologias de containers como Docker e Kubernetes.\nDesenvolver e integrar microserviços.\nUtilizar ferramentas de monitoração e otimização como Dynatrace, Nimsoft, Elasticsearch, Kibana e Grafana.\nProgramar utilizando chamadas REST e JSON.\nTrabalhar com plataformas Cloud como Google, Azure e AWS.\nDesenvolver com AngularJS e Angular.\nUtilizar Kafka e Apigee.",
+      "work_mode": "remote",
+      "tags": [
+        "💼 CLT",
+        "😎 Pleno",
+        "🌍 100% Remoto"
+      ]
+    },
+    {
+      "id": "165706",
+      "title": "Analista de Qualidade Pleno",
+      "company": "Lumis Experience",
+      "location": "Remoto · Brasil",
+      "date": "2026-10-07T16:22:53.032-03:00",
+      "url": "https://lumis.gupy.io/job/eyJqb2JJZCI6MTI2ODc5OTMsInNvdXJjZSI6InJlbW90YXIifQ==?jobBoardSource=remotar",
+      "description": "Esta vaga é destinada a um(a) Analista de Qualidade Pleno (QA) que atuará alocado(a) em um squad de desenvolvimento em um cliente do setor de energia.\nResponsabilidades\nAtuar de forma integrada ao squad de desenvolvimento do cliente, trabalhando em conjunto com PO, desenvolvedores, UX/UI e demais profissionais envolvidos.\nParticipar das cerimônias ágeis do squad, contribuindo ativamente para o planejamento e acompanhamento das entregas.\nAnalisar requisitos, histórias de usuário e critérios de aceite, identificando inconsistências, riscos e possíveis cenários de falha.\nElaborar cenários e casos de teste considerando as regras de negócio e os diferentes fluxos da aplicação.\nExecutar testes funcionais, exploratórios, de integração, regressão e validação de regras de negócio.\nValidar as funcionalidades desenvolvidas antes da disponibilização para homologação e/ou produção.\nIdentificar, registrar, documentar e acompanhar bugs e não conformidades, garantindo sua correta tratativa.\nTrabalhar em conjunto com os desenvolvedores na investigação, reprodução e validação da correção de defeitos.\nRealizar testes de regressão para garantir que novas implementações não impactem funcionalidades existentes.\nRegistrar evidências dos testes realizados e manter a documentação de qualidade atualizada.\nContribuir para a definição e evolução dos critérios de aceite e Definition of Done (DoD) do squad.\nApoiar o processo de homologação junto ao PO e stakeholders do cliente.\nIdentificar riscos de qualidade antecipadamente, atuando de forma preventiva durante o ciclo de desenvolvimento.\nContribuir para a melhoria contínua dos processos, padrões e práticas de qualidade utilizados pelo squad.\nApoiar a identificação de oportunidades para automação de testes, quando aplicável.\nAcompanhar indicadores de qualidade e contribuir para a redução de bugs, retrabalho e reincidência de problemas.\nUtilizar ferramentas e recursos de IA para apoiar atividades de análise, criação de cenários, testes e ganho de produtividade, quando aplicável.",
+      "work_mode": "remote",
+      "tags": [
+        "😎 Pleno",
+        "💼 CLT",
+        "🌍 100% Remoto"
+      ]
+    },
+    {
+      "id": "165704",
+      "title": "Desenvolvedor Sênior | React Native",
+      "company": "Segware",
+      "location": "Remoto · Brasil",
+      "date": "2026-10-07T16:22:24.107-03:00",
+      "url": "https://segware.gupy.io/job/eyJqb2JJZCI6MTI2ODYxMDAsInNvdXJjZSI6InJlbW90YXIifQ==?jobBoardSource=remotar",
+      "description": "A Segware, líder em soluções de software para centrais de monitoramento, busca um Desenvolvedor Sênior em React Native para impulsionar o crescimento dos clientes e contribuir para um mundo mais seguro. O profissional será responsável por desenvolver soluções de missão crítica, alta disponibilidade e alto desempenho, participando de todas as etapas do ciclo de desenvolvimento de produtos.\nResponsabilidades\nDesenvolver soluções para plataformas de missão crítica, alta disponibilidade e alto desempenho.\nDesenvolver com códigos “clean”, testáveis, eficientes e com boas práticas.\nParticipar de todas as etapas do ciclo de desenvolvimento de produtos.\nGarantir que os projetos estejam em conformidade com as especificações.\nParticipar com outros desenvolvedores no desenvolvimento e solução de problemas.\nInvestigar alternativas e tecnologias e apresentá-las para revisão arquitetônica a fim de apoiar a melhoria contínua.\nManter contato com as últimas tendências em desenvolvimento.\nConduzir o desenvolvimento de features de ponta a ponta em React Native, iOS e Android.\nTomar e sustentar decisões de arquitetura: estrutura de projeto, gerenciamento de estado, camada de dados, estratégia de testes.\nResolver problemas de plataforma: performance, consumo de bateria, execução em background, sincronização offline.\nIntegrar apps com APIs do ecossistema e discutir o contrato quando não atender ao mobile.\nImplementar protótipos com fidelidade ao que foi especificado em UI e comportamento.\nParticipar do handover técnico e da definição de arquitetura junto a produto e tech lead.\nElevar a régua do time: code review com critério, mentoria dos desenvolvedores menos experientes, padrões que sobrevivem à sua ausência.\nAcompanhar o app em produção e atuar na causa raiz, não só no sintoma.",
       "work_mode": "remote",
       "tags": [
         "♿ PcD",
+        "💬 Inglês",
         "🧓🏽 Sênior",
         "💼 CLT",
         "🌍 100% Remoto"
       ]
     },
     {
-      "id": "163564",
-      "title": "Pessoa Desenvolvedora Ruby on Rails - Sênior",
+      "id": "165699",
+      "title": "Pessoa Especialista Desenvolvedora Backend",
+      "company": "YDUQS - Vagas Tech",
+      "location": "Remoto · Brasil",
+      "date": "2026-10-07T16:21:00.425-03:00",
+      "url": "https://yduqstech.gupy.io/job/eyJqb2JJZCI6MTIyMTQ4ODUsInNvdXJjZSI6InJlbW90YXIifQ==?jobBoardSource=remotar",
+      "description": "A YDUQS busca uma Pessoa Especialista Desenvolvedora Backend para atuar no desenvolvimento e manutenção de microsserviços escaláveis e de alta disponibilidade. O profissional trabalhará com tecnologias como Node.js e AWS, garantindo a integração eficiente entre sistemas internos e externos e gerenciando soluções resilientes em ambientes de produção.\nResponsabilidades\nDesenvolver e manter microsserviços escaláveis e de alta disponibilidade utilizando Node.js e AWS.\nGarantir a integração eficiente entre sistemas internos e externos, usando SNS, SQS, Lambda e outras tecnologias relevantes.\nTrabalhar com bancos de dados Oracle, PostgreSQL, MySQL, MongoDB e DynamoDB.\nProjetar, implementar e gerenciar soluções escaláveis e resilientes em ambientes de produção.",
+      "work_mode": "remote",
+      "tags": [
+        "♿ PcD",
+        "💼 CLT",
+        "🌍 100% Remoto"
+      ]
+    },
+    {
+      "id": "165694",
+      "title": "Desenvolvedor Full Stack Java - Sênior",
       "company": "Grupo FCamara",
       "location": "Remoto · Brasil",
-      "date": "2026-09-18T21:04:34.376-03:00",
-      "url": "https://fcamara.gupy.io/job/eyJqb2JJZCI6MTI1MjQyNjIsInNvdXJjZSI6InJlbW90YXIifQ==?jobBoardSource=remotar",
-      "description": "Estamos em busca de uma Pessoa Desenvolvedora Ruby on Rails Sênior para atuar no time de engenharia de um cliente do setor de Health, uma das maiores plataformas de benefícios de saúde, com presença em mais de 2500 cidades no Brasil e México. A empresa possui uma cultura técnica sólida, baixo turnover e forte valorização dos times internos. Você atuará com muita autonomia em um projeto temporário de 2 a 3 meses, com possibilidade de permanência.\nResponsabilidades\nDesenvolver e sustentar APIs RESTful escaláveis e resilientes em Ruby on Rails.\nParticipar de todo o ciclo de desenvolvimento: arquitetura, implementação, testes automatizados, deploy e monitoramento em produção.\nAtuar na evolução do core (monólito) e também em frentes de microsserviços e integrações com parceiros (ex.: ERPs, gateways de pagamento, plataformas externas).\nGarantir qualidade técnica via Code Review, boas práticas de engenharia (Clean Code, SOLID) e padrões do time.\nMonitorar e otimizar performance: APM, tuning de recursos, análise e melhoria de queries.\nTrabalhar em squads multidisciplinares em modelo ágil (Scrum/Kanban), com colaboração próxima entre engenharia e produto.\nNavegar entre contextos (quando necessário) com times e fluxos em TypeScript e mobile, mantendo visão sistêmica.",
+      "date": "2026-10-07T16:19:49.405-03:00",
+      "url": "https://fcamara.gupy.io/job/eyJqb2JJZCI6MTI2OTE3NTMsInNvdXJjZSI6InJlbW90YXIifQ==?jobBoardSource=remotar",
+      "description": "Procuramos um(a) Desenvolvedor(a) Full Stack Sênior especialista e apaixonado(a) por tecnologia para atuar na construção do zero (greenfield) da nossa nova Plataforma de Renda Fixa. O grande diferencial dessa posição é que o processo de desenvolvimento de software será suportado por uma esteira focada em Inteligência Artificial Generativa (utilizando modelos avançados como Google Gemini e Anthropic Claude). Você atuará na linha de frente aplicando IA no ciclo de vida de desenvolvimento de software (SDLC) em Java / IA, otimizando entregas de alta complexidade com máxima velocidade e qualidade.\nResponsabilidades\nDesenvolver componentes de back-end (Java/Spring) e rotinas de front-end para a plataforma de Renda Fixa\nIntegrar ferramentas de IA (Gemini e Claude) à rotina diária de desenvolvimento, para maximizar produtividade e qualidade do código\nEscrever testes unitários e integrados robustos e garantir execuções eficientes nas esteiras de CI/CD\nRevisar pull requests da equipe, garantindo Clean Code, SOLID e padrões de arquitetura\nIdentificar gargalos de performance e propor melhorias contínuas no sistema\nElaborar especificações técnicas e documentação funcional e técnica das entregas no repositório da equipe\nCapacitar o time no uso de automações de processos e novas tecnologias do ecossistema",
       "work_mode": "remote",
       "tags": [
         "♿ PcD",
@@ -274,30 +198,100 @@
       ]
     },
     {
-      "id": "163552",
-      "title": "Desenvolvedor Java SR",
-      "company": "Riachuelo",
+      "id": "165693",
+      "title": "Desenvolvedor Backend",
+      "company": "Grupo FCamara",
       "location": "Remoto · Brasil",
-      "date": "2026-09-18T20:07:21.709-03:00",
-      "url": "https://riachuelo.inhire.app/vagas/40d35cd0-fd82-4fa6-b907-fd101b7111f5/desenvolvedor-java-sr",
-      "description": "A Riachuelo está em busca de um Analista de Sistemas Sênior para atuar no time de TI, focado em Relacionamento com Cliente, Cobrança e Controles - Projetos. O profissional será responsável por contribuir com o desenvolvimento Java, utilizando Spring Boot/Spring Batch, e impulsionar a moda no Brasil.\nResponsabilidades\nDesenvolvimento Java com uso de Spring Boot/Spring Batch;\nDesign e implementação de APIs RESTful;\nTestes unitários, integrados e de performance;\nArquitetura de sistemas distribuídos;\nProtagonismo técnico;\nBoa comunicação e colaboração com outras áreas;\nClareza na documentação e raciocínio técnico;\nPostura investigativa e foco em melhoria contínua.",
+      "date": "2026-10-07T16:19:34.907-03:00",
+      "url": "https://fcamara.gupy.io/job/eyJqb2JJZCI6MTI2OTE2MjksInNvdXJjZSI6InJlbW90YXIifQ==?jobBoardSource=remotar",
+      "description": "Buscamos um(a) Desenvolvedor Backend para atuar em um squad multidisciplinar responsável pela construção de um novo produto digital vinculado a um cliente do segmento financeiro. O profissional será responsável pelo desenvolvimento dos serviços, APIs, regras de negócio e integrações que suportarão as aplicações mobile iOS e Android, incluindo a implementação da arquitetura necessária para suportar o conceito de Server-Driven UI (SDUI).\nResponsabilidades\nDesenvolver e evoluir serviços backend responsáveis pelo produto.\nConstruir APIs escaláveis, seguras e de alta disponibilidade para consumo pelas aplicações mobile.\nImplementar regras de negócio relacionadas a funcionalidades do produto.\nImplementar serviços responsáveis por fornecer configurações e estruturas necessárias para a estratégia de Server-Driven UI.\nDefinir e evoluir contratos entre backend e aplicações mobile.\nDesenvolver serviços seguindo princípios de arquitetura modular e desacoplada.\nImplementar integrações com serviços e plataformas existentes no ecossistema do cliente.\nDesenvolver mecanismos de autenticação, autorização e controle de acesso.\nImplementar tratamento de concorrência, idempotência e consistência das operações.\nGarantir rastreabilidade das operações realizadas pelos usuários.\nImplementar tratamento adequado de erros, exceções e indisponibilidades.\nCriar testes unitários, testes de integração e apoiar testes automatizados.\nParticipar de code reviews e definição de padrões de desenvolvimento.\nApoiar estratégias de observabilidade utilizando logs estruturados, métricas e distributed tracing.\nTrabalhar em conjunto com Arquitetura, Mobile, QA, Product Owner e Squad Leader.\nApoiar análise de performance, troubleshooting e melhoria contínua dos serviços.",
       "work_mode": "remote",
       "tags": [
-        "🧓🏽 Sênior",
         "🌍 100% Remoto"
       ]
     },
     {
-      "id": "163543",
-      "title": "Staff Software Engineer",
-      "company": "Rehva Tech",
+      "id": "165692",
+      "title": "Desenvolvedor Backend",
+      "company": "Grupo FCamara",
       "location": "Remoto · Brasil",
-      "date": "2026-09-18T17:04:14.434-03:00",
-      "url": "https://jobs.recrutei.com.br/rehva-tech/vacancy/158618-staff-software-engineer?utm_source=remotar",
-      "description": "A Rehva Tech busca um(a) Staff Software Engineer com forte atuação hands-on e visão arquitetural para desenhar soluções escaláveis em ambientes cloud, microsserviços e inovação em produtos de educação.\nResponsabilidades\nGarantir a qualidade das entregas através de testes automatizados e observabilidade através de instrumentação do código.\nDesenvolver sistemas (soluções simples, rápidas, seguras, escaláveis, mensuráveis, resilientes e que serão lembradas).\nAtuar ativamente em discussões e decisões do produto ajudando no direcionamento técnico.\nGarantir a simplicidade, eficiência, manutenibilidade e reaproveitamento de código.\nPropor melhorias, novas tecnologias e novas arquiteturas para as aplicações.\nAtuar ativamente na disseminação da cultura de engenharia.\nRefinar problemas complexos, propondo soluções simples, escaláveis e que gerem impacto para o negócio.\nEntregar código com valor agregado, constantemente e com facilidade.\nDesenhar soluções de forma simples e comunicar com eficiência os principais aspectos da proposta e porquê é relevante.\nGarantir documentação de aplicações e decisões arquiteturais.\nAjudar pessoas desenvolvedoras com menos experiência a encontrar soluções de problemas mais complexos, por vezes, quebrando em partes menores.\nParticipar ativamente de todo o processo de desenvolvimento, discovery e delivery, interagindo com os times necessários.\nApoiar em decisões de reestruturação e/ou criação de novos times, tendo em vista as necessidades do negócio, bem como a estratégia arquitetura.",
+      "date": "2026-10-07T16:19:18.283-03:00",
+      "url": "https://fcamara.gupy.io/job/eyJqb2JJZCI6MTI2OTE3MTEsInNvdXJjZSI6InJlbW90YXIifQ==?jobBoardSource=remotar",
+      "description": "Buscamos um Desenvolvedor Backend para atuar em um squad multidisciplinar responsável pela construção de um novo produto digital vinculado a um cliente do segmento financeiro. O profissional será responsável pelo desenvolvimento dos serviços, APIs, regras de negócio e integrações que suportarão as aplicações mobile iOS e Android, incluindo a implementação da arquitetura necessária para suportar o conceito de Server-Driven UI (SDUI).\nResponsabilidades\nDesenvolver e evoluir serviços backend responsáveis pelo produto.\nConstruir APIs escaláveis, seguras e de alta disponibilidade para consumo pelas aplicações mobile.\nImplementar regras de negócio relacionadas a funcionalidades do produto.\nImplementar serviços responsáveis por fornecer configurações e estruturas necessárias para a estratégia de Server-Driven UI.\nDefinir e evoluir contratos entre backend e aplicações mobile.\nDesenvolver serviços seguindo princípios de arquitetura modular e desacoplada.\nImplementar integrações com serviços e plataformas existentes no ecossistema do cliente.\nDesenvolver mecanismos de autenticação, autorização e controle de acesso.\nImplementar tratamento de concorrência, idempotência e consistência das operações.\nGarantir rastreabilidade das operações realizadas pelos usuários.\nImplementar tratamento adequado de erros, exceções e indisponibilidades.\nCriar testes unitários, testes de integração e apoiar testes automatizados.\nParticipar de code reviews e definição de padrões de desenvolvimento.\nApoiar estratégias de observabilidade utilizando logs estruturados, métricas e distributed tracing.\nTrabalhar em conjunto com Arquitetura, Mobile, QA, Product Owner e Squad Leader.\nApoiar análise de performance, troubleshooting e melhoria contínua dos serviços.",
       "work_mode": "remote",
       "tags": [
+        "🌍 100% Remoto"
+      ]
+    },
+    {
+      "id": "165691",
+      "title": "Desenvolvedor Full Stack Java - Sênior",
+      "company": "Grupo FCamara",
+      "location": "Remoto · Brasil",
+      "date": "2026-10-07T16:19:02.950-03:00",
+      "url": "https://fcamara.gupy.io/job/eyJqb2JJZCI6MTI2OTIxOTIsInNvdXJjZSI6InJlbW90YXIifQ==?jobBoardSource=remotar",
+      "description": "A FCamara busca uma pessoa Desenvolvedora Full Stack Sênior, especialista e apaixonada por tecnologia, para atuar na construção do Squad Regulatórios da Bullla. A pessoa será responsável por aprender o legado e construir novas soluções, extraindo requisitos diretamente da área de negócio.\nResponsabilidades\nAtuar como desenvolvedor sênior e autônomo no Squad de Regulatórios da Bullla.\nAprender o legado e construir novas funcionalidades.\nExtrair requisitos da área de negócio sem documentação formal.\nInvestigar e analisar a fundo, trazendo análise técnica para discussões de arquitetura.\nManter o board atualizado e engajar o time para isso.\nPropor melhorias, não apenas atender chamados.\nComunicar-se de forma clara, inclusive para sinalizar urgência a tempo.\nAliviar os líderes em vez de criar dependência.\nAtuar como referência técnica, trazendo trade-offs, decompondo entregas e dando direção ao time.",
+      "work_mode": "remote",
+      "tags": [
+        "♿ PcD",
+        "🧓🏽 Sênior",
         "💼 CLT",
+        "🌍 100% Remoto"
+      ]
+    },
+    {
+      "id": "165690",
+      "title": "Analista de testes/QA",
+      "company": "Grupo FCamara",
+      "location": "Remoto · Brasil",
+      "date": "2026-10-07T16:18:49.984-03:00",
+      "url": "https://fcamara.gupy.io/job/eyJqb2JJZCI6MTI2OTE3MzcsInNvdXJjZSI6InJlbW90YXIifQ==?jobBoardSource=remotar",
+      "description": "Buscamos um(a) Analista de Testes/QA para atuar em um squad multidisciplinar responsável pela construção de um novo produto digital vinculado a um cliente do segmento financeiro. O profissional será responsável por garantir a qualidade funcional e técnica da solução, atuando de forma integrada com Product Owner, Squad Leader, Arquitetura, desenvolvedores Mobile e Backend durante todo o ciclo de desenvolvimento. O projeto contempla aplicações nativas iOS/Swift e Android/Kotlin, serviços Backend/APIs, arquitetura modular e utilização de Server-Driven UI (SDUI), exigindo uma estratégia de qualidade que considere toda a jornada ponta a ponta.\nResponsabilidades\nDefinir e executar a estratégia de testes do produto.\nParticipar dos refinamentos de histórias junto ao Product Owner e ao time de desenvolvimento.\nAnalisar requisitos, histórias de usuário e critérios de aceite, identificando antecipadamente cenários, riscos e gaps de qualidade.\nElaborar planos, cenários, casos e evidências de testes.\nExecutar testes funcionais, regressivos, exploratórios, integração e End-to-End.\nValidar jornadas completas envolvendo aplicações Mobile, APIs, Backend e integrações.\nRealizar testes das aplicações nativas iOS e Android, considerando diferentes versões de sistemas operacionais e dispositivos.\nValidar funcionalidades relacionadas à criação de grupos, inclusão de participantes, lançamento de despesas, divisão/rateio de valores, saldos e demais jornadas do produto.\nValidar regras de negócio.\nRealizar testes de APIs e serviços Backend.\nValidar contratos, payloads, códigos de retorno, tratamento de exceções e regras de negócio das APIs.\nCriar e manter testes automatizados para jornadas críticas do produto.\nApoiar a implementação de testes automatizados dentro dos pipelines de CI/CD.\nIdentificar, registrar, acompanhar e apoiar a análise de defeitos.\nTrabalhar junto aos desenvolvedores na identificação de causa raiz de problemas.\nApoiar testes de performance, segurança, resiliência e disponibilidade.\nAcompanhar indicadores de qualidade e contribuir para a melhoria contínua do processo de desenvolvimento.",
+      "work_mode": "remote",
+      "tags": [
+        "♿ PcD",
+        "🌍 100% Remoto"
+      ]
+    },
+    {
+      "id": "165688",
+      "title": "Desenvolvedor Full Stack Java - Júnior",
+      "company": "Grupo FCamara",
+      "location": "Remoto · Brasil",
+      "date": "2026-10-07T16:18:21.693-03:00",
+      "url": "https://fcamara.gupy.io/job/eyJqb2JJZCI6MTI2OTIwNTYsInNvdXJjZSI6InJlbW90YXIifQ==?jobBoardSource=remotar",
+      "description": "Procuramos um(a) Desenvolvedor(a) Full Stack Júnior entusiasmado(a), curioso(a) e com muita sede de aprender para integrar o time responsável pela construção do zero (greenfield) da nossa nova Plataforma de Renda Fixa. No Bullla, o desenvolvimento de software é impulsionado por uma esteira de Inteligência Artificial Generativa (utilizando assistentes como Google Gemini e Anthropic Claude). Você terá a oportunidade de acelerar seu aprendizado e evolução profissional trabalhando lado a lado com Tech Leads e desenvolvedores Sêniores, utilizando IA para construção de código Java, testes e automação de processos desde o primeiro dia.\nResponsabilidades\nAuxiliar no desenvolvimento de APIs RESTful em Java/Spring Boot e de interfaces modernas de usuário\nAprender e aplicar ferramentas de IA (Gemini e Claude) na rotina diária de codificação, para otimizar tempo e qualidade das tarefas\nEscrever e manter testes automatizados (unitários) sob orientação de engenheiros sêniores\nAcompanhar correções de pull requests e aplicar os conceitos de Clean Code e SOLID sugeridos pelo time\nDocumentar fluxos funcionais, rotas de APIs e instruções de ambiente no repositório do projeto\nParticipar ativamente dos rituais ágeis (dailies, plannings, reviews e retrospectivas)",
+      "work_mode": "remote",
+      "tags": [
+        "♿ PcD",
+        "🐥 Júnior",
+        "💼 CLT",
+        "🌍 100% Remoto"
+      ]
+    },
+    {
+      "id": "165687",
+      "title": "Desenvolvedor Mobile Frontend Android",
+      "company": "Grupo FCamara",
+      "location": "Remoto · Brasil",
+      "date": "2026-10-07T16:18:08.349-03:00",
+      "url": "https://fcamara.gupy.io/job/eyJqb2JJZCI6MTI2OTE0NzUsInNvdXJjZSI6InJlbW90YXIifQ==?jobBoardSource=remotar",
+      "description": "Buscamos um(a) Desenvolvedor Mobile Front para atuar em um squad multidisciplinar responsável pela construção de um novo produto digital vinculado a um cliente do segmento financeiro. O profissional atuará no desenvolvimento das experiências mobile utilizando tecnologias nativas Android (Kotlin), dentro de uma arquitetura modular e com adoção de Server-Driven UI (SDUI).\nResponsabilidades\nDesenvolver e evoluir funcionalidades mobile integradas aos demais aplicativos do cliente.\nAtuar no desenvolvimento nativo para Android utilizando Kotlin.\nImplementar interfaces responsivas, fluidas e aderentes aos padrões de UX/UI definidos para o produto.\nDesenvolver componentes reutilizáveis dentro de uma arquitetura modular e plugável.\nImplementar componentes e jornadas utilizando conceitos de Server-Driven UI.\nInterpretar configurações e contratos enviados pelo backend para renderização dinâmica das interfaces.\nIntegrar aplicações mobile com APIs e serviços backend.\nTrabalhar com estados, cache, persistência local e sincronização de informações.\nImplementar tratamento de erros, indisponibilidade de serviços e cenários de conectividade.\nGarantir performance, estabilidade e fluidez das jornadas.\nImplementar práticas de segurança no desenvolvimento mobile, considerando o contexto de uma instituição financeira.\nDesenvolver testes unitários, testes de integração e apoiar estratégias de testes automatizados.\nParticipar de code reviews e definição de padrões técnicos.\nTrabalhar em conjunto com Backend, Arquitetura, QA, Product Owner e UX/UI.\nApoiar a evolução contínua da arquitetura mobile e dos componentes compartilhados.\nApoiar estratégias de observabilidade, monitoramento e análise de falhas das aplicações.",
+      "work_mode": "remote",
+      "tags": [
+        "🌍 100% Remoto"
+      ]
+    },
+    {
+      "id": "165685",
+      "title": "Desenvolvedor Mobile Frontend IOS",
+      "company": "Grupo FCamara",
+      "location": "Remoto · Brasil",
+      "date": "2026-10-07T16:17:37.959-03:00",
+      "url": "https://fcamara.gupy.io/job/eyJqb2JJZCI6MTI2OTE1OTYsInNvdXJjZSI6InJlbW90YXIifQ==?jobBoardSource=remotar",
+      "description": "Buscamos um(a) Desenvolvedor Mobile Front para atuar em um squad multidisciplinar responsável pela construção de um novo produto digital vinculado a um cliente do segmento financeiro. O profissional atuará no desenvolvimento das experiências mobile utilizando tecnologias nativas iOS (Swift), dentro de uma arquitetura modular e com adoção de Server-Driven UI (SDUI).\nResponsabilidades\nDesenvolver e evoluir funcionalidades mobile integradas aos demais aplicativos do cliente.\nAtuar no desenvolvimento nativo para iOS utilizando Swift.\nImplementar interfaces responsivas, fluidas e aderentes aos padrões de UX/UI definidos para o produto.\nDesenvolver componentes reutilizáveis dentro de uma arquitetura modular e plugável.\nImplementar componentes e jornadas utilizando conceitos de Server-Driven UI.\nInterpretar configurações e contratos enviados pelo backend para renderização dinâmica das interfaces.\nIntegrar aplicações mobile com APIs e serviços backend.\nTrabalhar com estados, cache, persistência local e sincronização de informações.\nImplementar tratamento de erros, indisponibilidade de serviços e cenários de conectividade.\nGarantir performance, estabilidade e fluidez das jornadas.\nImplementar práticas de segurança no desenvolvimento mobile, considerando o contexto de uma instituição financeira.\nDesenvolver testes unitários, testes de integração e apoiar estratégias de testes automatizados.\nParticipar de code reviews e definição de padrões técnicos.\nTrabalhar em conjunto com Backend, Arquitetura, QA, Product Owner e UX/UI.\nApoiar a evolução contínua da arquitetura mobile e dos componentes compartilhados.\nApoiar estratégias de observabilidade, monitoramento e análise de falhas das aplicações.",
+      "work_mode": "remote",
+      "tags": [
         "🌍 100% Remoto"
       ]
     }

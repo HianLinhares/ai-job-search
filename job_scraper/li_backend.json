@@ -5,58 +5,85 @@
   },
   "results": [
     {
-      "id": "4464908382",
-      "title": "Java Backend Engineer (AWS) - Remote Work | REF#303952",
+      "id": "4463136094",
+      "title": "Java Backend Software Engineer",
+      "company": "Jitterbit",
+      "companyUrl": "https://www.linkedin.com/company/jitterbit",
+      "location": "São Paulo, São Paulo, Brazil",
+      "date": "2026-09-25",
+      "url": "https://br.linkedin.com/jobs/view/java-backend-software-engineer-at-jitterbit-4463136094"
+    },
+    {
+      "id": "4462082197",
+      "title": "Java Backend Engineer (AWS) - Remote Work | REF#302839",
       "company": "BairesDev",
       "companyUrl": "https://www.linkedin.com/company/bairesdev",
-      "location": "Greater Rio de Janeiro",
-      "date": "2026-09-08",
-      "url": "https://br.linkedin.com/jobs/view/java-backend-engineer-aws-remote-work-ref%23303952-at-bairesdev-4464908382"
+      "location": "Minas Gerais, Brazil",
+      "date": "2026-10-01",
+      "url": "https://br.linkedin.com/jobs/view/java-backend-engineer-aws-remote-work-ref%23302839-at-bairesdev-4462082197"
     },
     {
-      "id": "4464693756",
-      "title": "Backend Engineer (.NET) - Remote Work | REF#303379",
+      "id": "4474345823",
+      "title": "Senior Backend Software Engineer – Python - Remote Work | REF#305511",
       "company": "BairesDev",
       "companyUrl": "https://www.linkedin.com/company/bairesdev",
       "location": "São Paulo, São Paulo, Brazil",
-      "date": "2026-09-08",
-      "url": "https://br.linkedin.com/jobs/view/backend-engineer-net-remote-work-ref%23303379-at-bairesdev-4464693756"
+      "date": "2026-10-01",
+      "url": "https://br.linkedin.com/jobs/view/senior-backend-software-engineer-%E2%80%93-python-remote-work-ref%23305511-at-bairesdev-4474345823"
     },
     {
-      "id": "4463577518",
-      "title": "Desenvolvedor(a) Back-end Sênior – PHP / Laravel",
-      "company": "IEBT Innovation",
-      "companyUrl": "https://br.linkedin.com/company/iebt",
-      "location": "Greater Belo Horizonte",
-      "date": "2026-09-09",
-      "url": "https://br.linkedin.com/jobs/view/desenvolvedor-a-back-end-s%C3%AAnior-%E2%80%93-php-laravel-at-iebt-innovation-4463577518"
-    },
-    {
-      "id": "4468208144",
-      "title": "Middle/Senior Java Developer",
-      "company": "Devexperts",
-      "companyUrl": "https://ie.linkedin.com/company/devexperts",
+      "id": "4453255702",
+      "title": "Desenvolvedor(a) Backend Java Microserviços + AWS – Inglês Avançado",
+      "company": "Accenture Brasil",
+      "companyUrl": "https://br.linkedin.com/company/accenturebrasil",
       "location": "São Paulo, São Paulo, Brazil",
-      "date": "2026-09-16",
-      "url": "https://br.linkedin.com/jobs/view/middle-senior-java-developer-at-devexperts-4468208144"
+      "date": "2026-09-25",
+      "url": "https://br.linkedin.com/jobs/view/desenvolvedor-a-backend-java-microservi%C3%A7os-%2B-aws-%E2%80%93-ingl%C3%AAs-avan%C3%A7ado-at-accenture-brasil-4453255702"
     },
     {
-      "id": "4467761332",
-      "title": "Desenvolvedor Backend",
-      "company": "Jobbol",
-      "companyUrl": "https://br.linkedin.com/company/jobbol-empregos",
-      "location": "São Paulo, São Paulo, Brazil",
-      "date": "2026-09-15",
-      "url": "https://br.linkedin.com/jobs/view/desenvolvedor-backend-at-jobbol-4467761332"
+      "id": "4471564911",
+      "title": "Desenvolvedor(a) Back-end (Java)",
+      "company": "VAAS",
+      "companyUrl": "https://br.linkedin.com/company/vaas-live",
+      "location": "Florianópolis, Santa Catarina, Brazil",
+      "date": "2026-09-28",
+      "url": "https://br.linkedin.com/jobs/view/desenvolvedor-a-back-end-java-at-vaas-4471564911"
     },
     {
-      "id": "4462565194",
-      "title": "SOFTWARE DEVELOPER SENIOR - .NET (REMOTO)",
-      "company": "Localiza&Co",
-      "companyUrl": "https://br.linkedin.com/company/localizaco",
+      "id": "4436321594",
+      "title": "SENIOR SOFTWARE DEVELOPER -BACK END",
+      "company": "Inter",
+      "companyUrl": "https://br.linkedin.com/company/inter",
       "location": "Belo Horizonte, Minas Gerais, Brazil",
-      "date": "2026-09-08",
-      "url": "https://br.linkedin.com/jobs/view/software-developer-senior-net-remoto-at-localiza-co-4462565194"
+      "date": "2026-09-24",
+      "url": "https://br.linkedin.com/jobs/view/senior-software-developer-back-end-at-inter-4436321594"
+    },
+    {
+      "id": "4472031142",
+      "title": "Senior Software Engineer - Payments & Treasury",
+      "company": "Alpaca",
+      "companyUrl": "https://www.linkedin.com/company/alpacamarkets",
+      "location": "São Paulo, São Paulo, Brazil",
+      "date": "2026-09-25",
+      "url": "https://br.linkedin.com/jobs/view/senior-software-engineer-payments-treasury-at-alpaca-4472031142"
+    },
+    {
+      "id": "4471762593",
+      "title": "Software Engineer Backend - B2B IT",
+      "company": "Mercado Livre Brasil",
+      "companyUrl": "https://br.linkedin.com/company/mercadolivre-com",
+      "location": "Osasco, São Paulo, Brazil",
+      "date": "2026-09-29",
+      "url": "https://br.linkedin.com/jobs/view/software-engineer-backend-b2b-it-at-mercado-livre-brasil-4471762593"
+    },
+    {
+      "id": "4475702758",
+      "title": "Desenvolvedor Back-end Pl | .NET",
+      "company": "Webmotors",
+      "companyUrl": "https://www.linkedin.com/company/webmotors",
+      "location": "São Paulo, São Paulo, Brazil",
+      "date": "2026-10-07",
+      "url": "https://br.linkedin.com/jobs/view/desenvolvedor-back-end-pl-net-at-webmotors-4475702758"
     },
     {
       "id": "4343579284",
@@ -64,35 +91,8 @@
       "company": "Agibank",
       "companyUrl": "https://br.linkedin.com/company/agibank",
       "location": "Campinas, São Paulo, Brazil",
-      "date": "2026-09-15",
+      "date": "2026-10-07",
       "url": "https://br.linkedin.com/jobs/view/senior-backend-software-engineer-campinas-sp-at-agibank-4343579284"
-    },
-    {
-      "id": "4466998359",
-      "title": "Desenvolvedor Back End Sênior",
-      "company": "ProcessMind",
-      "companyUrl": "https://br.linkedin.com/company/processmind",
-      "location": "São Paulo, São Paulo, Brazil",
-      "date": "2026-09-19",
-      "url": "https://br.linkedin.com/jobs/view/desenvolvedor-back-end-s%C3%AAnior-at-processmind-4466998359"
-    },
-    {
-      "id": "4468139720",
-      "title": "Pessoa Engenheira de Software Backend",
-      "company": "Tivita",
-      "companyUrl": "https://br.linkedin.com/company/tivita",
-      "location": "São Paulo, São Paulo, Brazil",
-      "date": "2026-09-21",
-      "url": "https://br.linkedin.com/jobs/view/pessoa-engenheira-de-software-backend-at-tivita-4468139720"
-    },
-    {
-      "id": "4469235445",
-      "title": "Desenvolvedor Backend .NET Sênior",
-      "company": "Jobbol",
-      "companyUrl": "https://br.linkedin.com/company/jobbol-empregos",
-      "location": "São Paulo, São Paulo, Brazil",
-      "date": "2026-09-18",
-      "url": "https://br.linkedin.com/jobs/view/desenvolvedor-backend-net-s%C3%AAnior-at-jobbol-4469235445"
     }
   ]
 }
